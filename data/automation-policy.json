@@ -1,0 +1,10 @@
+{
+  "maxNewItemsPerDay": 50,
+  "maxCandidatesPerDay": 150,
+  "maxPromotionRechecksPerDay": 50,
+  "maxFreeRechecksPerDay": 20,
+  "importBatchSize": 5,
+  "maxIndexPages": 20,
+  "maxRunMinutes": 60,
+  "maxArchiveDownloadMegabytes": 500
+}

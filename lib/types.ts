@@ -109,6 +109,15 @@ export type Promotion = Omit<
   licenseTier: string | null;
   priceNote: string;
   preview: string | null;
+  /** Public publisher-hosted preview; not a license to copy the asset pack. */
+  publisherPreview?: {
+    url: string;
+    sourceUrl: string;
+    alt: string;
+    credit: string;
+    checkedAt: string;
+    note: string;
+  };
   thumbnailPermission: {
     permissionUrl: string;
     license: string;

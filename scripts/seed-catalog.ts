@@ -13,6 +13,7 @@ import { canonicalUrl } from "../lib/catalog-utils";
 import { validateCatalog } from "../lib/catalog-schema";
 import { fetchPermitted } from "./source-policy";
 import { readKenneyEvidence } from "./verification";
+import policy from "../data/automation-policy.json";
 
 const sha = (data: string | Uint8Array) =>
   createHash("sha256").update(data).digest("hex");
@@ -46,7 +47,7 @@ async function seed() {
         })
         .strict(),
     )
-    .max(input ? 5 : 100)
+    .max(input ? policy.importBatchSize : 100)
     .parse(input ? JSON.parse(await readFile(input, "utf8")) : defaultSeeds);
   let catalog: Asset[] = [];
   try {

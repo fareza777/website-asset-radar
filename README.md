@@ -32,7 +32,7 @@ The exported site is in `out/`; the local static preview listens on port 3001. V
 - Free Today with verified zero prices, license tiers and known-expiry countdowns; Deals Radar with real prices, discounts and marketplace ratings when available.
 - Transparent Radar Score, commercial-use notes, and automatic expiry/stale-evidence protection. The homepage keeps free assets at its core while highlighting a few reviewed promotions.
 - Canonical URLs, metadata, social previews, structured data, sitemap, and robots rules.
-- Original audio samples load only when played; licensed previews are local optimized WebP files. Promotions without image-reuse permission use an original editorial cover and link to publisher previews.
+- Original audio samples load only when played; licensed free previews are local optimized WebP files. Promotions prefer real publisher-hosted screenshots with creator credit and a fallback; audio without useful art keeps an original animated cover. Publisher marketing art and premium packs are not rehosted.
 
 The library contains **82 CC0 assets: 79 from Kenney and 3 texture materials from Poly Haven**. The 58 additional Kenney packs were verified on 9 October 2026 in Asia/Jakarta. Together with 3 limited-free offers and 6 deals, the directory grew from 29 to 91 entries. [Provenance and licensing](docs/catalog-provenance.md) explains the evidence and preview permissions. Catalog metadata is in `data/assets.json`; evidence is in `data/evidence/`. Publisher-listed file counts are preserved where available. “Latest” means added to AssetRadar, not the asset's original release date. Genre placement is editorial. Engine filters describe supported file formats; engine setup may be required.
 
@@ -41,8 +41,8 @@ The library contains **82 CC0 assets: 79 from Kenney and 3 texture materials fro
 ```sh
 npm run catalog:validate          # Schema, dates, deduplication, media, and evidence
 npm run catalog:check             # Read-only live source/license/download checks
-npm run catalog:discover          # Candidates only; no catalog mutation
-npm run catalog:check -- --limit=5 --write
+npm run catalog:discover -- --limit=150 # Candidates only; no catalog mutation
+npm run catalog:check -- --limit=20 --write
 ```
 
 Requests use the explicit allowlist in `scripts/source-policy.ts`, source robots rules where applicable, an identifying User-Agent, and pacing. Discovery and check reports are written to the ignored `.cache/` directory. An unavailable or ambiguous source fails verification; no failed check is stamped as current.
@@ -54,7 +54,7 @@ npx tsx scripts/seed-catalog.ts --input=.cache/kenney-imports.json
 npx tsx scripts/seed-polyhaven.ts --input=.cache/polyhaven-imports.json
 ```
 
-Importers retain existing entries and verification dates, verify new source evidence, and generate previews from permitted asset files. They never overwrite the catalog with an initial seed. See [the daily Cursor Automation setup](docs/automation.md) for descriptor formats, limits, the ready-to-paste prompt, and draft PR publishing.
+Importers retain existing entries and verification dates, verify new source evidence, and generate previews from permitted asset files. They never overwrite the catalog with an initial seed. Each import batch stays at five descriptors. The prepared daily workflow can add **up to 50 genuinely verified new items per day** across all catalog types, inspect 150 candidates, and recheck 50 promotions plus 20 old free entries, subject to time/download/source limits. This is a project ceiling, not a Cursor guarantee. Start with [the Indonesian Cursor guide](docs/cursor-daily-guide.md), [the ready-to-paste prompt](.cursor/automations/daily-assets.md), and [technical automation details](docs/automation.md).
 
 Promotion data lives in `data/offers.json` with matching first-party price/license evidence in `data/offer-evidence/`. The initial 3 limited-free Fab packs and 2 itch.io deals were checked on 8 October 2026 at 16:41 UTC; four additional itch.io deals were checked at 21:25–21:26 UTC (9 October in Jakarta). Prices retain the actually displayed currency and license tier; there are no invented USD conversions or end dates. These records naturally become inactive without a new check within 48 hours.
 

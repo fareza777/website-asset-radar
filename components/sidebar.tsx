@@ -9,7 +9,6 @@ import {
   Heart as HeartIcon,
   Stack as StackIcon,
   ArrowUpRight as ArrowUpRightIcon,
-  GithubLogo as GithubLogoIcon,
   Pause as PauseIcon,
   Play as PlayIcon,
   List as ListIcon,
@@ -281,15 +280,6 @@ export function Sidebar({
               Meet AssetRadar <ArrowUpRightIcon size={15} />
             </span>
           </Link>
-          <a
-            className="sidebar-github"
-            href="https://github.com/fareza777/website-asset-radar"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <GithubLogoIcon size={18} /> Built in the open{" "}
-            <ArrowUpRightIcon size={13} />
-          </a>
         </div>
       </aside>
       <header className="topbar">

@@ -112,7 +112,9 @@ export default function Licenses() {
           AssetRadar links you to the original source for downloads. Preview
           provenance is stored in the catalog. We do not copy paid packs,
           restricted artwork, creator logos, or website example renders without
-          permission.
+          permission. Free-asset previews come from licensed files. Promotion
+          screenshots link to publisher galleries with creator credit; audio and
+          missing images use original illustrations.
         </p>
         <p>
           Daily discovery proposes changes through a reviewable pull request.

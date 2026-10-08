@@ -56,9 +56,7 @@ export function MotionProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     const root = document.documentElement;
     root.dataset.motionEnabled = String(state === "enabled");
-    const surfaces = [
-      ...document.querySelectorAll<HTMLElement>(".motion-surface"),
-    ];
+    const surfaces = new Set<HTMLElement>();
     const visible = new Set<HTMLElement>();
     const update = () =>
       surfaces.forEach((surface) => {
@@ -77,10 +75,42 @@ export function MotionProvider({ children }: { children: React.ReactNode }) {
       },
       { threshold: 0.05 },
     );
-    surfaces.forEach((surface) => observer.observe(surface));
+    const syncSurfaces = () => {
+      const current = new Set(
+        document.querySelectorAll<HTMLElement>(".motion-surface"),
+      );
+      surfaces.forEach((surface) => {
+        if (!current.has(surface)) {
+          observer.unobserve(surface);
+          visible.delete(surface);
+          surfaces.delete(surface);
+        }
+      });
+      current.forEach((surface) => {
+        if (!surfaces.has(surface)) {
+          surfaces.add(surface);
+          observer.observe(surface);
+        }
+      });
+      update();
+    };
+    const mutations = new MutationObserver((records) => {
+      const changed = records.some((record) =>
+        [...record.addedNodes, ...record.removedNodes].some(
+          (node) =>
+            node instanceof Element &&
+            (node.matches(".motion-surface") ||
+              node.querySelector(".motion-surface")),
+        ),
+      );
+      if (changed) syncSurfaces();
+    });
+    syncSurfaces();
+    mutations.observe(root, { childList: true, subtree: true });
     document.addEventListener("visibilitychange", update);
     return () => {
       observer.disconnect();
+      mutations.disconnect();
       document.removeEventListener("visibilitychange", update);
       surfaces.forEach((surface) => {
         surface.dataset.motion = "paused";

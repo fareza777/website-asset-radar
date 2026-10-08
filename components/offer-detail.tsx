@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import {
   ArrowLeft,
@@ -10,7 +9,7 @@ import type { Promotion } from "@/lib/types";
 import { formatDate } from "@/lib/catalog-utils";
 import { scoreBreakdown } from "@/lib/offer-utils";
 import { jsonLd, siteUrl } from "@/lib/site";
-import { EditorialCover } from "./offer-card";
+import { OfferPreview } from "./offer-preview";
 import { OfferAvailability } from "./offer-availability";
 import { FavoriteButton } from "./favorite-button";
 import { CollectionPicker } from "./collection-picker";
@@ -48,24 +47,7 @@ export function OfferDetail({ asset }: { asset: Promotion }) {
       </Link>
       <div className="asset-detail">
         <div className="asset-detail-media">
-          {asset.preview ? (
-            <Image
-              src={asset.preview}
-              alt={`${asset.title} authorized thumbnail`}
-              width={800}
-              height={450}
-              priority
-            />
-          ) : (
-            <EditorialCover asset={asset} />
-          )}
-          <div className="preview-credit">
-            <span>
-              {asset.preview
-                ? `Thumbnail: ${asset.thumbnailPermission!.license}`
-                : "Original editorial cover. Product artwork is available at the source."}
-            </span>
-          </div>
+          <OfferPreview asset={asset} priority showCaption />
           <a
             href={asset.sourceUrl}
             target="_blank"

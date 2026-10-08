@@ -8,7 +8,7 @@ Open [Cursor Automations](https://cursor.com/automations), create an automation,
 
 Paste the complete contents of [the automation prompt](../.cursor/automations/daily-assets.md). Use the repository's Node.js 24 environment and install command `npm ci`. Enable PR creation; GitHub CLI access is needed only when using the optional helper. The native PR tool can be used when shell GitHub authentication is unavailable. Save and activate, then run once manually and inspect its draft PR before leaving the schedule enabled.
 
-Cursor supports scheduled cloud-agent automations, repository selection, and PR creation. Runs consume Cursor cloud-agent usage; the website itself needs no paid backend. These setup details follow [Cursor's official automation documentation](https://cursor.com/docs/cloud-agent/automations). Keep the run bounded: inspect at most 10 candidates, add at most 5 items total, and recheck at most 10 promotions plus 5 permanent-free records. The expanded catalog currently has nine promotions, so all can be checked within one daily run.
+Cursor supports scheduled cloud-agent automations, repository selection, and PR creation. Runs consume Cursor cloud-agent usage; the website itself needs no paid backend. These setup details follow [Cursor's official automation documentation](https://cursor.com/docs/cloud-agent/automations). The [Indonesian setup/run guide](cursor-daily-guide.md) explains the higher-throughput workflow and review process. Project ceilings in `data/automation-policy.json` allow up to 150 candidate inspections and 50 new verified items per Jakarta day, 50 promotion rechecks and 20 free rechecks, within 60 minutes and 500 MB of new archives. These are project processing limits, not Cursor product limits or guaranteed output. The agent must track time/downloads and reserve 10 minutes for checks and its PR.
 
 ## Permitted permanent-free sources
 
@@ -18,7 +18,7 @@ Kenney: inspect its asset index, the pack's own License field, and first-party a
 
 ## Commands and import descriptors
 
-`npm run catalog:discover` writes unique candidate evidence to `.cache/discovery-report.json`. It never changes the catalog. Inspect candidate files before choosing categories or writing concise factual summaries.
+`npm run catalog:discover -- --limit=150` writes unique candidate evidence to `.cache/discovery-report.json`. It never changes the catalog. The limit can be reduced to any positive integer up to the policy ceiling. Discovery follows observed Kenney product/pagination links, stops after 20 index pages, and uses Poly Haven's public texture API. It does not invent pagination URLs or claim that metadata candidates have passed archive/license inspection. Inspect candidate files before choosing categories or writing concise factual summaries.
 
 Kenney descriptor example, written to `.cache/kenney-imports.json`:
 
@@ -35,9 +35,9 @@ Kenney descriptor example, written to `.cache/kenney-imports.json`:
 
 This is a format example, not an asset to import. Use only slugs and descriptions established by discovery and file inspection. Run `npx tsx scripts/seed-catalog.ts --input=.cache/kenney-imports.json`. The importer checks the asset's own CC0 field and included archive license, records actual formats and file counts, rejects duplicate identities, and copies a permitted preview. It skips packs for which preview rights or content cannot be established.
 
-Poly Haven descriptors use `{ "slug": "api_confirmed_slug", "summary": "Original factual summary of the inspected texture." }`. Run `npx tsx scripts/seed-polyhaven.ts --input=.cache/polyhaven-imports.json`. It accepts textures only, checks license and identity, downloads the actual 1k diffuse map, verifies its API checksum, and records provenance. Both importers accept at most 5 explicit descriptors per invocation and preserve existing records.
+Poly Haven descriptors use `{ "slug": "api_confirmed_slug", "summary": "Original factual summary of the inspected texture." }`. Run `npx tsx scripts/seed-polyhaven.ts --input=.cache/polyhaven-imports.json`. It accepts textures only, checks license and identity, downloads the actual 1k diffuse map, verifies its API checksum, and records provenance. Both importers accept at most 5 explicit descriptors per invocation and preserve existing records. Sequential batches can add up to 50 combined new free/promotional records per day when all checks and processing budgets permit it; never reset the daily allowance on a rerun.
 
-`npm run catalog:check -- --limit=5 --write` rechecks the oldest entries. A failure writes a review report and leaves the catalog and evidence unchanged. Do not alter dates or label failures verified by hand.
+`npm run catalog:check -- --limit=20 --write` rechecks up to 20 oldest entries. A failure writes a review report and leaves the catalog and evidence unchanged. Do not alter dates or label failures verified by hand.
 
 ## PR review
 
@@ -60,7 +60,7 @@ The trusted discovery priorities are in `data/offer-sources.json`. Executable pa
 ```sh
 npm run offers:validate                 # Read-only schema, evidence and lifecycle review
 npm run offers:update                   # Apply reviewed candidates and archive stale/expired offers
-npm run offers:check-links -- --limit=5  # Read-only, policy-respecting source/license reachability
+npm run offers:check-links -- --limit=50 # Read-only, policy-respecting source/license reachability
 ```
 
 Link-check reports live in `.cache/offer-link-report.json`. **A successful HEAD request never verifies pricing, license terms, expiry or changes lastChecked.** Every publication/recheck requires direct, matching first-party price and license observations. Dynamic prices that cannot be established are not published. All stored prices remain in the source's observed currency and license tier; no assumed currency conversion. Marketplace `reviewCount` is a rating count, unless separately established otherwise; the UI calls it ratings.
@@ -69,8 +69,8 @@ The updater calculates discountPercent and Radar Score from actual prices and re
 
 Only known absolute expiry times receive a countdown. An exact product's first-party Offer.priceValidUntil is valid evidence when its timestamp includes a timezone and its price/currency match the public purchase panel; do not infer expiry from a relative timer. Unknown expiry stays null and still needs a fresh check within 48 hours. Browser availability checks disable/remove offers at expiry or freshness deadlines even if the last static deployment is old. Static HTML and structured data do not embed an actionable promotional price or an Offer schema that could outlive its verification.
 
-Deals require at least 30% off, Radar Score 70+, quality/value grades at least 3/5, explicit commercial permission, and 4/5 marketplace stars when known. Editorial score inputs are explained on the asset page and `/about/#radar-score`; they are separate from marketplace ratings and performance testing. With no explicit thumbnail permission, use `preview: null` and `thumbnailPermission: null`; the existing original editorial cover links to the publisher's previews. Never infer art reuse rights from a temporary zero price.
+Deals require at least 30% off, Radar Score 70+, quality/value grades at least 3/5, explicit commercial permission, and 4/5 marketplace stars when known. Editorial score inputs are explained on the asset page and `/about/#radar-score`; they are separate from marketplace ratings and performance testing. With no explicit local-thumbnail permission, keep `preview: null` and `thumbnailPermission: null`. A separate optional `publisherPreview` can link a static image actually observed in the exact public product gallery on the supported publisher CDN, subject to source terms. Record its exact source URL, factual alt, credit, separate check time and provenance note; do not invent permission or update price freshness. Prefer observed compact CDN versions. Marketing art is not downloaded or rehosted. Audio and failed/missing/prohibited previews use the original animated editorial cover. Never infer art reuse rights from a temporary zero price.
 
 `canonicalSourceUrl` preserves product identity. `sourceUrl` can later add an authorized provider-native affiliate query parameter without changing deduplication. Arbitrary redirect domains fail validation. Disclose any affiliate relationship when it is actually introduced.
 
-Each daily run archives first, checks up to 10 promotions (including stale archived offers that can be revived with new verification), inspects up to 10 candidates and adds at most 5 total free assets/promotions, then checks up to 5 old permanent-free entries. The PR helper permits these data/evidence files and licensed local media; it updates an existing open maintenance PR's description after validation. PRs include prices, tier/currency, license, known expiry, score and archive reasons. An unavailable source keeps its old check time and is reported rather than relabeled current.
+Each daily run archives first, checks up to 50 promotions (including stale archived offers that can be revived with new verification), inspects up to 150 new candidates and adds at most 50 total new free assets/promotions per Jakarta day, then checks up to 20 old permanent-free entries if budgets permit. An asset automatically creates an SEO detail page; the agent must not generate filler articles or split a pack to inflate totals. The PR helper permits these data/evidence files and licensed local media; it updates an existing open maintenance PR's description after validation. PRs include prices, tier/currency, license, known expiry, score, preview provenance, archive reasons and actual processing counts/budgets. An unavailable source keeps its old check time and is reported rather than relabeled current.

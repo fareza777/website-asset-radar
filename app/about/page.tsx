@@ -1,10 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import {
-  ArrowRight,
-  ArrowUpRight,
-  Sparkle,
-} from "@phosphor-icons/react/dist/ssr";
+import { ArrowRight, Sparkle } from "@phosphor-icons/react/dist/ssr";
 
 export const metadata: Metadata = {
   title: "A creative head start for game makers",
@@ -122,27 +118,18 @@ export default function About() {
         <p>
           Expired promotions leave discovery automatically. Promotions also stop
           appearing after 48 hours without a new price and license check. A
-          countdown appears only when the source provides a known deadline. When
-          artwork permission is unclear, an original editorial cover links to
-          the publisher’s previews.
+          countdown appears only when the source provides a known deadline.
+          Promotion previews show credited publisher screenshots when available;
+          audio and missing images use an original editorial illustration.
         </p>
       </section>
       <section className="document-section">
         <h2>A library that can keep growing.</h2>
         <p>
           Catalog changes are checked against permitted sources, deduplicated,
-          and proposed for human review. You can inspect the catalog,
-          verification evidence, and maintenance process in the open-source
-          repository.
+          and reviewed before publication. Each asset page links to its original
+          publisher, license terms, and the date of its latest check.
         </p>
-        <a
-          href="https://github.com/fareza777/website-asset-radar"
-          target="_blank"
-          rel="noreferrer"
-          className="text-link"
-        >
-          Explore the project on GitHub <ArrowUpRight size={16} />
-        </a>
       </section>
       <Link href="/" className="button primary">
         Find your next idea <ArrowRight size={18} />

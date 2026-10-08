@@ -204,6 +204,44 @@ test("canonical identities defeat affiliate URL duplicates and collisions with f
   );
 });
 
+test("publisher previews require a static trusted CDN image and the same product without refreshing deal evidence", () => {
+  const offer = scored();
+  const preview = {
+    url: "https://img.itch.zone/aW1hZ2U=/794x1000/gallery.png",
+    sourceUrl: offer.canonicalSourceUrl,
+    alt: "Publisher gallery image of this synthetic test pack.",
+    credit: offer.author,
+    checkedAt: "2026-10-08T11:30:00Z",
+    note: "Public publisher gallery URL; a preview check is not a fresh price or license check.",
+  };
+  const validated = validateOffers(
+    [{ ...offer, publisherPreview: preview }],
+    [],
+    now,
+  )[0];
+  assert.equal(validated.lastChecked, offer.lastChecked);
+  assert.equal(validated.thumbnailPermission, null);
+  validateOfferEvidence(validated, evidence(offer), now);
+  for (const patch of [
+    { url: "https://evil.test/gallery.png" },
+    { url: "https://img.itch.zone/aW1hZ2U=/original/animated.gif" },
+    { url: `${preview.url}?tracking=1` },
+    { url: `${preview.url}#tracking` },
+    { sourceUrl: "https://other.itch.io/another-pack" },
+    { checkedAt: "2026-10-08T12:00:01Z" },
+  ]) {
+    assert.throws(() =>
+      validateOffers(
+        [{ ...offer, publisherPreview: { ...preview, ...patch } }],
+        [],
+        now,
+      ),
+    );
+  }
+  const expiredEvidence = { ...validated, lastChecked: "2026-10-06T11:00:00Z" };
+  assert.equal(offerStatus(expiredEvidence, now), "verification_required");
+});
+
 test("a large discount cannot compensate for weak editorial quality or poor value", () => {
   for (const weakFactor of ["quality", "value"] as const) {
     const offer = {

@@ -99,6 +99,17 @@ export const promotionSchema = z
       })
       .strict()
       .nullable(),
+    publisherPreview: z
+      .object({
+        url: https,
+        sourceUrl: https,
+        alt: z.string().min(20).max(240),
+        credit: z.string().min(2).max(100),
+        checkedAt: utc,
+        note: z.string().min(30).max(500),
+      })
+      .strict()
+      .optional(),
     licenseNote: z.string().min(20),
     priceNote: z.string().min(10),
     licenseTier: z.string().nullable(),
@@ -249,6 +260,29 @@ export function validateOffers(
       throw new Error(`Incomplete rating evidence: ${offer.id}`);
     if ((offer.preview === null) !== (offer.thumbnailPermission === null))
       throw new Error(`Thumbnail permission is required: ${offer.id}`);
+    if (offer.publisherPreview) {
+      const media = new URL(offer.publisherPreview.url);
+      const permitted =
+        (offer.source === "itch.io" &&
+          media.hostname === "img.itch.zone" &&
+          /^\/[A-Za-z0-9_=+-]+\/(?:original|794x1000)\/[^/]+\.(?:png|jpe?g|webp)$/.test(
+            media.pathname,
+          )) ||
+        (offer.source === "Fab" &&
+          media.hostname === "media.fab.com" &&
+          /^\/image_previews\/gallery_images\/[a-f0-9-]{36}\/[a-f0-9-]{36}\.(?:png|jpe?g|webp)$/.test(
+            media.pathname,
+          ));
+      if (
+        !permitted ||
+        media.search ||
+        media.hash ||
+        offer.preview ||
+        productIdentity(offer.publisherPreview.sourceUrl) !== identity ||
+        Date.parse(offer.publisherPreview.checkedAt) > now
+      )
+        throw new Error(`Untrusted publisher preview: ${offer.id}`);
+    }
     if (Date.parse(offer.lastChecked) > now)
       throw new Error(`Future verification: ${offer.id}`);
     const added = Date.parse(`${offer.addedAt}T00:00:00Z`);

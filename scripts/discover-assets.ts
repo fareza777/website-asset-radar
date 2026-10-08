@@ -1,12 +1,16 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { createHash } from "node:crypto";
-import { load } from "cheerio";
 import { canonicalUrl } from "../lib/catalog-utils";
 import { validateCatalog } from "../lib/catalog-schema";
 import { fetchPermitted } from "./source-policy";
 import { readKenneyEvidence } from "./verification";
+import { discoveryLimit, readKenneyIndex } from "./discovery-utils";
+import policy from "../data/automation-policy.json";
 
 async function main() {
+  const limit = discoveryLimit(process.argv.slice(2));
+  const startedAt = Date.now();
+  const deadline = startedAt + policy.maxRunMinutes * 60_000;
   const assets = validateCatalog(
     JSON.parse(await readFile("data/assets.json", "utf8")),
   );
@@ -14,18 +18,43 @@ async function main() {
   const seen = new Set<string>();
   const candidates: Record<string, unknown>[] = [];
   const failures: { url: string; reason: string }[] = [];
-  const html = await (await fetchPermitted("https://kenney.nl/assets")).text();
-  const $ = load(html);
-  const urls = $("a[href]")
-    .map((_, element) => $(element).attr("href")!)
-    .get()
-    .map((href) => new URL(href, "https://kenney.nl").toString())
-    .filter((url) => /^https:\/\/kenney\.nl\/assets\/[a-z0-9-]+$/.test(url));
+  const urls = new Set<string>();
+  const pages = ["https://kenney.nl/assets"];
+  const seenPages = new Set<string>();
+  const kenneyLimit = Math.ceil(limit / 2);
+  while (
+    pages.length &&
+    seenPages.size < policy.maxIndexPages &&
+    Date.now() < deadline
+  ) {
+    const page = pages.shift()!;
+    if (seenPages.has(page)) continue;
+    seenPages.add(page);
+    try {
+      const index = readKenneyIndex(
+        await (await fetchPermitted(page)).text(),
+        page,
+      );
+      for (const url of index.products) {
+        if (!existing.has(canonicalUrl(url))) urls.add(url);
+      }
+      for (const next of index.pages) {
+        if (!seenPages.has(next) && !pages.includes(next)) pages.push(next);
+      }
+      if (urls.size >= kenneyLimit) break;
+    } catch (error) {
+      failures.push({ url: page, reason: (error as Error).message });
+      // Stop this source on access/policy failures; preserve other-source discovery.
+      break;
+    }
+  }
+  let inspectedProducts = 0;
   for (const raw of urls) {
     const url = canonicalUrl(raw);
     if (existing.has(url) || seen.has(url)) continue;
     seen.add(url);
-    if (candidates.filter((c) => c.source === "Kenney").length >= 5) break;
+    if (inspectedProducts >= kenneyLimit || Date.now() >= deadline) break;
+    inspectedProducts++;
     try {
       const page = await (await fetchPermitted(url)).text();
       const evidence = readKenneyEvidence(page);
@@ -41,7 +70,12 @@ async function main() {
           "Inspect archive license and preview rights, factual metadata, duplicates, and appropriate categories before adding.",
       });
     } catch (error) {
-      failures.push({ url, reason: (error as Error).message });
+      const reason = (error as Error).message;
+      failures.push({ url, reason });
+      if (
+        /^(401|403|429):|robots|outside the allowlist|protection/i.test(reason)
+      )
+        break;
     }
   }
   try {
@@ -57,8 +91,7 @@ async function main() {
       if (!/^[a-z0-9_]+$/.test(slug)) continue;
       const sourceUrl = `https://polyhaven.com/a/${slug}`;
       if (existing.has(canonicalUrl(sourceUrl))) continue;
-      if (candidates.filter((c) => c.source === "Poly Haven").length >= 5)
-        break;
+      if (candidates.length >= limit || Date.now() >= deadline) break;
       candidates.push({
         source: "Poly Haven",
         sourceUrl,
@@ -83,6 +116,9 @@ async function main() {
     JSON.stringify(
       {
         discoveredAt: new Date().toISOString(),
+        limits: { candidates: limit, indexPages: policy.maxIndexPages },
+        visitedIndexPages: [...seenPages],
+        inspectedKenneyProducts: inspectedProducts,
         candidates,
         failures,
         note: "Candidate discovery only. The catalog has not been modified, and these candidates are not yet fully verified.",

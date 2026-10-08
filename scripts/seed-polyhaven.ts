@@ -6,6 +6,7 @@ import { enrichFreeAsset } from "../lib/free-metadata";
 import { validateCatalog } from "../lib/catalog-schema";
 import { fetchPermitted } from "./source-policy";
 import { readPolyHavenLicense } from "./verification";
+import policy from "../data/automation-policy.json";
 import { z } from "zod";
 
 const sha = (data: string | Uint8Array) =>
@@ -42,7 +43,7 @@ async function main() {
         })
         .strict(),
     )
-    .max(5)
+    .max(policy.importBatchSize)
     .parse(
       input
         ? JSON.parse(await readFile(input, "utf8"))

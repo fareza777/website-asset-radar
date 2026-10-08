@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight, Star, Clock } from "@phosphor-icons/react";
 import type { Promotion } from "@/lib/types";
@@ -7,8 +6,7 @@ import { formatCountdown, formatPrice, offerStatus } from "@/lib/offer-utils";
 import { useOfferClock } from "@/lib/use-offer-clock";
 import { FavoriteButton } from "./favorite-button";
 import { RadarBadge } from "./radar-badge";
-import { EditorialCover } from "./editorial-cover";
-export { EditorialCover } from "./editorial-cover";
+import { OfferPreview } from "./offer-preview";
 
 export function OfferCard({
   asset,
@@ -26,18 +24,7 @@ export function OfferCard({
     >
       <div className="asset-image-wrap">
         <Link href={`/asset/${asset.id}/`} tabIndex={-1} aria-hidden="true">
-          {asset.preview ? (
-            <Image
-              src={asset.preview}
-              alt={`${asset.title} authorized thumbnail`}
-              width={800}
-              height={450}
-              className="asset-image"
-              sizes="(max-width: 600px) 100vw, 33vw"
-            />
-          ) : (
-            <EditorialCover asset={asset} />
-          )}
+          <OfferPreview asset={asset} />
         </Link>
         <FavoriteButton asset={asset} />
       </div>

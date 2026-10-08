@@ -1,12 +1,21 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { validateOffers } from "../lib/offers";
 import { fetchPermittedOffer } from "./offer-source-policy";
+import policy from "../data/automation-policy.json";
 
 async function main() {
   const argument = process.argv.find((a) => a.startsWith("--limit="));
-  const limit = argument ? Number(argument.split("=")[1]) : 5;
-  if (!Number.isInteger(limit) || limit < 1 || limit > 10)
-    throw new Error("Use --limit=1 through --limit=10");
+  const limit = argument
+    ? Number(argument.split("=")[1])
+    : policy.maxPromotionRechecksPerDay;
+  if (
+    !Number.isInteger(limit) ||
+    limit < 1 ||
+    limit > policy.maxPromotionRechecksPerDay
+  )
+    throw new Error(
+      `Use --limit=1 through --limit=${policy.maxPromotionRechecksPerDay}`,
+    );
   const offers = validateOffers(
     JSON.parse(await readFile("data/offers.json", "utf8")),
   )
