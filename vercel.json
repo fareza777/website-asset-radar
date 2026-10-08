@@ -4,8 +4,18 @@
   "buildCommand": "npm run build",
   "redirects": [
     {
+      "source": "/assets/:slug/",
+      "destination": "/asset/:slug/",
+      "permanent": true
+    },
+    {
       "source": "/assets/:slug",
       "destination": "/asset/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/:slug/",
+      "destination": "/category/:slug/",
       "permanent": true
     },
     {
