@@ -1,0 +1,272 @@
+[
+  {
+    "addedAt": "2026-10-08",
+    "lastChecked": "2026-10-08T16:41:49Z",
+    "commercialUse": true,
+    "discountPercent": 100,
+    "radarScore": 95,
+    "preview": null,
+    "thumbnailPermission": null,
+    "type": "limited_free",
+    "salePrice": 0,
+    "currency": "IDR",
+    "expiresAt": "2026-10-20T13:59:00Z",
+    "source": "Fab",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "licenseTier": "Personal",
+    "licenseNote": "Commercial projects and modification are allowed under the Fab Standard License. No standalone redistribution. Personal tier eligibility applies at acquisition.",
+    "priceNote": "Personal tier, IDR, before tax. For creators or teams with no more than US$100,000 revenue or funding over the past 12 months.",
+    "formats": [
+      "Unreal Engine"
+    ],
+    "engines": [
+      "Unreal"
+    ],
+    "dimension": "3D",
+    "id": "fab-bridge-environment",
+    "title": "Ready Map Vol 2 — Bridge Environment / Nature",
+    "author": "Six Sides Studios",
+    "summary": "An Unreal Engine bridge environment with 342 publisher-listed meshes, prefabs, vegetation and configurable landscape materials.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "assetType": "Environments",
+    "originalPrice": 1788104,
+    "rating": 4.4,
+    "reviewCount": 13,
+    "sourceUrl": "https://www.fab.com/listings/95ff3c25-59f9-441d-aa43-93c3abd63680",
+    "canonicalSourceUrl": "https://www.fab.com/listings/95ff3c25-59f9-441d-aa43-93c3abd63680",
+    "engineNote": "The publisher lists an Unreal Engine package. Some landscape items require virtual texture support; review the documented project settings before importing.",
+    "tags": [
+      "bridge",
+      "environment",
+      "vegetation",
+      "modular"
+    ],
+    "curation": {
+      "quality": 4.2,
+      "value": 5,
+      "completeness": 5,
+      "reputation": 4,
+      "rationale": "A documented environment with 342 meshes, prefabs and landscape materials. Its breadth and available demo make it a useful starting point for a survival scene; the publisher lists the setup requirements."
+    }
+  },
+  {
+    "addedAt": "2026-10-08",
+    "lastChecked": "2026-10-08T16:41:49Z",
+    "commercialUse": true,
+    "discountPercent": 100,
+    "radarScore": 93,
+    "preview": null,
+    "thumbnailPermission": null,
+    "type": "limited_free",
+    "salePrice": 0,
+    "currency": "IDR",
+    "expiresAt": "2026-10-20T13:59:00Z",
+    "source": "Fab",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "licenseTier": "Personal",
+    "licenseNote": "Commercial projects and modification are allowed under the Fab Standard License. No standalone redistribution. Personal tier eligibility applies at acquisition.",
+    "priceNote": "Personal tier, IDR, before tax. For creators or teams with no more than US$100,000 revenue or funding over the past 12 months.",
+    "formats": [
+      "Unreal Engine"
+    ],
+    "engines": [
+      "Unreal"
+    ],
+    "dimension": "3D",
+    "id": "fab-adaptive-pathfinding",
+    "title": "Adaptive Pathfinding System",
+    "author": "NordVader",
+    "summary": "An Unreal Engine navigation plugin for curved AI routes, with Blueprint examples and documented setup for Recast NavMesh.",
+    "categories": [
+      "RPG",
+      "Survival",
+      "3D"
+    ],
+    "assetType": "Tools & Plugins",
+    "originalPrice": 993303,
+    "rating": 4.5,
+    "reviewCount": 24,
+    "sourceUrl": "https://www.fab.com/listings/e57ff036-fb84-4c86-af7d-8c2a75965c73",
+    "canonicalSourceUrl": "https://www.fab.com/listings/e57ff036-fb84-4c86-af7d-8c2a75965c73",
+    "engineNote": "Publisher version 2.06 supports Unreal Engine 4.27 and 5.0–5.8. It uses Recast NavMesh and requires the documented navigation setup.",
+    "tags": [
+      "navigation",
+      "ai",
+      "pathfinding",
+      "blueprints"
+    ],
+    "curation": {
+      "quality": 4.3,
+      "value": 4.5,
+      "completeness": 5,
+      "reputation": 4,
+      "rationale": "A focused tool with published ratings, five Blueprint examples and substantial setup documentation. Useful for AI movement projects where curved routes matter; compatibility and prerequisites are clearly described."
+    }
+  },
+  {
+    "addedAt": "2026-10-08",
+    "lastChecked": "2026-10-08T16:41:49Z",
+    "commercialUse": true,
+    "discountPercent": 100,
+    "radarScore": 92,
+    "preview": null,
+    "thumbnailPermission": null,
+    "type": "limited_free",
+    "salePrice": 0,
+    "currency": "IDR",
+    "expiresAt": "2026-10-20T13:59:00Z",
+    "source": "Fab",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "licenseTier": "Personal",
+    "licenseNote": "Commercial projects and modification are allowed under the Fab Standard License. No standalone redistribution. Personal tier eligibility applies at acquisition.",
+    "priceNote": "Personal tier, IDR, before tax. For creators or teams with no more than US$100,000 revenue or funding over the past 12 months.",
+    "formats": [
+      "Unreal Engine"
+    ],
+    "engines": [
+      "Unreal"
+    ],
+    "dimension": "3D",
+    "id": "fab-harvest-farm",
+    "title": "Stylized Harvest Farm Environment",
+    "author": "Emberlight Creations",
+    "summary": "A stylized Unreal Engine farm environment with buildings, fields, props and natural elements for cozy countryside scenes.",
+    "categories": [
+      "RPG",
+      "Idle",
+      "3D"
+    ],
+    "assetType": "Environments",
+    "originalPrice": 397202,
+    "rating": 5,
+    "reviewCount": 6,
+    "sourceUrl": "https://www.fab.com/listings/d8b51a6c-a5b2-41cf-8f49-14e936a27de3",
+    "canonicalSourceUrl": "https://www.fab.com/listings/d8b51a6c-a5b2-41cf-8f49-14e936a27de3",
+    "engineNote": "The publisher lists an Unreal Engine package with versions 4.27, 5.0 and 5.7–5.8. Check the listing's current compatibility details before importing.",
+    "tags": [
+      "farm",
+      "stylized",
+      "environment",
+      "cozy"
+    ],
+    "curation": {
+      "quality": 4,
+      "value": 5,
+      "completeness": 4,
+      "reputation": 3.5,
+      "rationale": "A coherent farm environment with buildings, props and landscape elements for cozy games. The marketplace rating is promising but has a small sample, so its quality contribution is moderated."
+    }
+  },
+  {
+    "addedAt": "2026-10-08",
+    "lastChecked": "2026-10-08T16:41:49Z",
+    "commercialUse": true,
+    "discountPercent": 50,
+    "radarScore": 88,
+    "preview": null,
+    "thumbnailPermission": null,
+    "type": "deal",
+    "id": "winlu-fantasy-exterior",
+    "title": "Winlu Fantasy Tileset — Exterior",
+    "author": "WinLu",
+    "summary": "A 48×48 fantasy exterior tileset with buildings, terrain, animated doors and vegetation for medieval RPG scenes.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "originalPrice": 25,
+    "salePrice": 12.5,
+    "currency": "USD",
+    "expiresAt": "2026-10-30T18:10:00Z",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "source": "itch.io",
+    "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-exterior",
+    "canonicalSourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-exterior",
+    "license": "Creator license",
+    "licenseUrl": "https://winlu.itch.io/winlu-fantasy-tileset-exterior",
+    "licenseTier": null,
+    "licenseNote": "Commercial use and modification are allowed. Credit is optional. Do not redistribute or resell the asset files.",
+    "priceNote": "USD minimum purchase price for the full paid pack; taxes may be additional.",
+    "formats": [
+      "ZIP",
+      "RAR"
+    ],
+    "engines": [
+      "RPG Maker"
+    ],
+    "engineNote": "The publisher states that the 48×48 autotiles are optimized for RPG Maker and other engines. Other-engine setup depends on your project.",
+    "tags": [
+      "fantasy",
+      "medieval",
+      "48x48",
+      "exterior"
+    ],
+    "curation": {
+      "quality": 4.5,
+      "value": 4.5,
+      "completeness": 5,
+      "reputation": 4,
+      "rationale": "A broad exterior set with animated details, documented 48×48 tiles and regular publisher updates. Strong published ratings and explicit commercial terms support a useful 50% discount on the full pack."
+    }
+  },
+  {
+    "addedAt": "2026-10-08",
+    "lastChecked": "2026-10-08T16:41:49Z",
+    "commercialUse": true,
+    "discountPercent": 50,
+    "radarScore": 88,
+    "preview": null,
+    "thumbnailPermission": null,
+    "type": "deal",
+    "id": "brullov-oak-woods",
+    "title": "Oak Woods — Environment Asset",
+    "author": "brullov",
+    "summary": "A pixel-art platformer set with layered forest backgrounds, 24×24 terrain tiles, an animated character and decorative sprites.",
+    "categories": [
+      "RPG",
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "originalPrice": 2,
+    "salePrice": 1,
+    "currency": "USD",
+    "expiresAt": null,
+    "rating": 4.8,
+    "reviewCount": 122,
+    "source": "itch.io",
+    "sourceUrl": "https://brullov.itch.io/oak-woods",
+    "canonicalSourceUrl": "https://brullov.itch.io/oak-woods",
+    "license": "Creator license",
+    "licenseUrl": "https://brullov.itch.io/oak-woods",
+    "licenseTier": null,
+    "licenseNote": "The creator permits free and commercial projects. Do not redistribute or resell the asset files.",
+    "priceNote": "USD minimum purchase price for the full paid pack; taxes may be additional.",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "A downloadable pixel-art asset archive. The publisher does not promise a specific engine integration; check the source preview and import requirements.",
+    "tags": [
+      "forest",
+      "pixel art",
+      "platformer",
+      "24x24"
+    ],
+    "curation": {
+      "quality": 4.5,
+      "value": 5,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "An inexpensive, coherent platformer starter with backgrounds, terrain and character animations. The published 122-rating sample and explicit commercial license support its value. No precise sale deadline was established."
+    }
+  }
+]

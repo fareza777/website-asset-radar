@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Heart } from "@phosphor-icons/react/dist/ssr";
 import { AssetGallery } from "@/components/asset-gallery";
-import { assets } from "@/lib/catalog";
+import { directoryAssets } from "@/lib/catalog";
 
 export const metadata: Metadata = {
   title: "Your favorite assets",
@@ -23,7 +23,11 @@ export default function Favorites() {
           an account.
         </p>
       </div>
-      <AssetGallery assets={assets} favoritesOnly heading="Your favorites" />
+      <AssetGallery
+        assets={directoryAssets}
+        favoritesOnly
+        heading="Your favorites"
+      />
     </>
   );
 }

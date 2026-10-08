@@ -21,6 +21,8 @@ import {
   Layout as LayoutIcon,
   Waveform as WaveformIcon,
   Cube as CubeIcon,
+  Fire as FireIcon,
+  Tag as TagIcon,
 } from "@phosphor-icons/react";
 import { useEffect, useRef, useState } from "react";
 import { Brand } from "./brand";
@@ -97,7 +99,12 @@ export function Sidebar() {
     };
   }, [mobileOpen]);
   const discover = [
-    { href: "/", label: "Browse assets", icon: SquaresFourIcon },
+    { href: "/free/", label: "Free Assets", icon: SquaresFourIcon },
+    { href: "/free-today/", label: "Free Today", icon: FireIcon },
+    { href: "/deals/", label: "Deals", icon: TagIcon },
+    { href: "/collections/", label: "Collections", icon: StackIcon },
+  ];
+  const shortcuts = [
     { href: "/latest/", label: "Latest assets", icon: ClockIcon },
     { href: "/cc0/", label: "CC0 only", icon: ShieldCheckIcon },
   ];
@@ -108,16 +115,17 @@ export function Sidebar() {
       icon: HeartIcon,
       count: favorites.length,
     },
-    { href: "/collections/", label: "Collections", icon: StackIcon },
+    ...shortcuts,
   ];
-  const current = path.startsWith("/assets/")
-    ? "Asset details"
-    : path.startsWith("/categories/")
-      ? "Categories"
-      : path.startsWith("/collections/")
-        ? "Collections"
-        : [...discover, ...library].find((x) => x.href === path)?.label ||
-          "The library";
+  const current =
+    path.startsWith("/asset/") || path.startsWith("/assets/")
+      ? "Asset details"
+      : path.startsWith("/category/") || path.startsWith("/categories/")
+        ? "Categories"
+        : path.startsWith("/collections/")
+          ? "Collections"
+          : [...discover, ...library].find((x) => x.href === path)?.label ||
+            "The library";
   const navItem = ({
     href,
     label,
@@ -185,7 +193,7 @@ export function Sidebar() {
         <nav className="category-nav">
           {categories.map((category, i) => {
             const Icon = categoryIcons[i];
-            const href = `/categories/${category.toLowerCase()}/`;
+            const href = `/category/${category.toLowerCase()}/`;
             return (
               <Link
                 key={category}

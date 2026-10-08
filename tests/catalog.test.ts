@@ -7,6 +7,14 @@ import { validateCatalog, validateEvidenceDate } from "../lib/catalog-schema";
 
 const assets = catalog as Asset[];
 
+test("search finds file formats, engine names and licenses", () => {
+  for (const query of ["GLB", "PNG", "OGG", "CC0", "Godot", "Unity"])
+    assert.ok(
+      filterAssets(assets, { ...defaultFilters, query }).length > 0,
+      query,
+    );
+});
+
 test("search combines words, genre, dimension, type, engine, license and source", () => {
   const results = filterAssets(assets, {
     ...defaultFilters,

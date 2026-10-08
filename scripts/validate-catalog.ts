@@ -2,6 +2,8 @@ import { readFile, stat } from "node:fs/promises";
 import path from "node:path";
 import { validateCatalog, validateEvidenceDate } from "../lib/catalog-schema";
 import type { Collection } from "../lib/types";
+import { validateOffers, validateOfferEvidence } from "../lib/offers";
+import type { ArchivedOffer } from "../lib/types";
 
 async function main() {
   const assets = validateCatalog(
@@ -27,6 +29,8 @@ async function main() {
       await readFile(`data/evidence/${asset.id}.json`, "utf8"),
     );
     validateEvidenceDate(asset.verifiedAt, evidence);
+    if (asset.lastChecked !== (evidence.lastLinkCheckAt ?? evidence.checkedAt))
+      throw new Error(`Last checked does not match evidence: ${asset.id}`);
     if (
       evidence.sourceUrl !== asset.sourceUrl ||
       evidence.httpStatus !== 200 ||
@@ -59,6 +63,25 @@ async function main() {
     )
       throw new Error(`Preview origin mismatch: ${asset.id}`);
   }
+  const offers = JSON.parse(await readFile("data/offers.json", "utf8"));
+  const archive = JSON.parse(
+    await readFile("data/offer-archive.json", "utf8"),
+  ) as ArchivedOffer[];
+  const promotions = validateOffers(
+    [...offers, ...archive.map((a) => a.offer)],
+    assets,
+  );
+  for (const offer of promotions) {
+    const proof = JSON.parse(
+      await readFile(`data/offer-evidence/${offer.id}.json`, "utf8"),
+    );
+    validateOfferEvidence(offer, proof);
+    if (offer.preview) {
+      const file = await stat(path.join(root, offer.preview));
+      if (!file.isFile() || file.size > 2_000_000)
+        throw new Error(`Invalid offer thumbnail: ${offer.id}`);
+    }
+  }
   const collections = JSON.parse(
     await readFile("data/collections.json", "utf8"),
   ) as Collection[];
@@ -77,7 +100,7 @@ async function main() {
       throw new Error(`Invalid collection references: ${collection.id}`);
   }
   console.log(
-    `Catalog valid: ${assets.length} verified assets, ${collections.length} collections, all media and evidence present.`,
+    `Catalog valid: ${assets.length} free assets, ${offers.length} promotions, ${collections.length} collections; media and evidence present.`,
   );
 }
 main().catch((error) => {

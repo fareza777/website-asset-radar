@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Fab",
+    "discoveryUrl": "https://www.fab.com/limited-time-free",
+    "priority": 1,
+    "verification": "Read the exact product license tier and displayed currency. Use the campaign's explicit end time. Fab Standard is not CC0. Dynamic or inaccessible prices require review; never guess."
+  },
+  {
+    "source": "Unity Asset Store",
+    "discoveryUrl": "https://assetstore.unity.com/sale",
+    "priority": 2,
+    "verification": "Check the product, publisher, live price, reviews, eligibility and applicable Unity Asset Store license. Do not infer free status from a campaign banner."
+  },
+  {
+    "source": "itch.io",
+    "discoveryUrl": "https://itch.io/game-assets/on-sale",
+    "priority": 3,
+    "verification": "Verify the creator's own product price and explicit commercial license. Confirm pay-what-you-want minimums. An exact expiry must come from the actual sale page; relative timers do not establish an absolute date."
+  },
+  {
+    "source": "GameDev Market",
+    "discoveryUrl": "https://www.gamedevmarket.net/",
+    "priority": 4,
+    "verification": "Discover through the marketplace's visible sale navigation, then verify product pricing and the applicable license. Stop on changed permissions or protection."
+  },
+  {
+    "source": "Kenney",
+    "discoveryUrl": "https://kenney.nl/assets",
+    "priority": 5,
+    "verification": "Normally add these to the permanent free catalog. A limited promotion needs a genuine original paid price; do not turn ordinary CC0 assets into a deal."
+  },
+  {
+    "source": "OpenGameArt",
+    "discoveryUrl": "https://opengameart.org/",
+    "priority": 6,
+    "verification": "Normally add permanent free content only after verifying each author and license. No ratings or commercial rights may be invented. A promotion requires actual paid-price evidence."
+  }
+]

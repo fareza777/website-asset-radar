@@ -11,9 +11,9 @@ import {
 } from "@phosphor-icons/react";
 import { useLibrary } from "./library-provider";
 import { AssetGallery } from "./asset-gallery";
-import type { Asset } from "@/lib/types";
+import type { DirectoryAsset } from "@/lib/types";
 
-export function PersonalCollections({ assets }: { assets: Asset[] }) {
+export function PersonalCollections({ assets }: { assets: DirectoryAsset[] }) {
   const { collections, createCollection, deleteCollection, notify } =
     useLibrary();
   const [name, setName] = useState("");

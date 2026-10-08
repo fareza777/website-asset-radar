@@ -2,6 +2,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import sharp from "sharp";
 import type { Asset } from "../lib/types";
+import { enrichFreeAsset } from "../lib/free-metadata";
 import { validateCatalog } from "../lib/catalog-schema";
 import { fetchPermitted } from "./source-policy";
 import { readPolyHavenLicense } from "./verification";
@@ -99,49 +100,53 @@ async function main() {
       .webp({ quality: 82 })
       .toFile(`public/previews/polyhaven-${slug.replaceAll("_", "-")}.webp`);
     const authors = Object.keys(info.authors);
-    const item: Asset = {
-      id: `polyhaven-${slug.replaceAll("_", "-")}`,
-      title: info.name,
-      author: authors.join(" & "),
-      authors,
-      summary,
-      categories: ["Survival", "3D"],
-      dimension: "3D",
-      assetType: "Textures",
-      source: "Poly Haven",
-      sourceUrl: `https://polyhaven.com/a/${slug}`,
-      license: "CC0",
-      licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
-      verificationUrl: infoUrl,
-      verifiedAt: today,
-      addedAt: today,
-      evidence:
-        "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
-      evidenceSha256: sha(infoText),
-      formats: [
-        ...new Set(
-          Object.values(files).flatMap((sizes) =>
-            Object.values(sizes).flatMap((formats) =>
-              Object.keys(formats).filter((key) =>
-                ["jpg", "png", "exr"].includes(key),
+    const checkedAt = new Date().toISOString();
+    const item = enrichFreeAsset(
+      {
+        id: `polyhaven-${slug.replaceAll("_", "-")}`,
+        title: info.name,
+        author: authors.join(" & "),
+        authors,
+        summary,
+        categories: ["Survival", "3D"],
+        dimension: "3D",
+        assetType: "Textures",
+        source: "Poly Haven",
+        sourceUrl: `https://polyhaven.com/a/${slug}`,
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        verificationUrl: infoUrl,
+        verifiedAt: today,
+        addedAt: today,
+        evidence:
+          "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+        evidenceSha256: sha(infoText),
+        formats: [
+          ...new Set(
+            Object.values(files).flatMap((sizes) =>
+              Object.values(sizes).flatMap((formats) =>
+                Object.keys(formats).filter((key) =>
+                  ["jpg", "png", "exr"].includes(key),
+                ),
               ),
             ),
           ),
-        ),
-      ].map((f) => f.toUpperCase()),
-      engines: ["Unity", "Godot", "Unreal"],
-      engineNote:
-        "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
-      tags: info.categories.filter((tag) => !tag.startsWith("collection:")),
-      preview: `/previews/polyhaven-${slug.replaceAll("_", "-")}.webp`,
-      previewProvenance: {
-        url: diffuse.url,
-        file: new URL(diffuse.url).pathname.split("/").at(-1)!,
-        license: "CC0",
-        sha256: sha(bytes),
-        note: "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied.",
+        ].map((f) => f.toUpperCase()),
+        engines: ["Unity", "Godot", "Unreal"],
+        engineNote:
+          "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+        tags: info.categories.filter((tag) => !tag.startsWith("collection:")),
+        preview: `/previews/polyhaven-${slug.replaceAll("_", "-")}.webp`,
+        previewProvenance: {
+          url: diffuse.url,
+          file: new URL(diffuse.url).pathname.split("/").at(-1)!,
+          license: "CC0",
+          sha256: sha(bytes),
+          note: "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied.",
+        },
       },
-    };
+      checkedAt,
+    );
     const existing = assets.findIndex((a) => a.id === item.id);
     if (existing >= 0) assets[existing] = item;
     else assets.push(item);
@@ -150,7 +155,7 @@ async function main() {
       JSON.stringify(
         {
           sourceUrl: item.sourceUrl,
-          checkedAt: new Date().toISOString(),
+          checkedAt,
           httpStatus: 200,
           apiUrl: infoUrl,
           apiSha256: sha(infoText),

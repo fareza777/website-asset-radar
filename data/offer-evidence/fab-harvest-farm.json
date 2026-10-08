@@ -1,0 +1,26 @@
+{
+  "id": "fab-harvest-farm",
+  "sourceUrl": "https://www.fab.com/listings/d8b51a6c-a5b2-41cf-8f49-14e936a27de3",
+  "checkedAt": "2026-10-08T16:41:49Z",
+  "method": "browser",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 397202,
+    "salePrice": 0,
+    "currency": "IDR",
+    "licenseTier": "Personal",
+    "note": "Live product page showed 397202 IDR reduced to Free (100% off)."
+  },
+  "license": {
+    "name": "Fab Standard",
+    "url": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "note": "The listing links to the Fab Standard License, which permits commercial projects and prohibits standalone redistribution."
+  },
+  "expiresAt": "2026-10-20T13:59:00Z",
+  "expiryEvidenceUrl": "https://www.fab.com/limited-time-free",
+  "expiryNote": "Fab states October 20 at 9:59 AM ET. The live Personal tier shows October 20, 2026 at 8:59 PM in Jakarta, equivalent to 13:59 UTC.",
+  "rating": 5,
+  "reviewCount": 6,
+  "productNote": "Inspected the original publisher listing and its included-format description. No asset files or marketplace artwork were downloaded or republished."
+}

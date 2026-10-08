@@ -2,6 +2,18 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "nextjs",
   "buildCommand": "npm run build",
+  "redirects": [
+    {
+      "source": "/assets/:slug",
+      "destination": "/asset/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/:slug",
+      "destination": "/category/:slug/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",

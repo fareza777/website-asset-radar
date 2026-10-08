@@ -7,6 +7,13 @@ const sitemap = await readFile(path.join(root, "sitemap.xml"), "utf8");
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(
   (match) => match[1],
 );
+const promotions = [
+  ...JSON.parse(await readFile("data/offers.json", "utf8")),
+  ...JSON.parse(await readFile("data/offer-archive.json", "utf8")).map(
+    (entry) => entry.offer,
+  ),
+];
+const promotionIds = new Set(promotions.map((offer) => offer.id));
 let assetPages = 0;
 for (const value of urls) {
   const url = new URL(value);
@@ -24,7 +31,29 @@ for (const value of urls) {
   if (!social || new URL(social).origin !== url.origin)
     throw new Error(`Missing local social preview: ${url.pathname}`);
   await stat(path.join(root, new URL(social).pathname));
-  if (url.pathname.startsWith("/assets/")) {
+  if (
+    ["/", "/free-today/", "/deals/"].includes(url.pathname) ||
+    promotionIds.has(url.pathname.split("/")[2])
+  ) {
+    if (
+      $("a")
+        .toArray()
+        .some((element) =>
+          /^(Claim Free|View Deal)$/.test($(element).text().trim()),
+        )
+    )
+      throw new Error(
+        `Static HTML must wait for the browser expiry check before advertising a claim: ${url.pathname}`,
+      );
+    const schemas = $("script[type='application/ld+json']")
+      .toArray()
+      .map((element) => $(element).text());
+    if (schemas.some((value) => /"@type"\s*:\s*"Offer"/.test(value)))
+      throw new Error(
+        `A promotional price schema could outlive its expiry: ${url.pathname}`,
+      );
+  }
+  if (url.pathname.startsWith("/asset/")) {
     const data = $("script[type='application/ld+json']")
       .toArray()
       .map((element) => JSON.parse($(element).text()))
@@ -39,6 +68,9 @@ for (const value of urls) {
     assetPages++;
   }
 }
+for (const route of ["/free/", "/free-today/", "/deals/", "/collections/"])
+  if (!urls.some((value) => new URL(value).pathname === route))
+    throw new Error(`Missing discovery route: ${route}`);
 const favorites = load(
   await readFile(path.join(root, "favorites/index.html"), "utf8"),
 );

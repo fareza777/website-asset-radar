@@ -84,6 +84,7 @@ async function main() {
       results.push({ id: asset.id, ok: true, sha256: hash });
       if (write) {
         asset.verifiedAt = today;
+        asset.lastChecked = checkedAt;
         asset.evidenceSha256 = hash;
         stored.lastLinkCheckAt = checkedAt;
         evidenceWrites.push({

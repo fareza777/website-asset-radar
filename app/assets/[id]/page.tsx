@@ -16,6 +16,8 @@ import { formatDate } from "@/lib/catalog-utils";
 import { siteUrl, jsonLd } from "@/lib/site";
 import { FavoriteButton, AssetCard } from "@/components/asset-card";
 import { CollectionPicker } from "@/components/collection-picker";
+import { RadarBadge } from "@/components/radar-badge";
+import { AssetBreadcrumb } from "@/lib/discovery-seo";
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -32,11 +34,11 @@ export async function generateMetadata({
   return {
     title: `${asset.title} by ${asset.author} | Free ${asset.assetType}`,
     description: `${asset.summary} ${asset.license} license verified on ${formatDate(asset.verifiedAt)}.`,
-    alternates: { canonical: `/assets/${id}/` },
+    alternates: { canonical: `/asset/${id}/` },
     openGraph: {
       title: `${asset.title} | AssetRadar`,
       description: asset.summary,
-      url: `/assets/${id}/`,
+      url: `/asset/${id}/`,
       images: [
         { url: asset.preview, width: 800, height: 450, alt: asset.title },
       ],
@@ -61,6 +63,8 @@ export default async function AssetPage({
     .filter(
       (a) =>
         a.id !== asset.id &&
+        a.dimension === asset.dimension &&
+        a.assetType === asset.assetType &&
         a.categories.some((c) => asset.categories.includes(c)),
     )
     .slice(0, 3);
@@ -81,7 +85,7 @@ export default async function AssetPage({
                     "@type": "Person",
                     name,
                   })),
-            url: `${siteUrl}/assets/${id}/`,
+            url: `${siteUrl}/asset/${id}/`,
             image: `${siteUrl}${asset.preview}`,
             license: asset.licenseUrl,
             isAccessibleForFree: true,
@@ -91,7 +95,8 @@ export default async function AssetPage({
           }),
         }}
       />
-      <Link href="/" className="back-link">
+      <AssetBreadcrumb title={asset.title} id={asset.id} type="free" />
+      <Link href="/free/" className="back-link">
         <ArrowLeft size={17} /> Back to the library
       </Link>
       <div className="asset-detail">
@@ -133,6 +138,7 @@ export default async function AssetPage({
             <span>{asset.dimension}</span>
             <span>{asset.assetType}</span>
             <span className="license-badge">{asset.license}</span>
+            <RadarBadge score={asset.radarScore} />
           </div>
           <h1>{asset.title}</h1>
           <p className="detail-author">

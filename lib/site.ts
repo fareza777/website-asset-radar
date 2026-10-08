@@ -3,7 +3,7 @@ export const siteUrl = (
 ).replace(/\/$/, "");
 export const siteName = "AssetRadar";
 export const siteDescription =
-  "Discover free game development assets with verified licenses. Browse 2D art, 3D models, UI kits, audio, and textures for your next game.";
+  "Discover curated free game assets, limited-time freebies, and worthwhile premium deals. Explore 2D, 3D, UI and audio with verified prices and licenses.";
 
 export function jsonLd(data: unknown) {
   return JSON.stringify(data).replace(/</g, "\\u003c");

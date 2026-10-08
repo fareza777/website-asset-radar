@@ -32,11 +32,11 @@ export async function generateMetadata({
   return {
     title: `Free ${name} game assets`,
     description: descriptions[name],
-    alternates: { canonical: `/categories/${category}/` },
+    alternates: { canonical: `/category/${category}/` },
     openGraph: {
       title: `Free ${name} game assets | AssetRadar`,
       description: descriptions[name],
-      url: `/categories/${category}/`,
+      url: `/category/${category}/`,
       images: ["/og.jpg"],
     },
     twitter: {
@@ -65,13 +65,13 @@ export default async function CategoryPage({
             "@context": "https://schema.org",
             "@type": "CollectionPage",
             name: `Free ${name} game assets`,
-            url: `${siteUrl}/categories/${category}/`,
+            url: `${siteUrl}/category/${category}/`,
             mainEntity: {
               "@type": "ItemList",
               itemListElement: items.map((a, i) => ({
                 "@type": "ListItem",
                 position: i + 1,
-                url: `${siteUrl}/assets/${a.id}/`,
+                url: `${siteUrl}/asset/${a.id}/`,
                 name: a.title,
               })),
             },
@@ -90,9 +90,10 @@ export default async function CategoryPage({
         <p>{descriptions[name]}</p>
       </div>
       <AssetGallery
-        assets={assets}
+        assets={items}
         initialFilters={{ category: name }}
         heading={`${name} assets`}
+        showCategories={false}
       />
     </>
   );

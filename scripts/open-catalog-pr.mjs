@@ -69,13 +69,13 @@ if (!changed.length) {
 if (
   changed.some(
     (file) =>
-      !/^(data\/assets\.json|data\/evidence\/[a-z0-9-]+\.json|public\/previews\/[a-z0-9-]+\.webp|public\/audio\/[a-z0-9-]+\.ogg)$/.test(
+      !/^(data\/(assets|offers|offer-archive|offer-candidates)\.json|data\/(evidence|offer-evidence)\/[a-z0-9-]+\.json|public\/previews\/[a-z0-9-]+\.webp|public\/audio\/[a-z0-9-]+\.ogg)$/.test(
         file,
       ),
   )
 )
   throw new Error(
-    "Unexpected changes outside the catalog, evidence, and licensed previews",
+    "Unexpected changes outside catalog records, evidence, and permitted media",
   );
 for (const script of ["lint", "typecheck", "test", "build"])
   runNpm(["run", script]);
@@ -99,12 +99,10 @@ const existing = JSON.parse(
     "url",
   ]),
 );
-if (existing.length) {
-  console.log(existing[0].url);
-  process.exit(0);
-}
 mkdirSync(".cache", { recursive: true });
 const catalog = JSON.parse(readFileSync("data/assets.json", "utf8"));
+const promotions = JSON.parse(readFileSync("data/offers.json", "utf8"));
+const archive = JSON.parse(readFileSync("data/offer-archive.json", "utf8"));
 const changedIds = changed
   .filter((file) => file.startsWith("data/evidence/"))
   .map((file) =>
@@ -114,10 +112,45 @@ const changedIds = changed
       .replace(/\.json$/, ""),
   );
 const reviewed = catalog.filter((asset) => changedIds.includes(asset.id));
+const offerIds = changed
+  .filter((file) => file.startsWith("data/offer-evidence/"))
+  .map((file) =>
+    file
+      .split("/")
+      .at(-1)
+      .replace(/\.json$/, ""),
+  );
+const reviewedOffers = promotions.filter((asset) =>
+  offerIds.includes(asset.id),
+);
+const archivedSummary = changed.includes("data/offer-archive.json")
+  ? archive
+      .slice(-10)
+      .map(
+        ({ offer, reason, archivedAt }) =>
+          `- [${offer.title}](${offer.canonicalSourceUrl}) — ${reason}; archived ${archivedAt}; last actual verification ${offer.lastChecked}`,
+      )
+      .join("\n")
+  : "No archive changes.";
 writeFileSync(
   ".cache/catalog-pr-body.md",
-  `Updates the free-asset catalog with verified source links, license evidence, and preview provenance.\n\nAssets reviewed:\n\n${reviewed.map((asset) => `- [${asset.title}](${asset.sourceUrl}) — ${asset.license}; checked ${asset.verifiedAt}; evidence: \`data/evidence/${asset.id}.json\``).join("\n") || "See the catalog diff."}\n\nChanged files:\n\n${changed.map((file) => `- \`${file}\``).join("\n")}\n\nValidation: lint, TypeScript, integrity tests, media/evidence validation, and static production build passed. Review the candidate and link-check report summaries from the Cursor run alongside each record's evidence.\n\nThis PR requires human review. It does not merge itself or deploy directly.\n`,
+  `Maintains the curated free library and verified promotions. Prices are published only with matching first-party evidence; expired or stale offers are archived.\n\nFree assets reviewed:\n\n${reviewed.map((asset) => `- [${asset.title}](${asset.sourceUrl}) — [${asset.license}](${asset.licenseUrl}); checked ${asset.lastChecked}; evidence: \`data/evidence/${asset.id}.json\``).join("\n") || "No free-asset evidence changes."}\n\nPromotions reviewed:\n\n${reviewedOffers.map((asset) => `- [${asset.title}](${asset.canonicalSourceUrl}) — ${asset.currency} ${asset.originalPrice} → ${asset.salePrice}; ${asset.discountPercent}% off; Radar Score ${asset.radarScore}; [${asset.license}](${asset.licenseUrl})${asset.licenseTier ? ` (${asset.licenseTier} tier)` : ""}; ${asset.expiresAt ? `ends ${asset.expiresAt}` : "end time unconfirmed"}; checked ${asset.lastChecked}; evidence: \`data/offer-evidence/${asset.id}.json\``).join("\n") || "No promotion evidence changes."}\n\nArchive changes (most recent 10):\n\n${archivedSummary}\n\nChanged files:\n\n${changed.map((file) => `- \`${file}\``).join("\n")}\n\nValidation: lint, TypeScript, integrity tests, media/evidence validation, and static production build passed. Review discovery and link-check summaries from the Cursor run alongside each record's evidence. A successful HEAD request does not verify price or license terms. Media needs explicit permission; absent permission uses an original editorial cover.\n\nThis PR requires human review. It does not merge itself or deploy directly.\n`,
 );
+if (existing.length) {
+  run("gh", [
+    "pr",
+    "edit",
+    existing[0].url,
+    "--repo",
+    repo,
+    "--title",
+    `Catalog: verified assets and offers (${date})`,
+    "--body-file",
+    ".cache/catalog-pr-body.md",
+  ]);
+  console.log(existing[0].url);
+  process.exit(0);
+}
 console.log(
   run("gh", [
     "pr",
@@ -130,7 +163,7 @@ console.log(
     branch,
     "--draft",
     "--title",
-    `Catalog: verified free assets (${date})`,
+    `Catalog: verified assets and offers (${date})`,
     "--body-file",
     ".cache/catalog-pr-body.md",
   ]),

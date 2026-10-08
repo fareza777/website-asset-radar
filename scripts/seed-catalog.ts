@@ -7,6 +7,7 @@ import sharp from "sharp";
 import { OggVorbisDecoder } from "@wasm-audio-decoders/ogg-vorbis";
 import defaultSeeds from "../data/seed-assets.json";
 import { categories, assetTypes, type Asset } from "../lib/types";
+import { enrichFreeAsset } from "../lib/free-metadata";
 import { z } from "zod";
 import { canonicalUrl } from "../lib/catalog-utils";
 import { validateCatalog } from "../lib/catalog-schema";
@@ -190,44 +191,50 @@ async function seed() {
         .text();
       const fileCount = Number.parseInt(countText.replace(/[^\d]/g, ""), 10);
       const evidence = `${title}; License: Creative Commons CC0; free download confirmed on the source page and in ${licenseFile}.`;
-      const item: Asset = {
-        id: `kenney-${seed.slug}`,
-        title,
-        author: "Kenney",
-        summary: seed.summary,
-        categories: seed.categories as Asset["categories"],
-        dimension: isAudio ? "Audio" : is3D ? "3D" : "2D",
-        assetType: seed.assetType as Asset["assetType"],
-        source: "Kenney",
-        sourceUrl,
-        license: "CC0",
-        licenseUrl,
-        verificationUrl: sourceUrl,
-        verifiedAt: today,
-        addedAt: today,
-        evidence,
-        evidenceSha256: sha(html),
-        formats,
-        engines: isAudio
-          ? ["Unity", "Godot", "GameMaker", "Unreal"]
-          : is3D
-            ? ["Unity", "Godot", "Unreal"]
-            : ["Unity", "Godot", "Unreal", "GameMaker"],
-        engineNote:
-          "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
-        tags: tags.length ? tags : [seed.slug.replaceAll("-", " ")],
-        ...(fileCount ? { fileCount } : {}),
-        preview: `/previews/kenney-${seed.slug}.webp`,
-        ...(isAudio ? { audioPreview: `/audio/kenney-${seed.slug}.ogg` } : {}),
-        previewProvenance: {
-          url: zipUrl,
-          file: chosen,
+      const checkedAt = new Date().toISOString();
+      const item = enrichFreeAsset(
+        {
+          id: `kenney-${seed.slug}`,
+          title,
+          author: "Kenney",
+          summary: seed.summary,
+          categories: seed.categories as Asset["categories"],
+          dimension: isAudio ? "Audio" : is3D ? "3D" : "2D",
+          assetType: seed.assetType as Asset["assetType"],
+          source: "Kenney",
+          sourceUrl,
           license: "CC0",
-          sha256: sha(files[chosen]),
-          note: previewNote,
+          licenseUrl,
+          verificationUrl: sourceUrl,
+          verifiedAt: today,
+          addedAt: today,
+          evidence,
+          evidenceSha256: sha(html),
+          formats,
+          engines: isAudio
+            ? ["Unity", "Godot", "GameMaker", "Unreal"]
+            : is3D
+              ? ["Unity", "Godot", "Unreal"]
+              : ["Unity", "Godot", "Unreal", "GameMaker"],
+          engineNote:
+            "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+          tags: tags.length ? tags : [seed.slug.replaceAll("-", " ")],
+          ...(fileCount ? { fileCount } : {}),
+          preview: `/previews/kenney-${seed.slug}.webp`,
+          ...(isAudio
+            ? { audioPreview: `/audio/kenney-${seed.slug}.ogg` }
+            : {}),
+          previewProvenance: {
+            url: zipUrl,
+            file: chosen,
+            license: "CC0",
+            sha256: sha(files[chosen]),
+            note: previewNote,
+          },
+          featured: "featured" in seed && seed.featured === true,
         },
-        featured: "featured" in seed && seed.featured === true,
-      };
+        checkedAt,
+      );
       validateCatalog([...catalog, item]);
       catalog.push(item);
       await writeFile(
@@ -235,7 +242,7 @@ async function seed() {
         JSON.stringify(
           {
             sourceUrl,
-            checkedAt: new Date().toISOString(),
+            checkedAt,
             httpStatus: 200,
             pageSha256: sha(html),
             archiveUrl: zipUrl,

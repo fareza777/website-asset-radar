@@ -16,9 +16,24 @@ export const assetTypes = [
   "Sound Effects",
   "Music",
   "Textures",
+  "Environments",
+  "Tools & Plugins",
+  "Characters",
+  "VFX",
 ] as const;
 export type AssetType = (typeof assetTypes)[number];
 export type Asset = {
+  type: "free";
+  originalPrice: null;
+  salePrice: 0;
+  discountPercent: null;
+  currency: null;
+  expiresAt: null;
+  rating: null;
+  reviewCount: null;
+  radarScore: number;
+  commercialUse: boolean;
+  lastChecked: string;
   id: string;
   title: string;
   author: string;
@@ -51,6 +66,88 @@ export type Asset = {
     note: string;
   };
   featured?: boolean;
+};
+
+export type Promotion = Omit<
+  Asset,
+  | "type"
+  | "originalPrice"
+  | "salePrice"
+  | "discountPercent"
+  | "currency"
+  | "expiresAt"
+  | "rating"
+  | "reviewCount"
+  | "source"
+  | "license"
+  | "preview"
+  | "verifiedAt"
+  | "evidence"
+  | "evidenceSha256"
+  | "verificationUrl"
+  | "previewProvenance"
+> & {
+  type: "limited_free" | "deal";
+  originalPrice: number;
+  salePrice: number;
+  discountPercent: number;
+  currency: string;
+  expiresAt: string | null;
+  rating: number | null;
+  /** Marketplace rating count; not a claim that these are written reviews. */
+  reviewCount: number | null;
+  source:
+    | "Fab"
+    | "Unity Asset Store"
+    | "itch.io"
+    | "GameDev Market"
+    | "Kenney"
+    | "OpenGameArt";
+  canonicalSourceUrl: string;
+  license: string;
+  licenseNote: string;
+  licenseTier: string | null;
+  priceNote: string;
+  preview: string | null;
+  thumbnailPermission: {
+    permissionUrl: string;
+    license: string;
+    note: string;
+  } | null;
+  curation: {
+    quality: number;
+    value: number;
+    completeness: number;
+    reputation: number;
+    rationale: string;
+  };
+};
+export type DirectoryAsset = Asset | Promotion;
+export type OfferEvidence = {
+  id: string;
+  sourceUrl: string;
+  checkedAt: string;
+  method: "browser" | "permitted-fetch";
+  httpStatus: 200;
+  price: {
+    originalPrice: number;
+    salePrice: number;
+    currency: string;
+    licenseTier: string | null;
+    note: string;
+  };
+  license: { name: string; url: string; commercialUse: boolean; note: string };
+  expiresAt: string | null;
+  expiryEvidenceUrl: string | null;
+  expiryNote: string | null;
+  rating: number | null;
+  reviewCount: number | null;
+  productNote: string;
+};
+export type ArchivedOffer = {
+  offer: Promotion;
+  reason: "expired" | "verification_required";
+  archivedAt: string;
 };
 
 export type Collection = {

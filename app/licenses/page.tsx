@@ -123,6 +123,25 @@ export default function Licenses() {
           Find a free starting point <ArrowRight size={18} />
         </Link>
       </section>
+      <section className="document-section">
+        <h2>Free to claim, with a source license.</h2>
+        <p>
+          A limited-time free price does not turn a premium asset into CC0. Fab
+          assets on this radar use the Fab Standard License and the indicated
+          pricing tier. Creator assets on itch.io use the license attached to
+          that particular listing. Each promotion page links to its commercial
+          terms and any restrictions on redistribution.
+        </p>
+        <a
+          className="text-link"
+          href="https://www.fab.com/eula"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Read the Fab Standard License
+          <ArrowUpRight size={16} />
+        </a>
+      </section>
     </div>
   );
 }

@@ -64,7 +64,7 @@ export default async function CollectionPage({
               itemListElement: items.map((a, i) => ({
                 "@type": "ListItem",
                 position: i + 1,
-                url: `${siteUrl}/assets/${a.id}/`,
+                url: `${siteUrl}/asset/${a.id}/`,
                 name: a.title,
               })),
             },

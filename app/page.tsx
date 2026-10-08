@@ -1,7 +1,14 @@
 import { Hero } from "@/components/hero";
-import { AssetGallery } from "@/components/asset-gallery";
+import {
+  HomeSearch,
+  FreeDiscoverySection,
+  CategoryDiscovery,
+} from "@/components/home-discovery";
+import { PromotionSection } from "@/components/promotion-section";
 import { CollectionsPreview } from "@/components/collections-preview";
-import { assets } from "@/lib/catalog";
+import { assets, offers } from "@/lib/catalog";
+import { filterAssets } from "@/lib/catalog-utils";
+import { defaultFilters } from "@/lib/types";
 import { siteUrl, jsonLd } from "@/lib/site";
 
 export default function Home() {
@@ -21,7 +28,15 @@ export default function Home() {
         }}
       />
       <Hero />
-      <AssetGallery assets={assets} />
+      <HomeSearch />
+      <PromotionSection offers={offers} type="limited_free" />
+      <PromotionSection offers={offers} type="deal" />
+      <FreeDiscoverySection assets={assets.filter((asset) => asset.featured)} />
+      <FreeDiscoverySection
+        assets={filterAssets(assets, { ...defaultFilters, sort: "latest" })}
+        latest
+      />
+      <CategoryDiscovery />
       <CollectionsPreview />
     </>
   );

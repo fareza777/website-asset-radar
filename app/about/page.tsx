@@ -53,6 +53,80 @@ export default function About() {
           trackers, paid memberships, or hidden download gates.
         </p>
       </section>
+      <section className="document-section" id="radar-score">
+        <h2>A useful signal: Radar Score.</h2>
+        <p>
+          Radar Score is our editorial score from 0–100. It helps compare a
+          find’s usefulness and value; marketplace stars and rating counts are
+          shown separately. These are assessments of the published information,
+          rather than hands-on performance tests.
+        </p>
+        <table className="score-method-table">
+          <thead>
+            <tr>
+              <th scope="col">What we consider</th>
+              <th scope="col">Points</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Quality and marketplace ratings</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>Value for the asking price</td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td>Verified discount</td>
+              <td>15</td>
+            </tr>
+            <tr>
+              <td>Completeness and documented contents</td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Commercial license usability</td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td>Creator and source reputation</td>
+              <td>10</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          Quality blends published stars with the editorial grade, using a
+          ten-rating prior so a small sample does not dominate. Value,
+          completeness and reputation are editorial grades from 0–5, supported
+          by a selection rationale on each promotion page. Discount points come
+          from the verified prices. We round each factor to whole points.
+        </p>
+        <p>
+          Permanently free packs receive full value and free-price points,
+          neutral quality points when unrated, format and file-count points, and
+          verified commercial-license points. External ratings stay unknown when
+          a source has not published them. Paid deals need at least 30% off, a
+          score of 70, quality and value grades of at least 3/5, a commercial
+          license, and at least 4 stars when a marketplace rating exists.
+        </p>
+      </section>
+      <section className="document-section">
+        <h2>A small window. A clear price.</h2>
+        <p>
+          Free Today highlights premium assets temporarily free to claim. Deals
+          Radar is a curated selection of paid discounts. Promotions display
+          their verified currency and license tier; source pages provide the
+          current purchase and claim options.
+        </p>
+        <p>
+          Expired promotions leave discovery automatically. Promotions also stop
+          appearing after 48 hours without a new price and license check. A
+          countdown appears only when the source provides a known deadline. When
+          artwork permission is unclear, an original editorial cover links to
+          the publisher’s previews.
+        </p>
+      </section>
       <section className="document-section">
         <h2>A library that can keep growing.</h2>
         <p>

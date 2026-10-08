@@ -22,12 +22,12 @@ export function Hero() {
           Remarkable free game assets. Verified licenses.
           <br className="desktop-br" /> More time to make something great.
         </p>
-        <a href="#asset-library" className="button primary">
+        <Link href="/free/" className="button primary">
           Explore the library <ArrowRightIcon size={18} />
-        </a>
+        </Link>
       </div>
       <Link
-        href="/assets/kenney-nature-kit/"
+        href="/asset/kenney-nature-kit/"
         className="hero-feature"
         aria-label="Discover Kenney Nature Kit"
       >

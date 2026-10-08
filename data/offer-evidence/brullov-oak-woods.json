@@ -1,0 +1,26 @@
+{
+  "id": "brullov-oak-woods",
+  "sourceUrl": "https://brullov.itch.io/oak-woods",
+  "checkedAt": "2026-10-08T16:41:49Z",
+  "method": "browser",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 2,
+    "salePrice": 1,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "Live product page showed 2 USD reduced to 1 USD."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://brullov.itch.io/oak-woods",
+    "commercialUse": true,
+    "note": "The product's own license section explicitly permits commercial projects and prohibits redistributing or reselling the asset files."
+  },
+  "expiresAt": null,
+  "expiryEvidenceUrl": null,
+  "expiryNote": null,
+  "rating": 4.8,
+  "reviewCount": 122,
+  "productNote": "Inspected the original publisher listing and its included-format description. ZIP/RAR are publisher-listed archive formats; their paid contents were not downloaded."
+}

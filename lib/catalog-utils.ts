@@ -1,6 +1,9 @@
-import type { Asset, Filters, PersonalCollection } from "./types";
+import type { DirectoryAsset, Filters, PersonalCollection } from "./types";
 
-export function filterAssets(assets: Asset[], filters: Filters): Asset[] {
+export function filterAssets<T extends DirectoryAsset>(
+  assets: T[],
+  filters: Filters,
+): T[] {
   const terms = filters.query
     .trim()
     .toLocaleLowerCase()
@@ -13,6 +16,10 @@ export function filterAssets(assets: Asset[], filters: Filters): Asset[] {
       asset.summary,
       asset.source,
       asset.assetType,
+      asset.dimension,
+      asset.license,
+      ...asset.formats,
+      ...asset.engines,
       ...asset.tags,
       ...asset.categories,
     ]
@@ -22,7 +29,7 @@ export function filterAssets(assets: Asset[], filters: Filters): Asset[] {
       terms.every((term) => haystack.includes(term)) &&
       (filters.category === "All" ||
         asset.categories.includes(
-          filters.category as Asset["categories"][number],
+          filters.category as DirectoryAsset["categories"][number],
         )) &&
       (filters.dimension === "All" || asset.dimension === filters.dimension) &&
       (filters.assetType === "All" || asset.assetType === filters.assetType) &&
@@ -103,5 +110,5 @@ export function formatDate(value: string): string {
     month: "short",
     year: "numeric",
     timeZone: "UTC",
-  }).format(new Date(`${value}T00:00:00Z`));
+  }).format(new Date(value.includes("T") ? value : `${value}T00:00:00Z`));
 }

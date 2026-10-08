@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { assetTypes, categories } from "./types";
 import { canonicalUrl } from "./catalog-utils";
+import { calculateFreeScore } from "./offer-utils";
 
 const date = z
   .string()
@@ -23,6 +24,17 @@ const https = z.url().refine((v) => {
 
 export const assetSchema = z
   .object({
+    type: z.literal("free"),
+    originalPrice: z.null(),
+    salePrice: z.literal(0),
+    discountPercent: z.null(),
+    currency: z.null(),
+    expiresAt: z.null(),
+    rating: z.null(),
+    reviewCount: z.null(),
+    radarScore: z.number().int().min(0).max(100),
+    commercialUse: z.literal(true),
+    lastChecked: z.iso.datetime(),
     id: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
     title: z.string().min(3).max(100),
     author: z.string().min(2),
@@ -71,6 +83,8 @@ export function validateCatalog(
   const ids = new Set<string>();
   const urls = new Set<string>();
   for (const asset of assets) {
+    if (asset.radarScore !== calculateFreeScore(asset))
+      throw new Error(`Free Radar Score needs recalculation: ${asset.id}`);
     if (ids.has(asset.id)) throw new Error(`Duplicate asset id: ${asset.id}`);
     const url = canonicalUrl(asset.sourceUrl);
     if (urls.has(url)) throw new Error(`Duplicate source URL: ${url}`);

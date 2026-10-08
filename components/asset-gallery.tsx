@@ -20,7 +20,14 @@ import {
   Heart as HeartIcon,
   ArrowRight as ArrowRightIcon,
 } from "@phosphor-icons/react";
-import { categories, type Asset, type Filters } from "@/lib/types";
+import {
+  categories,
+  type DirectoryAsset,
+  type Filters,
+  type Promotion,
+} from "@/lib/types";
+import { useOfferClock } from "@/lib/use-offer-clock";
+import { offerStatus } from "@/lib/offer-utils";
 import { filterAssets } from "@/lib/catalog-utils";
 import { useCatalogFilters } from "@/lib/use-catalog-filters";
 import { useLibrary } from "./library-provider";
@@ -72,12 +79,14 @@ export function AssetGallery({
   favoritesOnly = false,
   heading = "The asset library",
   showCategories = true,
+  offerMode,
 }: {
-  assets: Asset[];
+  assets: DirectoryAsset[];
   initialFilters?: Partial<Filters>;
   favoritesOnly?: boolean;
   heading?: string;
   showCategories?: boolean;
+  offerMode?: Promotion["type"];
 }) {
   const { favorites, ready } = useLibrary();
   const { filters, defaults, update } = useCatalogFilters(initialFilters);
@@ -85,9 +94,23 @@ export function AssetGallery({
   const [limit, setLimit] = useState(12);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const searchRef = useRef<HTMLInputElement>(null);
-  const base = favoritesOnly
-    ? assets.filter((asset) => favorites.includes(asset.id))
+  const filterRef = useRef<HTMLButtonElement>(null);
+  const filterPanelRef = useRef<HTMLDivElement>(null);
+  const now = useOfferClock(
+    offerMode
+      ? assets.filter((asset): asset is Promotion => asset.type !== "free")
+      : [],
+  );
+  const available = offerMode
+    ? assets.filter(
+        (asset) =>
+          asset.type === offerMode &&
+          (now === null || offerStatus(asset, now) === "active"),
+      )
     : assets;
+  const base = favoritesOnly
+    ? available.filter((asset) => favorites.includes(asset.id))
+    : available;
   const filtered = filterAssets(base, filters);
   const shown = filtered.slice(0, limit);
   const activeKeys = (Object.keys(filters) as (keyof Filters)[]).filter(
@@ -99,7 +122,13 @@ export function AssetGallery({
         event.preventDefault();
         searchRef.current?.focus();
       }
-      if (event.key === "Escape") setFiltersOpen(false);
+      if (
+        event.key === "Escape" &&
+        filterPanelRef.current?.contains(document.activeElement)
+      ) {
+        setFiltersOpen(false);
+        filterRef.current?.focus();
+      }
     };
     document.addEventListener("keydown", handleShortcut);
     return () => document.removeEventListener("keydown", handleShortcut);
@@ -209,6 +238,7 @@ export function AssetGallery({
           <kbd>Ctrl K</kbd>
         </div>
         <button
+          ref={filterRef}
           className={`button filter-toggle ${filtersOpen || activeKeys.length ? "has-filters" : ""}`}
           aria-expanded={filtersOpen}
           aria-controls="catalog-filters"
@@ -222,6 +252,7 @@ export function AssetGallery({
         </button>
       </div>
       <div
+        ref={filterPanelRef}
         id="catalog-filters"
         className={`filter-bar ${filtersOpen ? "expanded" : ""}`}
       >
@@ -241,7 +272,7 @@ export function AssetGallery({
           <SelectFilter
             label="Game engine"
             value={filters.engine}
-            options={["Godot", "Unity", "Unreal", "GameMaker"]}
+            options={[...new Set(assets.flatMap((asset) => asset.engines))]}
             onChange={(engine) => update({ engine })}
           />
           <SelectFilter
@@ -289,7 +320,9 @@ export function AssetGallery({
       </div>
       {filtered.length ? (
         <>
-          <div className={`asset-grid ${view === "list" ? "list-view" : ""}`}>
+          <div
+            className={`asset-grid ${offerMode ? "offer-grid" : ""} ${view === "list" ? "list-view" : ""}`}
+          >
             {shown.map((asset, index) => (
               <AssetCard
                 key={asset.id}
@@ -313,24 +346,41 @@ export function AssetGallery({
             </div>
           )}
         </>
+      ) : offerMode && now === null && assets.length ? (
+        <div className="promotion-loading" role="status">
+          Checking current offers…
+        </div>
       ) : (
         <div className="empty-state">
           <div className="empty-icon">
             <SearchIcon size={35} />
           </div>
-          <h3>A little too specific?</h3>
+          <h3>
+            {offerMode && !base.length
+              ? "No verified offers right now."
+              : "A little too specific?"}
+          </h3>
           <p>
-            No assets match these filters. Try a different style or loosen a
-            filter.
+            {offerMode && !base.length
+              ? "Offers appear after their current price and commercial license are verified. Explore the permanent free library while you wait."
+              : "No assets match these filters. Try a different style or loosen a filter."}
           </p>
-          <button className="button primary" onClick={() => update({}, true)}>
-            Reset filters <ArrowRightIcon size={17} />
-          </button>
+          {offerMode && !base.length ? (
+            <Link className="button primary" href="/free/">
+              Browse free assets
+              <ArrowRightIcon size={17} />
+            </Link>
+          ) : (
+            <button className="button primary" onClick={() => update({}, true)}>
+              Reset filters <ArrowRightIcon size={17} />
+            </button>
+          )}
         </div>
       )}
       <p className="engine-filter-note">
-        Engine filters match importable file formats. Asset setup may be
-        required.
+        {offerMode
+          ? "Prices are checked in the listed currency and may vary by region or license tier. Purchase directly from the original creator."
+          : "Engine filters match importable file formats. Asset setup may be required."}
       </p>
     </section>
   );
