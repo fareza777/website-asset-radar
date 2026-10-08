@@ -1,5 +1,5 @@
 export const siteUrl = (
-  process.env.NEXT_PUBLIC_SITE_URL || "https://website-asset-radar-xi.vercel.app"
+  process.env.NEXT_PUBLIC_SITE_URL || "https://gameassetradar.top"
 ).replace(/\/$/, "");
 export const siteName = "AssetRadar";
 export const siteDescription =
