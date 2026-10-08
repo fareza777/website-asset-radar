@@ -60,7 +60,7 @@ npm test
 npm run build
 ```
 
-GitHub Actions runs these checks on pushes and pull requests. The Vercel configuration uses Next.js static export with `out/` as the output directory. Set `NEXT_PUBLIC_SITE_URL` at build time when assigning a different public domain. Update the social cover's domain text when changing domains.
+GitHub Actions runs these checks on pushes and pull requests. Vercel's Next.js adapter detects `output: "export"` and serves the static export. Leave Vercel's Output Directory override unset so the adapter can read Next.js build manifests. Set `NEXT_PUBLIC_SITE_URL` at build time when assigning a different public domain. Update the social cover's domain text when changing domains.
 
 No production secrets are required. The daily maintenance agent needs GitHub access to propose a PR; visitors never need an account. The Cursor automation is prepared in this repository and must be saved and activated in the owner's Cursor account.
 
