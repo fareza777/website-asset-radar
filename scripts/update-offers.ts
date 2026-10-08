@@ -30,9 +30,12 @@ async function main() {
     .parse(
       JSON.parse(await readFile("data/offer-archive.json", "utf8")),
     ) as ArchivedOffer[];
-  const candidates = JSON.parse(
-    await readFile("data/offer-candidates.json", "utf8"),
-  ) as Promotion[];
+  // Validate candidate IDs before using them to construct evidence file paths.
+  const candidates = z
+    .array(promotionSchema)
+    .parse(
+      JSON.parse(await readFile("data/offer-candidates.json", "utf8")),
+    ) as Promotion[];
   const proofs = new Map<string, OfferEvidence>();
   for (const offer of [...current, ...candidates]) {
     const proof = JSON.parse(
