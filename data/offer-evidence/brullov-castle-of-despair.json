@@ -1,0 +1,26 @@
+{
+  "id": "brullov-castle-of-despair",
+  "sourceUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
+  "checkedAt": "2026-10-08T21:25:24.713Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 2,
+    "salePrice": 1,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "The current purchase panel and marketplace Offer both require USD $1, reduced from $2. An older free-assets sentence in the description conflicts with that panel; this entry follows the paid purchase price and does not claim the pack is free."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
+    "commercialUse": true,
+    "note": "The creator permits this asset pack in free and commercial projects, and prohibits redistribution. No additional modification or attribution terms are stated in the product license note."
+  },
+  "expiresAt": "2026-10-31T23:00:00Z",
+  "expiryEvidenceUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
+  "expiryNote": "Exact UTC expiry read from the first-party product JSON-LD Offer.priceValidUntil. Its sale price and currency agree with the visible purchase panel.",
+  "rating": 4.9,
+  "reviewCount": 75,
+  "productNote": "Public product description, purchase panel, download-file list, creator licensing terms and marketplace Product/Offer structured data were reviewed. A $1 environment pack with 4.9/5 from 75 marketplace ratings. The publisher lists 150 tiles, 40 decorations, 15 animated decorations, three background layers and a basic HUD; these counts are creator claims, not an archive audit. Paid files and publisher images were not downloaded."
+}

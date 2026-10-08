@@ -9,6 +9,7 @@ import {
 import type { Asset } from "@/lib/types";
 import { categories } from "@/lib/types";
 import { AssetCard } from "./asset-card";
+import { assets as catalogAssets } from "@/lib/catalog";
 
 export function HomeSearch() {
   return (
@@ -65,7 +66,7 @@ export function FreeDiscoverySection({
         </Link>
       </div>
       <div className="asset-grid discovery-grid">
-        {assets.slice(0, 3).map((asset) => (
+        {assets.slice(0, 6).map((asset) => (
           <AssetCard key={asset.id} asset={asset} />
         ))}
       </div>
@@ -91,8 +92,16 @@ export function CategoryDiscovery() {
             className="category-tab"
             key={category}
             href={`/category/${category.toLowerCase()}/`}
+            aria-label={`Browse ${catalogAssets.filter((asset) => asset.categories.includes(category)).length} ${category} free assets`}
           >
             {category}
+            <span className="category-result-count">
+              {
+                catalogAssets.filter((asset) =>
+                  asset.categories.includes(category),
+                ).length
+              }
+            </span>
             <ArrowRight size={15} />
           </Link>
         ))}

@@ -15,7 +15,7 @@
     "source": "itch.io",
     "discoveryUrl": "https://itch.io/game-assets/on-sale",
     "priority": 3,
-    "verification": "Verify the creator's own product price and explicit commercial license. Confirm pay-what-you-want minimums. An exact expiry must come from the actual sale page; relative timers do not establish an absolute date."
+    "verification": "Verify the creator's own product price and explicit commercial license. Confirm pay-what-you-want minimums. An exact expiry must come from an absolute campaign time or the exact product's matching first-party Offer.priceValidUntil with a timezone; relative timers do not establish an absolute date."
   },
   {
     "source": "GameDev Market",

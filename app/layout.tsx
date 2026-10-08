@@ -3,10 +3,12 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { Sidebar } from "@/components/sidebar";
 import { Footer } from "@/components/footer";
 import { LibraryProvider } from "@/components/library-provider";
-import { directoryAssets } from "@/lib/catalog";
+import { MotionProvider } from "@/components/motion-provider";
+import { assets, collections, directoryAssets } from "@/lib/catalog";
 import { siteDescription, siteUrl } from "@/lib/site";
 import "./globals.css";
 import "./discovery.css";
+import "./polish.css";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist" });
 const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });
@@ -65,13 +67,18 @@ export default function RootLayout({
           Skip to content
         </a>
         <LibraryProvider ids={directoryAssets.map((asset) => asset.id)}>
-          <Sidebar />
-          <div className="main-shell">
-            <main id="main-content" className="main-content">
-              {children}
-            </main>
-            <Footer />
-          </div>
+          <MotionProvider>
+            <Sidebar
+              freeCount={assets.length}
+              collectionCount={collections.length}
+            />
+            <div className="main-shell">
+              <main id="main-content" className="main-content">
+                {children}
+              </main>
+              <Footer />
+            </div>
+          </MotionProvider>
         </LibraryProvider>
       </body>
     </html>

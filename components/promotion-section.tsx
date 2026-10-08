@@ -16,14 +16,14 @@ export function PromotionSection({
   const now = useOfferClock(offers);
   // Stable card geometry is rendered in HTML; live prices/claims wait for the
   // browser clock so an old static page cannot advertise an expired price.
-  const visible = offers
+  const verified = offers
     .filter(
       (asset) =>
         asset.type === type &&
         (now === null || offerStatus(asset, now) === "active"),
     )
-    .sort((a, b) => b.radarScore - a.radarScore)
-    .slice(0, 3);
+    .sort((a, b) => b.radarScore - a.radarScore);
+  const visible = verified.slice(0, 3);
   const isFree = type === "limited_free",
     Icon = isFree ? Fire : Tag;
   return (
@@ -34,7 +34,7 @@ export function PromotionSection({
             <Icon size={23} weight="duotone" />
             {isFree ? "Free Today" : "Deals on Our Radar"}
             {now !== null && (
-              <span className="asset-count">{visible.length}</span>
+              <span className="asset-count">{verified.length}</span>
             )}
           </h2>
           <p>

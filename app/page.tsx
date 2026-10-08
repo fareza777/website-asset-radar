@@ -12,6 +12,17 @@ import { defaultFilters } from "@/lib/types";
 import { siteUrl, jsonLd } from "@/lib/site";
 
 export default function Home() {
+  const featuredIds = [
+    "kenney-nature-kit",
+    "kenney-tiny-town",
+    "kenney-fantasy-town-kit",
+    "kenney-ui-pack-pixel-adventure",
+    "kenney-tiny-dungeon",
+    "kenney-music-jingles",
+  ];
+  const featured = featuredIds.flatMap((id) =>
+    assets.filter((asset) => asset.id === id),
+  );
   return (
     <>
       <script
@@ -31,7 +42,7 @@ export default function Home() {
       <HomeSearch />
       <PromotionSection offers={offers} type="limited_free" />
       <PromotionSection offers={offers} type="deal" />
-      <FreeDiscoverySection assets={assets.filter((asset) => asset.featured)} />
+      <FreeDiscoverySection assets={featured} />
       <FreeDiscoverySection
         assets={filterAssets(assets, { ...defaultFilters, sort: "latest" })}
         latest

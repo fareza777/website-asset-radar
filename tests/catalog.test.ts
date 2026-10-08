@@ -16,7 +16,19 @@ test("search finds file formats, engine names and licenses", () => {
 });
 
 test("search combines words, genre, dimension, type, engine, license and source", () => {
-  const results = filterAssets(assets, {
+  // Representative fixtures keep filter behavior independent of catalog growth.
+  const fixtures = assets.filter((asset) =>
+    [
+      "kenney-tiny-town",
+      "kenney-tiny-farm",
+      "kenney-tiny-battle",
+      "kenney-tiny-dungeon",
+      "kenney-nature-kit",
+      "kenney-ui-pack",
+      "kenney-interface-sounds",
+    ].includes(asset.id),
+  );
+  const results = filterAssets(fixtures, {
     ...defaultFilters,
     query: "dungeon Kenney",
     category: "RPG",
@@ -31,7 +43,7 @@ test("search combines words, genre, dimension, type, engine, license and source"
     ["kenney-tiny-dungeon"],
   );
   assert.equal(
-    filterAssets(assets, {
+    filterAssets(fixtures, {
       ...defaultFilters,
       category: "Audio",
       dimension: "3D",
@@ -39,7 +51,7 @@ test("search combines words, genre, dimension, type, engine, license and source"
     0,
   );
   assert.equal(
-    filterAssets(assets, { ...defaultFilters, query: "  TiNy   KeNnEy " })
+    filterAssets(fixtures, { ...defaultFilters, query: "  TiNy   KeNnEy " })
       .length,
     4,
   );

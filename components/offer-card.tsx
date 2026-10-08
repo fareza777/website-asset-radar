@@ -1,47 +1,14 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import {
-  ArrowUpRight,
-  Star,
-  Clock,
-  Cube,
-  ImageSquare,
-  Waveform,
-  Path,
-  Plant,
-} from "@phosphor-icons/react";
+import { ArrowUpRight, Star, Clock } from "@phosphor-icons/react";
 import type { Promotion } from "@/lib/types";
 import { formatCountdown, formatPrice, offerStatus } from "@/lib/offer-utils";
 import { useOfferClock } from "@/lib/use-offer-clock";
 import { FavoriteButton } from "./favorite-button";
 import { RadarBadge } from "./radar-badge";
-
-export function EditorialCover({ asset }: { asset: Promotion }) {
-  const Icon =
-    asset.assetType === "Tools & Plugins"
-      ? Path
-      : asset.tags.includes("farm")
-        ? Plant
-        : asset.dimension === "3D"
-          ? Cube
-          : asset.dimension === "Audio"
-            ? Waveform
-            : ImageSquare;
-  return (
-    <div className={`editorial-cover cover-${asset.dimension.toLowerCase()}`}>
-      <span className="cover-source">{asset.source}</span>
-      <div className="cover-center">
-        <Icon size={48} weight="duotone" />
-        <strong>{asset.dimension}</strong>
-      </div>
-      <div className="cover-caption">
-        <span>{asset.assetType}</span>
-        <span>Editorial cover</span>
-      </div>
-    </div>
-  );
-}
+import { EditorialCover } from "./editorial-cover";
+export { EditorialCover } from "./editorial-cover";
 
 export function OfferCard({
   asset,

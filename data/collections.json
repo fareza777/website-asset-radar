@@ -1,6 +1,177 @@
 [
-  { "id": "cozy-little-worlds", "name": "Cozy little worlds", "description": "Tiny towns, quiet farms, and all the pieces for a game that feels like home.", "assetIds": ["kenney-tiny-town", "kenney-tiny-farm", "kenney-tiny-battle", "kenney-food-kit", "kenney-city-kit-suburban", "kenney-music-jingles"], "cover": "kenney-tiny-town", "color": "peach" },
-  { "id": "into-the-dungeon", "name": "Into the dungeon", "description": "Build your next quest with pixel dungeons, fantasy castles, and RPG essentials.", "assetIds": ["kenney-tiny-dungeon", "kenney-mini-dungeon", "kenney-castle-kit", "kenney-ui-pack-rpg-expansion", "kenney-rpg-audio"], "cover": "kenney-tiny-dungeon", "color": "blue" },
-  { "id": "wild-by-nature", "name": "Wild by nature", "description": "Open-air environments and survival props for your next outdoor adventure.", "assetIds": ["kenney-nature-kit", "kenney-survival-kit", "kenney-pirate-kit", "kenney-impact-sounds"], "cover": "kenney-nature-kit", "color": "mint" },
-  { "id": "the-finishing-touches", "name": "The finishing touches", "description": "Thoughtful interfaces, clear icons, and audio details to bring a prototype together.", "assetIds": ["kenney-ui-pack", "kenney-ui-pack-rpg-expansion", "kenney-game-icons", "kenney-input-prompts", "kenney-interface-sounds", "kenney-music-jingles"], "cover": "kenney-ui-pack", "color": "lime" }
+  {
+    "id": "cozy-little-worlds",
+    "name": "Cozy little worlds",
+    "description": "Tiny towns, quiet farms, and all the pieces for a game that feels like home.",
+    "assetIds": [
+      "kenney-tiny-town",
+      "kenney-tiny-farm",
+      "kenney-tiny-battle",
+      "kenney-food-kit",
+      "kenney-city-kit-suburban",
+      "kenney-music-jingles"
+    ],
+    "cover": "kenney-tiny-town",
+    "color": "peach"
+  },
+  {
+    "id": "into-the-dungeon",
+    "name": "Into the dungeon",
+    "description": "Build your next quest with pixel dungeons, fantasy castles, and RPG essentials.",
+    "assetIds": [
+      "kenney-tiny-dungeon",
+      "kenney-mini-dungeon",
+      "kenney-castle-kit",
+      "kenney-ui-pack-rpg-expansion",
+      "kenney-rpg-audio"
+    ],
+    "cover": "kenney-tiny-dungeon",
+    "color": "blue"
+  },
+  {
+    "id": "wild-by-nature",
+    "name": "Wild by nature",
+    "description": "Open-air environments and survival props for your next outdoor adventure.",
+    "assetIds": [
+      "kenney-nature-kit",
+      "kenney-survival-kit",
+      "kenney-pirate-kit",
+      "kenney-impact-sounds"
+    ],
+    "cover": "kenney-nature-kit",
+    "color": "mint"
+  },
+  {
+    "id": "the-finishing-touches",
+    "name": "The finishing touches",
+    "description": "Thoughtful interfaces, clear icons, and audio details to bring a prototype together.",
+    "assetIds": [
+      "kenney-ui-pack",
+      "kenney-ui-pack-rpg-expansion",
+      "kenney-game-icons",
+      "kenney-input-prompts",
+      "kenney-interface-sounds",
+      "kenney-music-jingles"
+    ],
+    "cover": "kenney-ui-pack",
+    "color": "lime"
+  },
+  {
+    "id": "a-town-of-your-own",
+    "name": "A town of your own",
+    "description": "Build a fantasy town, furnish its rooms, and give its menus a matching adventure style.",
+    "color": "peach",
+    "assetIds": [
+      "kenney-fantasy-town-kit",
+      "kenney-mini-market",
+      "kenney-furniture-kit",
+      "kenney-food-kit",
+      "kenney-ui-pack-adventure"
+    ],
+    "cover": "kenney-fantasy-town-kit"
+  },
+  {
+    "id": "the-night-shift",
+    "name": "The night shift",
+    "description": "Factories, roads, and railways for a small industrial world with plenty to build.",
+    "color": "mint",
+    "assetIds": [
+      "kenney-factory-kit",
+      "kenney-city-kit-industrial",
+      "kenney-city-kit-roads",
+      "kenney-train-kit",
+      "kenney-tiny-factory",
+      "kenney-ui-pack"
+    ],
+    "cover": "kenney-factory-kit"
+  },
+  {
+    "id": "somewhere-in-orbit",
+    "name": "Somewhere in orbit",
+    "description": "Assemble a sci-fi setting with space kits, a space station, interface pieces, and sound effects.",
+    "color": "blue",
+    "assetIds": [
+      "kenney-space-kit",
+      "kenney-modular-space-kit",
+      "kenney-space-station-kit",
+      "kenney-ui-pack-sci-fi",
+      "kenney-sci-fi-sounds"
+    ],
+    "cover": "kenney-space-station-kit"
+  },
+  {
+    "id": "one-more-jump",
+    "name": "One more jump",
+    "description": "Start a 2D platformer with pixel environments, countryside and industrial expansions, and clear control prompts.",
+    "color": "peach",
+    "assetIds": [
+      "kenney-pixel-platformer",
+      "kenney-pico-8-platformer",
+      "kenney-pixel-platformer-farm-expansion",
+      "kenney-pixel-platformer-industrial-expansion",
+      "kenney-pixel-platformer-food-expansion",
+      "kenney-input-prompts-pixel"
+    ],
+    "cover": "kenney-pixel-platformer-farm-expansion"
+  },
+  {
+    "id": "small-pixels-big-quests",
+    "name": "Small pixels, big quests",
+    "description": "Tiny roguelike environments, caves, interiors, and characters for your next top-down adventure.",
+    "color": "blue",
+    "assetIds": [
+      "kenney-micro-roguelike",
+      "kenney-roguelike-rpg-pack",
+      "kenney-roguelike-caves-dungeons",
+      "kenney-roguelike-indoors",
+      "kenney-roguelike-characters",
+      "kenney-rpg-audio"
+    ],
+    "cover": "kenney-micro-roguelike"
+  },
+  {
+    "id": "menus-with-feeling",
+    "name": "Menus with feeling",
+    "description": "Pair readable interfaces and cursors with small audio cues that make each interaction feel complete.",
+    "color": "mint",
+    "assetIds": [
+      "kenney-ui-pack-pixel-adventure",
+      "kenney-ui-pack-adventure",
+      "kenney-mobile-controls",
+      "kenney-cursor-pixel-pack",
+      "kenney-ui-audio",
+      "kenney-digital-audio"
+    ],
+    "cover": "kenney-ui-pack-pixel-adventure"
+  },
+  {
+    "id": "an-underground-world",
+    "name": "An underground world",
+    "description": "Modular dungeons, caves, and fantasy scenery for building a 3D world below the surface.",
+    "color": "blue",
+    "assetIds": [
+      "kenney-modular-dungeon-kit",
+      "kenney-modular-cave-kit",
+      "kenney-mini-dungeon",
+      "kenney-retro-fantasy-kit",
+      "kenney-castle-kit",
+      "kenney-rpg-audio"
+    ],
+    "cover": "kenney-modular-dungeon-kit"
+  },
+  {
+    "id": "the-outside-world",
+    "name": "The outside world",
+    "description": "Forest and survival models paired with real CC0 ground, rock, and wood color-map previews.",
+    "color": "mint",
+    "assetIds": [
+      "kenney-nature-kit",
+      "kenney-mini-forest",
+      "kenney-survival-kit",
+      "polyhaven-forest-ground-04",
+      "polyhaven-rock-boulder-cracked",
+      "polyhaven-brown-planks-03"
+    ],
+    "cover": "kenney-mini-forest"
+  }
 ]

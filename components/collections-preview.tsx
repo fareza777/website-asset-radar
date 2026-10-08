@@ -21,7 +21,7 @@ export function CollectionsPreview({ all = false }: { all?: boolean }) {
         )}
       </div>
       <div className={`collection-grid ${all ? "all-collections" : ""}`}>
-        {collections.slice(0, all ? 4 : 2).map((collection) => {
+        {(all ? collections : collections.slice(0, 2)).map((collection) => {
           const cover = getAsset(collection.cover);
           return (
             <Link

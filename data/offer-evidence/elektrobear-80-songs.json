@@ -1,0 +1,26 @@
+{
+  "id": "elektrobear-80-songs",
+  "sourceUrl": "https://moonanagames.itch.io/80-songs-pack",
+  "checkedAt": "2026-10-08T21:25:26.560Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 20,
+    "salePrice": 10,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "Verified minimum purchase price from the public product purchase panel. The original and sale prices are USD; no currency conversion or full-archive download was performed."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://moonanagames.itch.io/80-songs-pack",
+    "commercialUse": true,
+    "note": "The creator permits royalty-free use in personal and commercial projects, with credit to composer Elektrobear. Separate redistribution or resale rights are not stated."
+  },
+  "expiresAt": "2026-11-01T12:12:00Z",
+  "expiryEvidenceUrl": "https://moonanagames.itch.io/80-songs-pack",
+  "expiryNote": "Exact UTC expiry read from the first-party product JSON-LD Offer.priceValidUntil. Its sale price and currency agree with the visible purchase panel.",
+  "rating": 5,
+  "reviewCount": 32,
+  "productNote": "Public product description, purchase panel, download-file list, creator licensing terms and marketplace Product/Offer structured data were reviewed. A publisher-listed collection of 80 tracks for $10, with 5.0/5 from 32 marketplace ratings and explicit commercial project use. Useful breadth for projects needing several music cues; composer credit is required. Paid files and publisher images were not downloaded."
+}

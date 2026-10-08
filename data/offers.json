@@ -268,5 +268,225 @@
       "reputation": 4,
       "rationale": "An inexpensive, coherent platformer starter with backgrounds, terrain and character animations. The published 122-rating sample and explicit commercial license support its value. No precise sale deadline was established."
     }
+  },
+  {
+    "id": "elektrobear-80-songs",
+    "title": "80 Songs Pack by Elektrobear",
+    "author": "Elektrobear / Moonana",
+    "summary": "Eighty royalty-free game songs with commercial project use and composer credit required. A broad music library from Elektrobear, published by Moonana.",
+    "categories": [
+      "Audio"
+    ],
+    "dimension": "Audio",
+    "assetType": "Music",
+    "type": "deal",
+    "originalPrice": 20,
+    "salePrice": 10,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-11-01T12:12:00Z",
+    "rating": 5,
+    "reviewCount": 32,
+    "radarScore": 91,
+    "source": "itch.io",
+    "sourceUrl": "https://moonanagames.itch.io/80-songs-pack",
+    "canonicalSourceUrl": "https://moonanagames.itch.io/80-songs-pack",
+    "license": "Creator license",
+    "licenseUrl": "https://moonanagames.itch.io/80-songs-pack",
+    "commercialUse": true,
+    "lastChecked": "2026-10-08T21:25:26.560Z",
+    "addedAt": "2026-10-09",
+    "formats": [
+      "RAR",
+      "OGG"
+    ],
+    "engines": [
+      "Godot",
+      "GameMaker",
+      "RPG Maker"
+    ],
+    "engineNote": "The creator lists Godot, GameMaker and RPG Maker in the product tags. The paid music archive was not downloaded or tested; check its audio formats before buying.",
+    "tags": [
+      "music",
+      "soundtrack",
+      "royalty-free",
+      "audio"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The creator permits royalty-free use in personal and commercial projects, with credit to composer Elektrobear. Separate redistribution or resale rights are not stated.",
+    "priceNote": "Verified minimum purchase price from the public product purchase panel. The original and sale prices are USD; no currency conversion or full-archive download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4.5,
+      "value": 5,
+      "completeness": 5,
+      "reputation": 4.5,
+      "rationale": "A publisher-listed collection of 80 tracks for $10, with 5.0/5 from 32 marketplace ratings and explicit commercial project use. Useful breadth for projects needing several music cues; composer credit is required."
+    }
+  },
+  {
+    "id": "brullov-castle-of-despair",
+    "title": "Castle of Despair — Platformer Environment",
+    "author": "brullov",
+    "summary": "A 32×32 dark-fantasy environment pack with tiles, animated decorations, three parallax layers, and a basic HUD for side-scrolling games.",
+    "categories": [
+      "Platformer",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "type": "deal",
+    "originalPrice": 2,
+    "salePrice": 1,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-10-31T23:00:00Z",
+    "rating": 4.9,
+    "reviewCount": 75,
+    "radarScore": 89,
+    "source": "itch.io",
+    "sourceUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
+    "canonicalSourceUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
+    "license": "Creator license",
+    "licenseUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
+    "commercialUse": true,
+    "lastChecked": "2026-10-08T21:25:24.713Z",
+    "addedAt": "2026-10-09",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "The creator lists a ZIP archive and 32×32 artwork. No engine-ready project or tested engine integration is claimed.",
+    "tags": [
+      "castle",
+      "dark fantasy",
+      "pixel art",
+      "parallax",
+      "platformer"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The creator permits this asset pack in free and commercial projects, and prohibits redistribution. No additional modification or attribution terms are stated in the product license note.",
+    "priceNote": "The current purchase panel and marketplace Offer both require USD $1, reduced from $2. An older free-assets sentence in the description conflicts with that panel; this entry follows the paid purchase price and does not claim the pack is free.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4.5,
+      "value": 5,
+      "completeness": 4.5,
+      "reputation": 4,
+      "rationale": "A $1 environment pack with 4.9/5 from 75 marketplace ratings. The publisher lists 150 tiles, 40 decorations, 15 animated decorations, three background layers and a basic HUD; these counts are creator claims, not an archive audit."
+    }
+  },
+  {
+    "id": "winlu-fantasy-interior",
+    "title": "Winlu Fantasy Tileset — Interior",
+    "author": "WinLu",
+    "summary": "A 48×48 fantasy interior tileset with furniture, room decorations, tavern and shop pieces. The publisher provides RPG Maker and other-engine downloads.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "type": "deal",
+    "originalPrice": 20,
+    "salePrice": 14,
+    "discountPercent": 30,
+    "currency": "USD",
+    "expiresAt": "2026-10-30T18:10:00Z",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "radarScore": 85,
+    "source": "itch.io",
+    "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-interior",
+    "canonicalSourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-interior",
+    "license": "Creator license",
+    "licenseUrl": "https://winlu.itch.io/winlu-fantasy-tileset-interior",
+    "commercialUse": true,
+    "lastChecked": "2026-10-08T21:26:42.829Z",
+    "addedAt": "2026-10-09",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [
+      "RPG Maker"
+    ],
+    "engineNote": "The creator explicitly describes RPG Maker optimization and lists a separate other-engine ZIP. The paid archives were not downloaded or tested.",
+    "tags": [
+      "interior",
+      "fantasy",
+      "furniture",
+      "pixel art",
+      "medieval"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The creator permits commercial projects and editing or modification. Credit is optional and appreciated. Redistribution and resale of the asset pack are prohibited.",
+    "priceNote": "Verified minimum purchase price from the public product purchase panel. The original and sale prices are USD; no currency conversion or full-archive download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4.5,
+      "value": 4.5,
+      "completeness": 5,
+      "reputation": 4,
+      "rationale": "A complementary interior pack with 4.8/5 from 26 marketplace ratings, explicit commercial/editing terms and separate RPG Maker and other-engine files. Its 30% discount meets the minimum curation threshold."
+    }
+  },
+  {
+    "id": "gandalf-medieval-fantasy-tiles",
+    "title": "Medieval Fantasy Tiles — 32×32",
+    "author": "GandalfHardcore",
+    "summary": "Medieval house and castle tiles, interior and exterior pieces, furniture, and decorations for side-scrollers. Characters shown in the publisher's screenshots belong to separate packs.",
+    "categories": [
+      "Platformer",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "type": "deal",
+    "originalPrice": 9.99,
+    "salePrice": 6.49,
+    "discountPercent": 35,
+    "currency": "USD",
+    "expiresAt": "2026-10-12T13:28:00Z",
+    "rating": 5,
+    "reviewCount": 19,
+    "radarScore": 84,
+    "source": "itch.io",
+    "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-sidescroller-house-tiles-asset-pack-32x32",
+    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/pixel-art-sidescroller-house-tiles-asset-pack-32x32",
+    "license": "Creator license",
+    "licenseUrl": "https://gandalfhardcore.itch.io/pixel-art-sidescroller-house-tiles-asset-pack-32x32",
+    "commercialUse": true,
+    "lastChecked": "2026-10-08T21:26:44.743Z",
+    "addedAt": "2026-10-09",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "The publisher describes 16×16 or 32×32 spritesheets and lists ZIP downloads. No engine-specific project or tested integration is claimed.",
+    "tags": [
+      "medieval",
+      "castle",
+      "furniture",
+      "pixel art",
+      "side scroller"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "Commercial and non-commercial project use and modification are allowed. No resale, repackaging, redistribution, AI training, NFT/crypto/Web3 uses, incorporation into game-development tools or printed materials. Attribution requirements are not stated.",
+    "priceNote": "Verified minimum purchase price from the public product purchase panel. The original and sale prices are USD; no currency conversion or full-archive download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4.5,
+      "value": 4.5,
+      "completeness": 4.5,
+      "reputation": 4,
+      "rationale": "35% off an environment-focused pack with 5.0/5 from 19 marketplace ratings and explicit commercial-use terms. Publisher-listed interiors, exteriors and furniture give it useful scene-building breadth; displayed characters are not included."
+    }
   }
 ]

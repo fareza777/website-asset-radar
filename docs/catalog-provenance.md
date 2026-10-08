@@ -1,6 +1,6 @@
 # Catalog provenance
 
-The launch catalog was checked on **8 October 2026**. It includes 21 Kenney packs and three Poly Haven texture materials. AssetRadar hosts small permitted previews and four individual audio samples, and links visitors to the original publisher for full downloads.
+The launch catalog was checked on **8 October 2026** with 21 Kenney packs and three Poly Haven texture materials. On **9 October 2026 (Asia/Jakarta)**, 58 more Kenney packs passed the same source-page and included-archive license checks. The free catalog now has 79 Kenney packs and three Poly Haven materials, with eight individual CC0 audio samples. Full packs remain at their original publishers.
 
 ## Kenney
 
@@ -33,6 +33,10 @@ The first discovery selection contains three Fab limited-time-free packs and two
 Fab's campaign explicitly ends on 20 October at 09:59 Eastern time, corresponding to 13:59 UTC. Winlu's actual campaign states 30 October at 18:10 UTC. Oak Woods exposes a relative sale timer but no absolute end time was established; its expiresAt remains null and it has no invented countdown. These observations are historical verification evidence, not a guarantee that the source cannot change. The 48-hour freshness limit applies to all offers, including those with later known expiry.
 
 Fab Standard and the itch.io creators' commercial licenses allow project use subject to their own terms; none of these promotions is represented as CC0. No paid pack archives or copyrighted marketplace artwork were copied. Promotions currently use original editorial covers, with links to the original product previews. A real local thumbnail needs recorded image-use permission before publication. The licensed Kenney/Poly Haven artwork elsewhere in the site remains intact.
+
+Four further deals were verified through robots-permitted, paced requests to their exact itch.io product pages on 8 October at 21:25–21:26 UTC: Elektrobear's 80 Songs ($20 → $10), Castle of Despair ($2 → $1), Winlu Fantasy Interior ($20 → $14), and GandalfHardcore Medieval Fantasy Tiles ($9.99 → $6.49). Each public purchase panel explicitly showed both prices; the corresponding marketplace Product/Offer JSON-LD agreed on sale price and currency, rating count, and absolute UTC expiry. Creator commercial-use terms were read on each product page. Paid archives were not downloaded. Castle of Despair's older description includes a free-assets sentence; its current purchase panel and Offer both require $1, and its priceNote discloses that discrepancy rather than labeling it free. Candidates without an explicit original price or readable commercial terms were excluded.
+
+All nine promotions use original illustrated scenes authored for AssetRadar. Animated forests, architecture, an isometric island, a navigation mesh, and an audio deck are labeled editorial illustrations; they are not presented as screenshots or included product contents. Visitors can inspect the actual publisher previews at the source. No unlicensed marketing images or audio are hosted. CSS animation pauses offscreen, when the tab is hidden, on a saved user pause, or under the system's reduced-motion preference.
 
 Radar Score is an editorial calculation based on disclosed inputs and observed information. Marketplace ratings are reproduced only where observed and are kept distinct from editorial judgments. Contents/formats and creator descriptions were reviewed; these packs were not performance-tested in an engine.
 

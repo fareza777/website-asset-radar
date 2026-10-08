@@ -10,7 +10,8 @@ import {
   Stack as StackIcon,
   ArrowUpRight as ArrowUpRightIcon,
   GithubLogo as GithubLogoIcon,
-  Sparkle as SparkleIcon,
+  Pause as PauseIcon,
+  Play as PlayIcon,
   List as ListIcon,
   X as XIcon,
   CaretRight as CaretRightIcon,
@@ -28,6 +29,7 @@ import { useEffect, useRef, useState } from "react";
 import { Brand } from "./brand";
 import { useLibrary } from "./library-provider";
 import { categories } from "@/lib/types";
+import { useMotion } from "./motion-provider";
 
 const categoryIcons = [
   SwordIcon,
@@ -39,9 +41,16 @@ const categoryIcons = [
   CubeIcon,
 ];
 
-export function Sidebar() {
+export function Sidebar({
+  freeCount,
+  collectionCount,
+}: {
+  freeCount: number;
+  collectionCount: number;
+}) {
   const path = usePathname();
   const { favorites } = useLibrary();
+  const motion = useMotion();
   const [mobileOpen, setMobileOpen] = useState(false);
   const drawerRef = useRef<HTMLElement>(null);
   useEffect(() => {
@@ -99,10 +108,21 @@ export function Sidebar() {
     };
   }, [mobileOpen]);
   const discover = [
-    { href: "/free/", label: "Free Assets", icon: SquaresFourIcon },
-    { href: "/free-today/", label: "Free Today", icon: FireIcon },
-    { href: "/deals/", label: "Deals", icon: TagIcon },
-    { href: "/collections/", label: "Collections", icon: StackIcon },
+    {
+      href: "/free/",
+      label: "Free Assets",
+      icon: SquaresFourIcon,
+      index: "01",
+      count: freeCount,
+    },
+    { href: "/free-today/", label: "Free Today", icon: FireIcon, index: "02" },
+    { href: "/deals/", label: "Deals", icon: TagIcon, index: "03" },
+    {
+      href: "/collections/",
+      label: "Collections",
+      icon: StackIcon,
+      index: "04",
+    },
   ];
   const shortcuts = [
     { href: "/latest/", label: "Latest assets", icon: ClockIcon },
@@ -131,23 +151,37 @@ export function Sidebar() {
     label,
     icon: Icon,
     count,
+    index,
   }: {
     href: string;
     label: string;
     icon: typeof SquaresFourIcon;
     count?: number;
+    index?: string;
   }) => (
     <Link
       key={href}
       href={href}
-      className={`nav-link ${path === href ? "active" : ""}`}
+      className={`nav-link ${index ? "discover-link" : ""} ${path === href ? "active" : ""}`}
+      data-nav={href.split("/")[1]}
       aria-current={path === href ? "page" : undefined}
       onClick={() => setMobileOpen(false)}
     >
-      <Icon size={20} weight={path === href ? "fill" : "regular"} />
-      <span>{label}</span>
+      <span className="nav-icon">
+        <Icon
+          size={20}
+          weight={path === href ? "duotone" : "regular"}
+          aria-hidden="true"
+        />
+      </span>
+      <span className="nav-text">{label}</span>
       {count !== undefined && <span className="nav-count">{count}</span>}
-      {path === href && <span className="active-marker" />}
+      {index && (
+        <span className="nav-index" aria-hidden="true">
+          {index}
+        </span>
+      )}
+      {path === href && <span className="active-marker" aria-hidden="true" />}
     </Link>
   );
   return (
@@ -171,7 +205,8 @@ export function Sidebar() {
         }}
         role={mobileOpen ? "dialog" : undefined}
         aria-modal={mobileOpen ? true : undefined}
-        className={`sidebar ${mobileOpen ? "mobile-open" : ""}`}
+        className={`sidebar motion-surface ${mobileOpen ? "mobile-open" : ""}`}
+        data-motion="paused"
         aria-label="Main navigation"
       >
         <div className="sidebar-brand">
@@ -184,13 +219,38 @@ export function Sidebar() {
             <XIcon size={21} />
           </button>
         </div>
-        <div className="sidebar-section-label">DISCOVER</div>
-        <nav>{discover.map(navItem)}</nav>
+        <Link
+          href="/free/"
+          className="sidebar-inventory"
+          aria-label={`Explore ${freeCount} verified free assets`}
+        >
+          <span className="inventory-copy">
+            <strong>{freeCount}</strong>
+            <span>free discoveries</span>
+          </span>
+          <span className="sidebar-radar" aria-hidden="true">
+            <span className="radar-ring" />
+            <span className="radar-ring inner" />
+            <span className="radar-sweep" />
+            <span className="radar-blip one" />
+            <span className="radar-blip two" />
+            <span className="radar-crosshair" />
+          </span>
+        </Link>
+        <div className="sidebar-section-label sidebar-discover-label">
+          <span>Discover</span>
+          <span className="section-coordinate" aria-hidden="true">
+            ↗
+          </span>
+        </div>
+        <nav className="discover-nav" aria-label="Discover assets">
+          {discover.map(navItem)}
+        </nav>
         <div className="sidebar-section-label library-label">YOUR LIBRARY</div>
-        <nav>{library.map(navItem)}</nav>
+        <nav aria-label="Your library">{library.map(navItem)}</nav>
         <div className="sidebar-divider" />
         <div className="sidebar-section-label">EXPLORE BY WORLD</div>
-        <nav className="category-nav">
+        <nav className="category-nav" aria-label="Asset worlds">
           {categories.map((category, i) => {
             const Icon = categoryIcons[i];
             const href = `/category/${category.toLowerCase()}/`;
@@ -202,22 +262,21 @@ export function Sidebar() {
                 aria-current={path === href ? "page" : undefined}
                 onClick={() => setMobileOpen(false)}
               >
-                <Icon size={18} />
+                <Icon size={18} aria-hidden="true" />
                 <span>{category}</span>
+                <CaretRightIcon
+                  className="world-arrow"
+                  size={13}
+                  aria-hidden="true"
+                />
               </Link>
             );
           })}
         </nav>
         <div className="sidebar-bottom">
           <Link href="/about/" className="maker-note">
-            <span className="maker-note-icon">
-              <SparkleIcon size={22} weight="duotone" />
-            </span>
-            <strong>Made for your next idea.</strong>
-            <p>
-              Good assets. Clear licenses.
-              <br />A little creative head start.
-            </p>
+            <strong>Your next find awaits.</strong>
+            <p>{collectionCount} curated collections.</p>
             <span className="maker-note-link">
               Meet AssetRadar <ArrowUpRightIcon size={15} />
             </span>
@@ -249,6 +308,33 @@ export function Sidebar() {
         </div>
         <div className="topbar-right">
           <span className="topbar-caption">A good day to make something.</span>
+          <button
+            className="motion-toggle"
+            onClick={motion.toggle}
+            disabled={motion.state === "reduced"}
+            aria-pressed={motion.state === "enabled"}
+            aria-label={
+              motion.state === "enabled"
+                ? "Pause animations"
+                : motion.state === "reduced"
+                  ? "Animations reduced by your system preference"
+                  : "Enable animations"
+            }
+            title={
+              motion.state === "reduced"
+                ? "Following your system’s reduced motion preference"
+                : "Turn decorative animations on or off"
+            }
+          >
+            {motion.state === "enabled" ? (
+              <PauseIcon size={16} aria-hidden="true" />
+            ) : (
+              <PlayIcon size={16} aria-hidden="true" />
+            )}
+            <span>
+              {motion.state === "enabled" ? "Motion on" : "Motion off"}
+            </span>
+          </button>
           <Link href="/licenses/" className="license-toplink">
             <ShieldCheckIcon size={17} />
             <span>License guide</span>
