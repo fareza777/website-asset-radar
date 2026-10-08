@@ -2,6 +2,8 @@
 
 A compact creative workspace for discovering genuine free game-development assets. Built with Next.js, TypeScript, Tailwind CSS, and a verified static JSON catalog.
 
+[Visit AssetRadar](https://website-asset-radar-xi.vercel.app/)
+
 ## Run locally
 
 Use Node.js 24 LTS and npm.
@@ -60,7 +62,7 @@ npm test
 npm run build
 ```
 
-GitHub Actions runs these checks on pushes and pull requests. Vercel's Next.js adapter detects `output: "export"` and serves the static export. Leave Vercel's Output Directory override unset so the adapter can read Next.js build manifests. Set `NEXT_PUBLIC_SITE_URL` at build time when assigning a different public domain. Update the social cover's domain text when changing domains.
+GitHub Actions runs these checks on pushes and pull requests. The `website-asset-radar` project in Fareza's projects is linked to this repository; pushes to `main` deploy production and pull requests get preview deployments. Vercel's Next.js adapter detects `output: "export"` and serves the static export. Leave Vercel's Output Directory override unset so the adapter can read Next.js build manifests. Set `NEXT_PUBLIC_SITE_URL` at build time when assigning a different public domain. Update the social cover's domain text when changing domains.
 
 No production secrets are required. The daily maintenance agent needs GitHub access to propose a PR; visitors never need an account. The Cursor automation is prepared in this repository and must be saved and activated in the owner's Cursor account.
 

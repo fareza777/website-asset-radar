@@ -31,4 +31,4 @@
 - [x] Generate static asset/category/collection pages with metadata and structured data.
 - [x] Prepare Cursor automation prompt, scripts, PR workflow, and operating documentation.
 - [x] Verify lint, types, tests, source evidence, build, and browser behavior.
-- [ ] Push the verified commit, deploy production, and inspect live pages.
+- [x] Push the verified commit, deploy production, and inspect live pages.
