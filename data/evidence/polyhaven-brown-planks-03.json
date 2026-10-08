@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_planks_03",
+  "checkedAt": "2026-10-08T11:28:01.152Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_planks_03",
+  "apiSha256": "6afbefc8d8d5abf11c373cc3ebe4c93f60b06bf637d229188f9c93dc59aef7a5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_03/brown_planks_03_diff_1k.jpg",
+  "assetFileMd5": "6c9fdc21afcdf171d0a39999392a70f4",
+  "assetFileSha256": "8dfae22286fa9bb0ed62ce7326e8bc14c284e567d38fd64b5a453838080ecf19",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "untreated",
+      "boat",
+      "costal",
+      "dry",
+      "old",
+      "withered"
+    ],
+    "date_published": 1529651692,
+    "name": "Brown Planks 03",
+    "old_id": 136,
+    "categories": [
+      "wood",
+      "man made",
+      "indoor",
+      "outdoor",
+      "clean",
+      "wall"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "dc9ddbd1646f29747e9571f5bf7abd7a28975a80",
+    "description": "Free 8K texture: weathered brown planks with dry, untreated surface, narrow seams, subtle grain and coastal-aged withered patina.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "381b1765",
+    "download_count": 157367,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_03.png?width=256&height=256&format=webp&v=381b1765"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  { "slug": "tiny-town", "categories": ["RPG", "Idle"], "assetType": "Tilesets", "summary": "A small pixel world of houses, roads, trees, and overworld tiles for your next town-building adventure.", "featured": true },
+  { "slug": "nature-kit", "categories": ["Survival", "3D"], "assetType": "3D Models", "summary": "Low-poly trees, rocks, and foliage for building colorful outdoor environments.", "featured": true },
+  { "slug": "tiny-dungeon", "categories": ["RPG"], "assetType": "Tilesets", "summary": "Pixel-art dungeon tiles, characters, weapons, and items for a compact roguelike world.", "featured": true },
+  { "slug": "ui-pack", "categories": ["UI", "Idle"], "assetType": "UI Kits", "summary": "Game interface elements for assembling menus, buttons, panels, and other everyday UI.", "featured": true },
+  { "slug": "tiny-battle", "categories": ["RPG", "Idle"], "assetType": "Tilesets", "summary": "Small pixel-art characters and environment tiles for building battle and strategy scenes." },
+  { "slug": "tiny-farm", "categories": ["Idle", "RPG"], "assetType": "Tilesets", "summary": "Pixel-art farming tiles and objects for a cozy farm, village, or incremental prototype." },
+  { "slug": "pixel-platformer", "categories": ["Platformer"], "assetType": "Tilesets", "summary": "Pixel-art terrain, characters, and objects for creating a side-scrolling platformer.", "featured": true },
+  { "slug": "simplified-platformer-pack", "categories": ["Platformer"], "assetType": "Tilesets", "summary": "Simple, readable platformer art for sketching levels and getting a game prototype moving." },
+  { "slug": "castle-kit", "categories": ["RPG", "3D"], "assetType": "3D Models", "summary": "Modular low-poly castle pieces for building towers, walls, and fantasy environments." },
+  { "slug": "survival-kit", "categories": ["Survival", "3D"], "assetType": "3D Models", "summary": "Low-poly environment props for putting together a survival game scene." },
+  { "slug": "mini-dungeon", "categories": ["RPG", "3D"], "assetType": "3D Models", "summary": "Miniature dungeon models for assembling compact 3D rooms and fantasy levels." },
+  { "slug": "pirate-kit", "categories": ["RPG", "3D"], "assetType": "3D Models", "summary": "Low-poly pirate-themed models for islands, ships, and seafaring game scenes." },
+  { "slug": "city-kit-suburban", "categories": ["Idle", "3D"], "assetType": "3D Models", "summary": "Low-poly suburban buildings and scenery for assembling a neighborhood or city prototype." },
+  { "slug": "food-kit", "categories": ["Idle", "3D"], "assetType": "3D Models", "summary": "Low-poly food models for cooking games, shops, and everyday environmental details." },
+  { "slug": "ui-pack-rpg-expansion", "categories": ["UI", "RPG"], "assetType": "UI Kits", "summary": "RPG-themed interface elements for creating inventory screens, panels, and fantasy menus." },
+  { "slug": "game-icons", "categories": ["UI"], "assetType": "Icons", "summary": "A collection of game-related icons for interfaces, controls, and visual communication." },
+  { "slug": "input-prompts", "categories": ["UI"], "assetType": "UI Kits", "summary": "Input-prompt graphics for showing keyboard, mouse, and controller actions in your game." },
+  { "slug": "rpg-audio", "categories": ["Audio", "RPG"], "assetType": "Sound Effects", "summary": "Sound effects for adding audio feedback to role-playing game interactions." },
+  { "slug": "interface-sounds", "categories": ["Audio", "UI"], "assetType": "Sound Effects", "summary": "Interface sound effects for menu selections, clicks, and other game interactions." },
+  { "slug": "impact-sounds", "categories": ["Audio", "Survival"], "assetType": "Sound Effects", "summary": "Impact sound effects for adding physical feedback to game actions." },
+  { "slug": "music-jingles", "categories": ["Audio"], "assetType": "Music", "summary": "Short music jingles for game transitions, milestones, and quick musical cues." }
+]

@@ -1,0 +1,128 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import {
+  ShieldCheck,
+  ArrowUpRight,
+  Check,
+  ArrowRight,
+} from "@phosphor-icons/react/dist/ssr";
+
+export const metadata: Metadata = {
+  title: "Game asset licenses & verified sources",
+  description:
+    "Learn how AssetRadar verifies free game asset licenses, what CC0 means, and which original sources are permitted for catalog discovery.",
+  alternates: { canonical: "/licenses/" },
+};
+export default function Licenses() {
+  return (
+    <div className="document-page">
+      <div className="page-intro">
+        <span className="page-intro-icon">
+          <ShieldCheck size={29} weight="duotone" />
+        </span>
+        <h1>Know what you can create.</h1>
+        <p>
+          Free is a price. A license tells you what you can do with an asset.
+        </p>
+      </div>
+      <section className="document-section license-explainer">
+        <span className="license-badge">CC0 1.0</span>
+        <h2>Public domain. Open possibilities.</h2>
+        <p>
+          CC0 lets you use, modify, and redistribute an asset for personal or
+          commercial purposes without required attribution. Giving the creator
+          credit is still a thoughtful way to say thanks.
+        </p>
+        <div className="license-permissions">
+          <span>
+            <Check size={17} /> Commercial projects
+          </span>
+          <span>
+            <Check size={17} /> Modification
+          </span>
+          <span>
+            <Check size={17} /> Redistribution
+          </span>
+          <span>
+            <Check size={17} /> No credit required
+          </span>
+        </div>
+        <a
+          className="text-link"
+          href="https://creativecommons.org/publicdomain/zero/1.0/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Read the official CC0 terms <ArrowUpRight size={15} />
+        </a>
+      </section>
+      <section className="document-section">
+        <h2>What “verified” means here.</h2>
+        <p>
+          Each catalog entry records the original publisher page, explicit
+          license evidence, and the day we checked it. For Kenney packs, we
+          check the source page and the license included in the archive. For
+          Poly Haven, we use its permitted public API and published asset
+          license.
+        </p>
+        <p>
+          Genre tags are editorial suggestions. Engine filters indicate
+          supported file formats, rather than an official integration or a
+          promise of a ready-to-run project. “Latest” means newly added to this
+          catalog.
+        </p>
+        <p>
+          A check describes the source at that time. A source can change later.
+          Use the linked evidence and the license included with your downloaded
+          files before publishing your game.
+        </p>
+      </section>
+      <section className="document-section">
+        <h2>Good assets start with good sources.</h2>
+        <div className="source-cards">
+          <a href="https://kenney.nl/support" target="_blank" rel="noreferrer">
+            <strong>
+              Kenney <ArrowUpRight size={18} />
+            </strong>
+            <p>
+              Free 2D, 3D, UI, and audio packs. CC0 confirmed on each pack page
+              and in its archive.
+            </p>
+            <span>Source pages + included license files</span>
+          </a>
+          <a
+            href="https://polyhaven.com/license"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <strong>
+              Poly Haven <ArrowUpRight size={18} />
+            </strong>
+            <p>
+              CC0 textures and 3D assets. Discovery uses the public API, and our
+              previews come from asset files.
+            </p>
+            <span>Permitted API + public asset license</span>
+          </a>
+        </div>
+      </section>
+      <section className="document-section">
+        <h2>Creators come first.</h2>
+        <p>
+          AssetRadar links you to the original source for downloads. Preview
+          provenance is stored in the catalog. We do not copy paid packs,
+          restricted artwork, creator logos, or website example renders without
+          permission.
+        </p>
+        <p>
+          Daily discovery proposes changes through a reviewable pull request.
+          Ambiguous licenses, contradictory terms, and failed checks stay
+          outside the verified catalog.
+        </p>
+        <Link href="/cc0/" className="button primary">
+          Find a free starting point <ArrowRight size={18} />
+        </Link>
+      </section>
+    </div>
+  );
+}

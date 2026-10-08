@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "kenney-tiny-town",
+    "title": "Tiny Town",
+    "author": "Kenney",
+    "summary": "A small pixel world of houses, roads, trees, and overworld tiles for your next town-building adventure.",
+    "categories": [
+      "RPG",
+      "Idle"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/tiny-town",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/tiny-town",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Tiny Town; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "0f3b5400e6df753d0994ea87ee0afe374dad514bdc0a24f8070c3f544e6dd4da",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "rpg",
+      "roguelike",
+      "town",
+      "overworld",
+      "map",
+      "pixel"
+    ],
+    "fileCount": 130,
+    "preview": "/previews/kenney-tiny-town.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/tiny-town/a415fbeb49-1735736916/kenney_tiny-town.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "cb909e46bf51deb2906eeeb14b323aa42e861a738a734f449dc460ad682e4ccc",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": true
+  },
+  {
+    "id": "kenney-nature-kit",
+    "title": "Nature Kit",
+    "author": "Kenney",
+    "summary": "Low-poly trees, rocks, and foliage for building colorful outdoor environments.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/nature-kit",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Nature Kit; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "30d56abcd762e4bd65dba9ffb1884a3e9352e0f0102d029c41b62dbda00cab92",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "nature",
+      "tree",
+      "rock",
+      "foliage"
+    ],
+    "fileCount": 330,
+    "preview": "/previews/kenney-nature-kit.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "ec44c42bdbfbdfbe84f4337f6f30af6c208bfa993e61e3c60270474284cc597a",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": true
+  },
+  {
+    "id": "kenney-tiny-dungeon",
+    "title": "Tiny Dungeon",
+    "author": "Kenney",
+    "summary": "Pixel-art dungeon tiles, characters, weapons, and items for a compact roguelike world.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/tiny-dungeon",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/tiny-dungeon",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Tiny Dungeon; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "5593638422b6225ff147fbf31c524820fd394fde7395eaec1d5262ea1c70ca6c",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "rpg",
+      "roguelike",
+      "dungeon",
+      "sewer",
+      "pixel"
+    ],
+    "fileCount": 130,
+    "preview": "/previews/kenney-tiny-dungeon.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/tiny-dungeon/f8422efb44-1674742415/kenney_tiny-dungeon.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "2b922fefcaa5728986e0b5c1fb901a51c3e571c39e6bed1a22fa1ffdf504370f",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": true
+  },
+  {
+    "id": "kenney-ui-pack",
+    "title": "UI Pack",
+    "author": "Kenney",
+    "summary": "Game interface elements for assembling menus, buttons, panels, and other everyday UI.",
+    "categories": [
+      "UI",
+      "Idle"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/ui-pack",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/ui-pack",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "UI Pack; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "c27889dc3b1ecbe05e7cf0c3391a7cc403021585400509ec2a15b434172e66e6",
+    "formats": [
+      "PNG",
+      "SVG",
+      "OGG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "button",
+      "panel",
+      "slider",
+      "interface"
+    ],
+    "fileCount": 430,
+    "preview": "/previews/kenney-ui-pack.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/ui-pack/f651646eab-1718203990/kenney_ui-pack.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "653c84028dd03c368ec35451689585756b6a1f2d9a5e37b4986eeca2637d4fb0",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": true
+  },
+  {
+    "id": "kenney-tiny-battle",
+    "title": "Tiny Battle",
+    "author": "Kenney",
+    "summary": "Small pixel-art characters and environment tiles for building battle and strategy scenes.",
+    "categories": [
+      "RPG",
+      "Idle"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/tiny-battle",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/tiny-battle",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Tiny Battle; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "93a7be7ea6a09997cd6e93b366a45902582679d79e65c35ea5f35d8d54416a45",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "pixel",
+      "battle",
+      "war",
+      "tank",
+      "vehicle",
+      "unit"
+    ],
+    "fileCount": 190,
+    "preview": "/previews/kenney-tiny-battle.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/tiny-battle/c1c25ac1f3-1691487575/kenney_tiny-battle.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "03d4fbcc8a1f08be69a642d6f6bbcd7c19abc6cf7bb7498a2236420f323ce6af",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-tiny-farm",
+    "title": "Tiny Farm",
+    "author": "Kenney",
+    "summary": "Pixel-art farming tiles and objects for a cozy farm, village, or incremental prototype.",
+    "categories": [
+      "Idle",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/tiny-farm",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/tiny-farm",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Tiny Farm; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "987dc68d9339baea1e03e1f221e99e43d08dbcab27e094e547d736c7d1b54032",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "farm",
+      "rpg",
+      "roguelike",
+      "map",
+      "pixel"
+    ],
+    "fileCount": 130,
+    "preview": "/previews/kenney-tiny-farm.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/tiny-farm/dfded1ae3e-1782913588/kenney_tiny-farm.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "72a5011248c9c608763960dbf3fba99f03dbbda03198855f86327e361bdd2bf3",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-pixel-platformer",
+    "title": "Pixel Platformer",
+    "author": "Kenney",
+    "summary": "Pixel-art terrain, characters, and objects for creating a side-scrolling platformer.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/pixel-platformer",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/pixel-platformer",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Pixel Platformer; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "a6af06c268f23442f8a04db5439f4f6a8f0ce9db165c4707be73c65d079a43d8",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "platformer",
+      "pixel",
+      "oopi"
+    ],
+    "fileCount": 200,
+    "preview": "/previews/kenney-pixel-platformer.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/pixel-platformer/33bb4921eb-1696667883/kenney_pixel-platformer.zip",
+      "file": "Preview.png",
+      "license": "CC0",
+      "sha256": "58aaba5ff85a2786191e7daff18e540b9c89c925e67873ec6028d3d868deee69",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": true
+  },
+  {
+    "id": "kenney-simplified-platformer-pack",
+    "title": "Simplified Platformer Pack",
+    "author": "Kenney",
+    "summary": "Simple, readable platformer art for sketching levels and getting a game prototype moving.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/simplified-platformer-pack",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/simplified-platformer-pack",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Simplified Platformer Pack; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "693f9281f62b74a4bcda3615ffb402989891e0c1caa70de18f8b98b23032b6cd",
+    "formats": [
+      "PNG",
+      "SVG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "platformer",
+      "tile"
+    ],
+    "fileCount": 90,
+    "preview": "/previews/kenney-simplified-platformer-pack.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/simplified-platformer-pack/2d06327041-1677693200/kenney_simplified-platformer-pack.zip",
+      "file": "Preview.png",
+      "license": "CC0",
+      "sha256": "729780e2aaaecbd1d18f99b65c01fd035604b84f3561f5b5904bce027643c7e9",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-castle-kit",
+    "title": "Castle Kit",
+    "author": "Kenney",
+    "summary": "Modular low-poly castle pieces for building towers, walls, and fantasy environments.",
+    "categories": [
+      "RPG",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/castle-kit",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/castle-kit",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Castle Kit; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "c54af05da2578969446ec04523f4b93868e3556765160e2ad8fe171c920e0150",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "castle",
+      "medieval"
+    ],
+    "fileCount": 75,
+    "preview": "/previews/kenney-castle-kit.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/castle-kit/a395102d20-1711543616/kenney_castle-kit.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "e827745f432d65e590e69287120a4d5d1a1595cbc687876f7ad65948a81c5655",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-survival-kit",
+    "title": "Survival Kit",
+    "author": "Kenney",
+    "summary": "Low-poly environment props for putting together a survival game scene.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/survival-kit",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Survival Kit; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "4e40e5257ca47beb74a6349b3f90b4ee208e47fb2842f34dbdb81f1dc5f6022e",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "survival",
+      "nature"
+    ],
+    "fileCount": 80,
+    "preview": "/previews/kenney-survival-kit.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/survival-kit/4065a8185b-1712149243/kenney_survival-kit.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "701745dfb5e19516ffd4431f1802cd2a85f2da3dd2aafcd06e66aba1a13c5429",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-mini-dungeon",
+    "title": "Mini Dungeon",
+    "author": "Kenney",
+    "summary": "Miniature dungeon models for assembling compact 3D rooms and fantasy levels.",
+    "categories": [
+      "RPG",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/mini-dungeon",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/mini-dungeon",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Mini Dungeon; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "676957757bbb43687039e3ee9109f339e8e560412b306f1d5982411e91c58627",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "dungeon",
+      "rpg",
+      "roguelike",
+      "medieval"
+    ],
+    "fileCount": 30,
+    "preview": "/previews/kenney-mini-dungeon.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/mini-dungeon/6cd72dc849-1785314274/kenney_mini-dungeon.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "7a65382e432f273014d2c96b4eb59bf1d99e49b3009888a7c9dbc702c7942c56",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-pirate-kit",
+    "title": "Pirate Kit",
+    "author": "Kenney",
+    "summary": "Low-poly pirate-themed models for islands, ships, and seafaring game scenes.",
+    "categories": [
+      "RPG",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/pirate-kit",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/pirate-kit",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Pirate Kit; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "889c68b58e8ec91c4ffc82ba9c933fb1a026e58d996240aab2ed43f0bcb0e640",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "pirate",
+      "boat",
+      "ship",
+      "island",
+      "tropical",
+      "character"
+    ],
+    "fileCount": 70,
+    "preview": "/previews/kenney-pirate-kit.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/pirate-kit/e6d4bb1525-1771333093/kenney_pirate-kit.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "20d32149b250f919d125d1f7ec8690cc9ee3e62ac729aae9ee9b386179a48907",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-city-kit-suburban",
+    "title": "City Kit (Suburban)",
+    "author": "Kenney",
+    "summary": "Low-poly suburban buildings and scenery for assembling a neighborhood or city prototype.",
+    "categories": [
+      "Idle",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/city-kit-suburban",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/city-kit-suburban",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "City Kit (Suburban); License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "9b15fc5b3eabdae1eb604a5d4e54d2eda08d8ce291f3c9f4518acadde004653e",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "city",
+      "suburban",
+      "building"
+    ],
+    "fileCount": 40,
+    "preview": "/previews/kenney-city-kit-suburban.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/city-kit-suburban/2c871b7af2-1745479373/kenney_city-kit-suburban_20.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "5aa4aa641d466b1ab07348a2924b170f24e398e5933c3e980e9d73fab4476b48",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-food-kit",
+    "title": "Food Kit",
+    "author": "Kenney",
+    "summary": "Low-poly food models for cooking games, shops, and everyday environmental details.",
+    "categories": [
+      "Idle",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/food-kit",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Food Kit; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "30b698a19b412f8da4427cc8bcac08d0c5ce61f2fee88b20af40acbf9c6c5c33",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "food",
+      "kitchen",
+      "eat"
+    ],
+    "fileCount": 200,
+    "preview": "/previews/kenney-food-kit.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/food-kit/83086fa91c-1719418518/kenney_food-kit.zip",
+      "file": "Preview.png",
+      "license": "CC0",
+      "sha256": "5824d6462448e59a111e8528cda7416484f1086b415aaa8b5fde02d65dbefe93",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-ui-pack-rpg-expansion",
+    "title": "UI Pack (RPG Expansion)",
+    "author": "Kenney",
+    "summary": "RPG-themed interface elements for creating inventory screens, panels, and fantasy menus.",
+    "categories": [
+      "UI",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/ui-pack-rpg-expansion",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/ui-pack-rpg-expansion",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "UI Pack (RPG Expansion); License: Creative Commons CC0; free download confirmed on the source page and in license.txt.",
+    "evidenceSha256": "a5f973f2c11f02408163a5eb2fe6ddc83649be954a4e44388c7009f59229cc2e",
+    "formats": [
+      "PNG",
+      "SVG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "button",
+      "panel",
+      "slider",
+      "rpg",
+      "interface"
+    ],
+    "fileCount": 85,
+    "preview": "/previews/kenney-ui-pack-rpg-expansion.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/ui-pack-rpg-expansion/7ec4a46657-1677661824/kenney_ui-pack-rpg-expansion.zip",
+      "file": "sample.png",
+      "license": "CC0",
+      "sha256": "4228f214927f81f7f47ca9f91abd6d11838d3d90ec785d968ca53f0f8f7b23dc",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-game-icons",
+    "title": "Game Icons",
+    "author": "Kenney",
+    "summary": "A collection of game-related icons for interfaces, controls, and visual communication.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "Icons",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/game-icons",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/game-icons",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Game Icons; License: Creative Commons CC0; free download confirmed on the source page and in license.txt.",
+    "evidenceSha256": "2a2cbc8b5db0711322a702e86a2036fab1e5f45962384985d9f31e1d5cd17a4b",
+    "formats": [
+      "PNG",
+      "SVG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "icon",
+      "gamepad",
+      "joystick",
+      "prompt",
+      "interface"
+    ],
+    "fileCount": 105,
+    "preview": "/previews/kenney-game-icons.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/game-icons/1ebf9c14af-1677661579/kenney_game-icons.zip",
+      "file": "preview.png",
+      "license": "CC0",
+      "sha256": "88a3fe23453a9ede2de08a1f40c8b93c2754085548956b676d41be215e13e5dc",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-input-prompts",
+    "title": "Input Prompts",
+    "author": "Kenney",
+    "summary": "Input-prompt graphics for showing keyboard, mouse, and controller actions in your game.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/input-prompts",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/input-prompts",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Input Prompts; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "aa9c6fb6844eaa933cc500017edd80561557270e19adaa2ba0237d746599cecf",
+    "formats": [
+      "PNG",
+      "SVG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "input",
+      "prompt",
+      "button",
+      "gamepad",
+      "control",
+      "interface"
+    ],
+    "fileCount": 1500,
+    "preview": "/previews/kenney-input-prompts.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/input-prompts/8de120163f-1783763952/kenney_input-prompts_1.5.zip",
+      "file": "Nintendo Switch/Default/controller_switch.png",
+      "license": "CC0",
+      "sha256": "fd1fe0bb41875b06037a4f142302a47de837369ddb8bc0d1a3c37de5b70cf0aa",
+      "note": "Preview of an actual CC0 controller graphic from the asset archive, optimized against an original background."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-rpg-audio",
+    "title": "RPG Audio",
+    "author": "Kenney",
+    "summary": "Sound effects for adding audio feedback to role-playing game interactions.",
+    "categories": [
+      "Audio",
+      "RPG"
+    ],
+    "dimension": "Audio",
+    "assetType": "Sound Effects",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/rpg-audio",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "RPG Audio; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "cb1a2d8ff6aee7b178fed6332dee5c4e7af076663d65b3c86e4876c8a245f9c5",
+    "formats": [
+      "OGG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "foley",
+      "rpg",
+      "footstep",
+      "weapon"
+    ],
+    "fileCount": 50,
+    "preview": "/previews/kenney-rpg-audio.webp",
+    "audioPreview": "/audio/kenney-rpg-audio.ogg",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip",
+      "file": "Audio/beltHandle1.ogg",
+      "license": "CC0",
+      "sha256": "2ef665bd8b65dbe669f4560be38a6d8f04a162e618b15a49e3e71b58e558aab0",
+      "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-interface-sounds",
+    "title": "Interface Sounds",
+    "author": "Kenney",
+    "summary": "Interface sound effects for menu selections, clicks, and other game interactions.",
+    "categories": [
+      "Audio",
+      "UI"
+    ],
+    "dimension": "Audio",
+    "assetType": "Sound Effects",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/interface-sounds",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Interface Sounds; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "4bab3e1660c662504886cb82d25777fb557f81b208f55a1792b67b88a8785551",
+    "formats": [
+      "OGG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "interface",
+      "click",
+      "button"
+    ],
+    "fileCount": 100,
+    "preview": "/previews/kenney-interface-sounds.webp",
+    "audioPreview": "/audio/kenney-interface-sounds.ogg",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip",
+      "file": "Audio/back_001.ogg",
+      "license": "CC0",
+      "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
+      "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-impact-sounds",
+    "title": "Impact Sounds",
+    "author": "Kenney",
+    "summary": "Impact sound effects for adding physical feedback to game actions.",
+    "categories": [
+      "Audio",
+      "Survival"
+    ],
+    "dimension": "Audio",
+    "assetType": "Sound Effects",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/impact-sounds",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Impact Sounds; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "f864ab4b8d9d14441df748998470506d568567ca42d1be72d719d3c499079da4",
+    "formats": [
+      "OGG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "impact",
+      "foley"
+    ],
+    "fileCount": 130,
+    "preview": "/previews/kenney-impact-sounds.webp",
+    "audioPreview": "/audio/kenney-impact-sounds.ogg",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "file": "Audio/footstep_carpet_000.ogg",
+      "license": "CC0",
+      "sha256": "b9524658b52a99a20590f8feefc103088637fd13ea8ec35811aee785e1f2f330",
+      "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
+    },
+    "featured": false
+  },
+  {
+    "id": "kenney-music-jingles",
+    "title": "Music Jingles",
+    "author": "Kenney",
+    "summary": "Short music jingles for game transitions, milestones, and quick musical cues.",
+    "categories": [
+      "Audio"
+    ],
+    "dimension": "Audio",
+    "assetType": "Music",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/music-jingles",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/music-jingles",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Music Jingles; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "d7116f3badc8e89ce14e29789671e1f00accaf743a3d7f059969f4725093cbf1",
+    "formats": [
+      "OGG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "music",
+      "jingle"
+    ],
+    "fileCount": 85,
+    "preview": "/previews/kenney-music-jingles.webp",
+    "audioPreview": "/audio/kenney-music-jingles.ogg",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/music-jingles/f37e530b9e-1677590399/kenney_music-jingles.zip",
+      "file": "Audio/8-Bit jingles/jingles_NES00.ogg",
+      "license": "CC0",
+      "sha256": "1010c9b566d6c090ff03a4aaaf7439e26eb4cc4f20373800d0b7e6a9057b795d",
+      "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
+    },
+    "featured": false
+  },
+  {
+    "id": "polyhaven-brown-planks-03",
+    "title": "Brown Planks 03",
+    "author": "Rob Tuytel",
+    "authors": [
+      "Rob Tuytel"
+    ],
+    "summary": "A scanned brown wooden-plank material with texture maps for building realistic surfaces.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/brown_planks_03",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/brown_planks_03",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "6afbefc8d8d5abf11c373cc3ebe4c93f60b06bf637d229188f9c93dc59aef7a5",
+    "formats": [
+      "JPG",
+      "PNG",
+      "EXR"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "wood",
+      "man made",
+      "indoor",
+      "outdoor",
+      "clean",
+      "wall"
+    ],
+    "preview": "/previews/polyhaven-brown-planks-03.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_03/brown_planks_03_diff_1k.jpg",
+      "file": "brown_planks_03_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "8dfae22286fa9bb0ed62ce7326e8bc14c284e567d38fd64b5a453838080ecf19",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    }
+  },
+  {
+    "id": "polyhaven-rock-boulder-cracked",
+    "title": "Rock Boulder Cracked",
+    "author": "Dario Barresi & Dimitrios Savva",
+    "authors": [
+      "Dario Barresi",
+      "Dimitrios Savva"
+    ],
+    "summary": "A cracked rock material with downloadable texture maps for outdoor game environments.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/rock_boulder_cracked",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/rock_boulder_cracked",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "b73533deed1031d3e9873dbe91da20278e5128d26b7da70dd1b0f815cfe021c8",
+    "formats": [
+      "JPG",
+      "PNG",
+      "EXR"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "outdoor",
+      "terrain",
+      "rock",
+      "natural"
+    ],
+    "preview": "/previews/polyhaven-rock-boulder-cracked.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.jpg",
+      "file": "rock_boulder_cracked_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "e88c9e50109c7f610bc380a00b9bdac5954c392bb02134dedeea3358da57276a",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    }
+  },
+  {
+    "id": "polyhaven-forest-ground-04",
+    "title": "Forest Ground 04",
+    "author": "Rob Tuytel & Rico Cilliers",
+    "authors": [
+      "Rob Tuytel",
+      "Rico Cilliers"
+    ],
+    "summary": "A scanned forest-floor material for bringing natural surface detail to outdoor environments.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/forest_ground_04",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/forest_ground_04",
+    "verifiedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "5187c59ed0ed6504f9f29b0da9412e03ef89b475fecde980161ed6888d963173",
+    "formats": [
+      "JPG",
+      "PNG",
+      "EXR"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "rock"
+    ],
+    "preview": "/previews/polyhaven-forest-ground-04.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_diff_1k.jpg",
+      "file": "forest_ground_04_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "50a4dda30875020c64385261aa7e00e2155b592302fa6794165f58fae73cbd2c",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    }
+  }
+]

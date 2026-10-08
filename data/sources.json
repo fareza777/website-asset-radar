@@ -1,0 +1,31 @@
+{
+  "policyVersion": 1,
+  "checkedAt": "2026-10-08",
+  "executablePolicy": "scripts/source-policy.ts",
+  "userAgent": "AssetRadar/1.0 (+https://github.com/fareza777/website-asset-radar)",
+  "minimumRequestIntervalMs": 1400,
+  "maxAdditionsPerRun": 5,
+  "maxRechecksPerRun": 5,
+  "sources": [
+    {
+      "name": "Kenney",
+      "discovery": "https://kenney.nl/assets",
+      "guidance": "https://kenney.nl/support",
+      "license": "CC0",
+      "verification": "The pack's own License field and its included License.txt must both explicitly identify CC0.",
+      "permittedPreview": "Media contained inside the verified CC0 first-party asset archive.",
+      "robots": "Respect kenney.nl/robots.txt; fail closed on unavailable policy except HTTP 404/410.",
+      "excluded": "Creator logo branding, unrelated website content, paid tools, mirrors, and ambiguous licenses."
+    },
+    {
+      "name": "Poly Haven",
+      "discovery": "https://api.polyhaven.com/assets?type=textures",
+      "guidance": "https://polyhaven.com/llms.txt",
+      "licenseEvidence": "https://polyhaven.com/license",
+      "license": "CC0",
+      "verification": "Current published asset license, API identity/authors, source HEAD reachability, and checksum-verified licensed diffuse texture.",
+      "permittedPreview": "Crop of an actual licensed diffuse texture from dl.polyhaven.org/file/ph-assets/Textures/.",
+      "excluded": "Website discovery scraping, website thumbnails/example renders, logos, user portraits, unrelated content, and unverified downloads."
+    }
+  ]
+}

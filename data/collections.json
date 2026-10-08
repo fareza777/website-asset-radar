@@ -1,0 +1,6 @@
+[
+  { "id": "cozy-little-worlds", "name": "Cozy little worlds", "description": "Tiny towns, quiet farms, and all the pieces for a game that feels like home.", "assetIds": ["kenney-tiny-town", "kenney-tiny-farm", "kenney-tiny-battle", "kenney-food-kit", "kenney-city-kit-suburban", "kenney-music-jingles"], "cover": "kenney-tiny-town", "color": "peach" },
+  { "id": "into-the-dungeon", "name": "Into the dungeon", "description": "Build your next quest with pixel dungeons, fantasy castles, and RPG essentials.", "assetIds": ["kenney-tiny-dungeon", "kenney-mini-dungeon", "kenney-castle-kit", "kenney-ui-pack-rpg-expansion", "kenney-rpg-audio"], "cover": "kenney-tiny-dungeon", "color": "blue" },
+  { "id": "wild-by-nature", "name": "Wild by nature", "description": "Open-air environments and survival props for your next outdoor adventure.", "assetIds": ["kenney-nature-kit", "kenney-survival-kit", "kenney-pirate-kit", "kenney-impact-sounds"], "cover": "kenney-nature-kit", "color": "mint" },
+  { "id": "the-finishing-touches", "name": "The finishing touches", "description": "Thoughtful interfaces, clear icons, and audio details to bring a prototype together.", "assetIds": ["kenney-ui-pack", "kenney-ui-pack-rpg-expansion", "kenney-game-icons", "kenney-input-prompts", "kenney-interface-sounds", "kenney-music-jingles"], "cover": "kenney-ui-pack", "color": "lime" }
+]
