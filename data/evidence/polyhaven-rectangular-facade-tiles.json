@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rectangular_facade_tiles",
+  "checkedAt": "2026-10-09T15:37:42.847Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rectangular_facade_tiles",
+  "apiSha256": "ba0ee7c075ec3266972ed6a356cba1a94e67cb6f732c5e9418aac4a84e46de0e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rectangular_facade_tiles/rectangular_facade_tiles_diff_1k.jpg",
+  "assetFileMd5": "9a4d89351d69057e43ccbed08db9ec01",
+  "assetFileSha256": "583eafdfc03da4a74509ba545c5ea808c8bdc6e883763a804fcbe859c120afb9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rectangular Facade Tiles",
+    "categories": [
+      "wall",
+      "tiles"
+    ],
+    "tags": [
+      "tiles",
+      "rectangular",
+      "building facade",
+      "wall",
+      "walling",
+      "urban design",
+      "exterior",
+      "concrete",
+      "aggregate"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1740614400,
+    "staging": null,
+    "files_hash": "3cc65e2d2b0313b37a9f917171974ade92887290",
+    "description": "Free 8K material of dark concrete rectangular facade tiles, narrow vertical striations, rough aggregate surface with shallow grout lines and low sheen.",
+    "category_id": "2e5d701e-c1e8-538e-b4c9-04cfc35c747c",
+    "category": "Brick & Block/Concrete Block & Paver/Facade Panels",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "dbd30dc7",
+    "download_count": 5765,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rectangular_facade_tiles.png?width=256&height=256&format=webp&v=dbd30dc7"
+  }
+}

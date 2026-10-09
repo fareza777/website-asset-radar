@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_brick_floor_03",
+  "checkedAt": "2026-10-09T15:59:50.172Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_brick_floor_03",
+  "apiSha256": "5681f645075b87de91077ddd18846287e91cce266fbf0cb679e3c6ec478df652",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_brick_floor_03/patterned_brick_floor_03_diff_1k.jpg",
+  "assetFileMd5": "95d4d5f0ca96958e0310306aaace77ac",
+  "assetFileSha256": "3c03dbed364065117e44b66a9bab8ca07084f8cbc0b8dfcceaa8e9580f99d9e0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Patterned Brick Floor 03",
+    "categories": [
+      "floor",
+      "outdoor"
+    ],
+    "type": 1,
+    "tags": [
+      "brick",
+      "bricks",
+      "pattern",
+      "pavement patterned",
+      "driveway",
+      "paving",
+      "outdoor flooring",
+      "exterior"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2099.9999046325684,
+      2099.9999046325684
+    ],
+    "date_published": 1718668800,
+    "staging": null,
+    "files_hash": "be686a7122488114f4e429ac73c17300041138b3",
+    "description": "Free 8K texture of patterned brick paving: warm reddish-brown bricks in a rectangular weave, worn edges, dark recessed mortar, subtle roughness and low sheen.",
+    "category_id": "1d000afa-880c-5ddd-8ea2-8706a4475bec",
+    "category": "Brick & Block/Clay Brick/Basketweave",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "043b4577",
+    "download_count": 6516,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_brick_floor_03.png?width=256&height=256&format=webp&v=043b4577"
+  }
+}

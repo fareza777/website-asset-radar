@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cave-tileset-0",
+  "sourceUrl": "https://opengameart.org/content/cave-tileset-0",
+  "checkedAt": "2026-10-09T15:19:19.125Z",
+  "httpStatus": 200,
+  "pageSha256": "9d67754983cf89e022b142d84801bad3a77bf7e6bb4a85b8fd7e38bcdd865f4d",
+  "title": "Cave tileset",
+  "authors": [
+    "Beast"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org) Cave tileset by Beast. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/cave-tileset-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/cave.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/cave.png",
+  "downloadSha256": "f99a6e78ae0be161ddd2c44d0f29a0cfc1238bdc77b53ea55af2c646745f6f37",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "cave.png",
+  "previewSha256": "f99a6e78ae0be161ddd2c44d0f29a0cfc1238bdc77b53ea55af2c646745f6f37",
+  "sourceTags": [
+    "16x16",
+    "cave",
+    "RPG",
+    "Fantasy",
+    "Map Tileset",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

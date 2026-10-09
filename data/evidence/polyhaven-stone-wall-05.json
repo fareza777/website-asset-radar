@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_wall_05",
+  "checkedAt": "2026-10-09T15:19:22.193Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_wall_05",
+  "apiSha256": "2a2b3e563e336c7dff4d0faab3eb5c0a779a63f0d515b724d8b7e44dca65d73f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_05/stone_wall_05_diff_1k.jpg",
+  "assetFileMd5": "2328a634870368815953c5c4332e8d3b",
+  "assetFileSha256": "0dbdc815a88f3f4365254fa5a927dfcac46031a28a9b6bdc01654b34a1d4ac7a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Stone Wall 05",
+    "categories": [
+      "wall",
+      "outdoor"
+    ],
+    "tags": [
+      "rough",
+      "stone",
+      "stonework",
+      "wall",
+      "ancient walls",
+      "worn",
+      "timeworn",
+      "weatherbeaten",
+      "stone tile",
+      "stone block"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2055.000066757202,
+      2055.000066757202
+    ],
+    "date_published": 1752710400,
+    "staging": null,
+    "files_hash": "aed1762d8351a6059fca9ff705bf89f9487a6bbf",
+    "description": "Free 8K texture of timeworn stone blocks with rough, weathered surface, deep mortar joints and subtle moss - ideal for outdoor and ancient wall scenes.",
+    "category_id": "bc20bc70-284a-5f14-93eb-78274f6a1fa9",
+    "category": "Brick & Block/Stone Block & Paver/Ashlar & Coursed Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "d1dec53c",
+    "download_count": 7216,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_wall_05.png?width=256&height=256&format=webp&v=d1dec53c"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-fantasy-brick-seamless",
+  "sourceUrl": "https://opengameart.org/content/fantasy-brick-seamless",
+  "checkedAt": "2026-10-09T15:09:40.703Z",
+  "httpStatus": 200,
+  "pageSha256": "b85d01363095904b2320f0684ae3d1a28cc1ac985865cdc9fa7b56e94ca560b9",
+  "title": "Fantasy Brick (Seamless)",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please list my name and website in your credits where appropriate. Fantasy Brick (Seamless) by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/fantasy-brick-seamless Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/brick_9-28-26a.jpg",
+    "https://opengameart.org/sites/default/files/brick_9-28-26.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/brick_9-28-26a.jpg",
+  "downloadSha256": "a0ff96757444e7cd24ee2ee9d1f178e260d3fff85faaff4a87bdaa68309a529c",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "brick_9-28-26a.jpg",
+  "previewSha256": "a0ff96757444e7cd24ee2ee9d1f178e260d3fff85faaff4a87bdaa68309a529c",
+  "sourceTags": [
+    "seamless",
+    "brick",
+    "stone",
+    "old",
+    "Fantasy"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

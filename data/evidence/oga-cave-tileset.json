@@ -1,0 +1,46 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cave-tileset",
+  "sourceUrl": "https://opengameart.org/content/cave-tileset",
+  "checkedAt": "2026-10-09T15:39:08.068Z",
+  "httpStatus": 200,
+  "pageSha256": "e1aaa2bc636ecb871c7f922de811964700e37ada93a7d6ae76ec8edf4a3e6dff",
+  "title": "Cave Tileset",
+  "authors": [
+    "Clint Bellanger"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Cave Tileset by Clint Bellanger. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/cave-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tileset_cave_1.png",
+    "https://opengameart.org/sites/default/files/cave_tileset_blender.zip",
+    "https://opengameart.org/sites/default/files/tiled_cave_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tileset_cave_1.png",
+  "downloadSha256": "91de6eff3254713235699726fe05f39d2a3a51682a71f2b18abb418c9d8c23a0",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tileset_cave_1.png",
+  "previewSha256": "91de6eff3254713235699726fe05f39d2a3a51682a71f2b18abb418c9d8c23a0",
+  "sourceTags": [
+    "cave",
+    "mine",
+    "mineshaft",
+    "cavern",
+    "Action",
+    "RPG",
+    "Fantasy",
+    "Raster Art",
+    "stone",
+    "Isometric",
+    "Map Tileset"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

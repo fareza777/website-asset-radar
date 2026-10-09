@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-bosses-and-monsters-spritesheets-ars-notoria",
+  "sourceUrl": "https://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria",
+  "checkedAt": "2026-10-09T15:10:48.806Z",
+  "httpStatus": 200,
+  "pageSha256": "7ca306561b288ddefbe5efd8eb481bc6ae77b09b0920f6d7c4872aaae20c8c49",
+  "title": "Bosses and monsters spritesheets (Ars Notoria)",
+  "authors": [
+    "Balmer"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Attibution to Stephen Challener (Redshrike) for the original sprites and a link to OpenGameArt.org Bosses and monsters spritesheets (Ars Notoria) by Balmer. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/spritesheets.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/spritesheets.zip",
+  "downloadSha256": "a6cb0336cbfe075b33494dcef9f82117846034f9b367e8f9b084ed38e571d971",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 12,
+  "licenseFiles": [],
+  "previewFile": "spritesheets/andromalius-57x88.png",
+  "previewSha256": "19b71e984e76289b27bb2f70c4701c2437a0d8b62675ba99d17e0c491464dba3",
+  "sourceTags": [
+    "spritesheet",
+    "sidescroller",
+    "monster"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

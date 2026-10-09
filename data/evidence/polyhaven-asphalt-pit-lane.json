@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_pit_lane",
+  "checkedAt": "2026-10-09T15:54:49.408Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_pit_lane",
+  "apiSha256": "cad8dc9e133688d81e73a295a49b1ed22ba5d0888186b519dbd7ea5cc8d40a6a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_pit_lane/asphalt_pit_lane_diff_1k.jpg",
+  "assetFileMd5": "4052f5d5ad91124fd3feb855acdb3f89",
+  "assetFileSha256": "8aad5097f6de913aebc33f2b9b9271834b55c6942359955722db3196a9ce9bca",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Asphalt Pit Lane",
+    "categories": [
+      "floor",
+      "asphalt",
+      "road"
+    ],
+    "type": 1,
+    "tags": [
+      "asphalt",
+      "asphalt road",
+      "road",
+      "roadway",
+      "tarmac road",
+      "race track",
+      "pit lane"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "staging": null,
+    "date_published": 1723593600,
+    "files_hash": "a04beb641ce5cbf5307a31f51f402f5a9fb675a0",
+    "description": "Free 8K asphalt texture: dark pit-lane tarmac with fine gravel aggregate, gritty roughness, subtle tire wear and a low-reflective matte surface.",
+    "category_id": "330aa03f-5063-50ab-a052-4f6b7214707e",
+    "category": "Asphalt & Bitumen/Tracks/Race Tracks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "db57df04",
+    "download_count": 67733,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_pit_lane.png?width=256&height=256&format=webp&v=db57df04"
+  }
+}

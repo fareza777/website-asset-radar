@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-animated-explosions",
+  "sourceUrl": "https://opengameart.org/content/animated-explosions",
+  "checkedAt": "2026-10-09T15:32:25.510Z",
+  "httpStatus": 200,
+  "pageSha256": "ebad3f07850dc119cd5b198e7391df74659daa291ff0ca8c800b1fca5acb0b85",
+  "title": "Animated Explosions",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Animated Explosions by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/animated-explosions Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/explosions-pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/explosions-pack.zip",
+  "downloadSha256": "2dcea890eff80e38fce579c22f8106e20ecc5a054d76a9e2bf20d80c08882225",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 7,
+  "licenseFiles": [
+    "explosions-pack/license.txt"
+  ],
+  "previewFile": "explosions-pack/spritesheets/explosion-4.png",
+  "previewSha256": "1040af276e8ac3864766ad04142b666ba2adaa43c6995eb91b631ed4c61a26e0",
+  "sourceTags": [
+    "explosion",
+    "explosions",
+    "war",
+    "blast",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

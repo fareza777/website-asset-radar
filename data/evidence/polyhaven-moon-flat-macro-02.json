@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/moon_flat_macro_02",
+  "checkedAt": "2026-10-09T15:24:15.424Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/moon_flat_macro_02",
+  "apiSha256": "6e12b7a7fa042234d470b3a0f28ed96d9864e8c49ad400e3227f2978fff5224d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/moon_flat_macro_02/moon_flat_macro_02_diff_1k.jpg",
+  "assetFileMd5": "44dffb8fed03c7d84829f916fa3e96d4",
+  "assetFileSha256": "29f88b2daf4f04aa76d892d99e87570652217d83c84ebd428b1a685e13dd9e28",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Moon Flat Macro 02",
+    "authors": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "Photography",
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      10836,
+      10836
+    ],
+    "dimensions": [
+      399.9999761581421,
+      399.9999761581421
+    ],
+    "staging": null,
+    "tags": [
+      "flat",
+      "macro",
+      "dirt",
+      "exterior",
+      "regolith",
+      "dusted",
+      "extraterrestrial",
+      "lunar",
+      "space"
+    ],
+    "date_published": 1750336463,
+    "categories": [
+      "outdoor",
+      "sand",
+      "terrain",
+      "collection: moon"
+    ],
+    "files_hash": "ac9aace51a6fb264ecde492d9f1d35fbd4ef6439",
+    "description": "Free 11K texture of flat lunar regolith - macro, dusted, fine-grained surface with subtle pitting and matte roughness, ideal for moon sand and outdoor terrain.",
+    "info": "Captured at [Spaceport Rostock](https://www.pts.space/products/spacelab-rostock/)'s lab. [More info](https://blog.polyhaven.com/moon).",
+    "category_id": "05388ef3-0704-5e51-962a-f707b8150b24",
+    "category": "Ground & Terrain/Regolith/Lunar Surface",
+    "collections": [
+      "moon"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "moon",
+    "img_version": "1ed19cc3",
+    "download_count": 2382,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_flat_macro_02.png?width=256&height=256&format=webp&v=1ed19cc3"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-backgrounds-3",
+  "sourceUrl": "https://opengameart.org/content/backgrounds-3",
+  "checkedAt": "2026-10-09T15:40:50.081Z",
+  "httpStatus": 200,
+  "pageSha256": "863102e099afcd3b36470f925a21abfea64141e2adce5cc12e740920f6b79a03",
+  "title": "Backgrounds",
+  "authors": [
+    "Nidhoggn"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Backgrounds by Nidhoggn. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/backgrounds-3 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/battleback1.png",
+    "https://opengameart.org/sites/default/files/battleback2.png",
+    "https://opengameart.org/sites/default/files/battleback3.png",
+    "https://opengameart.org/sites/default/files/battleback4.png",
+    "https://opengameart.org/sites/default/files/battleback5.png",
+    "https://opengameart.org/sites/default/files/battleback6.png",
+    "https://opengameart.org/sites/default/files/battleback7.png",
+    "https://opengameart.org/sites/default/files/battleback8.png",
+    "https://opengameart.org/sites/default/files/battleback9.png",
+    "https://opengameart.org/sites/default/files/battleback10.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/battleback1.png",
+  "downloadSha256": "af41cd9bcce33366d8c218a82f16bb08b7838d4d0f80182a1059b968d20f182f",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "battleback1.png",
+  "previewSha256": "af41cd9bcce33366d8c218a82f16bb08b7838d4d0f80182a1059b968d20f182f",
+  "sourceTags": [
+    "background",
+    "scenario",
+    "Battle"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

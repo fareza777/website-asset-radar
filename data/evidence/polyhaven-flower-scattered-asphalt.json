@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/flower_scattered_asphalt",
+  "checkedAt": "2026-10-09T15:39:44.105Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/flower_scattered_asphalt",
+  "apiSha256": "c7dcebb0aa50e52ed67a451ddf602672070ab15ed28a5193b277bbf5f68eeed7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flower_scattered_asphalt/flower_scattered_asphalt_diff_1k.jpg",
+  "assetFileMd5": "1c10ff2de140ea02ca749c517c65efd6",
+  "assetFileSha256": "5d7abd91ef16885850340e7c309a257d8f5b455599dd2a01ef1c411f0302c736",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Flower Scattered Asphalt",
+    "categories": [
+      "floor",
+      "asphalt"
+    ],
+    "tags": [
+      "asphalt",
+      "asphalt road",
+      "petals",
+      "plant debris",
+      "outdoor",
+      "cracked",
+      "driveway",
+      "sticks",
+      "twigs",
+      "leaf litter"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1738627200,
+    "staging": null,
+    "files_hash": "28abac59b1ec10866501f2af682ff52bb9e5bbe5",
+    "description": "Free 8K texture of weathered asphalt with cracked, gritty surface scattered with purple flower petals, twigs and leaf litter, rough, matte and worn.",
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "cracked",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4c63ccc2",
+    "download_count": 2960,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_scattered_asphalt.png?width=256&height=256&format=webp&v=4c63ccc2"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/herringbone_pavement_04",
+  "checkedAt": "2026-10-09T15:42:34.953Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/herringbone_pavement_04",
+  "apiSha256": "e4b757013ffa92bceb003b9d4a2ccdc25b931c0af8449da7e6e3d3e0e6466356",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/herringbone_pavement_04/herringbone_pavement_04_diff_1k.jpg",
+  "assetFileMd5": "af2ca6237098b4dce10daeae98ee02b0",
+  "assetFileSha256": "94271f5833bc09dd977b7b3d539a640d20bc1b4129c8eb21535b888c8852778b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Herringbone Pavement 04",
+    "categories": [
+      "man made",
+      "road",
+      "outdoor"
+    ],
+    "tags": [
+      "weathered",
+      "rough",
+      "discolored",
+      "dirty",
+      "coarse",
+      "outdoor",
+      "aged",
+      "weatherbeaten",
+      "timeworn",
+      "driveway texture",
+      "rough  ",
+      "pavement",
+      "rugged",
+      "pathway"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1735171200,
+    "staging": null,
+    "files_hash": "1b7da9f0c890209eb96fb22c7899f7c8798a704c",
+    "description": "Free 8K texture: weathered herringbone pavement with coarse grooves, discolored, dirt-filled seams and a rough, timeworn outdoor surface.",
+    "category_id": "a993f2ab-6503-53e4-a548-9a509c81f7e1",
+    "category": "Brick & Block/Concrete Block & Paver/Herringbone Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "24dc451c",
+    "download_count": 1309,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_pavement_04.png?width=256&height=256&format=webp&v=24dc451c"
+  }
+}

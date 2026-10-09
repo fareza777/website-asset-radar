@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pebble_embedded_pavement",
+  "checkedAt": "2026-10-09T16:02:16.490Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pebble_embedded_pavement",
+  "apiSha256": "f562654101c6d57e8f8102bff14136887b1b56d6be8554fd8ba1f5fc9985a5fb",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pebble_embedded_pavement/pebble_embedded_pavement_diff_1k.jpg",
+  "assetFileMd5": "99c19765095b5d8f50084aec1a789b79",
+  "assetFileSha256": "8586489ebcdc0797b4dbb89d8a3e9ae834558bc33467111c7807edc3ece541da",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Pebble Embedded Pavement",
+    "type": 1,
+    "tags": [
+      "pebbles",
+      "pebble",
+      "concrete",
+      "bumpy",
+      "walkway",
+      "outdoor",
+      "embedded pebble",
+      "cemented floor",
+      "outdoor walkway",
+      "pavement",
+      "rough",
+      "coarse"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1716249600,
+    "staging": null,
+    "files_hash": "15cc8ba729bd8b6e9194db8ec2d1b4470a93af9e",
+    "description": "Free 8K texture of pebble-embedded concrete: coarse, rough, cemented surface with small rounded stones recessed in weathered outdoor pavement.",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "11d74e13",
+    "download_count": 4526,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebble_embedded_pavement.png?width=256&height=256&format=webp&v=11d74e13"
+  }
+}

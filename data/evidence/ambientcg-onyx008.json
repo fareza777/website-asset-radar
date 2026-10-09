@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Onyx008",
+  "checkedAt": "2026-10-09T15:06:14.574Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Onyx008&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "3a8e394ef7c8230a497814b2f5554a0020564d66dbd6cb5fbe4caa045f87256d",
+  "apiMetadata": {
+    "assetId": "Onyx008",
+    "dataType": "Material",
+    "displayName": "Onyx 008",
+    "displayCategory": "Onyx",
+    "shortLink": "https://ambientcg.com/a/Onyx008",
+    "tags": [
+      "8",
+      "marble",
+      "onyx",
+      "smooth",
+      "stone"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Onyx008.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Onyx008.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Onyx008.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Onyx008.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Onyx008.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Onyx008.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Onyx008.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Onyx008.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Onyx008.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Onyx008.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Onyx008.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Onyx008.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Onyx008.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Onyx008.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Onyx008.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Onyx008.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Onyx008.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Onyx008.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Onyx008.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Onyx008.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Onyx008.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Onyx008.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Onyx008.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Onyx008.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_1K-JPG.zip",
+                "fileName": "Onyx008_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_1K-JPG.zip",
+                "size": 3997532,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_2K-JPG.zip",
+                "fileName": "Onyx008_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_2K-JPG.zip",
+                "size": 11021687,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_4K-JPG.zip",
+                "fileName": "Onyx008_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_4K-JPG.zip",
+                "size": 37023162,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_8K-JPG.zip",
+                "fileName": "Onyx008_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_8K-JPG.zip",
+                "size": 142735383,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_1K-PNG.zip",
+                "fileName": "Onyx008_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_1K-PNG.zip",
+                "size": 10146468,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_2K-PNG.zip",
+                "fileName": "Onyx008_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_2K-PNG.zip",
+                "size": 38400842,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_4K-PNG.zip",
+                "fileName": "Onyx008_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_4K-PNG.zip",
+                "size": 153138114,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Onyx008_8K-PNG.zip",
+                "fileName": "Onyx008_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Onyx008_8K-PNG.zip",
+                "size": 646765561,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2025-03-19 18:00:00",
+    "earlyReleaseDate": "2025-03-12 17:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 9768,
+    "downloadCountMonth": 996,
+    "downloadCountWeek": 297,
+    "popularityScore": 5.110800825981908,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_Color.jpg?92800&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_Displacement.jpg?84521&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_NormalDX.jpg?34972&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_Roughness.jpg?41538",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_Color.jpg?95447,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_Displacement.jpg?89090,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_NormalDX.jpg?17241,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx008/Onyx008_SQ_Roughness.jpg?98921&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Onyx008.webp",
+  "previewSha256": "79dadeea1930cab4da1834f057662aa2473b41ce02a1c90f95be1fd493eafdab",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

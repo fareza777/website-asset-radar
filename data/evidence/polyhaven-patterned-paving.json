@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_paving",
+  "checkedAt": "2026-10-09T15:43:54.347Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_paving",
+  "apiSha256": "53ece58dbd10469b0503e17289ca5e66c9c14e2683ba3903dc7647f04a3f002d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_paving/patterned_paving_diff_1k.jpg",
+  "assetFileMd5": "77b0380803171d6f6812d922a3ef8963",
+  "assetFileSha256": "c0c72a8b6223356fb9988ae0dcf35caeefa618b76abc792e647a37312faa3498",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Patterned Paving",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor"
+    ],
+    "tags": [
+      "footpath",
+      "pavement",
+      "sidewalk",
+      "sidewalk texture",
+      "pavement patterned",
+      "walkway",
+      "urban",
+      "city",
+      "pavers",
+      "cityscape",
+      "architecture",
+      "interlocking",
+      "interlocking bricks",
+      "street",
+      "infrastructure",
+      "station",
+      "decorative bricks",
+      "stone paving"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1733961600,
+    "staging": null,
+    "files_hash": "e05e44647320058773b49a9f82af36223d647aad",
+    "description": "Free 8K texture of patterned stone pavers - interlocking rectangular bricks in muted gray-blue and brown tones with roughness, grout lines, and light wear.",
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "5c24feb5",
+    "download_count": 7185,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_paving.png?width=256&height=256&format=webp&v=5c24feb5"
+  }
+}

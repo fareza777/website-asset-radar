@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floral_jacquard",
+  "checkedAt": "2026-10-09T15:10:52.057Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floral_jacquard",
+  "apiSha256": "522c9da3a3b6b4699007943e327b50d59fe325478cd197b93c03c6dc99ccec67",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floral_jacquard/floral_jacquard_diff_1k.jpg",
+  "assetFileMd5": "465b278aab165f032234a462f8ce75e6",
+  "assetFileSha256": "4534bf28534ebd8f24544c389a76f42630bca7621ae55feabbb8da32f98e6bf4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Floral Jacquard",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      7694,
+      11668
+    ],
+    "dimensions": [
+      252.9498182468769,
+      383.59999656677246
+    ],
+    "staging": null,
+    "files_hash": "85ce792736452bdf8f584d4dbc2dc559b3160018",
+    "tags": [
+      "decorative",
+      "dark",
+      "pattern",
+      "fabric",
+      "textile ",
+      "cloth",
+      "floral",
+      "embossed",
+      "black",
+      "woven",
+      "rich"
+    ],
+    "description": "Free rich black jacquard fabric with embossed floral weave - tactile PBR-ready surface, subtle sheen and pronounced normals, ideal for upholstery, drapery, and garments.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "jacquard"
+    ],
+    "category_id": "fa75cb2c-b488-5fcc-ac0c-312e9e93f192",
+    "category": "Textiles & Leather/Patterned & Jacquard/Floral Weave",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "0f84d4db",
+    "download_count": 13741,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floral_jacquard.png?width=256&height=256&format=webp&v=0f84d4db"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cicada-sounds",
+  "sourceUrl": "https://opengameart.org/content/cicada-sounds",
+  "checkedAt": "2026-10-09T15:08:00.410Z",
+  "httpStatus": 200,
+  "pageSha256": "59325e751d05a4fda9f205c6c8e8df0d4ad250e4fd16e89c82bffaf654b8e5c5",
+  "title": "cicada sounds",
+  "authors": [
+    "syncopika"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "cicada sounds by syncopika. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/cicada-sounds Preview resized and converted to WebP; original waveform visualization.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/082526-cicadasounds_0.ogg",
+    "https://opengameart.org/sites/default/files/082526-cicadasounds2_0.ogg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/082526-cicadasounds_0.ogg",
+  "downloadSha256": "ea98710a72f4b8107ab121e55986c25d849e4a7165384ab91d907de4bbce940f",
+  "formats": [
+    "OGG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "082526-cicadasounds_0.ogg",
+  "previewSha256": "ea98710a72f4b8107ab121e55986c25d849e4a7165384ab91d907de4bbce940f",
+  "sourceTags": [
+    "cicada",
+    "nature",
+    "summer"
+  ],
+  "artTypes": [
+    "Sound Effect"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

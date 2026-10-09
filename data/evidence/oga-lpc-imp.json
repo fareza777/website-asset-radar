@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-lpc-imp",
+  "sourceUrl": "https://opengameart.org/content/lpc-imp",
+  "checkedAt": "2026-10-09T15:55:06.462Z",
+  "httpStatus": 200,
+  "pageSha256": "1d0991cdf54732320703dddfadb2a22cb7d4eca5dec89eb71987919a3949acd3",
+  "title": "[LPC] Imp",
+  "authors": [
+    "William.Thompsonj"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Link my profile (if reasonable), credit Redshrike as graphic artist, and credit me as contributor (I did pay to have it made after all...) [LPC] Imp by William.Thompsonj. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/lpc-imp Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/LPC%20imp_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/LPC%20imp_0.zip",
+  "downloadSha256": "865251056977ad7ceb3341550ad51d5bdc1f449c30be4803198dbab5eada0b70",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 10,
+  "licenseFiles": [],
+  "previewFile": "LPC imp/walk - sword shield.png",
+  "previewSha256": "8b494e45464235ccf5242e401fee427f9db37a42514281aee9f8072e475e340c",
+  "sourceTags": [
+    "LPC",
+    "imp",
+    "Enemy",
+    "demon",
+    "devil"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

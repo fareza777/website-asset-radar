@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/moon_track_03",
+  "checkedAt": "2026-10-09T15:26:34.834Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/moon_track_03",
+  "apiSha256": "416f11b4b555871b1ed87b3c25071542b6d5ab01c97ca9ad5067c4a57f056f81",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/moon_track_03/moon_track_03_diff_1k.jpg",
+  "assetFileMd5": "9fc38d6bbc3fd3b6d79dcf1143ca01a5",
+  "assetFileSha256": "a9ab4ba631357631ac8772d626d126b6a88f4d97f313502a1e3ad1693b980910",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Moon Track 03",
+    "authors": {
+      "Greg Zaal": "Photography",
+      "Jenelle van Heerden": "Processing",
+      "Rico Cilliers": "Photography"
+    },
+    "max_resolution": [
+      7944,
+      16384
+    ],
+    "dimensions": [
+      199.99998807907104,
+      399.9999761581421
+    ],
+    "staging": null,
+    "tags": [
+      "rough",
+      "dirt",
+      "course",
+      "exterior",
+      "regolith",
+      "dusted",
+      "tracks",
+      "tyre tracks",
+      "tire tracks",
+      "extraterrestrial",
+      "space",
+      "lunar"
+    ],
+    "date_published": 1750336463,
+    "categories": [
+      "outdoor",
+      "sand",
+      "terrain",
+      "collection: moon"
+    ],
+    "files_hash": "ad89136d6dd2cb490683714c25b32230de5dd5a4",
+    "description": "Free 16K texture of lunar regolith with crisp tire tracks, rough dusted surface",
+    "info": "Captured at [Spaceport Rostock](https://www.pts.space/products/spacelab-rostock/)'s lab. [More info](https://blog.polyhaven.com/moon).",
+    "category_id": "007adc83-ca1f-5b21-8d48-563fbe825f90",
+    "category": "Ground & Terrain/Regolith/Tracked Regolith",
+    "collections": [
+      "moon"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "worn"
+      ]
+    },
+    "vault": "moon",
+    "img_version": "5127bf91",
+    "download_count": 412,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_track_03.png?width=256&height=256&format=webp&v=5127bf91"
+  }
+}

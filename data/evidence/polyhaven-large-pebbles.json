@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_pebbles",
+  "checkedAt": "2026-10-09T16:04:26.246Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_pebbles",
+  "apiSha256": "8b6affc7dae66bf47c8d06b68dedfeac593537bd1f44e808edc9e90edfd61637",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_pebbles/large_pebbles_diff_1k.jpg",
+  "assetFileMd5": "eb371db87c270dda8525c40aff23b868",
+  "assetFileSha256": "85d4cc2b8741ac2151eb2c0dff1cc17573295fce398d6e0cd633c161e02bf2b3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Large Pebbles",
+    "categories": [
+      "outdoor",
+      "natural",
+      "man made",
+      "road"
+    ],
+    "type": 1,
+    "tags": [
+      "old",
+      "worn",
+      "dirty",
+      "pebbles",
+      "large",
+      "sidewalk",
+      "parking",
+      "stones",
+      "rocks",
+      "gravel",
+      "garden walkway",
+      "driveway",
+      "stone floor",
+      "rough",
+      "bumpy",
+      "outdoor flooring",
+      "pathway",
+      "cobblestones",
+      "stone pathway"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1713398400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d3e80b9e4e69c680311c3c941d8fbc3c85fc6bfc",
+    "description": "Free 8K texture of worn, dirty large pebbles - dark rounded stones set in compacted earth, rough bumpy surfaces, subtle wet sheen and dirt-filled joints.",
+    "category_id": "e68bcb96-6d27-562a-bac7-d821ebdaa2a7",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Rounded Cobbles & Pebbles",
+    "img_version": "d2046ac1",
+    "download_count": 11262,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_pebbles.png?width=256&height=256&format=webp&v=d2046ac1"
+  }
+}

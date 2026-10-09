@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_pathway_02",
+  "checkedAt": "2026-10-09T15:03:13.040Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_pathway_02",
+  "apiSha256": "7f0829fa2bdc1343a38bba3c8fc83664f406edaf7f34e7dc294db8bc8e96726f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_pathway_02/stone_pathway_02_diff_1k.jpg",
+  "assetFileMd5": "4aa673efc626cb6e9e8eca451560dc56",
+  "assetFileSha256": "f47763411507049da44c93948579e815129c829f72988140df5bf021adb35195",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Stone Pathway 02",
+    "categories": [
+      "floor",
+      "outdoor",
+      "cobblestone"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "leaves",
+      "fallen leaves",
+      "plant debris",
+      "stones",
+      "cobblestone",
+      "garden walkway",
+      "stone pathway",
+      "path",
+      "cobblestones",
+      "scattered leaves",
+      "rough  ",
+      "damp"
+    ],
+    "description": "Free 8k material: weathered cobblestone pathway texture with rough, uneven stones, damp sheen, worn edges and scattered fallen leaves and plant debris.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1950.0000476837158,
+      1950.0000476837158
+    ],
+    "files_hash": "2fde04b9e79075a3481c600d5ba1a7df48561046",
+    "date_published": 1761782400,
+    "staging": null,
+    "category_id": "99762fb0-f134-5cd9-93f7-5b876875f7c9",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Rough & Irregular Setts",
+    "img_version": "2830fd6b",
+    "download_count": 16430,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_pathway_02.png?width=256&height=256&format=webp&v=2830fd6b"
+  }
+}

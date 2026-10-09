@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-08T11:28:01.778Z",
   "httpStatus": 200,
   "apiUrl": "https://api.polyhaven.com/info/rock_boulder_cracked",
-  "apiSha256": "b73533deed1031d3e9873dbe91da20278e5128d26b7da70dd1b0f815cfe021c8",
+  "apiSha256": "3f13527aef101d4a7cec92582768750bf4c4c966f1c958822cbc98b2124ef7a4",
   "licenseEvidenceUrl": "https://polyhaven.com/license",
   "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
   "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.jpg",
@@ -62,7 +62,9 @@
       "setting": "outdoor"
     },
     "img_version": "87c09bab",
-    "download_count": 58188,
+    "download_count": 58197,
     "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_boulder_cracked.png?width=256&height=256&format=webp&v=87c09bab"
-  }
+  },
+  "assetFileLinkCheckedAt": "2026-10-09T16:12:26.248Z",
+  "lastLinkCheckAt": "2026-10-09T16:12:26.248Z"
 }

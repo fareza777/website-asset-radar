@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brick_villa_floor",
+  "checkedAt": "2026-10-09T16:03:56.328Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brick_villa_floor",
+  "apiSha256": "376ee06a0b02be9ca7e937e8c077685b8d7725e4b9caf4b79fd4e6757c00ecee",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_villa_floor/brick_villa_floor_diff_1k.jpg",
+  "assetFileMd5": "4ef52dac2ac8ecc45c318f1901efd877",
+  "assetFileSha256": "636caa943cb514cdb3d7231853c1145f94ba726c9c955649b57d256f7dddf782",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Brick Villa Floor",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "brick",
+      "bricks",
+      "interlocking bricks",
+      "pattern",
+      "patterned",
+      "floor",
+      "outdoor flooring",
+      "outdoor",
+      "rough  "
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2099.9999046325684,
+      2099.9999046325684
+    ],
+    "date_published": 1714003200,
+    "staging": null,
+    "files_hash": "9c0be3659e4746e4e7fc4a09239f0d2d7ec187d2",
+    "description": "Free 8K texture of a rough interlocking brick villa floor with weathered reddish-brown bricks, deep grout lines and gritty, uneven surface detail.",
+    "category_id": "fd95b70a-91f7-556e-a9d5-e1d6fe6637be",
+    "category": "Brick & Block/Clay Brick/Herringbone",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "69e274bb",
+    "download_count": 4135,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_villa_floor.png?width=256&height=256&format=webp&v=69e274bb"
+  }
+}

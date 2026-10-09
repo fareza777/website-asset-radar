@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/japanese_cedar_bark",
+  "checkedAt": "2026-10-09T15:20:52.150Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/japanese_cedar_bark",
+  "apiSha256": "6c52660a3348f0b3adb20fe2423c42c3863e18ee77b6d545fdf779c05a29d19d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/japanese_cedar_bark/japanese_cedar_bark_diff_1k.jpg",
+  "assetFileMd5": "51e45ec05fc2d9ce21f38f2613704fc7",
+  "assetFileSha256": "fa240510e9ef127a8979ebd63628950abdc048a1e091d8a1611c86bbe2c6cda4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Japanese Cedar Bark",
+    "categories": [
+      "outdoor",
+      "natural",
+      "bark"
+    ],
+    "tags": [
+      "bark",
+      "tree",
+      "tree bark",
+      "nature",
+      "bark texture",
+      "natural",
+      "forestry",
+      "japanese",
+      "cedar bark",
+      "cedar",
+      "organic"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      16384
+    ],
+    "date_published": 1750896000,
+    "staging": null,
+    "description": "Free 16K texture of Japanese cedar bark - rough, fibrous vertical ridges, deep dark-brown weathered tones.",
+    "dimensions": [
+      1000,
+      2000
+    ],
+    "files_hash": "01b8de36ae1459e3a7ae7d02647988e2613e67f6",
+    "category_id": "fc8dd00d-a670-5b83-af7f-2281cb9ca987",
+    "category": "Wood/Bark/Fissured Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "0249db68",
+    "download_count": 3553,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/japanese_cedar_bark.png?width=256&height=256&format=webp&v=0249db68"
+  }
+}

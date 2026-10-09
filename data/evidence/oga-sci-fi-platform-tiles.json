@@ -1,0 +1,46 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-sci-fi-platform-tiles",
+  "sourceUrl": "https://opengameart.org/content/sci-fi-platform-tiles",
+  "checkedAt": "2026-10-09T15:27:31.708Z",
+  "httpStatus": 200,
+  "pageSha256": "3aa09b208e19dbb774f7c9dafa340e548b1813bbe26759197f0f49647b66e63c",
+  "title": "Sci-fi platform tiles",
+  "authors": [
+    "Eris"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Sci-fi platform tiles by Eris. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/sci-fi-platform-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/scifi_platformTiles_16x16.png",
+    "https://opengameart.org/sites/default/files/scifi_platformTiles_32x32.png",
+    "https://opengameart.org/sites/default/files/scifi_platform_BG1.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/scifi_platformTiles_16x16.png",
+  "downloadSha256": "0a807944b7336b2cf21bd6d1086f1d2555b69512ff782431fa71958e67a2fa89",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "scifi_platformTiles_16x16.png",
+  "previewSha256": "0a807944b7336b2cf21bd6d1086f1d2555b69512ff782431fa71958e67a2fa89",
+  "sourceTags": [
+    "pixel",
+    "Sci-Fi",
+    "space",
+    "Platformer",
+    "platform",
+    "sidescroller",
+    ".png",
+    "tile",
+    "32x32",
+    "16x16",
+    "background"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

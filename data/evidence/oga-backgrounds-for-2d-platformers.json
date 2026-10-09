@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-backgrounds-for-2d-platformers",
+  "sourceUrl": "https://opengameart.org/content/backgrounds-for-2d-platformers",
+  "checkedAt": "2026-10-09T15:25:52.419Z",
+  "httpStatus": 200,
+  "pageSha256": "9058b06291b841e8a0489355201b3344c2fc1f71f2273716260fb4658734bbd9",
+  "title": "Backgrounds for 2D Platformers",
+  "authors": [
+    "greggman"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "By Zeyu Ren 任泽宇 Backgrounds for 2D Platformers by greggman. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/backgrounds-for-2d-platformers Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/background0.png",
+    "https://opengameart.org/sites/default/files/background1-720.png",
+    "https://opengameart.org/sites/default/files/background3-720.png",
+    "https://opengameart.org/sites/default/files/rock_4.png",
+    "https://opengameart.org/sites/default/files/snow_5.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/background0.png",
+  "downloadSha256": "daf463213ae58beb688c6c33ebbe548c9492c08614cbce4303b7c8542fa55310",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "background0.png",
+  "previewSha256": "daf463213ae58beb688c6c33ebbe548c9492c08614cbce4303b7c8542fa55310",
+  "sourceTags": [
+    "background",
+    "Platformer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

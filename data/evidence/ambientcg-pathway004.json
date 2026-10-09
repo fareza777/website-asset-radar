@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Pathway004",
+  "checkedAt": "2026-10-09T15:40:26.714Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Pathway004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "d725a1339e3fb2f779b17e5341840ed28dcb021272dd4b0d2935d455c9fd8cb5",
+  "apiMetadata": {
+    "assetId": "Pathway004",
+    "dataType": "Material",
+    "displayName": "Pathway 004",
+    "displayCategory": "Pathway",
+    "shortLink": "https://ambientcg.com/a/Pathway004",
+    "tags": [
+      "4",
+      "gravel",
+      "ground",
+      "path",
+      "pathway",
+      "road",
+      "rocks",
+      "rocky",
+      "way"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Pathway004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Pathway004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Pathway004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Pathway004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Pathway004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Pathway004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Pathway004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Pathway004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Pathway004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Pathway004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Pathway004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Pathway004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Pathway004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Pathway004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Pathway004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Pathway004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Pathway004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Pathway004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Pathway004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Pathway004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Pathway004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Pathway004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Pathway004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Pathway004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_1K-JPG.zip",
+                "fileName": "Pathway004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_1K-JPG.zip",
+                "size": 5405042,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_2K-JPG.zip",
+                "fileName": "Pathway004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_2K-JPG.zip",
+                "size": 17373579,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_4K-JPG.zip",
+                "fileName": "Pathway004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_4K-JPG.zip",
+                "size": 60617497,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_8K-JPG.zip",
+                "fileName": "Pathway004_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_8K-JPG.zip",
+                "size": 200155198,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_1K-PNG.zip",
+                "fileName": "Pathway004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_1K-PNG.zip",
+                "size": 9969444,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_2K-PNG.zip",
+                "fileName": "Pathway004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_2K-PNG.zip",
+                "size": 35200586,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_4K-PNG.zip",
+                "fileName": "Pathway004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_4K-PNG.zip",
+                "size": 132481061,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pathway004_8K-PNG.zip",
+                "fileName": "Pathway004_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pathway004_8K-PNG.zip",
+                "size": 496908995,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2024-06-20 10:00:00",
+    "earlyReleaseDate": "2024-06-04 21:44:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 11971,
+    "downloadCountMonth": 1080,
+    "downloadCountWeek": 358,
+    "popularityScore": 4.029878779102071,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_Color.jpg?15146&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_Displacement.jpg?44547&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_NormalDX.jpg?76999&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_Roughness.jpg?4446&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_AmbientOcclusion.jpg?31073",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_Color.jpg?12201,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_Displacement.jpg?13595,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_NormalDX.jpg?80442,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_Roughness.jpg?56144,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pathway004/Pathway004_SQ_AmbientOcclusion.jpg?45280&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Pathway004.webp",
+  "previewSha256": "109833eb30b3026315351aec54fa78649edb566f9938122b47ba7424a6210e54",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

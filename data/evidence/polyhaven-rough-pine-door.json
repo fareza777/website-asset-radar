@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_pine_door",
+  "checkedAt": "2026-10-09T14:59:37.338Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_pine_door",
+  "apiSha256": "0c2424a70adf7ad5d28b8b76091a00a43aaaedcedf2f3094693c73e870c26566",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_pine_door/rough_pine_door_diff_1k.jpg",
+  "assetFileMd5": "8c1036e566fe8e925e98123458aae385",
+  "assetFileSha256": "1a9b6a8a75d299a52fbfdcadeb71dcac8915503cb88fc817ccb2d24dd1086d07",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rough Pine Door",
+    "categories": [
+      "wood",
+      "outdoor"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "weatherbeaten",
+      "outdoor",
+      "pine",
+      "pine wood",
+      "wood",
+      "roughhewn",
+      "barn door",
+      "rustic",
+      "aged",
+      "door",
+      "rough hewn",
+      "knots",
+      "wooden knots",
+      "saw marks"
+    ],
+    "description": "Free 8k texture of a weathered rough-hewn pine door: deep reddish-brown planks, pronounced grain, split edges, nail holes and a worn matte finish.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "144b2cd6ad790ffd8d12e00fa1ec5eff826636b1",
+    "staging": null,
+    "date_published": 1764115200,
+    "category_id": "b8439687-3b90-5f1b-89b6-653eb24b657a",
+    "category": "Wood/Boards & Planks/Raw Sawn Timber",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "fa8e7961",
+    "download_count": 7930,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_pine_door.png?width=256&height=256&format=webp&v=fa8e7961"
+  }
+}

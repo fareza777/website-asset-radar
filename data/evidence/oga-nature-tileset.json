@@ -1,0 +1,44 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-nature-tileset",
+  "sourceUrl": "https://opengameart.org/content/nature-tileset",
+  "checkedAt": "2026-10-09T15:53:56.420Z",
+  "httpStatus": 200,
+  "pageSha256": "92c9a8d8f4cde060a25e1c63617f2a955bf13a7f6893efbab9a5d3997fc51b3e",
+  "title": "Nature tileset",
+  "authors": [
+    "PauR"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Paulina Riva Nature tileset by PauR. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/nature-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tilesetOpenGame_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tilesetOpenGame_1.png",
+  "downloadSha256": "fdc2afe59fc51aeb0616234c718181f74931c9629428dbe0a5954e82fe1e5144",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tilesetOpenGame_1.png",
+  "previewSha256": "fdc2afe59fc51aeb0616234c718181f74931c9629428dbe0a5954e82fe1e5144",
+  "sourceTags": [
+    "pixel",
+    "nature",
+    "grass",
+    "forest",
+    "sky",
+    "tree",
+    "mountain",
+    "platform",
+    "tileset",
+    "paulina",
+    "riva"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

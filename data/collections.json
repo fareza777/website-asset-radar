@@ -40,7 +40,7 @@
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Outdoor models and scenery, boats, fish art, and sky backgrounds for adventure prototypes. Choose packs that suit your art direction.",
+    "description": "Outdoor models, boats, fish art, and skies, plus 2D forest scenery and a cicada loop. Art direction differs by pack; set materials up in your engine.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
@@ -49,16 +49,19 @@
       "kenney-mini-forest",
       "kenney-watercraft-kit",
       "kenney-skyboxes",
-      "kenney-fish-pack"
+      "kenney-fish-pack",
+      "oga-forest-background",
+      "oga-trees-bushes",
+      "oga-cicada-sounds"
     ],
     "cover": "kenney-nature-kit",
     "color": "mint",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T15:58:30.077Z"
   },
   {
     "id": "the-finishing-touches",
     "name": "The finishing touches",
-    "description": "UI kits, control prompts, medals, cursors, and interface audio for clear prototype menus and interaction feedback.",
+    "description": "Kenney UI kits, prompts, medals, cursors, and interface audio, plus CC0 Golden UI, keyboard prompts, and extra UI pieces. Styles differ, so choose one interface direction.",
     "assetIds": [
       "kenney-ui-pack",
       "kenney-ui-pack-rpg-expansion",
@@ -69,11 +72,14 @@
       "kenney-game-icons-expansion",
       "kenney-cursor-pack",
       "kenney-medals",
-      "kenney-input-prompts-pixel-1-bit"
+      "kenney-input-prompts-pixel-1-bit",
+      "oga-golden-ui",
+      "oga-free-keyboard-and-controllers-prompts-pack",
+      "oga-ui-pieces"
     ],
     "cover": "kenney-ui-pack",
     "color": "lime",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T15:58:30.077Z"
   },
   {
     "id": "a-town-of-your-own",
@@ -96,7 +102,7 @@
   {
     "id": "the-night-shift",
     "name": "The night shift",
-    "description": "Choose 2D factory tiles or 3D industrial, road, and railway models, with CC0 metal and concrete surfaces. Materials need manual setup.",
+    "description": "Choose 2D factory tiles, an industrial parallax background, or 3D industrial, road, and railway models, with CC0 metal and concrete surfaces. Materials need manual setup.",
     "assetIds": [
       "kenney-factory-kit",
       "kenney-city-kit-industrial",
@@ -106,16 +112,17 @@
       "kenney-ui-pack",
       "ambientcg-metal063",
       "ambientcg-concrete034",
-      "ambientcg-asphalt033"
+      "ambientcg-asphalt033",
+      "oga-industrial-parallax-background"
     ],
     "cover": "kenney-factory-kit",
     "color": "mint",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T15:58:30.077Z"
   },
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Space-station and modular sci-fi models, 2D shooter art, blasters, planet backgrounds, UI, and sound effects. Choose a visual direction before combining packs.",
+    "description": "Space-station and modular sci-fi models, 2D shooter art, blasters, planet backgrounds, UI, and sound effects, plus CC-BY space backdrops and laser sprites. Credit that backdrop pack and choose one visual direction.",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
@@ -125,16 +132,18 @@
       "kenney-blaster-kit",
       "kenney-planets",
       "kenney-skyboxes-space",
-      "kenney-space-shooter-remastered"
+      "kenney-space-shooter-remastered",
+      "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
+      "oga-lasers-and-beams"
     ],
     "cover": "kenney-space-station-kit",
     "color": "blue",
-    "updatedAt": "2026-10-09T08:33:52.201Z"
+    "updatedAt": "2026-10-09T15:58:30.077Z"
   },
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, and control prompts. Choose packs with a consistent palette and proportions.",
+    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, plus castle and generic platformer tiles. Match palette and tile size before combining packs.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -147,16 +156,18 @@
       "kenney-platformer-bricks",
       "kenney-pixel-platformer-blocks",
       "kenney-platformer-art-extended-tileset",
-      "oga-a-platformer-in-the-forest"
+      "oga-a-platformer-in-the-forest",
+      "oga-castle-platformer",
+      "oga-generic-platformer-tiles"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
     "color": "peach",
-    "updatedAt": "2026-10-09T10:19:11.863Z"
+    "updatedAt": "2026-10-09T15:58:30.077Z"
   },
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
-    "description": "Pixel RPG environments, caves, interiors, characters, and audio. Choose one palette and perspective before combining packs.",
+    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, item icons, and tiny characters. Sizes differ; credit the CC-BY roguelike sheet and pick one palette.",
     "assetIds": [
       "kenney-micro-roguelike",
       "kenney-roguelike-rpg-pack",
@@ -166,11 +177,15 @@
       "kenney-rpg-audio",
       "kenney-monochrome-rpg",
       "kenney-rpg-urban-pack",
-      "kenney-pico-8-city"
+      "kenney-pico-8-city",
+      "oga-dungeon-crawl-32x32-tiles-supplemental",
+      "oga-roguelike-tiles-large-collection",
+      "oga-16x16-rpg-items",
+      "oga-tiny-characters-set"
     ],
     "cover": "kenney-micro-roguelike",
     "color": "blue",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T15:58:30.077Z"
   },
   {
     "id": "menus-with-feeling",

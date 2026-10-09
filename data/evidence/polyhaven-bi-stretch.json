@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bi_stretch",
+  "checkedAt": "2026-10-09T15:07:11.100Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bi_stretch",
+  "apiSha256": "e9f24572507dde4607334d7426fd6675b5f94711328f7252336c703655a5d22d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bi_stretch/bi_stretch_diff_1k.jpg",
+  "assetFileMd5": "6318ae829af131dc75ad80bab6d7bba0",
+  "assetFileSha256": "435dbe90312a9666bdacd37a564c8f6938c3a0f2b31288d4ad2581c2aa1304c1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Bi Stretch",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8042,
+      8037
+    ],
+    "dimensions": [
+      264.5644946243421,
+      264.4000053405762
+    ],
+    "staging": null,
+    "files_hash": "ca5f42cc7120e050c92b7285ee1de9a631897c6b",
+    "tags": [
+      "yellow",
+      "fine",
+      "flexible",
+      "bi-stretch",
+      "polyester",
+      "textile ",
+      "woven"
+    ],
+    "description": "Free bi-stretch polyester fabric texture in warm yellow with fine woven surface, soft matte finish and two-way stretch - ideal for garments and activewear.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "stretchy"
+    ],
+    "category_id": "829a2c9e-703d-5423-8a46-dbe2d75c846c",
+    "category": "Textiles & Leather/Woven/Stretch & Synthetic Weaves",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "31772912",
+    "download_count": 10399,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bi_stretch.png?width=256&height=256&format=webp&v=31772912"
+  }
+}

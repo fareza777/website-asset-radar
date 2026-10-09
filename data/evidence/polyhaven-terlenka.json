@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/terlenka",
+  "checkedAt": "2026-10-09T15:14:12.499Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/terlenka",
+  "apiSha256": "676c045fb0fe744747a923305d9069bd62e165198703a350ed942a5cf558f2f2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/terlenka/terlenka_diff_1k.jpg",
+  "assetFileMd5": "202624e89023d9ace2845b372015490c",
+  "assetFileSha256": "74c4333ed05e133928b0cf6d52e732135c8c0ce6dc8623efa590fb31b90f15c0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Terlenka",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8081,
+      8099
+    ],
+    "dimensions": [
+      265.70814767607123,
+      266.2999927997589
+    ],
+    "staging": null,
+    "files_hash": "0b5e6d78db1adba1f3be06f400052467c43bc98c",
+    "tags": [
+      "beige",
+      "fine",
+      "flexible",
+      "cream",
+      "terlenka",
+      "weave",
+      "woven",
+      "synthetic",
+      "polyester",
+      "fashion",
+      "apparel",
+      "textile "
+    ],
+    "description": "Free 8K material: beige Terlenka polyester, fine woven texture with flexible, slightly stretchy surface - perfect for fashion, apparel and textile projects.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "stretchy"
+    ],
+    "category_id": "829a2c9e-703d-5423-8a46-dbe2d75c846c",
+    "category": "Textiles & Leather/Woven/Stretch & Synthetic Weaves",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "bf99fef5",
+    "download_count": 22243,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/terlenka.png?width=256&height=256&format=webp&v=bf99fef5"
+  }
+}

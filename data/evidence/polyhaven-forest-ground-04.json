@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-08T11:28:02.286Z",
   "httpStatus": 200,
   "apiUrl": "https://api.polyhaven.com/info/forest_ground_04",
-  "apiSha256": "5187c59ed0ed6504f9f29b0da9412e03ef89b475fecde980161ed6888d963173",
+  "apiSha256": "2e94193eec6656b3b4af8e600320bc0112d9c9ab747de8aa03bd70c1aece4e9a",
   "licenseEvidenceUrl": "https://polyhaven.com/license",
   "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
   "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_diff_1k.jpg",
@@ -69,7 +69,9 @@
       ]
     },
     "img_version": "d96b3607",
-    "download_count": 167321,
+    "download_count": 167462,
     "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_ground_04.png?width=256&height=256&format=webp&v=d96b3607"
-  }
+  },
+  "assetFileLinkCheckedAt": "2026-10-09T16:12:26.248Z",
+  "lastLinkCheckAt": "2026-10-09T16:12:26.248Z"
 }

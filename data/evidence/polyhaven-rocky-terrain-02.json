@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocky_terrain_02",
+  "checkedAt": "2026-10-09T15:51:24.461Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocky_terrain_02",
+  "apiSha256": "5a0bb9b935c4dc00bd4e1536efe6fea723d26f260fd7375d8d33665427481172",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_02/rocky_terrain_02_diff_1k.jpg",
+  "assetFileMd5": "cf604d3868398a6a996cb5ba330dd3ab",
+  "assetFileSha256": "d570c10b1d5302f4fde9e0e94f4cbab0d5e112fc3fe2b3b91c38a98bd3ddaf4b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rocky Terrain 02",
+    "type": 1,
+    "tags": [
+      "rocky",
+      "terrain",
+      "uneven terrain",
+      "grass",
+      "drone",
+      "landscape",
+      "nature",
+      "nature",
+      "boulders",
+      "wilderness",
+      "scenic",
+      "mountain",
+      "landform",
+      "natural landscape"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      90000,
+      90000
+    ],
+    "date_published": 1726704000,
+    "staging": null,
+    "categories": [
+      "outdoor",
+      "terrain",
+      "natural",
+      "aerial"
+    ],
+    "files_hash": "a4c0d422c59c4234227eb04c1fa9d28694c60fbe",
+    "description": "Free, 8K terrain texture of uneven grassy ground with scattered rocks and boulder clusters, subtle height variation and soil patches",
+    "category_id": "ad8bbc58-82b8-5734-a99b-3fbdb7f0163c",
+    "category": "Ground & Terrain/Rocky Ground/Rocky Landscape",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true,
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "6c54f222",
+    "download_count": 276471,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_terrain_02.png?width=256&height=256&format=webp&v=6c54f222"
+  }
+}

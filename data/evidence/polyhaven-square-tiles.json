@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_tiles",
+  "checkedAt": "2026-10-09T16:04:46.416Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_tiles",
+  "apiSha256": "4103a60023de77f1e3c08f43e552af7bc5ee5fa44f548d29d6777d5d8dff1fbd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_tiles/square_tiles_diff_1k.jpg",
+  "assetFileMd5": "3c590679cffd582f729437fbe8f04359",
+  "assetFileSha256": "4112faaa94887f6a1d940ebadcc96d9fc1c7aa4ba16f0a236ffe0363e75d3610",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Square Tiles",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "indoor",
+      "dirty"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "sidewalk",
+      "station",
+      "urban",
+      "pavers",
+      "patterned",
+      "city",
+      "pavement patterned",
+      "sidewalk texture",
+      "handmade",
+      "tiles",
+      "square",
+      "walkway"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "dimensions": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "staging": null,
+    "date_published": 1713225600,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "10368716"
+    ],
+    "files_hash": "c85188ecaf70f05e4daefdd6db5e29f3979a9174",
+    "description": "Free 8K texture of rough square concrete tiles with tight grout lines, matte porous surface and worn dirt stains on patterned urban pavers.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "dd624ba3",
+    "download_count": 17438,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_tiles.png?width=256&height=256&format=webp&v=dd624ba3"
+  }
+}

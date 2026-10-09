@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-trees-bushes",
+  "sourceUrl": "https://opengameart.org/content/trees-bushes",
+  "checkedAt": "2026-10-09T15:16:49.143Z",
+  "httpStatus": 200,
+  "pageSha256": "a397b993e8f4b19e2bb154a39881f601138a30bdd781caefcd7179f2743c99c2",
+  "title": "Trees & Bushes",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Trees & Bushes by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/trees-bushes Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/trees_and_bushes_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/trees_and_bushes_pack.zip",
+  "downloadSha256": "909b645fead4b283ef5786611ffce3b41fbe32d55316fffcb665c348027b7d18",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 2,
+  "licenseFiles": [
+    "trees_and_bushes_pack/license.txt"
+  ],
+  "previewFile": "trees_and_bushes_pack/trees-and-bushes.png",
+  "previewSha256": "e38fda4fec4a6a6dba8dabda4ce838f2c49b2d7e3f07988960a0077399012ad9",
+  "sourceTags": [
+    "RPG",
+    "Pixel Art",
+    "top down",
+    "trees",
+    "bushes"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

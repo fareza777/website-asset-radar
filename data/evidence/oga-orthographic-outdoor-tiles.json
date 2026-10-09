@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-orthographic-outdoor-tiles",
+  "sourceUrl": "https://opengameart.org/content/orthographic-outdoor-tiles",
+  "checkedAt": "2026-10-09T15:24:41.383Z",
+  "httpStatus": 200,
+  "pageSha256": "dcd452f0c982cafd2a1be36b6912c2f1124f8a56d380f39f95491fdf5c56b436",
+  "title": "Orthographic outdoor tiles",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com Orthographic outdoor tiles by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/orthographic-outdoor-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tiles_12.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tiles_12.png",
+  "downloadSha256": "729ddef8198ef52187a4d0e0bf8950673c87967e7aeac2e0856f800400fea092",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tiles_12.png",
+  "previewSha256": "729ddef8198ef52187a4d0e0bf8950673c87967e7aeac2e0856f800400fea092",
+  "sourceTags": [
+    "pixelart",
+    "orthographic",
+    "building",
+    "fence",
+    "tree",
+    "plant",
+    "grass",
+    "dirt"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-rpg-town-pixel-art-assets",
+  "sourceUrl": "https://opengameart.org/content/rpg-town-pixel-art-assets",
+  "checkedAt": "2026-10-09T15:34:36.880Z",
+  "httpStatus": 200,
+  "pageSha256": "1e4fdfd0cc4e2aa95073d3a5e7bc93542bed1b2c8c791dbb9853a9daa0645c01",
+  "title": "RPG Town Pixel Art Assets",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "RPG Town Pixel Art Assets by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/rpg-town-pixel-art-assets Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/town_rpg_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/town_rpg_pack.zip",
+  "downloadSha256": "f82d4496e858d243f4c151c6d38f7d66f58c5eaaaafe7a630444bef578d07578",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 8,
+  "licenseFiles": [
+    "town_rpg_pack/license.txt"
+  ],
+  "previewFile": "town_rpg_pack/graphics/tiles-map.png",
+  "previewSha256": "edb51fb1c8ffe10b926e97cf419ad064f1434e47b0d33938b794c068be339c8a",
+  "sourceTags": [
+    "RPG",
+    "top down",
+    "Pixel Art",
+    "pixel",
+    "snes"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/chinese_cedar_bark",
+  "checkedAt": "2026-10-09T16:00:40.538Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/chinese_cedar_bark",
+  "apiSha256": "0da592680570833844e0c0b5b6afba28b81fe5b76b76b002102a8433edbbd98a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/chinese_cedar_bark/chinese_cedar_bark_diff_1k.jpg",
+  "assetFileMd5": "ad3d7d486f77b8d625ac74fc7d0ec04e",
+  "assetFileSha256": "53e388eda1394bcb322d5c36f4fceeee23fd6888245a59bbd229d0319f4646cd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Chinese Cedar Bark",
+    "categories": [
+      "natural",
+      "bark"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "tree",
+      "tree bark",
+      "tree trunk",
+      "nature",
+      "trunk",
+      "bark texture",
+      "cedar bark",
+      "chinese cedar"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2269.9999809265137,
+      2269.9999809265137
+    ],
+    "date_published": 1717632000,
+    "staging": null,
+    "sponsors": [
+      "121968951"
+    ],
+    "files_hash": "88abffec19268ede218a66b1552fe90a28d7a9ea",
+    "description": "Free 8K texture of Chinese cedar bark with rough, fibrous vertical ridges, deep grooves and knots; dark reddish-brown, weathered surface with subtle matte highlights.",
+    "category_id": "fc8dd00d-a670-5b83-af7f-2281cb9ca987",
+    "category": "Wood/Bark/Fissured Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "3335ee8a",
+    "download_count": 9111,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chinese_cedar_bark.png?width=256&height=256&format=webp&v=3335ee8a"
+  }
+}

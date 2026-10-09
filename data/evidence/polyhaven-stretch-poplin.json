@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stretch_poplin",
+  "checkedAt": "2026-10-09T15:14:02.415Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stretch_poplin",
+  "apiSha256": "0adfdca271ccbee618f47a4918341c12c879cede26e4f7820844edcd614f67a6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stretch_poplin/stretch_poplin_diff_1k.jpg",
+  "assetFileMd5": "03f707a3a0367d2cd3fa90b71eec4b89",
+  "assetFileSha256": "43d1fa852fea75ef9ccb0832f70df3d717190263f3048c4d26a8ec764af49640",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Stretch Poplin",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8540,
+      8240
+    ],
+    "dimensions": [
+      291.0233241569048,
+      280.8000147342682
+    ],
+    "staging": null,
+    "files_hash": "040e1a500b3ee71a0b19c9df47054db76955fd82",
+    "sponsors": [
+      "84390067"
+    ],
+    "tags": [
+      "green",
+      "fine",
+      "flexible",
+      "tight weave",
+      "textile ",
+      "cotton",
+      "stretch cotton",
+      "poplin",
+      "woven",
+      "tightweave"
+    ],
+    "description": "Free 8K texture: green stretch poplin cotton with a fine, tight weave and flexible stretch - ideal for garments, upholstery, and textile visualizations.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "stretchy"
+    ],
+    "category_id": "829a2c9e-703d-5423-8a46-dbe2d75c846c",
+    "category": "Textiles & Leather/Woven/Stretch & Synthetic Weaves",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "4d3732f6",
+    "download_count": 6565,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stretch_poplin.png?width=256&height=256&format=webp&v=4d3732f6"
+  }
+}

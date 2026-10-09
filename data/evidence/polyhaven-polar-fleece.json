@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/polar_fleece",
+  "checkedAt": "2026-10-09T15:12:22.441Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/polar_fleece",
+  "apiSha256": "33a26c35f9ccb7869107d356df85f2d62227ce5f1ac501d3c573ac48b19feb8d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/polar_fleece/polar_fleece_diff_1k.jpg",
+  "assetFileMd5": "92d8dbc261c2ff09bb028a68bb7ad01b",
+  "assetFileSha256": "d3053dad0f9ea77c347a92ddd675d5d138bcace6f57e49beb4aedbd972381ea9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Polar Fleece",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8258,
+      8204
+    ],
+    "dimensions": [
+      273.2870444699951,
+      271.49999141693115
+    ],
+    "staging": null,
+    "files_hash": "de9304ba352bc23a0c3a9635325f4bcb4e2628a5",
+    "tags": [
+      "beige",
+      "fluffy",
+      "soft",
+      "cream",
+      "fleece",
+      "cozy",
+      "gauzy",
+      "fuzzy",
+      "napped",
+      "plush",
+      "shaggy",
+      "woven"
+    ],
+    "description": "Free 8K texture, cream-beige polar fleece with soft, napped, fluffy surface; plush, gauzy woven look ideal for cozy blankets, garments and interior fabrics.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "fleece"
+    ],
+    "category_id": "f83975ba-9406-54a6-aa26-fc6a1f4cc2a8",
+    "category": "Textiles & Leather/Knit/Fleece & Napped",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "clean"
+      ],
+      "origin": "man_made"
+    },
+    "vault": "fabric",
+    "img_version": "d0a419df",
+    "download_count": 13706,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/polar_fleece.png?width=256&height=256&format=webp&v=d0a419df"
+  }
+}

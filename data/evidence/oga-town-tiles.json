@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-town-tiles",
+  "sourceUrl": "https://opengameart.org/content/town-tiles",
+  "checkedAt": "2026-10-09T15:31:15.350Z",
+  "httpStatus": 200,
+  "pageSha256": "d456761e695dc04c3c30e7e4b71e23cdc13dc37e46c85d90ec2a587c7e722b93",
+  "title": "Town Tiles",
+  "authors": [
+    "surt"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Town Tiles by surt. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/town-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/town_tiles.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/town_tiles.png",
+  "downloadSha256": "7e519b81dcbe8c88a2a16e13debb8aadc4fc96806b96482a869be91d5fd30639",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "town_tiles.png",
+  "previewSha256": "7e519b81dcbe8c88a2a16e13debb8aadc4fc96806b96482a869be91d5fd30639",
+  "sourceTags": [
+    "tiny",
+    "town",
+    "RPG",
+    "Fantasy",
+    "Map Tileset",
+    "Pixel Art",
+    "16x16"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

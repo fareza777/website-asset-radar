@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-overworld-tiles-0",
+  "sourceUrl": "https://opengameart.org/content/overworld-tiles-0",
+  "checkedAt": "2026-10-09T15:29:11.458Z",
+  "httpStatus": 200,
+  "pageSha256": "dbf140fb22b7f9110143bb7b4d642b5565e2888b4142aa2556f5fedce11da8ed",
+  "title": "Overworld tiles",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com, and credit Jeffrey Kern as the committer and creative consultant Overworld tiles by Buch. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/overworld-tiles-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/overworld_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/overworld_1.png",
+  "downloadSha256": "f50b940b90e07ce941c2ecc2ead158a37e89d57a10b5e6c9db73595ad3b4d7d5",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "overworld_1.png",
+  "previewSha256": "f50b940b90e07ce941c2ecc2ead158a37e89d57a10b5e6c9db73595ad3b4d7d5",
+  "sourceTags": [
+    "plains",
+    "forest",
+    "mountain",
+    "water",
+    "bridge",
+    "16x16"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

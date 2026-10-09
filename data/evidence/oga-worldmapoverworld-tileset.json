@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-worldmapoverworld-tileset",
+  "sourceUrl": "https://opengameart.org/content/worldmapoverworld-tileset",
+  "checkedAt": "2026-10-09T15:17:58.942Z",
+  "httpStatus": 200,
+  "pageSha256": "34144656bafb6a3c1afa930218f1aad6871400f6fbe51fb88577fa27c6592dfc",
+  "title": "Worldmap/Overworld tileset",
+  "authors": [
+    "Beast"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org) Worldmap/Overworld tileset by Beast. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/worldmapoverworld-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tileset_1.png",
+    "https://opengameart.org/sites/default/files/mountains_0.png",
+    "https://opengameart.org/sites/default/files/water_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tileset_1.png",
+  "downloadSha256": "78d96ccdb92c9799588bbdd63e4c984df55f62e8a484b8058d2e61259036abaf",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tileset_1.png",
+  "previewSha256": "78d96ccdb92c9799588bbdd63e4c984df55f62e8a484b8058d2e61259036abaf",
+  "sourceTags": [
+    "16x16",
+    "tileset",
+    "Pixel Art",
+    "Map Tileset"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

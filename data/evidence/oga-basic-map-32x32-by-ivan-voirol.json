@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-basic-map-32x32-by-ivan-voirol",
+  "sourceUrl": "https://opengameart.org/content/basic-map-32x32-by-ivan-voirol",
+  "checkedAt": "2026-10-09T15:51:01.350Z",
+  "httpStatus": 200,
+  "pageSha256": "cefc07ca5a1b7a3576dee5add964ddef847c8aaabf6d9b3a7f35967dd23e738d",
+  "title": "Basic map 32x32 by Ivan voirol",
+  "authors": [
+    "Ivan Voirol"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Ivan Voirol Basic map 32x32 by Ivan voirol by Ivan Voirol. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/basic-map-32x32-by-ivan-voirol Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/32x32_map_tile%20v1.0.png",
+    "https://opengameart.org/sites/default/files/32x32_map_tile%20v1.1_0.png",
+    "https://opengameart.org/sites/default/files/32x32_map_tile%20v1.2_0.png",
+    "https://opengameart.org/sites/default/files/32x32_map_tile%20v2.1_0.png",
+    "https://opengameart.org/sites/default/files/32x32_map_tile%20v3.1.png",
+    "https://opengameart.org/sites/default/files/32x32_map_tile%20v3.1%20%5BMARGINLESS%5D.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/32x32_map_tile%20v1.0.png",
+  "downloadSha256": "7df2452d618abbf0a310526286353ddc1996d772ca98db3e633c45b780d7fa20",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "32x32_map_tile v1.0.png",
+  "previewSha256": "7df2452d618abbf0a310526286353ddc1996d772ca98db3e633c45b780d7fa20",
+  "sourceTags": [
+    "32x32",
+    "tile",
+    "Map",
+    "Basic",
+    "pixelart"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

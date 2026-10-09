@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/clay_roof_tiles_02",
+  "checkedAt": "2026-10-09T15:58:20.274Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/clay_roof_tiles_02",
+  "apiSha256": "c8457470427b0ef60074b51938900e5020ea66b60358cd5facbcd94daf7ccfff",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_roof_tiles_02/clay_roof_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "43c45fa3ac4c68ffb28aa813cec32608",
+  "assetFileSha256": "227a062b38b170e02c27eaa513dae45dc8bc893a62cbd8d0c08e2c32b381fc25",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Clay Roof Tiles 02",
+    "categories": [
+      "man made",
+      "roofing",
+      "outdoor"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "old",
+      "interlocking",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "clay",
+      "clay tiles",
+      "traditional",
+      "traditional roofing ",
+      "overlapping tiles"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "date_published": 1720051200,
+    "staging": null,
+    "files_hash": "a9f30dc8f73f248bfbaeed2325690422c5c8dd1d",
+    "description": "Free 8K texture of weathered interlocking clay roof tiles with overlapping terracotta shingles, rough worn surface, dirt stains and subtle moss.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "c3236d8d",
+    "download_count": 54522,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clay_roof_tiles_02.png?width=256&height=256&format=webp&v=c3236d8d"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-forest-tiles",
+  "sourceUrl": "https://opengameart.org/content/forest-tiles",
+  "checkedAt": "2026-10-09T15:41:09.222Z",
+  "httpStatus": 200,
+  "pageSha256": "d6f5d1aa0c1314a47c0422aa5c6b744e3d04df0e2e3a6534abbd4b250f7ddf9b",
+  "title": "Forest Tiles",
+  "authors": [
+    "surt"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Forest Tiles by surt. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/forest-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/forest_tiles.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/forest_tiles.png",
+  "downloadSha256": "962faa76d6fb8c076680cf7abe81e7d5350c9efb23e9d6966e4a05e97f194d10",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "forest_tiles.png",
+  "previewSha256": "962faa76d6fb8c076680cf7abe81e7d5350c9efb23e9d6966e4a05e97f194d10",
+  "sourceTags": [
+    "forest",
+    "Fantasy",
+    "Map Tileset",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

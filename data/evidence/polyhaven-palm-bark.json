@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/palm_bark",
+  "checkedAt": "2026-10-09T16:01:00.205Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/palm_bark",
+  "apiSha256": "a96e1b4bcdc365f4a19a51d03316fe1f88b6499c109f528f82191866e269e869",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/palm_bark/palm_bark_diff_1k.jpg",
+  "assetFileMd5": "89e6474313f1547e3c12c4b68410ee39",
+  "assetFileSha256": "80cbe5ee11af799db082cdb342601a70b81a5f54b98eb587e87dcb5bf5e1f395",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Palm Bark",
+    "categories": [
+      "natural",
+      "bark"
+    ],
+    "type": 1,
+    "tags": [
+      "tree",
+      "tree bark",
+      "tree trunk",
+      "palm",
+      "bark texture",
+      "natural",
+      "environment",
+      "tropical",
+      "bark",
+      "trunk",
+      "forestry"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1860.0000143051147,
+      1860.0000143051147
+    ],
+    "date_published": 1717459200,
+    "staging": null,
+    "files_hash": "04bbab1185f2e42f7c730f02f79d82044a09c4ba",
+    "description": "Free 8K palm bark texture: dark, fibrous, horizontally ridged surface with layered cracks and subtle mossy tones, rough weathered trunk detail.",
+    "category_id": "d1a8ff1d-a6c5-5398-85d6-03f73a3a4896",
+    "category": "Wood/Bark/Tropical Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "e45f3529",
+    "download_count": 3528,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/palm_bark.png?width=256&height=256&format=webp&v=e45f3529"
+  }
+}

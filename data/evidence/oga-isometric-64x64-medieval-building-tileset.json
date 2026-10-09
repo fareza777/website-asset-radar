@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-isometric-64x64-medieval-building-tileset",
+  "sourceUrl": "https://opengameart.org/content/isometric-64x64-medieval-building-tileset",
+  "checkedAt": "2026-10-09T15:34:16.742Z",
+  "httpStatus": 200,
+  "pageSha256": "01550cc5a75b39fb5b8ba0f85c7b00019335c285abced94221540f2253cacff0",
+  "title": "Isometric 64x64 Medieval Building Tileset",
+  "authors": [
+    "Seth Galbraith"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Isometric 64x64 Medieval Building Tileset by Seth Galbraith. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/isometric-64x64-medieval-building-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/iso-64x64-building_2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/iso-64x64-building_2.png",
+  "downloadSha256": "ca114c75e6daca2896edeebea2ff8604d9fdf27162578fe1a2df9eababbab558",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "iso-64x64-building_2.png",
+  "previewSha256": "ca114c75e6daca2896edeebea2ff8604d9fdf27162578fe1a2df9eababbab558",
+  "sourceTags": [
+    "Isometric",
+    "tiles",
+    "tileset",
+    "Pixel Art",
+    "medieval",
+    "building",
+    "house",
+    "bricks",
+    "blocks",
+    "indoor"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

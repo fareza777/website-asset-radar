@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brick_wall_10",
+  "checkedAt": "2026-10-09T15:46:44.628Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brick_wall_10",
+  "apiSha256": "d72f38a5c53cc27647cb7c83470ddec437d379789bd6c2668cbb44cdea45a831",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_10/brick_wall_10_diff_1k.jpg",
+  "assetFileMd5": "31bed4677b97c5feb8773a9198e6aa25",
+  "assetFileSha256": "6acfca2cecd9861f0531b7bc2179c8ca74c9f8535f53166de676af40f2e8f6df",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Brick Wall 10",
+    "categories": [
+      "wall",
+      "brick"
+    ],
+    "type": 1,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "date_published": 1730332800,
+    "staging": null,
+    "sponsors": [
+      "121968951",
+      "118714804"
+    ],
+    "files_hash": "77ea84f0866a0135635f05756b83588206e4082c",
+    "tags": [
+      "brick",
+      "bricks",
+      "wall",
+      "brick wall",
+      "dark",
+      "weathered",
+      "walling",
+      "rough surface",
+      "exterior wall",
+      "weather-beaten",
+      "dark brick",
+      "exposed brick"
+    ],
+    "description": "Free 8K texture of dark, weathered exposed brick - rough, chipped brick faces, recessed mortar lines and a subtle damp sheen.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "b5a39200",
+    "download_count": 19269,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_10.png?width=256&height=256&format=webp&v=b5a39200"
+  }
+}

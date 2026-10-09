@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/poly_wool_herringbone",
+  "checkedAt": "2026-10-09T15:12:42.446Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/poly_wool_herringbone",
+  "apiSha256": "46773838a5fe0ef27b7efeb5e92ad826d4a92c14539f43c6abc46719ca9a2034",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/poly_wool_herringbone/poly_wool_herringbone_diff_1k.jpg",
+  "assetFileMd5": "5c0981092ba0129d5951720ea23d50c2",
+  "assetFileSha256": "fd889a46f617efd331e522e36b8ad2548e16e1cb018c001872f17537d7666af5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Poly Wool Herringbone",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8216,
+      8387
+    ],
+    "dimensions": [
+      270.0788548673393,
+      275.70000290870667
+    ],
+    "staging": null,
+    "files_hash": "4ef2868d578f407e6aa9c761d7743b5d0a9c3918",
+    "tags": [
+      "grey",
+      "rough",
+      "textile ",
+      "poly wool",
+      "fabric blend",
+      "polyester",
+      "wool",
+      "woven"
+    ],
+    "description": "Free 8K texture: grey poly‑wool herringbone with a rough woven surface; wool‑polyester blend ideal for upholstery, garments, and realistic fabric details.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "wool"
+    ],
+    "category_id": "43499ad7-c79c-5dd0-86a7-6567e0462a47",
+    "category": "Textiles & Leather/Woven/Plain Weave Cotton",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "21be4e99",
+    "download_count": 28124,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/poly_wool_herringbone.png?width=256&height=256&format=webp&v=21be4e99"
+  }
+}

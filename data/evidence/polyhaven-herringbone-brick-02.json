@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/herringbone_brick_02",
+  "checkedAt": "2026-10-09T15:33:18.699Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/herringbone_brick_02",
+  "apiSha256": "8fa3c20f2c7cb9f28832ab49f63a0ceba4e374e57d9b6299e645be401e5becea",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/herringbone_brick_02/herringbone_brick_02_diff_1k.jpg",
+  "assetFileMd5": "79cc1f170ddffeb355c68e2b1238efef",
+  "assetFileSha256": "f1d913d47307604ca9b97645d75b78fa7b4d967acedebfdf10e07fb084e0767a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Herringbone Brick 02",
+    "categories": [
+      "floor",
+      "brick"
+    ],
+    "tags": [
+      "brick",
+      "bricks",
+      "interlocking bricks",
+      "paving",
+      "street",
+      "herringbone",
+      "herringbone pattern",
+      "pavement",
+      "outdoor flooring",
+      "sidewalk",
+      "patterned"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1840.0001525878906,
+      1840.0001525878906
+    ],
+    "date_published": 1744070400,
+    "staging": null,
+    "files_hash": "f2a3580642f28e0d3332f4f9ac48ac736351bc4f",
+    "description": "Free 8K texture of herringbone interlocking bricks - coarse concrete pavers, rounded worn edges, subtly rough surface, and dark recessed joints.",
+    "category_id": "fd95b70a-91f7-556e-a9d5-e1d6fe6637be",
+    "category": "Brick & Block/Clay Brick/Herringbone",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "39eadbb7",
+    "download_count": 9827,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_brick_02.png?width=256&height=256&format=webp&v=39eadbb7"
+  }
+}

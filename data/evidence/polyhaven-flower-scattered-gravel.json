@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/flower_scattered_gravel",
+  "checkedAt": "2026-10-09T15:39:11.239Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/flower_scattered_gravel",
+  "apiSha256": "cd8797abb89fef669821b5d2df5bdb60b585f5d3e9a98a51bfc57cda1a0d9fa7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flower_scattered_gravel/flower_scattered_gravel_diff_1k.jpg",
+  "assetFileMd5": "1c33c6cdc3423453aafd57bb05a49a7e",
+  "assetFileSha256": "93348b4148a069002696888eed67d0f9efacb0918dc27158aedef8eb1ba152d9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Flower Scattered Gravel",
+    "categories": [
+      "floor",
+      "gravel"
+    ],
+    "tags": [
+      "gravel",
+      "stones",
+      "driveway gravel",
+      "gravelly ground",
+      "petals",
+      "scattered",
+      "scattered petals",
+      "jacaranda",
+      "driveway stones",
+      "scattered flowers",
+      "leaves",
+      "plant debris",
+      "floral debris",
+      "gravelly"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1739232000,
+    "staging": null,
+    "files_hash": "956a277ec38eccb1d29a74337b9193f4e7f85c22",
+    "description": "Free 8K texture of dark, gravelly ground with small angular stones and scattered purple flower petals and leaf debris; gritty, high-detail surface.",
+    "category_id": "a97bb631-d60c-54fb-ba1b-2121cbed91c6",
+    "category": "Ground & Terrain/Gravel & Pebbles/Driveway Gravel",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "f325bfd1",
+    "download_count": 2890,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_scattered_gravel.png?width=256&height=256&format=webp&v=f325bfd1"
+  }
+}

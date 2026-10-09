@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_brick_paving",
+  "checkedAt": "2026-10-09T15:29:34.518Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_brick_paving",
+  "apiSha256": "d64e329696d762a27a8506915847b9d2669c494cc699ed2e7a0b8803e879ce58",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_brick_paving/square_brick_paving_diff_1k.jpg",
+  "assetFileMd5": "63f7216753f210a5b8fb76173d138087",
+  "assetFileSha256": "b4a1eb4d078c58fc924b98142f0315e2213e6ed3e6f1d6b76d29ac335a431510",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Square Brick Paving",
+    "categories": [
+      "floor",
+      "man made",
+      "brick"
+    ],
+    "tags": [
+      "weathered",
+      "rough",
+      "brick",
+      "bricks",
+      "paving",
+      "driveway texture",
+      "driveway",
+      "old brick",
+      "brick design"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2099.9999046325684,
+      2099.9999046325684
+    ],
+    "staging": null,
+    "date_published": 1747872000,
+    "files_hash": "2ce52a74a7a0133468edcacc8f4bd54356488848",
+    "description": "Free 8K texture: weathered square brick paving with rough, chipped edges, recessed grout lines, subtle height variation and dirt-stained dark brown tones.",
+    "category_id": "c2556af9-9ee5-51ad-9d29-15e37ef0fe99",
+    "category": "Brick & Block/Clay Brick",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f119d6dd",
+    "download_count": 2585,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_brick_paving.png?width=256&height=256&format=webp&v=f119d6dd"
+  }
+}

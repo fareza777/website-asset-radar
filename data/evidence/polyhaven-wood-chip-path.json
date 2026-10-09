@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_chip_path",
+  "checkedAt": "2026-10-09T15:04:00.819Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_chip_path",
+  "apiSha256": "4264c28e013506559b118d70f75869cf179411fca778061d7b4110daa613b0f2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_chip_path/wood_chip_path_diff_1k.jpg",
+  "assetFileMd5": "8b5da33ea5d2352a55a46ac4e80c3bb5",
+  "assetFileSha256": "20068dd4283b0a9f054f5ed3f4be96d43f71d00bb2422c9443f0ae43f5e0565b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Wood Chip Path",
+    "categories": [
+      "outdoor",
+      "terrain"
+    ],
+    "tags": [
+      "wood chips",
+      "plant debris",
+      "organic debris",
+      "petals",
+      "pathway",
+      "path",
+      "mulch",
+      "small twigs",
+      "mulch layer"
+    ],
+    "description": "Free 4k texture of wood-chip mulch: coarse brown shredded chips, small twigs and leaf fragments, rough matte surface with subtle height variation.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2099.9999046325684,
+      2099.9999046325684
+    ],
+    "files_hash": "56d5e29ca0a64a0730ae5222288b9528373e6caa",
+    "date_published": 1761004800,
+    "staging": null,
+    "category_id": "f5a6cc7b-b773-5091-a757-09cbd29ee323",
+    "category": "Ground & Terrain/Forest Floor/Mulch & Wood Chips",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "dcc08ac2",
+    "download_count": 7044,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_chip_path.png?width=256&height=256&format=webp&v=dcc08ac2"
+  }
+}

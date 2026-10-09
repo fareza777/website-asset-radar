@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/slate_floor_03",
+  "checkedAt": "2026-10-09T15:20:22.457Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/slate_floor_03",
+  "apiSha256": "2f5b11e00f77331189ef109d5e1eaa8b6bb01fa5ea0cce1a02ea2a5af2de8224",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/slate_floor_03/slate_floor_03_diff_1k.jpg",
+  "assetFileMd5": "c918b0472995e9d836adbeb5d768338c",
+  "assetFileSha256": "9d2394a0d382e0570ea080dc810c0a15984c5494dc0fe03e4eddefd3cc49cffc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Slate Floor 03",
+    "categories": [
+      "floor",
+      "man made",
+      "indoor"
+    ],
+    "tags": [
+      "slates",
+      "slate",
+      "floor",
+      "rustic architecture",
+      "vintage",
+      "stone floor",
+      "rustic",
+      "mosaic",
+      "stone",
+      "stone tile"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1751500800,
+    "staging": null,
+    "files_hash": "ee507a4fc019173222b0d90bdbb6f9034b2b0578",
+    "description": "Free 8K slate floor texture with worn, rustic stone tiles, rough relief and patched mosaic look - ideal for vintage indoor flooring.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "002cbde9",
+    "download_count": 3676,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slate_floor_03.png?width=256&height=256&format=webp&v=002cbde9"
+  }
+}

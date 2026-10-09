@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-space-background-3",
+  "sourceUrl": "https://opengameart.org/content/space-background-3",
+  "checkedAt": "2026-10-09T15:58:37.160Z",
+  "httpStatus": 200,
+  "pageSha256": "0cc1e98785256ad6fa35d5f8c8482c871c05cb28afdad14077f775167ca82bc3",
+  "title": "Space Background",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Space Background by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/space-background-3 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/space_background_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/space_background_pack.zip",
+  "downloadSha256": "e223101b6868efadaafe229b521dbe16844d64561bb5ae132bdd029e246f9c56",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 6,
+  "licenseFiles": [
+    "space_background_pack/license.txt"
+  ],
+  "previewFile": "space_background_pack/layers/parallax-space-backgound.png",
+  "previewSha256": "6c3aea1aad1278e1e1af3f72ab615b52f623ad0bbdb26635d56b92b7d948203d",
+  "sourceTags": [
+    "space",
+    "shooter",
+    "planet",
+    "stars",
+    "background",
+    "parallax"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

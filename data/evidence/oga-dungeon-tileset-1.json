@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-dungeon-tileset-1",
+  "sourceUrl": "https://opengameart.org/content/dungeon-tileset-1",
+  "checkedAt": "2026-10-09T15:17:38.988Z",
+  "httpStatus": 200,
+  "pageSha256": "1ba65f1d3d9b3a3d4166bc1e1e32e1a69c59c7cf735f99c08560dbac4a278786",
+  "title": "Dungeon Tileset",
+  "authors": [
+    "Calciumtrice"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Dungeon tileset by Calciumtrice, usable under Creative Commons Attribution 3.0 license. Dungeon Tileset by Calciumtrice. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/dungeon-tileset-1 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/dungeon%20tileset%20calciumtrice.png",
+    "https://opengameart.org/sites/default/files/dungeon%20tileset%20calciumtrice%20simple.png",
+    "https://opengameart.org/sites/default/files/dungeon%20tileset%20by%20calciumtrice_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/dungeon%20tileset%20calciumtrice.png",
+  "downloadSha256": "5f5d2c1ed8b44910929040a22380dbf70a83d76d2c328406bd4d3f53acea1a14",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "dungeon tileset calciumtrice.png",
+  "previewSha256": "5f5d2c1ed8b44910929040a22380dbf70a83d76d2c328406bd4d3f53acea1a14",
+  "sourceTags": [
+    "pixelart",
+    "dungeon",
+    "Fantasy",
+    "roguelike",
+    "16x16",
+    "Character",
+    "Item"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

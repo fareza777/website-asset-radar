@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/corrugated_iron_03",
+  "checkedAt": "2026-10-09T15:30:14.782Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/corrugated_iron_03",
+  "apiSha256": "f43e6712c3deb857da8710a2869464cf418d2d41bd0b6100595a9cdda5fe8c5a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/corrugated_iron_03/corrugated_iron_03_diff_1k.jpg",
+  "assetFileMd5": "e066ab142176aee5e974f86c0463c02c",
+  "assetFileSha256": "d1378cbe96c625f79180147873c586bfc653ef5a66ea7a4a58cd5b18701f2bb4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Corrugated Iron 03",
+    "categories": [
+      "wall",
+      "man made",
+      "metal"
+    ],
+    "tags": [
+      "corrugated",
+      "corrugation",
+      "corrugated iron",
+      "sheet metal",
+      "industrial",
+      "roofing",
+      "galvanized steel",
+      "steel sheeting",
+      "metal sheet"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "staging": null,
+    "date_published": 1747094400,
+    "files_hash": "a4cea9517f13893e33d55a868f722ccc189f2b19",
+    "description": "Free 8K texture of narrow corrugated galvanized steel, subtle scratches and small rust spots.",
+    "category_id": "c10ee76b-cb81-546f-bba9-095bf5a18a6d",
+    "category": "Metal/Sheet & Corrugated/Corrugated Iron",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "rusted"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "b1d3fc14",
+    "download_count": 12594,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/corrugated_iron_03.png?width=256&height=256&format=webp&v=b1d3fc14"
+  }
+}

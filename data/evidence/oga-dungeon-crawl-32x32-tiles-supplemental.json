@@ -1,0 +1,58 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-dungeon-crawl-32x32-tiles-supplemental",
+  "sourceUrl": "https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental",
+  "checkedAt": "2026-10-09T15:11:50.193Z",
+  "httpStatus": 200,
+  "pageSha256": "50ce918cd1882a2e9292dd2d5d80c140e6a3e5f035c6c03cb59a1fbe99459e72",
+  "title": "Dungeon Crawl 32x32 tiles supplemental",
+  "authors": [
+    "MedicineStorm"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "You can use these tilesets in your program freely. No attribution is required. As a courtesy, include a link to the OGA page: http://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental, or the crawl-tiles page: https://github.com/crawl/tiles Dungeon Crawl 32x32 tiles supplemental by MedicineStorm. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Dungeon%20Crawl%20Stone%20Soup%20Supplemental.zip",
+    "https://opengameart.org/sites/default/files/Dungeon%20Crawl%20Stone%20Soup%20Full.zip",
+    "https://opengameart.org/sites/default/files/ProjectUtumno_supplemental_0.png",
+    "https://opengameart.org/sites/default/files/ProjectUtumno_full.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Dungeon%20Crawl%20Stone%20Soup%20Supplemental.zip",
+  "downloadSha256": "f17f6ec6d74b5b2e76b2eae93ff1f9640691a2b5a531c9dc80b1261b2a865f39",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 3018,
+  "licenseFiles": [
+    "Dungeon Crawl Stone Soup Supplemental/LICENSE.txt"
+  ],
+  "previewFile": "Dungeon Crawl Stone Soup Supplemental/monster/nonliving/fulminant_prism_1.png",
+  "previewSha256": "ff8a4b6ded077277a931239b4e418c9a60ff63096cf6b0cc89ba1d06465a9524",
+  "sourceTags": [
+    "overhead",
+    "3/4 view",
+    "orthogonal",
+    "dungeon",
+    "crawl",
+    "32x32",
+    "Fantasy",
+    "RPG",
+    "tileset",
+    "roguelike",
+    "town",
+    "weapon",
+    "armor",
+    "magic",
+    "Item",
+    "monster",
+    "Enemy",
+    "tile",
+    "player",
+    "gui"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

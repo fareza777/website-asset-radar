@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-sewer-tileset",
+  "sourceUrl": "https://opengameart.org/content/sewer-tileset",
+  "checkedAt": "2026-10-09T15:18:49.017Z",
+  "httpStatus": 200,
+  "pageSha256": "bd8c16f5661452edf29d71dc59327b1e803fdb2b2c6a6fb0b303376bd07d7c8c",
+  "title": "Sewer tileset",
+  "authors": [
+    "Beast"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org) Sewer tileset by Beast. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/sewer-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/sewer_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/sewer_1.png",
+  "downloadSha256": "c82990aae981fe9c39674d57fef6c3bed52db36a32412f4b24ded760d4e8cf01",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "sewer_1.png",
+  "previewSha256": "c82990aae981fe9c39674d57fef6c3bed52db36a32412f4b24ded760d4e8cf01",
+  "sourceTags": [
+    "sewer",
+    "dungeon",
+    "tileset",
+    "16x16",
+    "RPG",
+    "Fantasy",
+    "Historical",
+    "Map Tileset"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

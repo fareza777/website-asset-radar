@@ -1,0 +1,54 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-superpowers-assets-various-2d",
+  "sourceUrl": "https://opengameart.org/content/superpowers-assets-various-2d",
+  "checkedAt": "2026-10-09T15:27:12.307Z",
+  "httpStatus": 200,
+  "pageSha256": "006038739a63cd9a45ebe0bbb439cada62c877a22d443a65d7cc6abbee410cf2",
+  "title": "Superpowers assets various 2d",
+  "authors": [
+    "MedicineStorm"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Creative Commons Zero: http://creativecommons.org/publicdomain/zero/1.0/ Attribution is not required but appreciated. Placing a link to http://superpowers-html5.com/ somewhere would be awesome :) Superpowers assets various 2d by MedicineStorm. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/superpowers-assets-various-2d Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/superpowers-asset-packs-various_2d.zip",
+    "https://opengameart.org/sites/default/files/ninja-adventure_food_fixed-spacing_7-2-17.png",
+    "https://opengameart.org/sites/default/files/rpg-battle-system-part-2_2d_1-31-17.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/superpowers-asset-packs-various_2d.zip",
+  "downloadSha256": "cee890e1703ddee955c986a7fa6030af55ae307e2185407eb11e15c923e7243a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 730,
+  "licenseFiles": [
+    "2d misc/LICENSE.txt"
+  ],
+  "previewFile": "2d misc/prehistoric-platformer/objects/tileset-1.png",
+  "previewSha256": "52fd16bd265fdbb629b837fe77cf5f3ba0551b86ed7e0dd76febf2c854fb7853",
+  "sourceTags": [
+    "object",
+    "Item",
+    "effect",
+    "animation",
+    "Terrain",
+    "feature",
+    "medieval",
+    "Fantasy",
+    "ninja",
+    "adventure",
+    "RPG",
+    "prehistoric",
+    "Platformer",
+    "Top-down",
+    "shooter",
+    "western",
+    "fps"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

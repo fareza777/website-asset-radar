@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plastered_wall_05",
+  "checkedAt": "2026-10-09T15:07:00.708Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plastered_wall_05",
+  "apiSha256": "3bcf30f905f159a376d5cccecbef7e42d5c4fdef89367be4cbc6e1a40d760ec5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_05/plastered_wall_05_diff_1k.jpg",
+  "assetFileMd5": "b3802ea845531b87adaa61ae23a0ed27",
+  "assetFileSha256": "b10e2fc12c6f6bb8a355fe7c5d6eab19222337414ce055df0701e75f5f603764",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Plastered Wall 05",
+    "categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "plaster",
+      "plaster-concrete"
+    ],
+    "tags": [
+      "rough",
+      "scratched",
+      "gray",
+      "plaster",
+      "plastered",
+      "concrete",
+      "plasterconcrete",
+      "industrial",
+      "weathered",
+      "scuffed",
+      "wall",
+      "plastering",
+      "coarse",
+      "bumpy"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1757376000,
+    "staging": null,
+    "files_hash": "54bbeadb70e4f20a54af2f1a6633d195d344308c",
+    "description": "Free 8K texture: weathered gray plaster-concrete wall with coarse, scuffed, rough, scratched and bumpy surface, ideal for industrial outdoor man-made scenes.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "65a7d8a4",
+    "download_count": 57955,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plastered_wall_05.png?width=256&height=256&format=webp&v=65a7d8a4"
+  }
+}

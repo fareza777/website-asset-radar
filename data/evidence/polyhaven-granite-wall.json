@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/granite_wall",
+  "checkedAt": "2026-10-09T15:34:49.955Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/granite_wall",
+  "apiSha256": "5f21f26beebb3098052ac04ca90a6ddd7c4717d4455d8ff977060aa52ee99a36",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/granite_wall/granite_wall_diff_1k.jpg",
+  "assetFileMd5": "9f9883bcb534a840ad29f4e26c0b3589",
+  "assetFileSha256": "a971fd7ad16322fb8731cfacb593224ceca24dd2eaf77724a5a84a1de50d17f1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Granite Wall",
+    "categories": [
+      "wall",
+      "outdoor"
+    ],
+    "tags": [
+      "granite",
+      "granite blocks",
+      "rough",
+      "coarse",
+      "uneven",
+      "wall",
+      "monument",
+      "fortress walls",
+      "stonework",
+      "architecture",
+      "ancient walls"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "date_published": 1742860800,
+    "staging": null,
+    "files_hash": "247fc28620c38eaa2c94970f36289d4566f68434",
+    "description": "Free 8K texture of coarse, rough-hewn granite blocks with weathered, uneven surfaces, deep mortar joints and warm brown-gray color variation.",
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "dde460ca",
+    "download_count": 1382,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/granite_wall.png?width=256&height=256&format=webp&v=dde460ca"
+  }
+}

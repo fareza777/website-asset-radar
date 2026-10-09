@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-zoria-tileset",
+  "sourceUrl": "https://opengameart.org/content/zoria-tileset",
+  "checkedAt": "2026-10-09T15:37:57.568Z",
+  "httpStatus": 200,
+  "pageSha256": "690e75ab1bbd5d850c3e580e534828bf344867fd67abfa529f9fb89ecfcfdd2c",
+  "title": "Zoria Tileset",
+  "authors": [
+    "DragonDePlatino"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Zoria Tileset by DragonDePlatino. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/zoria-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Zoria%20Tileset_1.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Zoria%20Tileset_1.zip",
+  "downloadSha256": "39d232d6285719afe038a5327637d50258006ea250254909cb9bfc718c10ce61",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 8,
+  "licenseFiles": [],
+  "previewFile": "scraps/tiles.png",
+  "previewSha256": "148d73a55e4af670f250369ee06de0c8b54c3875ea3ea02069338cf046930ed8",
+  "sourceTags": [
+    "zelda",
+    "tileset",
+    "NES",
+    "16x16",
+    "tiles",
+    "sprites",
+    "enemies"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

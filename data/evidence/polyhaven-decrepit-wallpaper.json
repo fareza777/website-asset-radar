@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/decrepit_wallpaper",
+  "checkedAt": "2026-10-09T15:50:24.569Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/decrepit_wallpaper",
+  "apiSha256": "9c41a11ad2f0b2ee6d69da9bc2f3735d1acbaeddf472511ec4f9e683a3653509",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/decrepit_wallpaper/decrepit_wallpaper_diff_1k.jpg",
+  "assetFileMd5": "25db62cc09d0350756e60c0127853bbb",
+  "assetFileSha256": "895823967eba5296c0928694d1299964aa1884184215c510515fb246f5bbe4ec",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Decrepit Wallpaper",
+    "categories": [
+      "wall",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "wall",
+      "discolored",
+      "peeling",
+      "scratched",
+      "wallpaper",
+      "dilapidated",
+      "worn",
+      "grungy",
+      "flaking",
+      "distressed",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "staging": null,
+    "date_published": 1727740800,
+    "files_hash": "f6841364d8ffe92586da8532834a6c59d2161476",
+    "description": "Free 8K texture of decrepit wallpaper with flaking, peeling, scratched and discolored surface, grime streaks and subtle cracks, worn, grungy wall material.",
+    "category_id": "e1c3a164-85a9-5ca0-adac-d36185e4f063",
+    "category": "Paper & Card/Wallpaper/Peeling & Distressed Wallpaper",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "fdba728d",
+    "download_count": 8585,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/decrepit_wallpaper.png?width=256&height=256&format=webp&v=fdba728d"
+  }
+}

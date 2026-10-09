@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-flat-spaceship-with-parts",
+  "sourceUrl": "https://opengameart.org/content/flat-spaceship-with-parts",
+  "checkedAt": "2026-10-09T16:02:33.661Z",
+  "httpStatus": 200,
+  "pageSha256": "44536a27063855891bde83520ae6e856ac426cb8699a92042dabef311d9ac9f9",
+  "title": "Flat Spaceship with parts",
+  "authors": [
+    "zisongbr"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "FFMStudios, Fernando Ferreira Flat Spaceship with parts by zisongbr. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/flat-spaceship-with-parts Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Spaceship_flat.zip",
+    "https://opengameart.org/sites/default/files/Spaceship_parts.png",
+    "https://opengameart.org/sites/default/files/Spaceship_all.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Spaceship_flat.zip",
+  "downloadSha256": "a0fecb3a5fd51850d48a09a2d7715832abf6cc6b23977a76741031797eb72f9f",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 4,
+  "licenseFiles": [],
+  "previewFile": "Spaceship_flat/Print.png",
+  "previewSha256": "d824eafe94dbebda9313e555a47932fbf8e8bc93fe22c9eabfee8fa3f21c35df",
+  "sourceTags": [
+    "flat",
+    "rocket",
+    "space",
+    "ship",
+    "spaceship",
+    "particle"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

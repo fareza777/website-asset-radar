@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/cobblestone_pavement",
+  "checkedAt": "2026-10-09T14:58:54.849Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/cobblestone_pavement",
+  "apiSha256": "f9ee83766e5ae53fbe1c05a71a332405d601fb34e3091b86d12a9bcc7256c9f9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_pavement/cobblestone_pavement_diff_1k.jpg",
+  "assetFileMd5": "a1b10c497b682a04084316527efb497d",
+  "assetFileSha256": "23836906f541944eac09108d94d232a4f80d0c22f52aa5b2f849c22f1dda3a25",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Cobblestone Pavement",
+    "categories": [
+      "floor",
+      "cobblestone"
+    ],
+    "tags": [
+      "cobblestone",
+      "cobblestones",
+      "rocks",
+      "squares",
+      "stone slabs",
+      "stone pavement",
+      "grout lines",
+      "rough",
+      "weathered surface",
+      "weathered",
+      "uneven surface",
+      "sidewalk",
+      "sidewalk texture"
+    ],
+    "description": "Free 16k texture of weathered square cobblestones with brown-gray tones, worn edges, surface roughness, height variation and narrow mortar joints.",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "files_hash": "3f11562d404f47762e6681dab9c9743454bce163",
+    "staging": null,
+    "date_published": 1764892800,
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "ee7889fa",
+    "download_count": 12018,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_pavement.png?width=256&height=256&format=webp&v=ee7889fa"
+  }
+}

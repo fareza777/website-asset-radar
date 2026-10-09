@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/curly_teddy_checkered",
+  "checkedAt": "2026-10-09T15:08:41.782Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/curly_teddy_checkered",
+  "apiSha256": "87ab5ee5d362d0c33b2036791153363ef770ff59734802338dd10915ee4b5e15",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/curly_teddy_checkered/curly_teddy_checkered_diff_1k.jpg",
+  "assetFileMd5": "24a64b26d4bf1bd5253386c37df16433",
+  "assetFileSha256": "936df3ddbe8f775be9f6dd84a6112a9b96ddba307f6fb5fbe04902ae1c05aa44",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Curly Teddy Checkered",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      14420,
+      12168
+    ],
+    "dimensions": [
+      561.8443344798735,
+      474.0999639034271
+    ],
+    "staging": null,
+    "files_hash": "873ed9432a90121b582a7c3d50f2a7432da63d40",
+    "tags": [
+      "fluffy",
+      "teal",
+      "blanket",
+      "fleece",
+      "plush",
+      "soft",
+      "fuzzy",
+      "shaggy",
+      "textile ",
+      "napped",
+      "woolly"
+    ],
+    "description": "Free plush teal checkered teddy fabric - soft, napped fleece with shaggy woolly pile; ideal for blankets, upholstery and cozy fur-like PBR surfaces.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "fur"
+    ],
+    "category_id": "7d7d463f-a928-5515-9384-95dff5cce88c",
+    "category": "Textiles & Leather/Pile & Velvet/Fleece & Plush",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "d4e3b0a9",
+    "download_count": 29563,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/curly_teddy_checkered.png?width=256&height=256&format=webp&v=d4e3b0a9"
+  }
+}

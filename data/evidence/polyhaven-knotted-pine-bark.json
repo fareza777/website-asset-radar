@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/knotted_pine_bark",
+  "checkedAt": "2026-10-09T15:56:22.745Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/knotted_pine_bark",
+  "apiSha256": "94e26bc8552e0078345e5d8954bbe1367a9b426ce2914c8cfb0e1f4ede98bb96",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/knotted_pine_bark/knotted_pine_bark_diff_1k.jpg",
+  "assetFileMd5": "17c1ed021dd1363b0dd0f9dbc0655063",
+  "assetFileSha256": "e90289609b11ddb4741c8879e2eed96bb31889e238412ba0053ca3b8935be377",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Knotted Pine Bark",
+    "categories": [
+      "bark",
+      "natural"
+    ],
+    "type": 1,
+    "tags": [
+      "bark",
+      "tree",
+      "tree bark",
+      "tree trunk",
+      "pine",
+      "knotty pine",
+      "pine bark ",
+      "tree bark texture",
+      "organic",
+      "environment",
+      "natural",
+      "forest",
+      "rough",
+      "nature",
+      "outdoors",
+      "tree texture"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1700.0000476837158,
+      1700.0000476837158
+    ],
+    "date_published": 1722902400,
+    "staging": null,
+    "files_hash": "b031095c327fa640cf754df5c87be023a24d8def",
+    "description": "Free 8K texture: knotted pine bark with rough, fissured surface, prominent branch knots, healed stubs and subtle mossy green tones.",
+    "category_id": "4ae79c17-c41a-51b8-9313-0766fd7f56a3",
+    "category": "Wood/Bark/Conifer Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "bbc73f6b",
+    "download_count": 7058,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/knotted_pine_bark.png?width=256&height=256&format=webp&v=bbc73f6b"
+  }
+}

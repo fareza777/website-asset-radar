@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-lpc-spider",
+  "sourceUrl": "https://opengameart.org/content/lpc-spider",
+  "checkedAt": "2026-10-09T15:55:56.852Z",
+  "httpStatus": 200,
+  "pageSha256": "d8f21cc338277f796e12f74111401d359d6b184693864a098efb1f100cd02ba4",
+  "title": "[LPC] Spider",
+  "authors": [
+    "William.Thompsonj"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Attribute Stephen \"Redshrike\" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage. [LPC] Spider by William.Thompsonj. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/lpc-spider Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/LPC_Spiders.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/LPC_Spiders.zip",
+  "downloadSha256": "fce56f13629d2aa8be48f1ef904f4cdec184f3d81793a80f202db2b2f47e95b2",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 11,
+  "licenseFiles": [],
+  "previewFile": "LPC_Spiders/spider07.png",
+  "previewSha256": "d9343ac6c456f5e6a0fd077c60c600bade8891c2e50b7fff626729b7efe1c901",
+  "sourceTags": [
+    "LPC",
+    "Enemy",
+    "spider",
+    "giant spider",
+    "animation"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

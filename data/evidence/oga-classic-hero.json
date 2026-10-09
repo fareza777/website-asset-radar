@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-classic-hero",
+  "sourceUrl": "https://opengameart.org/content/classic-hero",
+  "checkedAt": "2026-10-09T15:37:16.750Z",
+  "httpStatus": 200,
+  "pageSha256": "ee430a99fbfd57dfe50442ef54c381b9934c34cab56c8404a10b19ba788f9e73",
+  "title": "Classic Hero",
+  "authors": [
+    "GrafxKid"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Classic Hero by GrafxKid. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/classic-hero Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Old%20hero.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Old%20hero.png",
+  "downloadSha256": "4805f1708a691879e152f6f58699b6bfd9069d72c15ebaa65dbd855cc1426a28",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "Old hero.png",
+  "previewSha256": "4805f1708a691879e152f6f58699b6bfd9069d72c15ebaa65dbd855cc1426a28",
+  "sourceTags": [
+    "Platformer",
+    "hero"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

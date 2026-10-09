@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-flowers",
+  "sourceUrl": "https://opengameart.org/content/flowers",
+  "checkedAt": "2026-10-09T16:00:57.122Z",
+  "httpStatus": 200,
+  "pageSha256": "f8d44f5fb097c3e92cac3a881a9618e61d1b36635de28794298056225bf10056",
+  "title": "Flowers",
+  "authors": [
+    "SpiderDave"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "No attribution required. If you want to credit me anyway, credit me as \"SpiderDave\" or maybe link to this page. Flowers by SpiderDave. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/flowers Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/plants_2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/plants_2.png",
+  "downloadSha256": "8f9249e20ea61e7ba386989a2e7f933e783a3aaa6e4cc5b41a759f9aeab10043",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "plants_2.png",
+  "previewSha256": "8f9249e20ea61e7ba386989a2e7f933e783a3aaa6e4cc5b41a759f9aeab10043",
+  "sourceTags": [
+    "Pixel Art",
+    "flowers",
+    "weeds",
+    "grass",
+    "mushrooms",
+    "fungi",
+    "db32"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

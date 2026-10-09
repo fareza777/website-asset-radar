@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/clay_roof_tiles_03",
+  "checkedAt": "2026-10-09T15:58:10.531Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/clay_roof_tiles_03",
+  "apiSha256": "1791eda486f4d8d4e02adb5b1693a7d62735b342fd151f9e17f9159eea7cd346",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_roof_tiles_03/clay_roof_tiles_03_diff_1k.jpg",
+  "assetFileMd5": "3600516ecf26b60a8d46dabe2007a7ba",
+  "assetFileSha256": "6719293429932a27c8ed3526b22cd65d1cd1d43194ce30fa5f4590bb3c513844",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Clay Roof Tiles 03",
+    "categories": [
+      "man made",
+      "outdoor",
+      "roofing"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "uneven",
+      "clay",
+      "clay tiles",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "overlapping tiles",
+      "traditional",
+      "traditional roofing "
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2599.9999046325684,
+      2599.9999046325684
+    ],
+    "date_published": 1720483200,
+    "staging": null,
+    "files_hash": "431e8f1241999dcfb84781c1eea0200c3d113055",
+    "description": "Free 8K clay roof tile texture of weathered, uneven terracotta tiles with overlapping rows, chipped edges, gritty dirt in crevices and embossed diamond shaped details.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7240aa70",
+    "download_count": 25254,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clay_roof_tiles_03.png?width=256&height=256&format=webp&v=7240aa70"
+  }
+}

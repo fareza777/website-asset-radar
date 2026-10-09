@@ -1,0 +1,68 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-roguelike-tiles-large-collection",
+  "sourceUrl": "https://opengameart.org/content/roguelike-tiles-large-collection",
+  "checkedAt": "2026-10-09T15:12:59.218Z",
+  "httpStatus": 200,
+  "pageSha256": "b46789cfb685c36caabb01bed65317f3db9529265286bddd6afc9f1532565c32",
+  "title": "Roguelike Tiles (large collection)",
+  "authors": [
+    "David E. Gervais",
+    "bart"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Roguelike Tiles (large collection) by David E. Gervais, bart. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/roguelike-tiles-large-collection Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/AngbandTk.zip",
+    "https://opengameart.org/sites/default/files/DO%20Items.zip",
+    "https://opengameart.org/sites/default/files/DO%20SysPics.zip",
+    "https://opengameart.org/sites/default/files/DO%20Terrain.zip",
+    "https://opengameart.org/sites/default/files/DO%20Monsters.zip",
+    "https://opengameart.org/sites/default/files/DO%20More.zip",
+    "https://opengameart.org/sites/default/files/Silmar.zip",
+    "https://opengameart.org/sites/default/files/Work.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/DO%20Terrain.zip",
+  "downloadSha256": "8c39989f49dabcc3af61c3ebec589670fe4d35475ecf73c59332b99290f868cb",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 960,
+  "licenseFiles": [],
+  "previewFile": "Terrain/L2_WallHutNESW.PNG",
+  "previewSha256": "9c7d823bf74cc7dafd07cd7b835fa42115ce1fc02ac7d5137acb5eddd8f9ad24",
+  "sourceTags": [
+    "roguelike",
+    "tiles",
+    "dungeon",
+    "town",
+    "weapons",
+    "armor",
+    "magic",
+    "items",
+    "monsters",
+    "32x32",
+    "Spells",
+    "angband",
+    "odyssey",
+    "silmar",
+    "weapon",
+    "sword",
+    "mace",
+    "potion",
+    "food",
+    "Helm",
+    "helmet",
+    "hat",
+    "boots",
+    "shield",
+    "scroll",
+    "wand",
+    "staff"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

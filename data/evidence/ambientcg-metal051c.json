@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Metal051C",
+  "checkedAt": "2026-10-09T15:27:38.590Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Metal051C&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "f002b76dc64b83261241f4c4bf4d26dc492edf8d9a0a1e2a0b66f3cd9dd6418d",
+  "apiMetadata": {
+    "assetId": "Metal051C",
+    "dataType": "Material",
+    "displayName": "Metal 051 C",
+    "displayCategory": "Metal",
+    "shortLink": "https://ambientcg.com/a/Metal051C",
+    "tags": [
+      "51",
+      "aluminum",
+      "brushed",
+      "circular",
+      "metal"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Metal051C.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Metal051C.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Metal051C.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Metal051C.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Metal051C.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Metal051C.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Metal051C.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Metal051C.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Metal051C.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Metal051C.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Metal051C.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Metal051C.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Metal051C.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Metal051C.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Metal051C.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Metal051C.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Metal051C.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Metal051C.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Metal051C.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Metal051C.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Metal051C.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Metal051C.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Metal051C.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Metal051C.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_1K-JPG.zip",
+                "fileName": "Metal051C_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_1K-JPG.zip",
+                "size": 3440350,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_2K-JPG.zip",
+                "fileName": "Metal051C_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_2K-JPG.zip",
+                "size": 10169497,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_4K-JPG.zip",
+                "fileName": "Metal051C_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_4K-JPG.zip",
+                "size": 39804535,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_8K-JPG.zip",
+                "fileName": "Metal051C_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_8K-JPG.zip",
+                "size": 200800159,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_1K-PNG.zip",
+                "fileName": "Metal051C_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_1K-PNG.zip",
+                "size": 12590515,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_2K-PNG.zip",
+                "fileName": "Metal051C_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_2K-PNG.zip",
+                "size": 46137185,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_4K-PNG.zip",
+                "fileName": "Metal051C_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_4K-PNG.zip",
+                "size": 182176822,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Metal051C_8K-PNG.zip",
+                "fileName": "Metal051C_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Metal051C_8K-PNG.zip",
+                "size": 777024701,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2024-08-10 12:00:00",
+    "earlyReleaseDate": "2024-08-05 12:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 18323,
+    "downloadCountMonth": 1290,
+    "downloadCountWeek": 355,
+    "popularityScore": 6.031041276501626,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Color.jpg?13519&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Displacement.jpg?69897&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_NormalDX.jpg?19637&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Roughness.jpg?58792&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Metalness.jpg?69520",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Color.jpg?99294,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Displacement.jpg?53967,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_NormalDX.jpg?13897,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Roughness.jpg?81612,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051C/Metal051C_SQ_Metalness.jpg?34887&texture_name=Color,Displacement,Normal,Roughness,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Metal051C.webp",
+  "previewSha256": "f7a6ee70ccad05ed444faeeb8f62a4f3e5ff3566c3b0b4fe1e129100b44ba5b8",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

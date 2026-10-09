@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-hero-spritesheets-ars-notoria",
+  "sourceUrl": "https://opengameart.org/content/hero-spritesheets-ars-notoria",
+  "checkedAt": "2026-10-09T15:59:27.308Z",
+  "httpStatus": 200,
+  "pageSha256": "4a24cbc826c72586866a3cb75b8a07091e029b145e5f42817b68165be77d6d7c",
+  "title": "Hero spritesheets (Ars Notoria)",
+  "authors": [
+    "Balmer"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Hero spritesheets (Ars Notoria) by Balmer. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/hero-spritesheets-ars-notoria Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/assets_3.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/assets_3.zip",
+  "downloadSha256": "e9464afa3f6b37bf9d927f0910d7e66465ae6dc56a0fdbbe43c0077929baacfc",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 158,
+  "licenseFiles": [],
+  "previewFile": "assets/player/player-spritemap-v9-greenpants.png",
+  "previewSha256": "4ed4b6e5b38c5e3a1391c556092c9d118e6d9fe3db2e25e5ef3e2aa1ce87d6a5",
+  "sourceTags": [
+    "spritesheet",
+    "Platformer",
+    "Character",
+    "pixel",
+    "pixelart"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

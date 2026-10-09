@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/hessian_380",
+  "checkedAt": "2026-10-09T15:11:32.353Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/hessian_380",
+  "apiSha256": "88d205e67224d8f11b7e7c0e2ac1a61c7bc28ec66d9c4f35ddf9580e79c972ce",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hessian_380/hessian_380_diff_1k.jpg",
+  "assetFileMd5": "46f362631d102c66cac0979ecc3bb2a7",
+  "assetFileSha256": "5727302df3a9c845e6320ff186ac13fc7d0f1ffcd6fda71667e808e09379fe6f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Hessian 380",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8327,
+      8325
+    ],
+    "dimensions": [
+      273.86577004511844,
+      273.79998564720154
+    ],
+    "staging": null,
+    "files_hash": "3965e4ecb1f5357d7678af8153cd4de69e6053fc",
+    "tags": [
+      "burlap",
+      "rough",
+      "brown",
+      "natural",
+      "fine",
+      "sack",
+      "hessian",
+      "jute",
+      "rustic",
+      "textile ",
+      "sackcloth"
+    ],
+    "description": "Free 8K material - coarse brown hessian (jute) burlap with fine woven sackcloth detail; rough, rustic surface ideal for fabrics, props and environment work.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "hessian"
+    ],
+    "category_id": "369ad7ee-f8f6-5a22-9cba-cb2553e440b5",
+    "category": "Textiles & Leather/Sackcloth",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "4de51cc6",
+    "download_count": 27614,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hessian_380.png?width=256&height=256&format=webp&v=4de51cc6"
+  }
+}

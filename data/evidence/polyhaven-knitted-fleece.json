@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/knitted_fleece",
+  "checkedAt": "2026-10-09T15:12:12.969Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/knitted_fleece",
+  "apiSha256": "ab36a7943f95f7c104671fff57f3fa303d643e31eb1d972a70814bb759c4861b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/knitted_fleece/knitted_fleece_diff_1k.jpg",
+  "assetFileMd5": "712475d9e6358c001260f6555a7821be",
+  "assetFileSha256": "57d7e416b698d02171a260da1a47109fc0f85b232f565d2a42d6d1be416c32e0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Knitted Fleece",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8103,
+      8226
+    ],
+    "dimensions": [
+      266.35669526830077,
+      270.3999876976013
+    ],
+    "staging": null,
+    "files_hash": "c316169377ce2f8e7231f440d66ade416974ede2",
+    "sponsors": [
+      "10485422"
+    ],
+    "tags": [
+      "brown",
+      "jersey",
+      "warm",
+      "knitted",
+      "fleece",
+      "textile ",
+      "knit",
+      "dense weave",
+      "woven",
+      "soft",
+      "insulating",
+      "winter wear"
+    ],
+    "description": "Free 8K texture of brown knitted fleece with dense, soft jersey knit and insulating wool-like surface, ideal for winter garments, blankets, and cozy interiors.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "knitted",
+      "fleece",
+      "wool"
+    ],
+    "category_id": "f83975ba-9406-54a6-aa26-fc6a1f4cc2a8",
+    "category": "Textiles & Leather/Knit/Fleece & Napped",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "6509f785",
+    "download_count": 13231,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/knitted_fleece.png?width=256&height=256&format=webp&v=6509f785"
+  }
+}

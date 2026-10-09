@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_15",
+  "checkedAt": "2026-10-09T15:05:43.680Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_15",
+  "apiSha256": "2395394b0a6f1ddba0e0a843d2811b06413262abd52e23f0c937c1bb6a27a926",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_15/rock_wall_15_diff_1k.jpg",
+  "assetFileMd5": "d46589c73c797655c2b0e07a925a1919",
+  "assetFileSha256": "f5e8b32a0b669f9e140e63f2962d1d242aed42296ee28d7d1451ad22700b0b2e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rock Wall 15",
+    "categories": [
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "rocks",
+      "rock",
+      "concrete",
+      "wall",
+      "embedded rock",
+      "stonework",
+      "coarse"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1850.000023841858,
+      1850.000023841858
+    ],
+    "files_hash": "19d4eb0b3d7e8cbd5f67f20044f5ffa473c3a1da",
+    "date_published": 1759190400,
+    "staging": null,
+    "description": "Free 8K texture: coarse, rough stone wall with embedded rocks and concrete mortar; rugged, high-detail surface for rustic walls and man-made stonework.",
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "6e6c37bb",
+    "download_count": 17254,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_15.png?width=256&height=256&format=webp&v=6e6c37bb"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_tiles_03",
+  "checkedAt": "2026-10-09T15:41:42.522Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_tiles_03",
+  "apiSha256": "56b0a6e06a23e686cd385c85ab12363e1acfda6ba8cb963055d07fed720b9032",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_tiles_03/square_tiles_03_diff_1k.jpg",
+  "assetFileMd5": "1c978e1a0c84728a36a4cd6801b16cdd",
+  "assetFileSha256": "961302ba9449762945f9bf58177f481c2a4bd972f51fb5bf6c36501771058be9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Square Tiles 03",
+    "categories": [
+      "outdoor",
+      "road",
+      "floor"
+    ],
+    "tags": [
+      "exterior",
+      "outdoor",
+      "pavement patterned",
+      "outdoor flooring",
+      "outdoor walkway",
+      "parking",
+      "walkway design",
+      "stone paving",
+      "architecture",
+      "station",
+      "cityscape",
+      "stone pathway",
+      "pavers",
+      "decorative paving",
+      "urban"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "staging": null,
+    "date_published": 1736208000,
+    "files_hash": "f2cdaf1bb4f9fc3d2057e9b3d4164678a4f16a14",
+    "description": "Free 8K texture: varied brown square stone tiles with thin dark grout, subtle rough surface and mild specular sheen for outdoor paving.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f0625c2c",
+    "download_count": 18144,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_tiles_03.png?width=256&height=256&format=webp&v=f0625c2c"
+  }
+}

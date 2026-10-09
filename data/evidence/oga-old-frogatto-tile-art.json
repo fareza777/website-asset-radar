@@ -1,0 +1,61 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-old-frogatto-tile-art",
+  "sourceUrl": "https://opengameart.org/content/old-frogatto-tile-art",
+  "checkedAt": "2026-10-09T15:31:55.505Z",
+  "httpStatus": 200,
+  "pageSha256": "286a70acb083cff03d74996447679c3817f3ba02fc0347396d2b5cb577b6e770",
+  "title": "old frogatto tile art",
+  "authors": [
+    "Guido Bos",
+    "Jetrel"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "old frogatto tile art by Guido Bos, Jetrel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/old-frogatto-tile-art Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/dirt-tiles.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/dirt-tiles.png",
+  "downloadSha256": "e66fa797ed758d1e0aa8bd4ab2168fdd6c2c03c9975e6fe950836d1a4dfd807e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "dirt-tiles.png",
+  "previewSha256": "e66fa797ed758d1e0aa8bd4ab2168fdd6c2c03c9975e6fe950836d1a4dfd807e",
+  "sourceTags": [
+    "Platformer",
+    "pixel",
+    "tiles",
+    "tree",
+    "entrance",
+    "cave",
+    "bush",
+    "fence",
+    "sign",
+    "grass",
+    "dirt",
+    "ground",
+    "dungeon",
+    "mountain",
+    "Action",
+    "RPG",
+    "Fantasy",
+    "Historical",
+    "Modern",
+    "Sci-Fi",
+    "Other",
+    "metal",
+    "stone",
+    "Wood",
+    "Map Tileset",
+    "Pixel Art",
+    "Sprite"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_tiles_02",
+  "checkedAt": "2026-10-09T15:52:59.787Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_tiles_02",
+  "apiSha256": "e031efb68b30a4bbc8731f2f90c22f306f3c6d28b00ca4d32719007d5654aa1d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_tiles_02/square_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "237a23b1042c6fd9d05d5098e96eccb7",
+  "assetFileSha256": "cf66296836447e4ebb37478e405cb9387a4a34072f96e29f269c0c6a01ee0109",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Square Tiles 02",
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "uneven",
+      "rough",
+      "tiles",
+      "multicoloured",
+      "patterned",
+      "outdoor",
+      "square",
+      "square tiles"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "staging": null,
+    "date_published": 1724630400,
+    "files_hash": "cf7e4624333c3abe3a2133da77b09cee1778c393",
+    "description": "Free 8K texture of rough, uneven outdoor square tiles in muted reds, beiges and charcoals, with recessed grout, worn edges and a coarse, stone-like surface.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "bbe04a48",
+    "download_count": 10599,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_tiles_02.png?width=256&height=256&format=webp&v=bbe04a48"
+  }
+}

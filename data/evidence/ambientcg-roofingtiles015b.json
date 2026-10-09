@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/RoofingTiles015B",
+  "checkedAt": "2026-10-09T15:53:03.649Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=RoofingTiles015B&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "e4c8baac24a38a72f0b0493d3923e1a7c6e81f9d3c5069ccdc85bfcca2822bb7",
+  "apiMetadata": {
+    "assetId": "RoofingTiles015B",
+    "dataType": "Material",
+    "displayName": "Roofing Tiles 015 B",
+    "displayCategory": "Roofing Tiles",
+    "shortLink": "https://ambientcg.com/a/RoofingTiles015B",
+    "tags": [
+      "15",
+      "clay",
+      "grey",
+      "roof",
+      "roofing",
+      "tiles",
+      "tiling"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/RoofingTiles015B.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/RoofingTiles015B.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/RoofingTiles015B.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/RoofingTiles015B.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/RoofingTiles015B.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/RoofingTiles015B.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/RoofingTiles015B.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/RoofingTiles015B.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/RoofingTiles015B.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/RoofingTiles015B.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/RoofingTiles015B.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/RoofingTiles015B.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/RoofingTiles015B.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/RoofingTiles015B.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/RoofingTiles015B.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/RoofingTiles015B.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/RoofingTiles015B.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/RoofingTiles015B.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/RoofingTiles015B.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/RoofingTiles015B.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/RoofingTiles015B.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/RoofingTiles015B.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/RoofingTiles015B.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/RoofingTiles015B.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_1K-JPG.zip",
+                "fileName": "RoofingTiles015B_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_1K-JPG.zip",
+                "size": 5535220,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_2K-JPG.zip",
+                "fileName": "RoofingTiles015B_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_2K-JPG.zip",
+                "size": 17167271,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_4K-JPG.zip",
+                "fileName": "RoofingTiles015B_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_4K-JPG.zip",
+                "size": 62813012,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_8K-JPG.zip",
+                "fileName": "RoofingTiles015B_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_8K-JPG.zip",
+                "size": 287152222,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_1K-PNG.zip",
+                "fileName": "RoofingTiles015B_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_1K-PNG.zip",
+                "size": 14259071,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_2K-PNG.zip",
+                "fileName": "RoofingTiles015B_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_2K-PNG.zip",
+                "size": 53045402,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_4K-PNG.zip",
+                "fileName": "RoofingTiles015B_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_4K-PNG.zip",
+                "size": 204760025,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=RoofingTiles015B_8K-PNG.zip",
+                "fileName": "RoofingTiles015B_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=RoofingTiles015B_8K-PNG.zip",
+                "size": 821743241,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-12-15 12:00:00",
+    "earlyReleaseDate": "2023-12-04 08:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 12823,
+    "downloadCountMonth": 1007,
+    "downloadCountWeek": 330,
+    "popularityScore": 3.497242663346585,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 290,
+    "dimensionY": 290,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Color.jpg?49227&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Displacement.jpg?79861&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_NormalDX.jpg?55251&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Roughness.jpg?28725&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Opacity.jpg?37192&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_AmbientOcclusion.jpg?94493",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Color.jpg?84195,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Displacement.jpg?56895,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_NormalDX.jpg?98699,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Roughness.jpg?39550,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_Opacity.jpg?5053,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles015B/RoofingTiles015B_SQ_AmbientOcclusion.jpg?54129&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/RoofingTiles015B.webp",
+  "previewSha256": "f5e9a49e683c5c82b88c41c9adabcde58cafffb57e2934fb6ef44373e8b2c591",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

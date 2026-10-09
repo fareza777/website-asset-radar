@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/granite_tile_04",
+  "checkedAt": "2026-10-09T14:58:17.568Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/granite_tile_04",
+  "apiSha256": "075511e0a3cd41376e5051490a5633983711b032d3136e44619bf35061b72826",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/granite_tile_04/granite_tile_04_diff_1k.jpg",
+  "assetFileMd5": "595d91a7ea4a3c4f9ba63186b070a2a4",
+  "assetFileSha256": "b9398f9d9a2b0aa66cb869bbcff4582a686f90aaefb1b03dea872db15369de61",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Granite Tile 04",
+    "categories": [
+      "floor",
+      "outdoor"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "granite",
+      "stone tile",
+      "stone tiles",
+      "square tiles",
+      "grout lines",
+      "natural stone",
+      "course",
+      "sidewalk",
+      "gray",
+      "grey"
+    ],
+    "description": "Free 8k texture: weathered brown‑grey granite tiles with coarse grain, thin recessed joints, rough matte surface, worn edges and subtle speckling.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "bfab4c2c5a9dfa333c9aa39058706283f25d9128",
+    "staging": null,
+    "date_published": 1765497600,
+    "category_id": "c1b6840e-81a6-56d1-9cf0-1ef10c0aa6a2",
+    "category": "Stone/Slabs & Tiles/Granite",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "ecd91768",
+    "download_count": 22495,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/granite_tile_04.png?width=256&height=256&format=webp&v=ecd91768"
+  }
+}

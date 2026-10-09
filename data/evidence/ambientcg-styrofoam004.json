@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Styrofoam004",
+  "checkedAt": "2026-10-09T15:09:48.185Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Styrofoam004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "39a0261231d846a1e8129f3792d599c99e53b3d044723bffb3b162f342e90476",
+  "apiMetadata": {
+    "assetId": "Styrofoam004",
+    "dataType": "Material",
+    "displayName": "Styrofoam 004",
+    "displayCategory": "Styrofoam",
+    "shortLink": "https://ambientcg.com/a/Styrofoam004",
+    "tags": [
+      "004",
+      "4",
+      "clean",
+      "foam",
+      "gray",
+      "indoor",
+      "industrial",
+      "insulation",
+      "minimalist",
+      "modern",
+      "outdoor",
+      "packaging",
+      "porous",
+      "rough",
+      "styrofoam",
+      "uniform",
+      "white"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Styrofoam004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Styrofoam004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Styrofoam004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Styrofoam004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Styrofoam004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Styrofoam004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Styrofoam004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Styrofoam004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Styrofoam004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Styrofoam004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Styrofoam004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Styrofoam004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Styrofoam004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Styrofoam004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Styrofoam004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Styrofoam004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Styrofoam004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Styrofoam004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Styrofoam004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Styrofoam004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Styrofoam004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Styrofoam004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Styrofoam004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Styrofoam004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_1K-JPG.zip",
+                "fileName": "Styrofoam004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_1K-JPG.zip",
+                "size": 7148358,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_2K-JPG.zip",
+                "fileName": "Styrofoam004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_2K-JPG.zip",
+                "size": 24567281,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_4K-JPG.zip",
+                "fileName": "Styrofoam004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_4K-JPG.zip",
+                "size": 81222519,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_8K-JPG.zip",
+                "fileName": "Styrofoam004_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_8K-JPG.zip",
+                "size": 312717769,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_1K-PNG.zip",
+                "fileName": "Styrofoam004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_1K-PNG.zip",
+                "size": 15896078,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_2K-PNG.zip",
+                "fileName": "Styrofoam004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_2K-PNG.zip",
+                "size": 57715992,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_4K-PNG.zip",
+                "fileName": "Styrofoam004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_4K-PNG.zip",
+                "size": 217616959,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Styrofoam004_8K-PNG.zip",
+                "fileName": "Styrofoam004_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Styrofoam004_8K-PNG.zip",
+                "size": 873215887,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2025-02-16 20:00:00",
+    "earlyReleaseDate": "2025-02-12 22:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 8663,
+    "downloadCountMonth": 1642,
+    "downloadCountWeek": 592,
+    "popularityScore": 4.403413430655531,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Color.jpg?42320&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Displacement.jpg?21890&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_NormalDX.jpg?35086&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Roughness.jpg?73489&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_AmbientOcclusion.jpg?89209",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Color.jpg?10144,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Displacement.jpg?26111,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_NormalDX.jpg?30248,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Roughness.jpg?75775,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_AmbientOcclusion.jpg?66961&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Styrofoam004.webp",
+  "previewSha256": "c2c3d720bcb0491d6fadd737a143557462a169bd97d0c05f7dfc7678cebec2d5",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-db32-cave-tileset",
+  "sourceUrl": "https://opengameart.org/content/db32-cave-tileset",
+  "checkedAt": "2026-10-09T15:41:59.218Z",
+  "httpStatus": 200,
+  "pageSha256": "b56932a15ef470a27bb7d5d21015f5f77d50ec2a5ddae7b7867f6202a0d44ab4",
+  "title": "DB32 Cave tileset",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com DB32 Cave tileset by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/db32-cave-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/cave_tileset.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/cave_tileset.png",
+  "downloadSha256": "a400e557f9f08877610a3318e2db4608348c20beae1856d69e47dbc8554717b4",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "cave_tileset.png",
+  "previewSha256": "a400e557f9f08877610a3318e2db4608348c20beae1856d69e47dbc8554717b4",
+  "sourceTags": [
+    "tileset",
+    "db32",
+    "DawnBringer",
+    "pixelart",
+    "cave"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

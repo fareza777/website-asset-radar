@@ -1,0 +1,48 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-25-special-effects-rendered-with-blender",
+  "sourceUrl": "https://opengameart.org/content/25-special-effects-rendered-with-blender",
+  "checkedAt": "2026-10-09T16:01:25.161Z",
+  "httpStatus": 200,
+  "pageSha256": "18bd3e87bc874ba49a84eb3c2ad0292f1217a1b90abc2a726c3c60007e65d676",
+  "title": "25 special effects rendered with blender",
+  "authors": [
+    "rubberduck"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "25 special effects rendered with blender by rubberduck. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/25-special-effects-rendered-with-blender Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/blender-volumetric-particles-effects.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/blender-volumetric-particles-effects.zip",
+  "downloadSha256": "52fc2d3dca5621d1e2968365226021ded3de2ace43c7f09339405197066b0594",
+  "formats": [
+    "BLEND",
+    "PNG"
+  ],
+  "inspectedFiles": 1246,
+  "licenseFiles": [],
+  "previewFile": "effects/ring_fire.png",
+  "previewSha256": "3e7bbb54809971f5ea66757d823bf1296f15c9fd95141f88fa18cc087d70c87a",
+  "sourceTags": [
+    "blender",
+    "particles",
+    "volumetrics",
+    "cycles",
+    "particle effects",
+    "explosion",
+    "flame",
+    "fire",
+    "smoke",
+    "magic",
+    "attack",
+    "ring",
+    "shockwave",
+    "burst"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

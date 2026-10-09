@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-angry-guy",
+  "sourceUrl": "https://opengameart.org/content/angry-guy",
+  "checkedAt": "2026-10-09T16:06:53.570Z",
+  "httpStatus": 200,
+  "pageSha256": "7fcaa825969165552b5222d45d75023f70b63e47c8bbcc3b011ecdbba4507ec2",
+  "title": "Angry Guy",
+  "authors": [
+    "nemezes"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "You can use this whenever you want. If you wanna credit me, just credit: Nemezes. Angry Guy by nemezes. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/angry-guy Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/angryGuy.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/angryGuy.zip",
+  "downloadSha256": "a28969faad343d8c57399815da2afac4b4e9dd09d89e3901a4ff7d66d66ab0df",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 74,
+  "licenseFiles": [],
+  "previewFile": "jump_punch_002.png",
+  "previewSha256": "7a25631960ac1afe959dc12f517846366aa7849d2662e635651b6272343a83f5",
+  "sourceTags": [
+    "fight",
+    "Platformer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

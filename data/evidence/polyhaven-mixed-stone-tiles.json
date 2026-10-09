@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mixed_stone_tiles",
+  "checkedAt": "2026-10-09T15:40:53.435Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mixed_stone_tiles",
+  "apiSha256": "e1ed48efbcda4de0a3439303ce155991bd5d797cdb5f5ec4e6552b5c3c1ed07d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mixed_stone_tiles/mixed_stone_tiles_diff_1k.jpg",
+  "assetFileMd5": "7e7fd18fbf11915bc9aaf2b58ea435c1",
+  "assetFileSha256": "faa15d2997098e9a2dd4163893fd4a30c4a0977424e0f6316da1ae2421ad4392",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Mixed Stone Tiles",
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "tags": [
+      "tiles",
+      "floor",
+      "embedded pebble",
+      "stone embedded",
+      "tiled",
+      "square tiles",
+      "pebble finish ",
+      "mixed stone",
+      "speckled tiles ",
+      "speckled "
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1736985600,
+    "staging": null,
+    "files_hash": "02c6d9e1af89887058032deb8d6d6c660aa3bdf5",
+    "description": "Free 8K mixed stone tile texture with square tiles, pebbled speckled surface, visible embedded stone fragments and shallow grout lines.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "dade9d87",
+    "download_count": 6692,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mixed_stone_tiles.png?width=256&height=256&format=webp&v=dade9d87"
+  }
+}

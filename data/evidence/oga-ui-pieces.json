@@ -1,0 +1,45 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-ui-pieces",
+  "sourceUrl": "https://opengameart.org/content/ui-pieces",
+  "checkedAt": "2026-10-09T15:36:26.617Z",
+  "httpStatus": 200,
+  "pageSha256": "0019112d3fc6e0166b59080eebe2bf80b86ebf9a5274551db46ab4b257728657",
+  "title": "UI pieces",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back to my OGA profile page. UI pieces by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/ui-pieces Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/ui_2.png",
+    "https://opengameart.org/sites/default/files/ui_upscaled_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/ui_2.png",
+  "downloadSha256": "c7ca6023ab508306510f4da0adcf8f69ea98024d26b0965533716b1050b6cb09",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "ui_2.png",
+  "previewSha256": "c7ca6023ab508306510f4da0adcf8f69ea98024d26b0965533716b1050b6cb09",
+  "sourceTags": [
+    "DawnBringer",
+    "hud",
+    "ui",
+    "hitbar",
+    "health bar",
+    "mana bar",
+    "minimap",
+    "Portrait",
+    "Icon",
+    "slot",
+    "Action"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

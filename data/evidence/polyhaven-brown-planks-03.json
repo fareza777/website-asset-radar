@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-08T11:28:01.152Z",
   "httpStatus": 200,
   "apiUrl": "https://api.polyhaven.com/info/brown_planks_03",
-  "apiSha256": "6afbefc8d8d5abf11c373cc3ebe4c93f60b06bf637d229188f9c93dc59aef7a5",
+  "apiSha256": "28219ad478982ed383288e71388ceae03efadf907427f24691f0607898f1f9aa",
   "licenseEvidenceUrl": "https://polyhaven.com/license",
   "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
   "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_03/brown_planks_03_diff_1k.jpg",
@@ -56,7 +56,9 @@
       "setting": "either"
     },
     "img_version": "381b1765",
-    "download_count": 157367,
+    "download_count": 157379,
     "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_03.png?width=256&height=256&format=webp&v=381b1765"
-  }
+  },
+  "assetFileLinkCheckedAt": "2026-10-09T16:12:26.248Z",
+  "lastLinkCheckAt": "2026-10-09T16:12:26.248Z"
 }

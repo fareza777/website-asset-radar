@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-handpainted-stone-ground-texture-2k",
+  "sourceUrl": "https://opengameart.org/content/handpainted-stone-ground-texture-2k",
+  "checkedAt": "2026-10-09T15:03:49.579Z",
+  "httpStatus": 200,
+  "pageSha256": "e60e1f2b835bac34a19851597b1f353abd939b3385872ea615e26a115bb50249",
+  "title": "Handpainted Stone Ground Texture (2k)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Handpainted Stone Ground Texture (2k) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/handpainted-stone-ground-texture-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/rockground_0.png",
+    "https://opengameart.org/sites/default/files/rockground2.png",
+    "https://opengameart.org/sites/default/files/rockground3_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/rockground_0.png",
+  "downloadSha256": "1fbb56ad1c215fc85158c8a554cefd37b3ca9d9d20b9a8e6faedd48171503eb6",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "rockground_0.png",
+  "previewSha256": "1fbb56ad1c215fc85158c8a554cefd37b3ca9d9d20b9a8e6faedd48171503eb6",
+  "sourceTags": [
+    "handpainted",
+    "seamless",
+    "ground",
+    "cobblestone",
+    "stone"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

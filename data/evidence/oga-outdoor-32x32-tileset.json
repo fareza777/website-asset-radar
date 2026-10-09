@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-outdoor-32x32-tileset",
+  "sourceUrl": "https://opengameart.org/content/outdoor-32x32-tileset",
+  "checkedAt": "2026-10-09T15:45:51.399Z",
+  "httpStatus": 200,
+  "pageSha256": "1ec2a5b30144654a39fe9e4cd6c207350c307761ec553f3783723dbe43cd9684",
+  "title": "Outdoor 32x32 tileset",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credi me as Buch and link back to my OGA profile page Outdoor 32x32 tileset by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/outdoor-32x32-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/sheet_13.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/sheet_13.png",
+  "downloadSha256": "831785af95da3da0093c0c06a6c1df69c1f4e20be6681234b631e8ede70ba728",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "sheet_13.png",
+  "previewSha256": "831785af95da3da0093c0c06a6c1df69c1f4e20be6681234b631e8ede70ba728",
+  "sourceTags": [
+    "32x32",
+    "tileset",
+    "grass",
+    "Rock",
+    "water",
+    "stump",
+    "sign",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

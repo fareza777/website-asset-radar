@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mixed_rock_tiles",
+  "checkedAt": "2026-10-09T14:59:17.056Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mixed_rock_tiles",
+  "apiSha256": "049e32ad1ac2bb7c2a9009c91cc9d1a250a77abc90ec34975a30b17b8cfc32bb",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mixed_rock_tiles/mixed_rock_tiles_diff_1k.jpg",
+  "assetFileMd5": "9d7488f8fc3eef8c496869173e05814d",
+  "assetFileSha256": "797d1565c7da10762a427c959baedc04a73c05f836dc2eb3eb9356ec3864401e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Mixed Rock Tiles",
+    "categories": [
+      "floor",
+      "rock"
+    ],
+    "tags": [
+      "rough",
+      "uneven",
+      "old",
+      "pebbles",
+      "rocks",
+      "stone tiles",
+      "embedded rock",
+      "dirty",
+      "stone slabs",
+      "outdoor",
+      "weathered",
+      "embedded pebble"
+    ],
+    "description": "Free 8k mixed rock tiles texture: weathered brown stone slabs with pebble-inlaid joints, rough sedimentary surface, worn edges and grime in crevices.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "files_hash": "a68ddbcfa403c4978b466de08d1dac667f1ae036",
+    "staging": null,
+    "date_published": 1764547200,
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "82f530b9",
+    "download_count": 2946,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mixed_rock_tiles.png?width=256&height=256&format=webp&v=82f530b9"
+  }
+}

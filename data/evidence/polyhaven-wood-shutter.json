@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_shutter",
+  "checkedAt": "2026-10-09T15:02:52.248Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_shutter",
+  "apiSha256": "67360d0bcfce05cd507124815395cdbe11c2f5be9e0f7dfba5bc267612dfe43c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_shutter/wood_shutter_diff_1k.jpg",
+  "assetFileMd5": "aa04efa11722523b239bdfb98ada58b7",
+  "assetFileSha256": "105782fbf53fe803c8ef781bb441f525b23c571a3bc688d208989d805bfaaeea",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Wood Shutter",
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "tags": [
+      "wood",
+      "rough",
+      "shutter",
+      "wood shutter",
+      "planks",
+      "wooden planks",
+      "wooden",
+      "plank",
+      "timber",
+      "cabin",
+      "antique",
+      "nails",
+      "lumber",
+      "saw marks",
+      "natural grain",
+      "grain",
+      "nail heads"
+    ],
+    "description": "Free 8k texture of rough, antique wooden shutter planks - warm brown timber with knots, saw marks, visible seam gaps and aged nail heads.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "files_hash": "49e5d59532e49d26235dd956eb7e9402d276d3e2",
+    "staging": null,
+    "date_published": 1762128000,
+    "category_id": "b8439687-3b90-5f1b-89b6-653eb24b657a",
+    "category": "Wood/Boards & Planks/Raw Sawn Timber",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "ea26d110",
+    "download_count": 28496,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_shutter.png?width=256&height=256&format=webp&v=ea26d110"
+  }
+}

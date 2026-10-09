@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocky_terrain",
+  "checkedAt": "2026-10-09T15:55:09.539Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocky_terrain",
+  "apiSha256": "0edecfc4666f062224f590b38c3b99cd97a3ebfd9c563fcd75a21e90429cc3c8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain/rocky_terrain_diff_1k.jpg",
+  "assetFileMd5": "306ae62c38ab1942a63e831a534875ab",
+  "assetFileSha256": "429315865fd89c150272592f6d93def174c6f69804a565ff08e53627a885579b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rocky Terrain",
+    "type": 1,
+    "tags": [
+      "rock face",
+      "rocky",
+      "solid rock",
+      "nature",
+      "grass",
+      "terrain",
+      "wilderness",
+      "uneven terrain",
+      "mountain",
+      "rugged",
+      "landscape"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      90000,
+      90000
+    ],
+    "staging": null,
+    "date_published": 1723507200,
+    "categories": [
+      "outdoor",
+      "terrain",
+      "natural",
+      "rock",
+      "aerial"
+    ],
+    "files_hash": "ed4f64ced98e133be04387b75d6e827a375e9b04",
+    "description": "Free 8K texture of rugged rocky terrain with layered stone slabs, compacted soil and grass patches; detailed uneven terrain",
+    "category_id": "ad8bbc58-82b8-5734-a99b-3fbdb7f0163c",
+    "category": "Ground & Terrain/Rocky Ground/Rocky Landscape",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "ee1e6791",
+    "download_count": 83291,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_terrain.png?width=256&height=256&format=webp&v=ee1e6791"
+  }
+}

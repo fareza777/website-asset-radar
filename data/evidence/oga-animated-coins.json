@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-animated-coins",
+  "sourceUrl": "https://opengameart.org/content/animated-coins",
+  "checkedAt": "2026-10-09T15:55:36.277Z",
+  "httpStatus": 200,
+  "pageSha256": "97b17b4546aea637553beca64e16de0e7989159b21a9ad8d40a4c0642c338502",
+  "title": "Animated Coins",
+  "authors": [
+    "Clint Bellanger"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Clint Bellanger for Liberated Pixel Art Animated Coins by Clint Bellanger. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/animated-coins Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/coin_gold.png",
+    "https://opengameart.org/sites/default/files/coin_silver.png",
+    "https://opengameart.org/sites/default/files/coin_copper.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/coin_gold.png",
+  "downloadSha256": "a7a83a63ebeee89979517d42866849bd626e75300f597b1f8278c2b5aa784bbf",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "coin_gold.png",
+  "previewSha256": "a7a83a63ebeee89979517d42866849bd626e75300f597b1f8278c2b5aa784bbf",
+  "sourceTags": [
+    "coin",
+    "loot",
+    "treasure",
+    "money",
+    "currency",
+    "gold",
+    "silver",
+    "copper"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

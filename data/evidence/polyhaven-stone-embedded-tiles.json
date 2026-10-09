@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_embedded_tiles",
+  "checkedAt": "2026-10-09T15:35:30.010Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_embedded_tiles",
+  "apiSha256": "1e352012ae3a00a7aa0166239e57a183e05b4423d5027997e03e4b882496bab1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_embedded_tiles/stone_embedded_tiles_diff_1k.jpg",
+  "assetFileMd5": "dfe0a73b32750556bb14c2c88eb80ff3",
+  "assetFileSha256": "4a482f3ebec2804b822ef6747dbc3e505a240cfc7ec2e61e8c32447ee7c3997e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Stone Embedded Tiles",
+    "categories": [
+      "floor",
+      "man made",
+      "tiles"
+    ],
+    "tags": [
+      "tiles",
+      "outdoor",
+      "embedded pebble",
+      "stone embedded",
+      "mixed stone",
+      "speckled ",
+      "speckled tiles ",
+      "square tiles"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1742428800,
+    "staging": null,
+    "files_hash": "b3edbde450690b24fa35bde621a6b42aa9aa66d8",
+    "description": "Free 8K texture of square outdoor tiles with embedded mixed stones - speckled, grainy stone surface with shallow grout lines in warm brown tones.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "3f0a4216",
+    "download_count": 26521,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_embedded_tiles.png?width=256&height=256&format=webp&v=3f0a4216"
+  }
+}

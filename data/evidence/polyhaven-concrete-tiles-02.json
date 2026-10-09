@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_tiles_02",
+  "checkedAt": "2026-10-09T15:32:08.841Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_tiles_02",
+  "apiSha256": "3cb21a7181f9e077fd675f882367ec80aa91f1986237c696ce9814f8f4fa3f0a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_tiles_02/concrete_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "14703e48d201d2c252fc3f43d44f6d14",
+  "assetFileSha256": "2b0af74cd45e3e0e31ad309499929b8957eab624994e820ac39ed4c0d1022b39",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Concrete Tiles 02",
+    "tags": [
+      "concrete",
+      "rough concrete",
+      "outdoor",
+      "pavement",
+      "walkway",
+      "sidewalk texture",
+      "sidewalk",
+      "urban",
+      "outdoor flooring",
+      "pavers",
+      "outdoor walkway"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1825.0000476837158,
+      1825.0000476837158
+    ],
+    "date_published": 1745280000,
+    "staging": null,
+    "files_hash": "757bb94eddbc082d1b92cd46dfed1428d51871a0",
+    "description": "Free 8K texture: rough rectangular concrete tiles with narrow dark joints, subtle pitting and a matte, slightly weathered urban sidewalk finish.",
+    "categories": [
+      "floor",
+      "tiles",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "category_id": "3d66fbeb-75a0-5a98-97b4-d2630544da3f",
+    "category": "Brick & Block/Concrete Block & Paver",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "05a8f96c",
+    "download_count": 20355,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_tiles_02.png?width=256&height=256&format=webp&v=05a8f96c"
+  }
+}

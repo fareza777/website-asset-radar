@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Gravel040",
+  "checkedAt": "2026-10-09T15:16:55.970Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Gravel040&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "c34b15fe00ed3c1833a7a3e60cfdae8777606efc7a44de6a972e62004d5c3d8f",
+  "apiMetadata": {
+    "assetId": "Gravel040",
+    "dataType": "Material",
+    "displayName": "Gravel 040",
+    "displayCategory": "Gravel",
+    "shortLink": "https://ambientcg.com/a/Gravel040",
+    "tags": [
+      "40",
+      "dirt",
+      "floor",
+      "gravel",
+      "gray",
+      "rocks",
+      "rocky",
+      "slate",
+      "stone"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Gravel040.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Gravel040.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Gravel040.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Gravel040.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Gravel040.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Gravel040.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Gravel040.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Gravel040.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Gravel040.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Gravel040.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Gravel040.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Gravel040.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Gravel040.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Gravel040.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Gravel040.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Gravel040.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Gravel040.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Gravel040.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Gravel040.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Gravel040.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Gravel040.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Gravel040.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Gravel040.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Gravel040.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_1K-JPG.zip",
+                "fileName": "Gravel040_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_1K-JPG.zip",
+                "size": 10118072,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_2K-JPG.zip",
+                "fileName": "Gravel040_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_2K-JPG.zip",
+                "size": 34189169,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_4K-JPG.zip",
+                "fileName": "Gravel040_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_4K-JPG.zip",
+                "size": 119656894,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_8K-JPG.zip",
+                "fileName": "Gravel040_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_8K-JPG.zip",
+                "size": 431572166,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_1K-PNG.zip",
+                "fileName": "Gravel040_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_1K-PNG.zip",
+                "size": 18903321,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_2K-PNG.zip",
+                "fileName": "Gravel040_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_2K-PNG.zip",
+                "size": 68870904,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_4K-PNG.zip",
+                "fileName": "Gravel040_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_4K-PNG.zip",
+                "size": 260493902,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Gravel040_8K-PNG.zip",
+                "fileName": "Gravel040_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Gravel040_8K-PNG.zip",
+                "size": 1014560228,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2024-09-12 10:00:00",
+    "earlyReleaseDate": "2024-09-03 15:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 27641,
+    "downloadCountMonth": 2630,
+    "downloadCountWeek": 987,
+    "popularityScore": 9.021156789288995,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_Color.jpg?98550&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_Displacement.jpg?99147&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_NormalDX.jpg?13071&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_Roughness.jpg?95561&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_AmbientOcclusion.jpg?89608",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_Color.jpg?70252,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_Displacement.jpg?49680,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_NormalDX.jpg?61442,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_Roughness.jpg?46852,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Gravel040/Gravel040_SQ_AmbientOcclusion.jpg?1310&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Gravel040.webp",
+  "previewSha256": "f36a11214b3c97a46a05cbb6beeb5a1300b1894a1c888ef21dfcfad60ab079de",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

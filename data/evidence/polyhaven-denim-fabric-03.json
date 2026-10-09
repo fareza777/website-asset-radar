@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/denim_fabric_03",
+  "checkedAt": "2026-10-09T15:09:21.342Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/denim_fabric_03",
+  "apiSha256": "f58158725ec6d8e9abeb89fffc9b1ce0acd6de11828bad394aa998884ac7905f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric_03/denim_fabric_03_diff_1k.jpg",
+  "assetFileMd5": "47d393fc300542e8694912fd5201dc8c",
+  "assetFileSha256": "4a1d34077a5c999f590a31a056be5f70edac19f254b6d970e41942b335788575",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Denim Fabric 03",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8244,
+      8231
+    ],
+    "dimensions": [
+      271.42801281852286,
+      270.9999978542328
+    ],
+    "staging": null,
+    "files_hash": "8b690e4eb5ac56316f9e211272ed85e9e2e00a77",
+    "tags": [
+      "jeans",
+      "light",
+      "blue",
+      "denim",
+      "twill",
+      "matte",
+      "durable",
+      "textile",
+      "weave"
+    ],
+    "description": "Free PBR denim fabric: light blue twill with subtle weave, matte, durable surface ideal for jeans, apparel, and hard-wearing textile materials.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "denim"
+    ],
+    "category_id": "14f36823-af15-5f03-824e-e31a2eadaedc",
+    "category": "Textiles & Leather/Denim",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "b64e8c12",
+    "download_count": 11525,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/denim_fabric_03.png?width=256&height=256&format=webp&v=b64e8c12"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_slate_tiles",
+  "checkedAt": "2026-10-09T15:40:22.814Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_slate_tiles",
+  "apiSha256": "0647114ad29fac7ddfcba245bc60f466e4ab352685ef4042cdbc9c77955099d4",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_slate_tiles/patterned_slate_tiles_diff_1k.jpg",
+  "assetFileMd5": "dfb419d9f080a2c9f3aafa5fe1222702",
+  "assetFileSha256": "adbd513ab1c948d2e7a1cd5154305422ededf31a0523a8fe85073781dfc03233",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Patterned Slate Tiles",
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "tags": [
+      "weathered",
+      "rough",
+      "tiles",
+      "slates",
+      "slate",
+      "exterior",
+      "tiled",
+      "outdoor",
+      "natural",
+      "stone",
+      "patterned",
+      "stonework"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "date_published": 1737590400,
+    "staging": null,
+    "files_hash": "3fec1755f38d89630db44f6788e2b64e6b3ac223",
+    "description": "Free 8K texture of patterned, weathered slate tiles: dark, rough stone slabs with irregular edges, worn cracks, gritty mortar joints and a low, natural surface sheen.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "eb6d0110",
+    "download_count": 5883,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_slate_tiles.png?width=256&height=256&format=webp&v=eb6d0110"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Net004B",
+  "checkedAt": "2026-10-09T15:44:38.787Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Net004B&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "3460a6bf0fe64d041d35e2363366206952a3067f7a0ac4941b549746613a7b1e",
+  "apiMetadata": {
+    "assetId": "Net004B",
+    "dataType": "Material",
+    "displayName": "Net 004 B",
+    "displayCategory": "Net",
+    "shortLink": "https://ambientcg.com/a/Net004B",
+    "tags": [
+      "4",
+      "broken",
+      "holes",
+      "net",
+      "old",
+      "rope"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Net004B.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Net004B.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Net004B.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Net004B.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Net004B.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Net004B.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Net004B.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Net004B.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Net004B.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Net004B.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Net004B.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Net004B.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Net004B.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Net004B.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Net004B.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Net004B.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Net004B.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Net004B.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Net004B.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Net004B.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Net004B.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Net004B.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Net004B.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Net004B.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_1K-JPG.zip",
+                "fileName": "Net004B_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_1K-JPG.zip",
+                "size": 5205355,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_2K-JPG.zip",
+                "fileName": "Net004B_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_2K-JPG.zip",
+                "size": 13914441,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_4K-JPG.zip",
+                "fileName": "Net004B_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_4K-JPG.zip",
+                "size": 41316545,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_8K-JPG.zip",
+                "fileName": "Net004B_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_8K-JPG.zip",
+                "size": 132740534,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_1K-PNG.zip",
+                "fileName": "Net004B_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_1K-PNG.zip",
+                "size": 7222711,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_2K-PNG.zip",
+                "fileName": "Net004B_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_2K-PNG.zip",
+                "size": 21969263,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_4K-PNG.zip",
+                "fileName": "Net004B_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_4K-PNG.zip",
+                "size": 73827739,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Net004B_8K-PNG.zip",
+                "fileName": "Net004B_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Net004B_8K-PNG.zip",
+                "size": 257158595,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2024-01-20 00:00:00",
+    "earlyReleaseDate": "2024-01-05 10:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 7042,
+    "downloadCountMonth": 730,
+    "downloadCountWeek": 198,
+    "popularityScore": 2.4354391768466668,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 110,
+    "dimensionY": 110,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Color.jpg?32000&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Displacement.jpg?47846&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_NormalDX.jpg?59831&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Roughness.jpg?90204&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Opacity.jpg?23620",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Color.jpg?46391,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Displacement.jpg?75363,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_NormalDX.jpg?82710,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Roughness.jpg?91444,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Opacity.jpg?66797&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Net004B.webp",
+  "previewSha256": "a04397135d7144a9904d6fb2593dc3f410dc5ad367d6f3e5359f5c5b65cf2abe",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_linen",
+  "checkedAt": "2026-10-09T15:13:32.697Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_linen",
+  "apiSha256": "96f60c1874ab2b349f471da9b8480bb95df58181a8b45eb9ffde04ed01d53872",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_linen/rough_linen_diff_1k.jpg",
+  "assetFileMd5": "663db789fb075462b685c1f740e58930",
+  "assetFileSha256": "04897d7611d7390ddf5b2c6f7273f448dfc48341fdbd1f4f207fa30b331d7f57",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rough Linen",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8233,
+      8251
+    ],
+    "dimensions": [
+      270.7081392676629,
+      271.29998803138733
+    ],
+    "staging": null,
+    "files_hash": "4e637f8a844f5100c96dc1b33d4d63fd7309797a",
+    "tags": [
+      "blue",
+      "fine",
+      "textile ",
+      "fabric",
+      "woven",
+      "linen",
+      "weave",
+      "crosshatch"
+    ],
+    "description": "Free 8K texture: rough blue linen with fine woven crosshatch and natural matte surface - great for upholstery, garments, drapery, and cloth sims.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "cotton",
+      "hessian"
+    ],
+    "category_id": "9e99da40-07dc-5b1c-bed9-6fe9da41712f",
+    "category": "Textiles & Leather/Woven/Linen & Hessian-weave",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "e0220d40",
+    "download_count": 37546,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_linen.png?width=256&height=256&format=webp&v=e0220d40"
+  }
+}

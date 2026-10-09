@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/slate_floor_02",
+  "checkedAt": "2026-10-09T16:05:56.426Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/slate_floor_02",
+  "apiSha256": "1285cec87f05dc6ce3039a6183f1adfaed5bf263bd1e7dbff3a798e23df02b5f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/slate_floor_02/slate_floor_02_diff_1k.jpg",
+  "assetFileMd5": "5a59972c473632672d9761f5c998654a",
+  "assetFileSha256": "c531c542b7c312051e27e896ca5beb2623d0f15457d81b8fb32a521d4183a670",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Slate Floor 02",
+    "categories": [
+      "floor",
+      "cobblestone",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "old",
+      "weathered",
+      "worn",
+      "slates",
+      "slate",
+      "floor",
+      "vintage",
+      "rustic",
+      "rustic architecture",
+      "natural",
+      "traditional",
+      "stone floor"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "staging": null,
+    "date_published": 1712275200,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "758e581165d13c5ae4d65a74ebfd1143af550db7",
+    "description": "Free 8K texture of weathered reddish-brown slate floor with irregular stone slabs, worn edges, mortar joints and subtle glossy wear that reveals natural veining.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "87259e4a",
+    "download_count": 15659,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slate_floor_02.png?width=256&height=256&format=webp&v=87259e4a"
+  }
+}

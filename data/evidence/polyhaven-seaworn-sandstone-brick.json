@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/seaworn_sandstone_brick",
+  "checkedAt": "2026-10-09T16:06:16.337Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/seaworn_sandstone_brick",
+  "apiSha256": "1c4bc583bdd731d5e3c004a41af8821bcd02bc0b657d9ffc4bbe9f25c82cf57f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/seaworn_sandstone_brick/seaworn_sandstone_brick_diff_1k.jpg",
+  "assetFileMd5": "9e81bb5d1102d334c066f5c9f2c5a294",
+  "assetFileSha256": "96639b45ce8582420ea91801922c61ed3201b82cecc1487d51cb203f85c9499e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Seaworn Sandstone Brick",
+    "categories": [
+      "brick",
+      "sandstone",
+      "outdoor",
+      "wall",
+      "man made"
+    ],
+    "type": 1,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      1690.0001764297485,
+      1690.0001764297485
+    ],
+    "date_published": 1712188800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "eea84d17c3eba870e6a845474c1ff09e37b79375",
+    "tags": [
+      "rough",
+      "worn",
+      "precast",
+      "concrete",
+      "blocks",
+      "brick",
+      "bricks",
+      "sandstone",
+      "rustic",
+      "weathered"
+    ],
+    "description": "Free 8K Seaworn Sandstone Brick texture - rough, weathered sandstone bricks with worn edges, sandy grain, subtle erosion and recessed mortar joints.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "adb418e4",
+    "download_count": 43254,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/seaworn_sandstone_brick.png?width=256&height=256&format=webp&v=adb418e4"
+  }
+}

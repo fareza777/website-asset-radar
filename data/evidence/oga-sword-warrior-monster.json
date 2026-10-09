@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-sword-warrior-monster",
+  "sourceUrl": "https://opengameart.org/content/sword-warrior-monster",
+  "checkedAt": "2026-10-09T15:01:37.502Z",
+  "httpStatus": 200,
+  "pageSha256": "cd6a2952602c965a1641629472c199b63571111bada8ae9181645c541a9ec256",
+  "title": "sword warrior monster",
+  "authors": [
+    "woodsmoke"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "sword warrior monster by woodsmoke. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/sword-warrior-monster Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/monsta1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/monsta1.png",
+  "downloadSha256": "9cc1e96a349a446aa139bb8feef50a23998e27873b25e892b10c5ecedfc02b3d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "monsta1.png",
+  "previewSha256": "9cc1e96a349a446aa139bb8feef50a23998e27873b25e892b10c5ecedfc02b3d",
+  "sourceTags": [
+    "enemy monster",
+    "monster"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

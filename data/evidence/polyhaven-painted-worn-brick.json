@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/painted_worn_brick",
+  "checkedAt": "2026-10-09T16:05:16.513Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/painted_worn_brick",
+  "apiSha256": "d6130317f6ecef7465168d54ce789711c2375e1e0e09713cf571588853e2d68f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/painted_worn_brick/painted_worn_brick_diff_1k.jpg",
+  "assetFileMd5": "496d32a03be8d2ca45201c3316a2fe79",
+  "assetFileSha256": "8076bf7b7129979349dfdd97a02e1ab7f8b0c51f51a2ebc0181e3af78b2278ac",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Painted Worn Brick",
+    "categories": [
+      "wall",
+      "brick",
+      "outdoor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "yellow",
+      "dirty",
+      "weathered",
+      "worn",
+      "grungy"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1712620800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "0d3c92d156061f160283e2a3e305abd03a3be980",
+    "description": "Free 8K painted worn brick texture showing yellowed, weathered paint, chipped edges, gritty dirt and rough mortar with subtle surface relief.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "sponsors": [
+      "3237733"
+    ],
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "cbf13eb9",
+    "download_count": 5413,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/painted_worn_brick.png?width=256&height=256&format=webp&v=cbf13eb9"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/metal_plate_02",
+  "checkedAt": "2026-10-09T15:54:29.571Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/metal_plate_02",
+  "apiSha256": "5bc4f74faf439ea4d3fca2369e838fa848bed54b52cc0bb22b355deb0afb9175",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/metal_plate_02/metal_plate_02_diff_1k.jpg",
+  "assetFileMd5": "531b7e067dc537e0b3c7962175e04ffd",
+  "assetFileSha256": "6e80877d0e9d5973d96298c6091df7ace906b0a6760afc4f3592e4855f3f1d4c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Metal Plate 02",
+    "categories": [
+      "man made",
+      "metal"
+    ],
+    "type": 1,
+    "tags": [
+      "worn",
+      "metal sheet",
+      "corroded metal sheet",
+      "metal sheet ",
+      "steel sheeting",
+      "rusted",
+      "rusty",
+      "iron",
+      "industrial",
+      "grunge",
+      "oxidized metal",
+      "steel",
+      "rust",
+      "metallic",
+      "sheet",
+      "metal",
+      "corroded"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "staging": null,
+    "date_published": 1723680000,
+    "sponsors": [
+      "3267566"
+    ],
+    "description": "Free 8K texture: worn, corroded steel plate with rusty, oxidized iron surfaces, scraped paint, subtle metallic sheen and industrial grunge details.",
+    "files_hash": "9b37fd795ff54dbd956f155a26e8d675490690ea",
+    "category_id": "733fc0a1-302e-50f0-bd83-79d7fd8f3f1e",
+    "category": "Metal/Sheet & Corrugated/Flat Sheet",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "worn",
+        "rusted",
+        "damaged"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "bc5923f1",
+    "download_count": 75200,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metal_plate_02.png?width=256&height=256&format=webp&v=bc5923f1"
+  }
+}

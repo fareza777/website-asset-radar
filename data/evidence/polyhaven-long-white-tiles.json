@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/long_white_tiles",
+  "checkedAt": "2026-10-09T16:07:37.859Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/long_white_tiles",
+  "apiSha256": "0f54f3e42bb6be95e0c7d21166a4b284635c1a7d37e6d1d8e359b69b89b513e4",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/long_white_tiles/long_white_tiles_diff_1k.jpg",
+  "assetFileMd5": "49f7e4c3a0afd9a8ca3df5ac75747353",
+  "assetFileSha256": "0aa70e14117e9b1fbf726868675f6afa8fd62a2691f7ba3964f47796df06cd9c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Long White Tiles",
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "wall",
+      "weathered",
+      "chipped",
+      "discolored",
+      "damaged",
+      "long",
+      "white",
+      "tiles",
+      "scuffed",
+      "rectangular",
+      "minimalist",
+      "grungy",
+      "aged",
+      "deteriorated"
+    ],
+    "dimensions": [
+      1269.9999809265137,
+      1269.9999809265137
+    ],
+    "staging": null,
+    "date_published": 1711065600,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "c26e8672a94d97e12b4eb15f3eab2ce954430313",
+    "description": "Free 16K texture: long white rectangular tiles with scuffed, chipped and discolored surfaces and worn grout - aged, minimalist, grungy wall or floor material.",
+    "authors": {
+      "Jenelle van Heerden": "processing",
+      "Sergej Majboroda": "photography"
+    },
+    "category_id": "ce781525-aa20-5d90-9d19-8530e8e243ba",
+    "category": "Ceramic/Glazed Tiles/Glossy Glazed",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "b2fa208b",
+    "download_count": 52152,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/long_white_tiles.png?width=256&height=256&format=webp&v=b2fa208b"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/quatrefoil_jacquard_fabric",
+  "checkedAt": "2026-10-09T15:13:02.504Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/quatrefoil_jacquard_fabric",
+  "apiSha256": "45b17571e818d80337db64f466dea01d27940b893c928ad078e81b6e08a36e0c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/quatrefoil_jacquard_fabric/quatrefoil_jacquard_fabric_diff_1k.jpg",
+  "assetFileMd5": "0321f1c1d7126400feb8cb2955561f62",
+  "assetFileSha256": "674e9d4c2c116099b79ab364eb04e2101031745f2eb27e4a9e198a81e31c8cd7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Quatrefoil Jacquard Fabric",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8522,
+      8634
+    ],
+    "dimensions": [
+      280.11855714681565,
+      283.80000591278076
+    ],
+    "staging": null,
+    "files_hash": "289ec1d471e918d27f469f0247b40cc6894f7204",
+    "tags": [
+      "red",
+      "patterned",
+      "floral",
+      "jacquard",
+      "quatrefoil pattern",
+      "red fabric",
+      "burgundy",
+      "material",
+      "fabric",
+      "woven",
+      "brocade",
+      "damask",
+      "matelasse",
+      "complex weave"
+    ],
+    "description": "Free 8K material - burgundy jacquard fabric with woven quatrefoil brocade pattern, subtle sheen, raised weave; ideal for upholstery, drapery and interiors.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "jacquard"
+    ],
+    "category_id": "674fd9ef-3222-5c95-a057-d92a8404acfd",
+    "category": "Textiles & Leather/Patterned & Jacquard/Jacquard & Brocade",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "6938622a",
+    "download_count": 19862,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quatrefoil_jacquard_fabric.png?width=256&height=256&format=webp&v=6938622a"
+  }
+}

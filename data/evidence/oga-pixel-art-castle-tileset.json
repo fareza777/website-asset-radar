@@ -1,0 +1,62 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pixel-art-castle-tileset",
+  "sourceUrl": "https://opengameart.org/content/pixel-art-castle-tileset",
+  "checkedAt": "2026-10-09T16:00:37.474Z",
+  "httpStatus": 200,
+  "pageSha256": "d9f19301f3c1f37619966f7a2d4686b042426623ced8ef3ffad5627dd3c1e085",
+  "title": "pixel art castle tileset",
+  "authors": [
+    "rubberduck"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "pixel art castle tileset by rubberduck. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/pixel-art-castle-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/castle_tileset_part1_0.png",
+    "https://opengameart.org/sites/default/files/castle_tileset_part2_0.png",
+    "https://opengameart.org/sites/default/files/castle_tileset_part3_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/castle_tileset_part1_0.png",
+  "downloadSha256": "cb25ec05aa353a50f87798548ea737228f9e72989143f7cb3f1bcecc7478bba6",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "castle_tileset_part1_0.png",
+  "previewSha256": "cb25ec05aa353a50f87798548ea737228f9e72989143f7cb3f1bcecc7478bba6",
+  "sourceTags": [
+    "tileset",
+    "pixel",
+    "Pixel Art",
+    "sidescroller",
+    "Platformer",
+    "castle",
+    "brick",
+    "bricks",
+    "pillar",
+    "pillars",
+    "torch",
+    "torches",
+    "ladder",
+    "spikes",
+    "chain",
+    "candle holder",
+    "metal",
+    "gold",
+    "silver",
+    "copper",
+    "Wood",
+    "gate",
+    "door",
+    "flag",
+    "Window",
+    "windows",
+    "flame"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

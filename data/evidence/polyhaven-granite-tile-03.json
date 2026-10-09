@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/granite_tile_03",
+  "checkedAt": "2026-10-09T15:32:28.701Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/granite_tile_03",
+  "apiSha256": "097d678661f6923cacdf93b512a95a87942e4b0678f1e3acea4cb4de150cffa6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/granite_tile_03/granite_tile_03_diff_1k.jpg",
+  "assetFileMd5": "00d37a8ed649c60d5d9f3f6d740e3bfb",
+  "assetFileSha256": "bdb28bea17413f1a05b0498b43e9f61f253bb72d753d3bf6b555cbf5f3c9b1b4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Granite Tile 03",
+    "categories": [
+      "wall",
+      "tiles"
+    ],
+    "tags": [
+      "granite",
+      "granite tile",
+      "granite blocks",
+      "wall",
+      "urban",
+      "speckled ",
+      "slab",
+      "outdoor",
+      "stone tile"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1802.0000457763672,
+      1802.0000457763672
+    ],
+    "date_published": 1744848000,
+    "staging": null,
+    "files_hash": "08d41e4cbee63de142b19caa392247f0e441baa3",
+    "description": "Free 8K granite tile texture: speckled brown-grey stone slabs with fine grain, subtle micro-roughness, tight grout lines and a low satin sheen.",
+    "category_id": "c1b6840e-81a6-56d1-9cf0-1ef10c0aa6a2",
+    "category": "Stone/Slabs & Tiles/Granite",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "71827c3e",
+    "download_count": 6736,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/granite_tile_03.png?width=256&height=256&format=webp&v=71827c3e"
+  }
+}

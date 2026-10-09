@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bark_bluegum",
+  "checkedAt": "2026-10-09T15:44:54.577Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bark_bluegum",
+  "apiSha256": "ad55d30f5f600236e2c7bcf1b775a5aaccafa5169a081d6cb733cc033e32fa9d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_bluegum/bark_bluegum_diff_1k.jpg",
+  "assetFileMd5": "45ce402b2ea7e261a6eb08fc73a3a17a",
+  "assetFileSha256": "26f79ef77b10520a29f003930dd7c371ad1533097b64bc5d5b219266e2f6edad",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Bark Blue gum",
+    "categories": [
+      "bark",
+      "natural"
+    ],
+    "type": 1,
+    "tags": [
+      "bark",
+      "tree",
+      "tree bark",
+      "tree bark texture",
+      "tree trunk",
+      "nature",
+      "outdoor",
+      "bluegum",
+      "organic",
+      "environment",
+      "forest"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1820.0000524520874,
+      1820.0000524520874
+    ],
+    "date_published": 1732579200,
+    "staging": null,
+    "files_hash": "534d47713318a15869d22d8228463fa5d1290211",
+    "description": "Free 8K texture of blue gum bark, featuring smooth peeling plates, mottled brown-grey tones, subtle lichen spots and shallow fissures with organic roughness.",
+    "category_id": "a965cbdc-272f-5c31-8e9d-fe415bf467fd",
+    "category": "Wood/Bark/Smooth & Peeling Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "1b8e97c3",
+    "download_count": 2606,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_bluegum.png?width=256&height=256&format=webp&v=1b8e97c3"
+  }
+}

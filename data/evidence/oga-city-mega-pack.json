@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-city-mega-pack",
+  "sourceUrl": "https://opengameart.org/content/city-mega-pack",
+  "checkedAt": "2026-10-09T15:42:51.479Z",
+  "httpStatus": 200,
+  "pageSha256": "124337c007c78c28dbaebc1a34ac2a73300aa11c76c008b6748f59d48b412dce",
+  "title": "City Mega Pack",
+  "authors": [
+    "GrafxKid"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Credit me as GrafxKid City Mega Pack by GrafxKid. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/city-mega-pack Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/CITY_MEGA.png",
+    "https://opengameart.org/sites/default/files/SHIPPING_DOCKS_AREA.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/CITY_MEGA.png",
+  "downloadSha256": "44dec21081486d1592a46c85898b23cef496d4110647a4b784b27e16a7b3d8ff",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "CITY_MEGA.png",
+  "previewSha256": "44dec21081486d1592a46c85898b23cef496d4110647a4b784b27e16a7b3d8ff",
+  "sourceTags": [
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

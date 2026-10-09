@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/moon_meteor_01",
+  "checkedAt": "2026-10-09T15:25:15.421Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/moon_meteor_01",
+  "apiSha256": "5f0a9a20355bbe16005cbbce759ed9ca71b7e7214c1f869b022d855850757ac8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/moon_meteor_01/moon_meteor_01_diff_1k.jpg",
+  "assetFileMd5": "872a8ea4807f174eb2ded98176fcac77",
+  "assetFileSha256": "c588acdff448d98bd13b4ba5e785f998e9902f0f361fd6e37df5a4c2e2fabbff",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Moon Meteor 01",
+    "authors": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "Photography",
+      "Jenelle van Heerden": "Processing"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "dimensions": [
+      3199.9998092651367,
+      3199.9998092651367
+    ],
+    "staging": null,
+    "tags": [
+      "rough",
+      "dirt",
+      "course",
+      "exterior",
+      "regolith",
+      "dusted",
+      "meteor",
+      "craters",
+      "rock",
+      "extraterrestrial",
+      "space",
+      "lunar"
+    ],
+    "sponsors": [
+      "52694"
+    ],
+    "date_published": 1750336463,
+    "categories": [
+      "outdoor",
+      "sand",
+      "terrain",
+      "collection: moon"
+    ],
+    "files_hash": "7e1f7f2f685c7877d99a45e151de291f6fc4426d",
+    "description": "Free 16K texture of rough, dusty lunar regolith with coarse dirt, small craters and rock fragments - ideal for extraterrestrial terrain and moon surfaces.",
+    "info": "Captured at [Spaceport Rostock](https://www.pts.space/products/spacelab-rostock/)'s lab. [More info](https://blog.polyhaven.com/moon).",
+    "category_id": "4413cdc1-285d-5c3b-812a-782a6086cb78",
+    "category": "Ground & Terrain/Regolith/Cratered Regolith",
+    "collections": [
+      "moon"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "vault": "moon",
+    "img_version": "a06313d0",
+    "download_count": 1585,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_meteor_01.png?width=256&height=256&format=webp&v=a06313d0"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/terry_cloth",
+  "checkedAt": "2026-10-09T15:14:22.640Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/terry_cloth",
+  "apiSha256": "6635fdd9bd04aaaeeb2a5521641ad3d4eb92756b9ecb2e0512c56f42be545df6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/terry_cloth/terry_cloth_diff_1k.jpg",
+  "assetFileMd5": "79084e50ec009738e0bf9c64365a4dfd",
+  "assetFileSha256": "8605d028a0109de5f2db5992795581f441b56266f27f7969dca32d30866eb9db",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Terry Cloth",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      11049,
+      10933
+    ],
+    "dimensions": [
+      367.0535953781794,
+      363.20000886917114
+    ],
+    "staging": null,
+    "files_hash": "28b33177cb7034818d4a932322de37cf9f70f93c",
+    "tags": [
+      "blue",
+      "absorbent",
+      "microfiber",
+      "terry cloth",
+      "terry",
+      "woven",
+      "textile ",
+      "soft",
+      "plush",
+      "raised loops",
+      "looped fibers"
+    ],
+    "description": "Free 11K texture - blue terry cloth with plush looped fibers, soft absorbent microfiber knit; perfect for towels, robes and close-up textile renders.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "knitted"
+    ],
+    "category_id": "42b4996a-c39a-5697-bbd4-9742ff633bd2",
+    "category": "Textiles & Leather/Pile & Velvet/Terry & Loop Pile",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "4ec7df43",
+    "download_count": 16191,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/terry_cloth.png?width=256&height=256&format=webp&v=4ec7df43"
+  }
+}

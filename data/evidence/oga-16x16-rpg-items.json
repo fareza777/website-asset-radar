@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-16x16-rpg-items",
+  "sourceUrl": "https://opengameart.org/content/16x16-rpg-items",
+  "checkedAt": "2026-10-09T15:26:51.428Z",
+  "httpStatus": 200,
+  "pageSha256": "972de556efd1231499243e34f1b939c737c0bd60d49ce583606fdea52a6826de",
+  "title": "16x16 RPG items",
+  "authors": [
+    "Jetrel"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "16x16 RPG items by Jetrel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/16x16-rpg-items Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/items.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/items.png",
+  "downloadSha256": "46281291a03802fd6517194813f47227f0e138a855709a243e910f2d9ac9bf33",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "items.png",
+  "previewSha256": "46281291a03802fd6517194813f47227f0e138a855709a243e910f2d9ac9bf33",
+  "sourceTags": [
+    "RPG",
+    "items",
+    "inventory",
+    "RPG",
+    "Fantasy",
+    "Historical",
+    "Raster Art",
+    "Icon",
+    "Pixel Art",
+    "Item"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

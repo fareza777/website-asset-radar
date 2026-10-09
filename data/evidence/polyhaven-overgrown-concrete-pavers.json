@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/overgrown_concrete_pavers",
+  "checkedAt": "2026-10-09T14:58:06.484Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/overgrown_concrete_pavers",
+  "apiSha256": "789ab51ff99f82caab98619e8caf9278e225e617bc39bcf2dcbb85d68a5de6a2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/overgrown_concrete_pavers/overgrown_concrete_pavers_diff_1k.jpg",
+  "assetFileMd5": "7ae1a12ba168f0777f1c0bfe58e5de1b",
+  "assetFileSha256": "fa856f538c6b579bc44a06a0dd79b7c6ff02d2a6f22999b24553ae16c42f3a29",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Overgrown Concrete Pavers",
+    "categories": [
+      "outdoor",
+      "floor"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "old",
+      "plant debris",
+      "dirt",
+      "overgrown",
+      "concrete pavers",
+      "pavers",
+      "concrete slab",
+      "garden walkway",
+      "walkway",
+      "squares",
+      "outdoor flooring",
+      "scattered leaves",
+      "twigs"
+    ],
+    "description": "Free 8k texture of overgrown concrete pavers - weathered, rough reddish slabs with moss-filled joints, plant debris, cracks and uneven worn edges.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "c87fa72da7a1ed621205f95c62346eb8dd3a1541",
+    "staging": null,
+    "date_published": 1765756800,
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "mossy",
+        "cracked",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2628e5db",
+    "download_count": 3656,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/overgrown_concrete_pavers.png?width=256&height=256&format=webp&v=2628e5db"
+  }
+}

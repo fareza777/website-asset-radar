@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pebbles",
+  "checkedAt": "2026-10-09T15:46:14.523Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pebbles",
+  "apiSha256": "1a11896d568ac887b98d75d171043a266321179e5299767f69494ccf145e859c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pebbles/pebbles_diff_1k.jpg",
+  "assetFileMd5": "0844bb46f656249b66af2195cc35a63b",
+  "assetFileSha256": "6f69a8e187bb704a2b7d765b72678d874d9439d70cec31b7f3a1c1ff9d08345b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Pebbles",
+    "categories": [
+      "outdoor"
+    ],
+    "type": 1,
+    "tags": [
+      "pebbles",
+      "pebble",
+      "gravel",
+      "gravelly",
+      "gravelly ground",
+      "pebbly",
+      "stony",
+      "gritty texture",
+      "driveway gravel"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "date_published": 1731369600,
+    "staging": null,
+    "files_hash": "bd35d81fdd576ad278a855576674898382c9a527",
+    "description": "Free 8K texture of compacted driveway gravel: dark brown-grey gritty ground with small rounded pebbles, subtle roughness and low, varied sheen.",
+    "category_id": "a97bb631-d60c-54fb-ba1b-2121cbed91c6",
+    "category": "Ground & Terrain/Gravel & Pebbles/Driveway Gravel",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "56ee7c79",
+    "download_count": 2284,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebbles.png?width=256&height=256&format=webp&v=56ee7c79"
+  }
+}

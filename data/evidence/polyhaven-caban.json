@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/caban",
+  "checkedAt": "2026-10-09T15:07:20.957Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/caban",
+  "apiSha256": "e419b56fc330b71b3e71d801d06acc36e9f7bd45319a0c8079264a6fdac63ced",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/caban/caban_diff_1k.jpg",
+  "assetFileMd5": "4b9ff6f1c315df49e04b24ea5ad73975",
+  "assetFileSha256": "e6502a2516772c3158d11fc447a4d0972900dc81347334465b99b18f3b09524c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Caban",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8313,
+      8292
+    ],
+    "dimensions": [
+      273.9921411828764,
+      273.2999920845032
+    ],
+    "staging": null,
+    "files_hash": "3b99bf29cd53f14eeb68c0065ff23b8e5f83a6d1",
+    "tags": [
+      "orange",
+      "fluffy",
+      "textile ",
+      "fabric",
+      "fleece",
+      "soft",
+      "fuzzy",
+      "fibrous",
+      "napped",
+      "cozy",
+      "warm",
+      "woolen"
+    ],
+    "description": "Free PBR fleece texture: soft, napped orange wool with fluffy, fuzzy fibers, cozy, warm and versatile for garments, blankets and interior fabrics.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "wool",
+      "fleece"
+    ],
+    "category_id": "f83975ba-9406-54a6-aa26-fc6a1f4cc2a8",
+    "category": "Textiles & Leather/Knit/Fleece & Napped",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "60d6ce4d",
+    "download_count": 11922,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/caban.png?width=256&height=256&format=webp&v=60d6ce4d"
+  }
+}

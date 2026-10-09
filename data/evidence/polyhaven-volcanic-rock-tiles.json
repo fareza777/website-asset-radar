@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/volcanic_rock_tiles",
+  "checkedAt": "2026-10-09T15:51:44.846Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/volcanic_rock_tiles",
+  "apiSha256": "f732dbea19f06ab0101c5dcd9c74fb350e7421125b528d68010beffbf51b41d4",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/volcanic_rock_tiles/volcanic_rock_tiles_diff_1k.jpg",
+  "assetFileMd5": "15f53f44ac13edf392185bb808c1d3b8",
+  "assetFileSha256": "fc0de61673330dd57e9414332d9fe5da377aebafca24f560ceb9b29f3efec1d2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Volcanic Rock Tiles",
+    "categories": [
+      "wall",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "wall",
+      "rocks",
+      "rock",
+      "mosaic",
+      "rough",
+      "volcanic rock"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1726531200,
+    "staging": null,
+    "files_hash": "45487e23ea16d1ff34ca3727fbba850dad04fab4",
+    "description": "Free 8K texture of rough volcanic rock tiles: dark, irregular mosaic stones with pitted basalt surfaces, deep grout lines and subtle low-sheen highlights.",
+    "category_id": "4ef5ff3b-29d1-556c-9c39-f384e0652af1",
+    "category": "Stone/Walls & Rubble/Decorative Stonework",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "ceda7d6c",
+    "download_count": 2795,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/volcanic_rock_tiles.png?width=256&height=256&format=webp&v=ceda7d6c"
+  }
+}

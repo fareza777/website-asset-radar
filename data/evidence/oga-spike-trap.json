@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-spike-trap",
+  "sourceUrl": "https://opengameart.org/content/spike-trap",
+  "checkedAt": "2026-10-09T16:06:13.260Z",
+  "httpStatus": 200,
+  "pageSha256": "b855f16e984d89afed9776cf640011e159ebbe468151ca70376a5782670aad18",
+  "title": "Spike Trap",
+  "authors": [
+    "mr_eze"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Spike Trap by mr_eze. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/spike-trap Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/spike_trap_full.png",
+    "https://opengameart.org/sites/default/files/3_spikes.png",
+    "https://opengameart.org/sites/default/files/spike.png",
+    "https://opengameart.org/sites/default/files/spike_trap_base.png",
+    "https://opengameart.org/sites/default/files/example_animation.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/example_animation.zip",
+  "downloadSha256": "15f9cc2141a932adfb76cf89e04fb083109a1b3bdf76345275274753b9a4a25d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 24,
+  "licenseFiles": [],
+  "previewFile": "Animation 1/017.png",
+  "previewSha256": "14fb18dc3849cba59d86d08d1e9b1aab56987e75438d73e9a00ee32a785ef56d",
+  "sourceTags": [
+    "trap",
+    "obstacle",
+    "Vector Art",
+    "spike",
+    "spikes",
+    "Platformer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

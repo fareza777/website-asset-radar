@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-spooky-castle-tileset",
+  "sourceUrl": "https://opengameart.org/content/spooky-castle-tileset",
+  "checkedAt": "2026-10-09T15:51:21.401Z",
+  "httpStatus": 200,
+  "pageSha256": "22277c0b4c699c6fba5a82d7a93aa9e09635ae44aa2d6af9be18dfe6e3530af3",
+  "title": "Spooky Castle Tileset",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com Spooky Castle Tileset by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/spooky-castle-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/oppcastle-mod-tiles.png",
+    "https://opengameart.org/sites/default/files/oppcastle-tiles_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/oppcastle-mod-tiles.png",
+  "downloadSha256": "573b913692fe547fd5871144a88b4ecdd58e212341f78273f99ee558331c2f5b",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "oppcastle-mod-tiles.png",
+  "previewSha256": "573b913692fe547fd5871144a88b4ecdd58e212341f78273f99ee558331c2f5b",
+  "sourceTags": [
+    "castle",
+    "tileset",
+    "Platformer",
+    "db32",
+    "DawnBringer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

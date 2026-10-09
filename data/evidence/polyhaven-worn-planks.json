@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/worn_planks",
+  "checkedAt": "2026-10-09T16:04:06.319Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/worn_planks",
+  "apiSha256": "d7f7a5898af9451f01907ac1fb368fcae5049d98028c7508ec46a6216adba59b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/worn_planks/worn_planks_diff_1k.jpg",
+  "assetFileMd5": "c5f7b2343880a705e9acb471938e07da",
+  "assetFileSha256": "698c09b337375a9aae12a76ad09ff2fda11d735e6c1bbb18d72875bd61988db6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Worn Planks",
+    "categories": [
+      "wood"
+    ],
+    "type": 1,
+    "tags": [
+      "aged wood",
+      "distressed",
+      "wood",
+      "wooden planks",
+      "wooden",
+      "wooden flooring ",
+      "wooden floor",
+      "peeling",
+      "rustic",
+      "weathered",
+      "distressed wood",
+      "worn"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1400.0000953674316,
+      1400.0000953674316
+    ],
+    "date_published": 1713830400,
+    "staging": null,
+    "files_hash": "c5ee2eb042a95637eeaa001d0ba93e81290ed52a",
+    "description": "Free 8K texture of worn wooden planks with peeling paint, deep cracks, rough grain and varied faded tones with rustic weathering.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "cracked",
+        "worn",
+        "painted"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "7baf2be7",
+    "download_count": 85228,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/worn_planks.png?width=256&height=256&format=webp&v=7baf2be7"
+  }
+}

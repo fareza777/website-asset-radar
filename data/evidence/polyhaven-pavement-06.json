@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pavement_06",
+  "checkedAt": "2026-10-09T15:44:34.947Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pavement_06",
+  "apiSha256": "a32b62e77830a8ce34440777c5776e5a1120c0ed6d61d35f37ef38a7f5351bbf",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_06/pavement_06_diff_1k.jpg",
+  "assetFileMd5": "2d6278cd0f42b8aec61b27c5489bd9a3",
+  "assetFileSha256": "c9c15274228c36875ad33ff64a0c7bef723e9a529bab6422d413c9bc6dca58a8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Pavement 06",
+    "categories": [
+      "dirty",
+      "brick",
+      "floor",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "exterior",
+      "outdoor",
+      "walkway",
+      "pavers",
+      "outdoor flooring",
+      "urban",
+      "footpath",
+      "cityscape",
+      "interlocking bricks",
+      "sidewalk",
+      "antislip"
+    ],
+    "authors": {
+      "Jan Martens": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "staging": null,
+    "date_published": 1732752000,
+    "donated": true,
+    "files_hash": "39c8a7130cf65f67558dfcea04b9b1be49360de3",
+    "description": "Free 8K texture of rough brown-red interlocking brick pavement with gritty anti-slip surface, subtle wear, dirt-filled joints and low sheen.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2670d423",
+    "download_count": 14027,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_06.png?width=256&height=256&format=webp&v=2670d423"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bitumen",
+  "checkedAt": "2026-10-09T15:50:04.672Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bitumen",
+  "apiSha256": "5f2bc9d678e7e27d3c87f9e82db46177705a0f606f3592133ddfc912069b1d97",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bitumen/bitumen_diff_1k.jpg",
+  "assetFileMd5": "1a906cd5bcba943454d6f01065e0b1d9",
+  "assetFileSha256": "fa09ed33d59c3bb90ef70d36352207e2e1ca5564cfc61295c0124d1a7d785808",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Bitumen",
+    "categories": [
+      "roofing"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "cracked",
+      "cracks",
+      "dirty",
+      "bitumen",
+      "asphalt",
+      "roofing material",
+      "tar",
+      "gritty",
+      "rough  "
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      19999.996185302734,
+      19999.996185302734
+    ],
+    "date_published": 1727913600,
+    "staging": null,
+    "files_hash": "ad7297dc54aa4276e383fda741e22d0e4b73be88",
+    "description": "Free 8K texture: dark, gritty bitumen roofing with rough, cracked tar surface, subtle horizontal streaks and weathered dirt.",
+    "sponsors": [
+      "26820710",
+      "101447488"
+    ],
+    "category_id": "f19fe70f-c62c-55f7-ba5a-77dce05be6ef",
+    "category": "Asphalt & Bitumen/Asphalt",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "9f7ff89e",
+    "download_count": 14366,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bitumen.png?width=256&height=256&format=webp&v=9f7ff89e"
+  }
+}

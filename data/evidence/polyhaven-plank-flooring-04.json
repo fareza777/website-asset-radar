@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plank_flooring_04",
+  "checkedAt": "2026-10-09T15:02:10.820Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plank_flooring_04",
+  "apiSha256": "078fa0ec5c4ae3bd524399abd98cfa3dce8bd28131367718cc703a83095189da",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plank_flooring_04/plank_flooring_04_diff_1k.jpg",
+  "assetFileMd5": "c8f0ec8572e70561bbeb55e42d1b7fb5",
+  "assetFileSha256": "260fc03a322552176b59c8e6dfc463594daf1f15ed3fedb2601053d8dbd2162c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Plank Flooring 04",
+    "categories": [
+      "floor",
+      "wood"
+    ],
+    "tags": [
+      "wooden planks",
+      "plank flooring ",
+      "wooden flooring ",
+      "plank",
+      "timber",
+      "coated",
+      "varnished",
+      "wooden floor",
+      "wood",
+      "grain"
+    ],
+    "description": "Free 8k texture of varnished dark timber planks with subtle grain, narrow seams and a soft satin sheen.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "aa4021474e24d977ddfaa6565a0bd29943138820",
+    "staging": null,
+    "date_published": 1762473600,
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "33894c37",
+    "download_count": 71732,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plank_flooring_04.png?width=256&height=256&format=webp&v=33894c37"
+  }
+}

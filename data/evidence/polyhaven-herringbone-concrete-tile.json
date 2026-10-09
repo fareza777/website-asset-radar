@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/herringbone_concrete_tile",
+  "checkedAt": "2026-10-09T15:28:05.227Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/herringbone_concrete_tile",
+  "apiSha256": "2dff8b08ce4394c38d0b69708fd5c8d97930ec9174546816c0604b0f04db8f47",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/herringbone_concrete_tile/herringbone_concrete_tile_diff_1k.jpg",
+  "assetFileMd5": "78d5cd843d8993e4a0fd619d454ab7c8",
+  "assetFileSha256": "d332f294027ad8aaa0f9d56b95704ea09ba7bc6988451de40e8304c822ab45b3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Herringbone Concrete Tile",
+    "tags": [
+      "weathered",
+      "rough",
+      "discolored",
+      "concrete",
+      "herringbone",
+      "herringbone pattern",
+      "patterned concrete",
+      "weatherbeaten",
+      "scuffed"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1749513600,
+    "staging": null,
+    "files_hash": "29afbb0aabc5ed2092af9d545a66b1f7602a11b3",
+    "description": "Free 8K texture of weathered herringbone concrete tiles, rough and scuffed with discolored stains, pronounced grout lines, chipped edges and a subtle worn sheen.",
+    "categories": [
+      "concrete",
+      "outdoor",
+      "man made",
+      "plaster-concrete"
+    ],
+    "category_id": "a993f2ab-6503-53e4-a548-9a509c81f7e1",
+    "category": "Brick & Block/Concrete Block & Paver/Herringbone Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "64f7008c",
+    "download_count": 6111,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_concrete_tile.png?width=256&height=256&format=webp&v=64f7008c"
+  }
+}

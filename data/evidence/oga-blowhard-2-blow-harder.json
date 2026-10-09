@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-blowhard-2-blow-harder",
+  "sourceUrl": "https://opengameart.org/content/blowhard-2-blow-harder",
+  "checkedAt": "2026-10-09T15:16:29.066Z",
+  "httpStatus": 200,
+  "pageSha256": "5377d60e533e372239f99f8ced15f1c1bf80b7ea7210ea4591f566d5c9a474df",
+  "title": "Blowhard 2: Blow Harder",
+  "authors": [
+    "surt"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Blowhard 2: Blow Harder by surt. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/blowhard-2-blow-harder Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/blowharder.png",
+    "https://opengameart.org/sites/default/files/blowharder_4_colour_1.png",
+    "https://opengameart.org/sites/default/files/blowhard_sms_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/blowharder.png",
+  "downloadSha256": "9702427ddd4608775a0d902b30f2ddf0abf17b1412437adbce16ad039ce75bb0",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "blowharder.png",
+  "previewSha256": "9702427ddd4608775a0d902b30f2ddf0abf17b1412437adbce16ad039ce75bb0",
+  "sourceTags": [
+    "NES",
+    "SMS",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

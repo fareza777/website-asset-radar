@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tileset-1bit-color",
+  "sourceUrl": "https://opengameart.org/content/tileset-1bit-color",
+  "checkedAt": "2026-10-09T15:43:31.157Z",
+  "httpStatus": 200,
+  "pageSha256": "9e9a0a377ad5ea823a7ec39cb2b669e65320493691ca10e129a04624bffe8c68",
+  "title": "Tileset 1bit Color",
+  "authors": [
+    "Clint Bellanger"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Tileset 1bit Color by Clint Bellanger. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/tileset-1bit-color Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tileset_1bit.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tileset_1bit.png",
+  "downloadSha256": "b315efb38e246af51c5d61238a3ed193e28f5bb819c05fdf2b3bf3d67362850e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tileset_1bit.png",
+  "previewSha256": "b315efb38e246af51c5d61238a3ed193e28f5bb819c05fdf2b3bf3d67362850e",
+  "sourceTags": [
+    "Friday Challenge",
+    "Minimalist",
+    "Action",
+    "RPG",
+    "Fantasy",
+    "Map Tileset",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

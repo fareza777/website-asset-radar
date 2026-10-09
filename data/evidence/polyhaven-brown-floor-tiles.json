@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_floor_tiles",
+  "checkedAt": "2026-10-09T15:06:40.821Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_floor_tiles",
+  "apiSha256": "8eb3cb191f999c4754976ad36e1ca2a36f724df2eb0a28c022bf3c97c0d2527d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_floor_tiles/brown_floor_tiles_diff_1k.jpg",
+  "assetFileMd5": "6bff33d5ac96c8ef912210bfdfb8411f",
+  "assetFileSha256": "64a5e4af8521883fb82a2e17971f785bfedcbb55bc14fa2d339bc806cbea61b6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Brown Floor Tilles",
+    "categories": [
+      "tiles",
+      "floor"
+    ],
+    "tags": [
+      "tiles",
+      "ceramic",
+      "square",
+      "outdoor flooring",
+      "flat",
+      "continuous",
+      "consistent",
+      "brown",
+      "terracotta",
+      "grout lines",
+      "grid pattern"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1700.0000476837158,
+      1700.0000476837158
+    ],
+    "files_hash": "62bd8dd15a6650e1472169aa9a83de5c05b4de5b",
+    "date_published": 1757980800,
+    "staging": null,
+    "description": "Free 8K texture: brown terracotta ceramic floor tiles with square grid and subtle wear - flat, grout-lined material for outdoor or indoor floors.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "7f8b0617",
+    "download_count": 17294,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_floor_tiles.png?width=256&height=256&format=webp&v=7f8b0617"
+  }
+}

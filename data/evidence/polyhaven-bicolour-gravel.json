@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bicolour_gravel",
+  "checkedAt": "2026-10-09T15:57:40.442Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bicolour_gravel",
+  "apiSha256": "514274becd421bfd54b81b9a806a9979e9a795bd662812cc51d09ee79335d119",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bicolour_gravel/bicolour_gravel_diff_1k.jpg",
+  "assetFileMd5": "ffd4e43e15948f6577c92d415ccfdbdf",
+  "assetFileSha256": "95301f134ad5dcc51442d23f901220743bba63d17e306b5c4131668d4d87d82f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Bicolour Gravel",
+    "categories": [
+      "floor",
+      "gravel"
+    ],
+    "type": 1,
+    "tags": [
+      "gravel",
+      "gravelly",
+      "driveway gravel",
+      "driveway stones",
+      "driveway",
+      "garden walkway",
+      "stones",
+      "garden path gravel"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "date_published": 1721088000,
+    "staging": null,
+    "files_hash": "40a59d8983ce5e3b179ecaf41f7160034e2c4e4a",
+    "description": "Free 8K texture, compact bicolour gravel of dark grey and beige pebbles, fine granular surface, tight packing, matte finish with subtle tonal variation.",
+    "category_id": "a97bb631-d60c-54fb-ba1b-2121cbed91c6",
+    "category": "Ground & Terrain/Gravel & Pebbles/Driveway Gravel",
+    "sponsors": [
+      "42676342"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "f399a26c",
+    "download_count": 7672,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bicolour_gravel.png?width=256&height=256&format=webp&v=f399a26c"
+  }
+}

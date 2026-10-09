@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-handpainted-platform-tileset",
+  "sourceUrl": "https://opengameart.org/content/handpainted-platform-tileset",
+  "checkedAt": "2026-10-09T15:42:23.526Z",
+  "httpStatus": 200,
+  "pageSha256": "0b708fa94a1c81107416443566eff96bfa0d7ed9d1426d630757a79439eec29e",
+  "title": "Handpainted Platform Tileset",
+  "authors": [
+    "LudicArts"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "details: http://ludicarts.com/free-game-platform-tileset/ Handpainted Platform Tileset by LudicArts. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/handpainted-platform-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/free_flat_tileset.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/free_flat_tileset.zip",
+  "downloadSha256": "a4c9bd533365709d26061cb9d5c8f53436d51f5c01b2540006ba07bc0a10358f",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 39,
+  "licenseFiles": [],
+  "previewFile": "PNG/Tile_14.png",
+  "previewSha256": "213daea711e0bf71e39a78bf15204cf52d977f35dbb9f66156746904639cfa87",
+  "sourceTags": [
+    "platform",
+    "handpainted",
+    "trees",
+    "grass",
+    "plants",
+    "soil",
+    "Rock",
+    "objects",
+    "ground"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

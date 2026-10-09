@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_panels",
+  "checkedAt": "2026-10-09T16:00:00.437Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_panels",
+  "apiSha256": "822a826f97991209c922867a18a5521f0411d87c012cd16085c4cf08cc31d4c9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_panels/concrete_panels_diff_1k.jpg",
+  "assetFileMd5": "c9febfe1671a609a2b81c4a48af868de",
+  "assetFileSha256": "f7f9d5102b2daa199b42cae7d67d0b7a2977d98d80f45c302f93454224ebd140",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Panels",
+    "categories": [
+      "man made",
+      "outdoor",
+      "wall",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "concrete",
+      "stamped concrete",
+      "patterned concrete",
+      "timeworn",
+      "building material",
+      "underpass",
+      "bridge",
+      "weatherbeaten",
+      "pavers",
+      "construction material"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      8000,
+      8000
+    ],
+    "date_published": 1718236800,
+    "staging": null,
+    "files_hash": "ef5c4ba919c37bb111e4bd7ea4805ae3c754f102",
+    "description": "Free 8K texture of stamped concrete panels with corrugated grooves, weathered brown patina, visible seams, stains and chipped edges for a rough, timeworn wall.",
+    "category_id": "2e5d701e-c1e8-538e-b4c9-04cfc35c747c",
+    "category": "Brick & Block/Concrete Block & Paver/Facade Panels",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2dd815a0",
+    "download_count": 6974,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_panels.png?width=256&height=256&format=webp&v=2dd815a0"
+  }
+}

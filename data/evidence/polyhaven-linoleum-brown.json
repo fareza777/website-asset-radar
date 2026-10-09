@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/linoleum_brown",
+  "checkedAt": "2026-10-09T15:18:32.765Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/linoleum_brown",
+  "apiSha256": "4bb08c4a872fe9bbc49ac71d6e57efe9429521387778d02492f587a86b885238",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/linoleum_brown/linoleum_brown_diff_1k.jpg",
+  "assetFileMd5": "7190f0ce07f9ffe75c1ffec89651390d",
+  "assetFileSha256": "8947b927043fafc668d6b90454aee18edd37e6f49dc8f87253ca3693ef94f3a4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Linoleum Brown",
+    "tags": [
+      "linolium",
+      "wood",
+      "wood look",
+      "flooring",
+      "synthetic",
+      "vinyl",
+      "canvas",
+      "weathered",
+      "brown"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "date_published": 1753747200,
+    "staging": null,
+    "files_hash": "d597a7e2c52e7bf11f849a60367e355fc9bb354a",
+    "description": "Free 8K texture of weathered brown linoleum - a synthetic vinyl flooring with subtle wood-look grain, low sheen and canvas-like wear.",
+    "category_id": "c23b0dc4-b372-5c23-8a8f-ff12bdc51573",
+    "category": "Plastic & Rubber/Vinyl & Linoleum/Linoleum",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "ec722ba7",
+    "download_count": 10376,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/linoleum_brown.png?width=256&height=256&format=webp&v=ec722ba7"
+  }
+}

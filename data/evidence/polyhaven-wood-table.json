@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_table",
+  "checkedAt": "2026-10-09T15:04:31.462Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_table",
+  "apiSha256": "1987ff08b3a0f4e60905d82edee9e768f01480ba726c91e2a6aa0ec40fa161e1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_table/wood_table_diff_1k.jpg",
+  "assetFileMd5": "45af5766b300f7e940ee8984c5fabd4f",
+  "assetFileSha256": "f81642ae141958feac6c5acac03e2aeb6cfe049dff301d0627e3c17f2dc5c7a5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Wood Table",
+    "categories": [
+      "wood"
+    ],
+    "tags": [
+      "pine",
+      "coated finish",
+      "coated wood",
+      "wood",
+      "planks",
+      "knots",
+      "wooden",
+      "wooden knots",
+      "pine wood",
+      "plank",
+      "wood grain",
+      "roughhewn",
+      "saw marks"
+    ],
+    "description": "Free 4k pine wood texture with coated finish: warm brown planks, visible knots, rough-hewn grain and subtle varnish sheen.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "files_hash": "d1c2354499482c26b3648cd72d81f51414f11050",
+    "date_published": 1760400000,
+    "staging": null,
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "190a81e3",
+    "download_count": 68621,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_table.png?width=256&height=256&format=webp&v=190a81e3"
+  }
+}

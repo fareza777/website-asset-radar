@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/hangar_concrete_floor",
+  "checkedAt": "2026-10-09T16:01:28.502Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/hangar_concrete_floor",
+  "apiSha256": "dd371b64eeca760d314117d133f372435c1b2906c8a0446a21b7033f6c8eb086",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hangar_concrete_floor/hangar_concrete_floor_diff_1k.jpg",
+  "assetFileMd5": "a073051aeaf7242f5e354ca4c89ac179",
+  "assetFileSha256": "8c365cc65bc3026045c4e3ecba9642cbe0bee1cf705edafe4a8fed5b78c08a4d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Hangar Concrete Floor",
+    "type": 1,
+    "tags": [
+      "rough",
+      "scratched",
+      "flat",
+      "concrete",
+      "cracked",
+      "damaged",
+      "chipped",
+      "scuffed",
+      "cemented floor",
+      "worn",
+      "cracked cement",
+      "cement",
+      "plastered",
+      "battered",
+      "deteriorated",
+      "timeworn"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1717027200,
+    "staging": null,
+    "files_hash": "feda9a30b18650fdd15ab745a3f0c139e7c05108",
+    "description": "Free 8K concrete floor texture showing rough, scuffed, chipped and cracked cement with a battered, pitted, timeworn surface.",
+    "categories": [
+      "floor",
+      "man made",
+      "concrete",
+      "indoor",
+      "plaster-concrete"
+    ],
+    "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+    "category": "Concrete/Cast Walls & Floors/Bare Cast",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "3cd128f0",
+    "download_count": 45310,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hangar_concrete_floor.png?width=256&height=256&format=webp&v=3cd128f0"
+  }
+}

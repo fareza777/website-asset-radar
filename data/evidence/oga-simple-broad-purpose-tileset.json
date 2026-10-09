@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-simple-broad-purpose-tileset",
+  "sourceUrl": "https://opengameart.org/content/simple-broad-purpose-tileset",
+  "checkedAt": "2026-10-09T15:27:51.523Z",
+  "httpStatus": 200,
+  "pageSha256": "2e13e75b22180a1f1d980410ea6334c3ce1272ea8d3bb12118f0f034212d4917",
+  "title": "Simple broad-purpose tileset",
+  "authors": [
+    "surt"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Simple broad-purpose tileset by surt. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/simple-broad-purpose-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/simples_pimples.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/simples_pimples.png",
+  "downloadSha256": "dda8d0e40d3be84b333e19e61e0db520643938dda1147bb11e2d9c48db577600",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "simples_pimples.png",
+  "previewSha256": "dda8d0e40d3be84b333e19e61e0db520643938dda1147bb11e2d9c48db577600",
+  "sourceTags": [
+    "Pixel Art",
+    "Arne",
+    "tile",
+    "Sprite",
+    "16x16"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

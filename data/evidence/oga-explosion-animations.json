@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-explosion-animations",
+  "sourceUrl": "https://opengameart.org/content/explosion-animations",
+  "checkedAt": "2026-10-09T15:51:41.334Z",
+  "httpStatus": 200,
+  "pageSha256": "3b6a5c0074a556f69ee08a0a4746d184c4eb94ab7e43e35eb412452f4e4213ba",
+  "title": "explosion animations",
+  "authors": [
+    "Jetrel"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "explosion animations by Jetrel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/explosion-animations Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/explosion3.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/explosion3.png",
+  "downloadSha256": "cb828967d849c932b7ba645cdccf316540790e36ebf278fc689be21501a9facc",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "explosion3.png",
+  "previewSha256": "cb828967d849c932b7ba645cdccf316540790e36ebf278fc689be21501a9facc",
+  "sourceTags": [
+    "explosion",
+    "Sprite",
+    "animation",
+    "fire",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

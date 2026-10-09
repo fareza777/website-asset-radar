@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_paving_02",
+  "checkedAt": "2026-10-09T15:31:18.528Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_paving_02",
+  "apiSha256": "88bd1d91eb387508aade75bdbc8d7100ff6a0d748efcd47ea21f62a84bd3c73a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_paving_02/patterned_paving_02_diff_1k.jpg",
+  "assetFileMd5": "8ce498762ad9156c28d55f6c079583c1",
+  "assetFileSha256": "93af976a6ca3cbacda5999bc67b9db45358c355515563ad8f930fa90829e0735",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Patterned Paving 02",
+    "categories": [
+      "floor",
+      "outdoor"
+    ],
+    "tags": [
+      "paving",
+      "driveway stones",
+      "stone paving",
+      "outdoor",
+      "outdoor flooring",
+      "decorative paving",
+      "pattern",
+      "pavement patterned",
+      "pavers",
+      "multicoloured"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1746057600,
+    "staging": null,
+    "sponsors": [
+      "118714804"
+    ],
+    "files_hash": "c168e83b5dd89b44627fe79ce4a1f70461de94ab",
+    "description": "Free 8K texture - multicoloured square stone paving with worn, rough surfaces, subtle veining and tight grout joints, showing depth and weathered detail.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "d77a65fe",
+    "download_count": 8787,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_paving_02.png?width=256&height=256&format=webp&v=d77a65fe"
+  }
+}

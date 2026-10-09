@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/dirt",
+  "checkedAt": "2026-10-09T15:57:20.773Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/dirt",
+  "apiSha256": "f326c593aa0296692a31724e5228c6550706c9827102f7b6c9e185489dceadbd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dirt/dirt_diff_1k.jpg",
+  "assetFileMd5": "cb37e24797597b1dd1ae3819fa80f076",
+  "assetFileSha256": "6ce6ca7e28ed046f7f93fa60dcb29f8cf42cd5a539adc5676675acccfa34efd3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Dirt",
+    "categories": [
+      "floor",
+      "dirty",
+      "sand"
+    ],
+    "type": 1,
+    "tags": [
+      "dirt",
+      "dirty",
+      "ground",
+      "nature",
+      "earth",
+      "dusty",
+      "rocky",
+      "debris",
+      "footprints"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1721692800,
+    "staging": null,
+    "files_hash": "fe7ab433626bec3f3bdc5a478b06eed2eb12572e",
+    "description": "Free 8K dirt texture showing dusty, compacted earth with small rocks, debris and subtle footprints; rough, low-gloss surface with detailed soil variation.",
+    "category_id": "d9215ca1-f9af-578a-a269-6cd2338bdba6",
+    "category": "Ground & Terrain/Soil & Mud/Bare Dirt & Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "efbb8f04",
+    "download_count": 31385,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirt.png?width=256&height=256&format=webp&v=efbb8f04"
+  }
+}

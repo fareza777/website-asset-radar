@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/precast_stone_paving",
+  "checkedAt": "2026-10-09T16:01:36.337Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/precast_stone_paving",
+  "apiSha256": "712e4383f8f8bb587a4343afcd8c32def7b1c2dd89f2095fe41d170585dfa7e3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/precast_stone_paving/precast_stone_paving_diff_1k.jpg",
+  "assetFileMd5": "8ebba4cc556d5e4f4f1a064377a52326",
+  "assetFileSha256": "83d6110f02fa32fe61fd3f74fe511eb72db63e1aa1699754b9dc9b40071717df",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Precast Stone Paving",
+    "type": 1,
+    "tags": [
+      "worn",
+      "concrete",
+      "patterned concrete",
+      "floor",
+      "outdoor",
+      "outdoor walkway",
+      "outdoor flooring",
+      "precast",
+      "pavers",
+      "paving",
+      "stone paving",
+      "walkway design",
+      "stamped concrete"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2240.000009536743,
+      2240.000009536743
+    ],
+    "date_published": 1716854400,
+    "staging": null,
+    "files_hash": "c144ffb843530ee2813286ca2cd048bb1a3a7c74",
+    "description": "Free 8K texture of worn precast stone paving: patterned concrete pavers with cracked, stained faces and moss-filled joints, rough matte stone surface.",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor"
+    ],
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "cracked",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "69b71de8",
+    "download_count": 8404,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/precast_stone_paving.png?width=256&height=256&format=webp&v=69b71de8"
+  }
+}

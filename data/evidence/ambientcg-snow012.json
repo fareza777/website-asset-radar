@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Snow012",
+  "checkedAt": "2026-10-09T15:11:36.106Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Snow012&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "ea0f89919e5ea13b3ad653ac97bb8a4583c2de07a9a3e145d2a7db3e0be47cfe",
+  "apiMetadata": {
+    "assetId": "Snow012",
+    "dataType": "Material",
+    "displayName": "Snow 012",
+    "displayCategory": "Snow",
+    "shortLink": "https://ambientcg.com/a/Snow012",
+    "tags": [
+      "12",
+      "brown",
+      "dirty",
+      "grey",
+      "molten",
+      "path",
+      "snow"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Snow012.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Snow012.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Snow012.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Snow012.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Snow012.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Snow012.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Snow012.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Snow012.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Snow012.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Snow012.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Snow012.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Snow012.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Snow012.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Snow012.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Snow012.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Snow012.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Snow012.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Snow012.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Snow012.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Snow012.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Snow012.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Snow012.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Snow012.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Snow012.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_1K-JPG.zip",
+                "fileName": "Snow012_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_1K-JPG.zip",
+                "size": 8901067,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_2K-JPG.zip",
+                "fileName": "Snow012_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_2K-JPG.zip",
+                "size": 30535480,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_4K-JPG.zip",
+                "fileName": "Snow012_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_4K-JPG.zip",
+                "size": 111210928,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_8K-JPG.zip",
+                "fileName": "Snow012_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_8K-JPG.zip",
+                "size": 400846895,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_1K-PNG.zip",
+                "fileName": "Snow012_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_1K-PNG.zip",
+                "size": 17977666,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_2K-PNG.zip",
+                "fileName": "Snow012_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_2K-PNG.zip",
+                "size": 66194628,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_4K-PNG.zip",
+                "fileName": "Snow012_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_4K-PNG.zip",
+                "size": 253530862,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Snow012_8K-PNG.zip",
+                "fileName": "Snow012_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Snow012_8K-PNG.zip",
+                "size": 969667208,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2025-01-19 12:00:00",
+    "earlyReleaseDate": "2025-01-12 20:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 11068,
+    "downloadCountMonth": 1368,
+    "downloadCountWeek": 371,
+    "popularityScore": 5.095054963365823,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_Color.jpg?47984&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_Displacement.jpg?6087&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_NormalDX.jpg?83487&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_Roughness.jpg?12906&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_AmbientOcclusion.jpg?47933",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_Color.jpg?94296,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_Displacement.jpg?67191,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_NormalDX.jpg?5874,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_Roughness.jpg?93662,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow012/Snow012_SQ_AmbientOcclusion.jpg?99087&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Snow012.webp",
+  "previewSha256": "1a0cf51f950586ce76f3d5dfd9e022bdf3ade375cec80db5a97140e81994e6e3",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

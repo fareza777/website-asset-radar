@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/moon_footprints_01",
+  "checkedAt": "2026-10-09T15:24:26.014Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/moon_footprints_01",
+  "apiSha256": "930fe29c0f1e41d1b32c8061ac39d256e3ed92a0726dd0b5e0aa55792b465666",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/moon_footprints_01/moon_footprints_01_diff_1k.jpg",
+  "assetFileMd5": "4e23b59fb6e1fd3baef96b31d130923a",
+  "assetFileSha256": "f3694bcf29032cec31259cf9878c6dfd3dae82ea3da11b0faa992325b67f9526",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Moon Footprints 01",
+    "authors": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "Photography",
+      "Jenelle van Heerden": "Photography",
+      "Dario Barresi": "Processing"
+    },
+    "max_resolution": [
+      11664,
+      16384
+    ],
+    "dimensions": [
+      1550.0000715255737,
+      3100.0001430511475
+    ],
+    "staging": null,
+    "tags": [
+      "rough",
+      "dirt",
+      "course",
+      "exterior",
+      "regolith",
+      "dusted",
+      "footprints",
+      "path",
+      "trail",
+      "extraterrestrial",
+      "space",
+      "lunar"
+    ],
+    "date_published": 1750336463,
+    "categories": [
+      "outdoor",
+      "sand",
+      "terrain",
+      "collection: moon"
+    ],
+    "files_hash": "9e3cb3433e24c097bd9d67e3f97975ba19bbd9bf",
+    "description": "Free 16K texture of dusty lunar regolith, rough, coarse sand with crisp footprints and trails for outdoor moon terrain.",
+    "sponsors": [
+      "128081732"
+    ],
+    "info": "Captured at [Spaceport Rostock](https://www.pts.space/products/spacelab-rostock/)'s lab. [More info](https://blog.polyhaven.com/moon).",
+    "category_id": "007adc83-ca1f-5b21-8d48-563fbe825f90",
+    "category": "Ground & Terrain/Regolith/Tracked Regolith",
+    "collections": [
+      "moon"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "worn"
+      ]
+    },
+    "vault": "moon",
+    "img_version": "5f0d3427",
+    "download_count": 1057,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_footprints_01.png?width=256&height=256&format=webp&v=5f0d3427"
+  }
+}

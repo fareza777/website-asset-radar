@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/jersey_melange",
+  "checkedAt": "2026-10-09T15:11:53.267Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/jersey_melange",
+  "apiSha256": "3e9b465eb79a7c0b2ef00d5b1dae6de4e08e7247f8a625c0463725be68c3a4d1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/jersey_melange/jersey_melange_diff_1k.jpg",
+  "assetFileMd5": "1deffa51428e4828478075d2a1b34ac9",
+  "assetFileSha256": "23729f197c28961de6eb92bab5fe335cb6477d6c9b36d1d66f25cbcb83ae359d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Jersey Melange",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8402,
+      7985
+    ],
+    "dimensions": [
+      290.62397202303356,
+      276.19999647140503
+    ],
+    "staging": null,
+    "files_hash": "4be112100fd14897cc82f3832342db6bd8234d1e",
+    "tags": [
+      "blue",
+      "patchey",
+      "melange",
+      "knit",
+      "textile ",
+      "fabric",
+      "heathered",
+      "mottled",
+      "jersey",
+      "soft"
+    ],
+    "description": "Free 8K jersey melange fabric texture - soft, heathered blue knit with a mottled, patchy surface; breathable, stretchy textile ideal for apparel, cushions, and draped cloth.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "stretchy",
+      "knitted"
+    ],
+    "category_id": "419cb9b0-5706-59c9-804b-aa3a6b6069d1",
+    "category": "Textiles & Leather/Knit/Jersey & Stretch Knit",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "0d2b8520",
+    "download_count": 6779,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/jersey_melange.png?width=256&height=256&format=webp&v=0d2b8520"
+  }
+}

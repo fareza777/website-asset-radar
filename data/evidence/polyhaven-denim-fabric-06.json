@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/denim_fabric_06",
+  "checkedAt": "2026-10-09T15:10:12.617Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/denim_fabric_06",
+  "apiSha256": "cdbfb0503ae0adf7ac52d490ed008f22272cf8ebc0ab4748b89568a866a52569",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric_06/denim_fabric_06_diff_1k.jpg",
+  "assetFileMd5": "0441b69c4ebb2bcf1c0c1fb179c2c1cc",
+  "assetFileSha256": "9da7f6672e71a87135d5b4b6bdf4471ee9d250f88ae78ce51f36cd0a6ed5d78d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Denim Fabric 06",
+    "authors": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      254.15802731412134,
+      254.0000081062317
+    ],
+    "staging": null,
+    "files_hash": "391cf3b8d04fbcd5f2e111885c3c333d03ce982b",
+    "tags": [
+      "dark",
+      "worn",
+      "jeans",
+      "denim",
+      "twill",
+      "matte",
+      "durable",
+      "textile ",
+      "weave"
+    ],
+    "description": "Free PBR denim texture: dark, worn twill with a matte, durable weave - realistic jeans surface ideal for clothing, upholstery, and rugged textile props.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "denim"
+    ],
+    "category_id": "14f36823-af15-5f03-824e-e31a2eadaedc",
+    "category": "Textiles & Leather/Denim",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "vault": "fabric",
+    "img_version": "d2c7af73",
+    "download_count": 24739,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/denim_fabric_06.png?width=256&height=256&format=webp&v=d2c7af73"
+  }
+}

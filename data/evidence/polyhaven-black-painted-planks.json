@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/black_painted_planks",
+  "checkedAt": "2026-10-09T15:04:10.652Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/black_painted_planks",
+  "apiSha256": "253fe803bea63a4f574c8ede13b54eb1a5274dd7da9679618dff51e2520c9d68",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/black_painted_planks/black_painted_planks_diff_1k.jpg",
+  "assetFileMd5": "022e0acf62a86c57186685a9aee16a15",
+  "assetFileSha256": "47ce0f57b7ae902f4eb194e70569a0da34523f1df57ba2c4116216f403c301d2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Black Painted Planks",
+    "categories": [
+      "wood"
+    ],
+    "tags": [
+      "painted",
+      "painted wood",
+      "wood",
+      "wooden planks",
+      "weathered",
+      "scratched",
+      "worn",
+      "grain",
+      "wood grain",
+      "distressed wood",
+      "timber",
+      "plank"
+    ],
+    "description": "Free 4k texture. Black painted wooden planks - weathered and worn, with scratches, chipped paint, visible grain, narrow seams and a subtle satin sheen.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1599.9999046325684,
+      1599.9999046325684
+    ],
+    "files_hash": "1347c9d6d6753c345540677e14a92818129c703f",
+    "date_published": 1760572800,
+    "staging": null,
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "76186f54",
+    "download_count": 16774,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/black_painted_planks.png?width=256&height=256&format=webp&v=76186f54"
+  }
+}

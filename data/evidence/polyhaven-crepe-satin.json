@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/crepe_satin",
+  "checkedAt": "2026-10-09T15:08:21.254Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/crepe_satin",
+  "apiSha256": "6d61f168b65d325263ae09af0e2639cf506f45e9edb84d23607f0e46e7783181",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/crepe_satin/crepe_satin_diff_1k.jpg",
+  "assetFileMd5": "671816ccd82b5b619cd64bcb77cc9bfd",
+  "assetFileSha256": "403b5af633cb194117bcd63b3158497507290ee3fd7b7092fb5638d05426bb86",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Crepe Satin",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8007,
+      8150
+    ],
+    "dimensions": [
+      263.19942218838304,
+      267.8999900817871
+    ],
+    "staging": null,
+    "files_hash": "ed195e55fe094dcf7d4e58ebafb8f8e57af9ee19",
+    "tags": [
+      "gold",
+      "shiny",
+      "fine",
+      "luxury",
+      "crepe",
+      "satin finish",
+      "silky",
+      "soft",
+      "smooth",
+      "glossy",
+      "textile ",
+      "silk",
+      "glossy sheen",
+      "fashion",
+      "dressmaking",
+      "garment fabric",
+      "fabric"
+    ],
+    "description": "Free gold crepe-satin PBR fabric: soft, silky crepe texture with satin glossy sheen and fine grain - ideal for garments, fashion renders, and luxury interiors.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "crepe",
+      "satin"
+    ],
+    "category_id": "e290a084-da2f-5606-9a42-b66c9b764d43",
+    "category": "Textiles & Leather/Woven/Satin & Crepe",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "5c12a1f9",
+    "download_count": 37812,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/crepe_satin.png?width=256&height=256&format=webp&v=5c12a1f9"
+  }
+}

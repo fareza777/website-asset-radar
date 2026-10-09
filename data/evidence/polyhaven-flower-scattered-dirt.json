@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/flower_scattered_dirt",
+  "checkedAt": "2026-10-09T15:39:21.639Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/flower_scattered_dirt",
+  "apiSha256": "064c9eec675047f1fb3e274bda1b06499788621dfe6551cde256884ee4ca16a3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flower_scattered_dirt/flower_scattered_dirt_diff_1k.jpg",
+  "assetFileMd5": "ab3ec9ccc82ca305c47eb045eae69813",
+  "assetFileSha256": "b17adb2e3c9c23eee1112c906ca478f759eeaa9ad81fbd668e9c1378f4cd4075",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Flower Scattered Dirt",
+    "categories": [
+      "floor",
+      "outdoor",
+      "natural",
+      "sand"
+    ],
+    "tags": [
+      "dirt",
+      "dirty",
+      "ground",
+      "petals",
+      "sand",
+      "flowers",
+      "jacaranda",
+      "scattered",
+      "earth",
+      "soil",
+      "scattered flowers",
+      "scattered petals"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1738800000,
+    "staging": null,
+    "files_hash": "da33dc96bcb44761f0e014a80b8ff1a66d5cc9e2",
+    "description": "Free 8K texture of brown sandy dirt dotted with scattered purple jacaranda petals, rough granular soil with subtle bumps, fine sand, and a dry matte surface.",
+    "category_id": "d9215ca1-f9af-578a-a269-6cd2338bdba6",
+    "category": "Ground & Terrain/Soil & Mud/Bare Dirt & Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "3ba3ed59",
+    "download_count": 1450,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_scattered_dirt.png?width=256&height=256&format=webp&v=3ba3ed59"
+  }
+}

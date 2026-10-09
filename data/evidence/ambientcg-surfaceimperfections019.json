@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/SurfaceImperfections019",
+  "checkedAt": "2026-10-09T15:47:08.279Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=SurfaceImperfections019&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "f0be3796bf64d9b4f1dca42d1f7436ef7446650327a2c8fa5aa4826a7a592bc1",
+  "apiMetadata": {
+    "assetId": "SurfaceImperfections019",
+    "dataType": "Material",
+    "displayName": "Surface Imperfections 019",
+    "displayCategory": "Surface Imperfections",
+    "shortLink": "https://ambientcg.com/a/SurfaceImperfections019",
+    "tags": [
+      "19",
+      "detail",
+      "dirt",
+      "dirty",
+      "imperfection",
+      "imperfections",
+      "overlay",
+      "sand",
+      "surface"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/SurfaceImperfections019.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/SurfaceImperfections019.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/SurfaceImperfections019.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/SurfaceImperfections019.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/SurfaceImperfections019.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/SurfaceImperfections019.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/SurfaceImperfections019.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/SurfaceImperfections019.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/SurfaceImperfections019.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/SurfaceImperfections019.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/SurfaceImperfections019.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/SurfaceImperfections019.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/SurfaceImperfections019.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/SurfaceImperfections019.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/SurfaceImperfections019.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/SurfaceImperfections019.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/SurfaceImperfections019.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/SurfaceImperfections019.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/SurfaceImperfections019.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/SurfaceImperfections019.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/SurfaceImperfections019.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/SurfaceImperfections019.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/SurfaceImperfections019.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/SurfaceImperfections019.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SurfaceImperfections019_1K-JPG.zip",
+                "fileName": "SurfaceImperfections019_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SurfaceImperfections019_1K-JPG.zip",
+                "size": 6478296,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SurfaceImperfections019_2K-JPG.zip",
+                "fileName": "SurfaceImperfections019_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SurfaceImperfections019_2K-JPG.zip",
+                "size": 23067329,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SurfaceImperfections019_4K-JPG.zip",
+                "fileName": "SurfaceImperfections019_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SurfaceImperfections019_4K-JPG.zip",
+                "size": 92808762,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SurfaceImperfections019_1K-PNG.zip",
+                "fileName": "SurfaceImperfections019_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SurfaceImperfections019_1K-PNG.zip",
+                "size": 15523190,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SurfaceImperfections019_2K-PNG.zip",
+                "fileName": "SurfaceImperfections019_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SurfaceImperfections019_2K-PNG.zip",
+                "size": 58287444,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SurfaceImperfections019_4K-PNG.zip",
+                "fileName": "SurfaceImperfections019_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SurfaceImperfections019_4K-PNG.zip",
+                "size": 229611450,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-12-29 12:00:00",
+    "earlyReleaseDate": "2023-12-19 21:40:00",
+    "creationMethod": "PBRApproximated",
+    "category": null,
+    "downloadCount": 6806,
+    "downloadCountMonth": 846,
+    "downloadCountWeek": 237,
+    "popularityScore": 2.3492598720550535,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 40,
+    "dimensionY": 40,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Color.jpg?26723&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Displacement.jpg?36072&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_NormalDX.jpg?48007&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Roughness.jpg?39332&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Opacity.jpg?87266",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Color.jpg?81990,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Displacement.jpg?65943,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_NormalDX.jpg?99244,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Roughness.jpg?51421,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections019/SurfaceImperfections019_SQ_Opacity.jpg?34214&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/SurfaceImperfections019.webp",
+  "previewSha256": "6129fd628dc122ebd62b0d9fe3938342b7fe4a611f5474c82ab88241d1fec243",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

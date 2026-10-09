@@ -1,0 +1,34 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-explosions-0",
+  "sourceUrl": "https://opengameart.org/content/explosions-0",
+  "checkedAt": "2026-10-09T15:20:10.221Z",
+  "httpStatus": 200,
+  "pageSha256": "4485f597e5787f9a176055079b97030bf8cb652ce39d19265276105cbf1f0eaa",
+  "title": "explosions",
+  "authors": [
+    "chabull"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "explosions by chabull. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/explosions-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/explosions.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/explosions.zip",
+  "downloadSha256": "ff6d18b8038ef2daccaeff0769db1387043b59de3ce26ff2d175e87966eafa58",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 385,
+  "licenseFiles": [],
+  "previewFile": "explosions.png",
+  "previewSha256": "304916f4d4f43c85bcd2c6a5c97858667a66b8a88c2f80e06c02423bf2a3b909",
+  "sourceTags": [
+    "explosion"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

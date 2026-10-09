@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-plums",
+  "sourceUrl": "https://opengameart.org/content/plums",
+  "checkedAt": "2026-10-09T15:49:01.286Z",
+  "httpStatus": 200,
+  "pageSha256": "cd2b2a7cfb963552a429c683ce93298e1c16c4663a5545640a7957a388989363",
+  "title": "Plums",
+  "authors": [
+    "surt"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Plums by surt. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/plums Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/plums.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/plums.png",
+  "downloadSha256": "2ddeb81ce9aa80990f8151a0675e36b8fc077b2cf4d8acfcb84f400c08da4f42",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "plums.png",
+  "previewSha256": "2ddeb81ce9aa80990f8151a0675e36b8fc077b2cf4d8acfcb84f400c08da4f42",
+  "sourceTags": [
+    "pipes",
+    "plumming",
+    "tiles",
+    "block",
+    "Pixel Art",
+    "DawnBringer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

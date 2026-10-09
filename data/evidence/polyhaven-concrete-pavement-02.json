@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_pavement_02",
+  "checkedAt": "2026-10-09T16:06:36.212Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_pavement_02",
+  "apiSha256": "fd8fcb20c35c0df38c08740451ea371503264f783f4f431eda518b0cafbf4cd0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement_02/concrete_pavement_02_diff_1k.jpg",
+  "assetFileMd5": "bdee8d4deebb78609414453a5fb299e2",
+  "assetFileSha256": "e129ee6b59b6ed7f65b4c4c5ba9eb583d13d040ec26bef5d5d4e0080fe342e7a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Pavement 02",
+    "categories": [
+      "outdoor",
+      "road",
+      "cobblestone"
+    ],
+    "type": 1,
+    "tags": [
+      "concrete",
+      "sidewalk",
+      "urban",
+      "city",
+      "pavement",
+      "street",
+      "cityscape",
+      "infrastructure",
+      "walkway",
+      "sidewalk texture",
+      "footpath"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "staging": null,
+    "date_published": 1711670400,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "0530cbdb94063d5899fabae01578b92009e02e5b",
+    "description": "Free 8K concrete pavement material: square sidewalk slabs with fine gritty texture, shallow grout lines, light staining and a matte, slightly worn urban finish.",
+    "category_id": "3d66fbeb-75a0-5a98-97b4-d2630544da3f",
+    "category": "Brick & Block/Concrete Block & Paver",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "20819352",
+    "download_count": 24448,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_pavement_02.png?width=256&height=256&format=webp&v=20819352"
+  }
+}

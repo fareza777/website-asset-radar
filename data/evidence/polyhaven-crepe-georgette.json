@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/crepe_georgette",
+  "checkedAt": "2026-10-09T15:08:03.778Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/crepe_georgette",
+  "apiSha256": "61a4cbd7ace9af3c57d8bfdc0748bfaf28485472dabca75e6d61039a6b54a1fe",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/crepe_georgette/crepe_georgette_diff_1k.jpg",
+  "assetFileMd5": "1f51a03c412ce47592e3c16e6e2a426b",
+  "assetFileSha256": "6fdb3b245a8721aac49c293a47ebe58654618f7440631de5ac5b6cd67ab2db4a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Crepe Georgette",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      7945,
+      8079
+    ],
+    "dimensions": [
+      261.1946943115489,
+      265.5999958515167
+    ],
+    "staging": null,
+    "files_hash": "c9a102c977d0160cdcecddc00feb0bc5a643a147",
+    "tags": [
+      "fluffy",
+      "teal",
+      "fine",
+      "crepe",
+      "flowy",
+      "soft",
+      "gauze-like",
+      "gauzy",
+      "georgette",
+      "sheer"
+    ],
+    "description": "Free PBR crepe georgette: soft, gauzy teal crepe with a fine, fluffy surface and sheer, flowy drape - ideal for garments, scarves, and lightweight curtains.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "crepe"
+    ],
+    "category_id": "e290a084-da2f-5606-9a42-b66c9b764d43",
+    "category": "Textiles & Leather/Woven/Satin & Crepe",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "e547681f",
+    "download_count": 6444,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/crepe_georgette.png?width=256&height=256&format=webp&v=e547681f"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-forest-background",
+  "sourceUrl": "https://opengameart.org/content/forest-background",
+  "checkedAt": "2026-10-09T15:14:38.983Z",
+  "httpStatus": 200,
+  "pageSha256": "23d3f0599e836f0c7b38ec47b216c9be58ae54c16472dd0df2093406a4d1f0fc",
+  "title": "Forest Background",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Forest Background by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/forest-background Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/parallax_forest_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/parallax_forest_pack.zip",
+  "downloadSha256": "18eb6d92cc06c8e2be2fe86d5a3e1a0c1842a7ff5f9c0f8687d7691770bd7589",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 5,
+  "licenseFiles": [
+    "parallax_forest_pack/license.txt"
+  ],
+  "previewFile": "parallax_forest_pack/layers/parallax-forest-back-trees.png",
+  "previewSha256": "2410e9c1741fc172f972dbfef1cf9d3a28f0356e293794353ee52f74e6f05cc2",
+  "sourceTags": [
+    "pixelart",
+    "Pixel Art",
+    "background",
+    "parallax scrolling",
+    "forest"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/ribbed_corduroy",
+  "checkedAt": "2026-10-09T15:13:12.506Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/ribbed_corduroy",
+  "apiSha256": "89c966d80304381a70e6b5a182702dcebd6bc0b2f876e81cda7967b6d6524eb2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ribbed_corduroy/ribbed_corduroy_diff_1k.jpg",
+  "assetFileMd5": "24ae6556664651ba5d3390f35967c217",
+  "assetFileSha256": "4ca8faa90670d9ac921bc0d8a7edebbe6cd807078fa2ba0a5362c962206f70fe",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Ribbed Corduroy",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8105,
+      8114
+    ],
+    "dimensions": [
+      266.40417517521894,
+      266.69999957084656
+    ],
+    "staging": null,
+    "files_hash": "31ad0d0e5381a04f8297ebb77553fe8f6447de7f",
+    "tags": [
+      "green",
+      "striped",
+      "fabric",
+      "textile ",
+      "corduroy",
+      "woven",
+      "corded velveteen",
+      "wales"
+    ],
+    "description": "Free 8K texture of green ribbed corduroy with fine wales, soft velveteen nap and woven stripe detail, ideal for upholstery, clothing and prop materials.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "corduroy"
+    ],
+    "category_id": "3f489e4c-2130-58cc-8f1c-94143560073c",
+    "category": "Textiles & Leather/Pile & Velvet/Corduroy",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "1122e267",
+    "download_count": 22478,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ribbed_corduroy.png?width=256&height=256&format=webp&v=1122e267"
+  }
+}

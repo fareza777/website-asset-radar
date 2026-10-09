@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-mossy-wall-seamless-for-tiling",
+  "sourceUrl": "https://opengameart.org/content/mossy-wall-seamless-for-tiling",
+  "checkedAt": "2026-10-09T15:05:40.385Z",
+  "httpStatus": 200,
+  "pageSha256": "c339b859202b7fc600d7f20b9eb3759de8412deeea744dd56c263f538ae6a84a",
+  "title": "Mossy Wall (Seamless for Tiling)",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please list my name and website in your game under graphics, artwork or whatever is appropriate. Mossy Wall (Seamless for Tiling) by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/mossy-wall-seamless-for-tiling Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/10-5-26.jpg",
+    "https://opengameart.org/sites/default/files/10-5-26a_0.jpg",
+    "https://opengameart.org/sites/default/files/10-5-26b.jpg",
+    "https://opengameart.org/sites/default/files/10_5_26c.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/10-5-26.jpg",
+  "downloadSha256": "5118ae53538bf65556b1a49d355489d127943b95fab71b0ac896a2933b2f2b7a",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "10-5-26.jpg",
+  "previewSha256": "5118ae53538bf65556b1a49d355489d127943b95fab71b0ac896a2933b2f2b7a",
+  "sourceTags": [
+    "wall",
+    "stone",
+    "castle",
+    "pathway",
+    "moss",
+    "old"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

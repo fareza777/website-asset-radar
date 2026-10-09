@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_pavement_03",
+  "checkedAt": "2026-10-09T15:20:42.262Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_pavement_03",
+  "apiSha256": "8c4406e6887ff00a43e206b7cf855ef83aea1ea5c06a7073d76b7721305493ad",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement_03/concrete_pavement_03_diff_1k.jpg",
+  "assetFileMd5": "e2d4ca4fabe39cd510f78bda929bba53",
+  "assetFileSha256": "0c23759579103fc334bb9211c71fd026322b44fceb9cdeba8f2d7e0b17fefc8e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Concrete Pavement 03",
+    "tags": [
+      "rough",
+      "outdoor",
+      "outdoor flooring",
+      "concrete",
+      "tiled",
+      "pavement",
+      "urban",
+      "sidewalk",
+      "rough  ",
+      "checkerboard",
+      "sidewalk texture"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2099.9999046325684,
+      2099.9999046325684
+    ],
+    "date_published": 1751328000,
+    "staging": null,
+    "files_hash": "42f98717ea51090ed7d0a0dcd72e27108fff63e7",
+    "description": "Free 8K concrete pavement texture featuring rough, tiled checkerboard sidewalk panels with subtle color variation, gritty surface and shallow grout lines.",
+    "categories": [
+      "floor",
+      "man made",
+      "concrete",
+      "outdoor",
+      "plaster-concrete"
+    ],
+    "category_id": "3d66fbeb-75a0-5a98-97b4-d2630544da3f",
+    "category": "Brick & Block/Concrete Block & Paver",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "cecca09c",
+    "download_count": 9323,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_pavement_03.png?width=256&height=256&format=webp&v=cecca09c"
+  }
+}

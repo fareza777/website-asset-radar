@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/climbing_wall_base",
+  "checkedAt": "2026-10-09T15:27:15.663Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/climbing_wall_base",
+  "apiSha256": "191cd7063831c01854b265a4c8b5533b2fbd5e82b8ae782cc39df97e7e956f0c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/climbing_wall_base/climbing_wall_base_diff_1k.jpg",
+  "assetFileMd5": "6098b0fa8db763137a39e730b264f96c",
+  "assetFileSha256": "f95cffb8fde2f1dac2c6d107c93cff828f93e856fb3c592ec47fe63dc1a64a8d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Climbing Wall Base",
+    "categories": [
+      "wall",
+      "man made",
+      "indoor"
+    ],
+    "tags": [
+      "bouldering",
+      "rock climbing",
+      "grip",
+      "concrete",
+      "climbing surface",
+      "climbing",
+      "holes",
+      "climbing gym"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1750291200,
+    "staging": null,
+    "files_hash": "aa57b9ea4dafacee5c11b68be582b7fa713f1b92",
+    "description": "Free 8K texture of climbing wall base: rough concrete with grip-friendly grain, scattered bolt holes and subtle wear for indoor gym walls.",
+    "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+    "category": "Concrete/Cast Walls & Floors/Bare Cast",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "e0989939",
+    "download_count": 1885,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/climbing_wall_base.png?width=256&height=256&format=webp&v=e0989939"
+  }
+}

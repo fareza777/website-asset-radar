@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rectangular_paving",
+  "checkedAt": "2026-10-09T15:29:45.059Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rectangular_paving",
+  "apiSha256": "1cbcc47f4ebc40da3c431dd522e934500cdde99f53c8017fadee669327559c40",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rectangular_paving/rectangular_paving_diff_1k.jpg",
+  "assetFileMd5": "bed8a330f7a03e21be9c719a25bb6a89",
+  "assetFileSha256": "23f3da5644a95fbcc1916165c8b03ac74d0836ce4b6f5bf2a28b0266dcdf84c5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rectangular Paving",
+    "categories": [
+      "floor",
+      "outdoor",
+      "man made"
+    ],
+    "tags": [
+      "coarse",
+      "driveway texture",
+      "paving",
+      "driveway stones",
+      "stone paving",
+      "multicoloured",
+      "outdoor flooring",
+      "decorative paving",
+      "outdoor walkway",
+      "exterior flooring"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "staging": null,
+    "date_published": 1747699200,
+    "files_hash": "a144ac237eb760c6de37688d793f6eb83acda849",
+    "description": "Free 8K texture of rectangular stone paving with coarse, worn surfaces, narrow grout lines and multicoloured warm brown-tan tones, subtle dirt and matte finish.",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "ed387a11-4ceb-5ff1-ab45-46a821ddbd0e",
+    "category": "Stone/Slabs & Tiles/Flagstones",
+    "img_version": "1c8fd930",
+    "download_count": 8168,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rectangular_paving.png?width=256&height=256&format=webp&v=1c8fd930"
+  }
+}

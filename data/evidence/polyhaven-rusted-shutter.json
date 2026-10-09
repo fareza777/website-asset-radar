@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rusted_shutter",
+  "checkedAt": "2026-10-09T15:57:50.240Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rusted_shutter",
+  "apiSha256": "5aec5c793a795b4c0e42b94bb149c4124975ff9dcc2ac921c70ff1bf7bd6cb1f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusted_shutter/rusted_shutter_diff_1k.jpg",
+  "assetFileMd5": "17ff95fc323959984f0f3445bc195bf2",
+  "assetFileSha256": "32f33d87bbe514c4c087a739ad4dd1d28433dad8238de0ba655739da6450b29d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rusted Shutter",
+    "categories": [
+      "outdoor",
+      "metal"
+    ],
+    "type": 1,
+    "tags": [
+      "rusted",
+      "weathered",
+      "weatherbeaten",
+      "metal",
+      "corroded",
+      "corroded metal sheet",
+      "peeling paint",
+      "cracking paint",
+      "dilapidated",
+      "grungy",
+      "industrial",
+      "sheet",
+      "steel sheeting",
+      "metal sheet",
+      "rust",
+      "deteriorated"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1720656000,
+    "staging": null,
+    "files_hash": "83ef1fa524cf8f60d1c79fcb0592c25df5d46622",
+    "description": "Free 8K texture of a corroded steel shutter: peeling blue paint, flaky rust crust, pitted, ridged metal sheeting with a gritty, weathered surface.",
+    "category_id": "da0d83ea-5e82-5d71-a933-ae328356e9d8",
+    "category": "Metal/Cladding & Shutters/Shutters & Doors",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "rusted",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7ca379aa",
+    "download_count": 13189,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusted_shutter.png?width=256&height=256&format=webp&v=7ca379aa"
+  }
+}

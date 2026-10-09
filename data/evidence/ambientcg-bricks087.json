@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Bricks087",
+  "checkedAt": "2026-10-09T16:04:30.492Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Bricks087&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "fe961f727eb02402dd254820a7ba5b4a8c59a8267297138b9759d8691c0a5681",
+  "apiMetadata": {
+    "assetId": "Bricks087",
+    "dataType": "Material",
+    "displayName": "Bricks 087",
+    "displayCategory": "Bricks",
+    "shortLink": "https://ambientcg.com/a/Bricks087",
+    "tags": [
+      "87",
+      "beige",
+      "bricks",
+      "brown",
+      "medieval",
+      "stones",
+      "wall"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Bricks087.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Bricks087.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Bricks087.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Bricks087.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Bricks087.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Bricks087.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Bricks087.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Bricks087.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Bricks087.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Bricks087.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Bricks087.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Bricks087.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Bricks087.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Bricks087.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Bricks087.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Bricks087.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Bricks087.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Bricks087.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Bricks087.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Bricks087.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Bricks087.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Bricks087.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Bricks087.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Bricks087.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_1K-JPG.zip",
+                "fileName": "Bricks087_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_1K-JPG.zip",
+                "size": 8234555,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_2K-JPG.zip",
+                "fileName": "Bricks087_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_2K-JPG.zip",
+                "size": 26815679,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_4K-JPG.zip",
+                "fileName": "Bricks087_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_4K-JPG.zip",
+                "size": 97918144,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_8K-JPG.zip",
+                "fileName": "Bricks087_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_8K-JPG.zip",
+                "size": 383375490,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_1K-PNG.zip",
+                "fileName": "Bricks087_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_1K-PNG.zip",
+                "size": 17368658,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_2K-PNG.zip",
+                "fileName": "Bricks087_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_2K-PNG.zip",
+                "size": 63627942,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_4K-PNG.zip",
+                "fileName": "Bricks087_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_4K-PNG.zip",
+                "size": 245681075,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bricks087_8K-PNG.zip",
+                "fileName": "Bricks087_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bricks087_8K-PNG.zip",
+                "size": 962659239,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-10-12 16:00:00",
+    "earlyReleaseDate": "2023-09-19 19:24:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 15533,
+    "downloadCountMonth": 1049,
+    "downloadCountWeek": 306,
+    "popularityScore": 3.7972512318607405,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 130,
+    "dimensionY": 130,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_Color.jpg?11569&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_Displacement.jpg?48245&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_NormalDX.jpg?3832&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_Roughness.jpg?85568&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_AmbientOcclusion.jpg?10533",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_Color.jpg?97003,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_Displacement.jpg?47994,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_NormalDX.jpg?34077,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_Roughness.jpg?17161,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bricks087/Bricks087_SQ_AmbientOcclusion.jpg?65257&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Bricks087.webp",
+  "previewSha256": "41b9788a9b2de40da76e9a648ce0a7b2a08e87930eab90958bf931569469f06e",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

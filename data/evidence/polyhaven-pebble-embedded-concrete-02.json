@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pebble_embedded_concrete_02",
+  "checkedAt": "2026-10-09T15:18:52.122Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pebble_embedded_concrete_02",
+  "apiSha256": "56a53812ee46508fd5c3088d5226f8c77c8389e6a217284c7732efc546319d58",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pebble_embedded_concrete_02/pebble_embedded_concrete_02_diff_1k.jpg",
+  "assetFileMd5": "afacb62e1e8ccf419119a6c1b86092bc",
+  "assetFileSha256": "0056aa0b734e2977a7169a9b4f75c62dd5c833357f4f8b59ec397e977bf01564",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Pebble Embedded Concrete 02",
+    "categories": [
+      "floor",
+      "outdoor",
+      "man made"
+    ],
+    "tags": [
+      "embedded pebble",
+      "concrete",
+      "concrete tiles",
+      "pavers",
+      "rough",
+      "outdoor",
+      "durable",
+      "pavement",
+      "coarse"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2150.0000953674316,
+      2150.0000953674316
+    ],
+    "date_published": 1753315200,
+    "staging": null,
+    "files_hash": "fb049959e1d2186223e230e63e637aefd70c1d1f",
+    "description": "Free 8K texture of pebble-embedded concrete tiles, coarse and rough outdoor pavers with visible grout and a durable pavement surface.",
+    "category_id": "095573e6-25a6-59a5-b88e-6911bbfbc472",
+    "category": "Brick & Block/Concrete Block & Paver/Cast-Stone Block",
+    "attributes": {
+      "surface_use": "paving",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "ba8b9e6e",
+    "download_count": 7194,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebble_embedded_concrete_02.png?width=256&height=256&format=webp&v=ba8b9e6e"
+  }
+}

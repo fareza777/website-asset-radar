@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/volcanic_herringbone_01",
+  "checkedAt": "2026-10-09T15:43:14.819Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/volcanic_herringbone_01",
+  "apiSha256": "0582aa038989499c5650e2216a98ae9d97d819e4df9c000435cb4574480a3842",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/volcanic_herringbone_01/volcanic_herringbone_01_diff_1k.jpg",
+  "assetFileMd5": "71ad234aa00ab33acf53128f7a4e64b1",
+  "assetFileSha256": "1808e385be9a806a9c3629f3ca85bc92963b9aae922338f2eeab934cfaf4dc15",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Volcanic Herringbone 01",
+    "categories": [
+      "outdoor",
+      "man made",
+      "rock"
+    ],
+    "tags": [
+      "weathered",
+      "rough",
+      "wall",
+      "floor",
+      "concrete",
+      "rocks",
+      "exterior",
+      "damaged",
+      "cement",
+      "chipped",
+      "worn",
+      "stone",
+      "old",
+      "coarse",
+      "rustic",
+      "aged",
+      "antique"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1734566400,
+    "staging": null,
+    "files_hash": "c57f62cd1d07f985a3b45e443da9f8a266144d3a",
+    "description": "Free 8K texture: weathered volcanic stone herringbone with rough, chipped concrete grout, coarse porous basalt surfaces and dark brown-black, aged tones.",
+    "sponsors": [
+      "84390067"
+    ],
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "99762fb0-f134-5cd9-93f7-5b876875f7c9",
+    "category": "Stone/Cobblestone & Paving/Rough & Irregular Setts",
+    "img_version": "1e353b7a",
+    "download_count": 4801,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/volcanic_herringbone_01.png?width=256&height=256&format=webp&v=1e353b7a"
+  }
+}

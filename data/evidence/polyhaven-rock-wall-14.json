@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_14",
+  "checkedAt": "2026-10-09T15:28:15.230Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_14",
+  "apiSha256": "a3f55bd620eccd4bc7c901eb851d1a44e50c92b66ef15b08ac2f9e181b923687",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_14/rock_wall_14_diff_1k.jpg",
+  "assetFileMd5": "5c93cbeac748f0e90ea832f3df378fb2",
+  "assetFileSha256": "86be1cb7b01046240877292250b93d83afd5a1f814b414d5302649c3d40f71d5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rock Wall 14",
+    "categories": [
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "rocks",
+      "rock",
+      "concrete",
+      "wall",
+      "embedded rock",
+      "stonework",
+      "coarse"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1749081600,
+    "staging": null,
+    "files_hash": "8f8482b0fa45e863352a55a73db3c034af24b6dd",
+    "description": "Free 8K texture of coarse stonework: irregular dark gray rocks embedded in warm tan mortar with rough, uneven surfaces, visible seams and color variation.",
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "320515d3",
+    "download_count": 4463,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_14.png?width=256&height=256&format=webp&v=320515d3"
+  }
+}

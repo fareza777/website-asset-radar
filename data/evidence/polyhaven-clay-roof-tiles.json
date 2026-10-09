@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/clay_roof_tiles",
+  "checkedAt": "2026-10-09T15:59:30.575Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/clay_roof_tiles",
+  "apiSha256": "cbdf3ea35304b9b426817156341ec06aa88fe7de04b9fcd49bf82789c21bcf5b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clay_roof_tiles/clay_roof_tiles_diff_1k.jpg",
+  "assetFileMd5": "d862ac9932b09b0918b5971ddb77099c",
+  "assetFileSha256": "aac0f4e742a2cce21afb5dfb523b47c720c6a8e2782a312b823608fe3f80eae6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Clay Roof Tiles",
+    "categories": [
+      "roofing"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "rough",
+      "worn",
+      "uneven",
+      "discolored",
+      "clay",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "exterior"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "date_published": 1718841600,
+    "staging": null,
+    "files_hash": "045b0a54a86afd93f6571c76296aa2df436a4328",
+    "description": "Free 8K clay roof tile texture: weathered, rough, uneven reddish-brown tiles with dark staining, chipped edges and strong height/color variation.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4b1a0d7c",
+    "download_count": 16326,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clay_roof_tiles.png?width=256&height=256&format=webp&v=4b1a0d7c"
+  }
+}

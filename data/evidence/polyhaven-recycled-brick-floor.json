@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/recycled_brick_floor",
+  "checkedAt": "2026-10-09T15:51:54.867Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/recycled_brick_floor",
+  "apiSha256": "ee869a71e8b5d629404037fbcef9a0c284ce0eaf2ee9ee71750e5861625173d2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/recycled_brick_floor/recycled_brick_floor_diff_1k.jpg",
+  "assetFileMd5": "103dbf7acf3aae7a0432102f31bc7f07",
+  "assetFileSha256": "da86f2537d7f8fed57fbbacad04ef34e4fa444f6c0446f355e5e4629cd1dc753",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Recycled Brick Floor",
+    "categories": [
+      "floor",
+      "brick"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "worn",
+      "chipped",
+      "damaged",
+      "old",
+      "dirty",
+      "timeworn",
+      "weatherbeaten",
+      "crumbling",
+      "aged",
+      "deteriorated",
+      "brick",
+      "bricks"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1726099200,
+    "staging": null,
+    "files_hash": "9021a9b1972d4a7e3690c116029ef6052a2f5d31",
+    "description": "Free 8K texture: weathered recycled brick floor with chipped, crumbling bricks, eroded mortar, dirt-filled crevices and rough, uneven earthy brown surfaces.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2aa6c27e",
+    "download_count": 6330,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/recycled_brick_floor.png?width=256&height=256&format=webp&v=2aa6c27e"
+  }
+}

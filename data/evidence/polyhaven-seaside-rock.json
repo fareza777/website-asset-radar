@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/seaside_rock",
+  "checkedAt": "2026-10-09T16:03:46.503Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/seaside_rock",
+  "apiSha256": "7b2dff4c2448151e669a633d820b5bda331c6e4f21965e04d523085e24db84b1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/seaside_rock/seaside_rock_diff_1k.jpg",
+  "assetFileMd5": "d719765f07b7e5ec40ef7acb9b718df5",
+  "assetFileSha256": "7e1f1ce252c30d36fe442fcc529183b87cad112d26f6f656705172128efd936e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Seaside Rock",
+    "categories": [
+      "natural",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "seaside",
+      "rock face",
+      "rock",
+      "coastal",
+      "cliff",
+      "shore",
+      "solid rock",
+      "coastal landscape"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1714435200,
+    "staging": null,
+    "files_hash": "082462866f0a2ea55ca59eabd69e7e9a6027be3a",
+    "description": "Free 8K texture of weathered seaside rock, rough, solid cliff face in dark gray-brown with pitted, eroded grain and subtle coastal wet sheen.",
+    "category_id": "6f927474-95dd-5ec5-b756-e9299996aeee",
+    "category": "Stone/Rock & Cliffs/Coastal Rock",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "05230b0b",
+    "download_count": 45430,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/seaside_rock.png?width=256&height=256&format=webp&v=05230b0b"
+  }
+}

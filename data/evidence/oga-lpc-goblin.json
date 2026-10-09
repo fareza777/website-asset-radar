@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-lpc-goblin",
+  "sourceUrl": "https://opengameart.org/content/lpc-goblin",
+  "checkedAt": "2026-10-09T15:47:51.381Z",
+  "httpStatus": 200,
+  "pageSha256": "be260c732e7da1ed0f752f4bff7aa9027a9357725d4daf5c78b08e66fcbf48c0",
+  "title": "[LPC] Goblin",
+  "authors": [
+    "William.Thompsonj"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Attribute Stephen \"Redshrike\" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage. [LPC] Goblin by William.Thompsonj. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/lpc-goblin Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/goblin_0.png",
+    "https://opengameart.org/sites/default/files/sword_4.png",
+    "https://opengameart.org/sites/default/files/goblinsword_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/goblin_0.png",
+  "downloadSha256": "a317f9b9d90434552c848075baa872502064142f0eb863bc05e219d1454cb2df",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "goblin_0.png",
+  "previewSha256": "a317f9b9d90434552c848075baa872502064142f0eb863bc05e219d1454cb2df",
+  "sourceTags": [
+    "LPC",
+    "goblin",
+    "Enemy",
+    "sword",
+    "RPG"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

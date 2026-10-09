@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/gravel_concrete_04",
+  "checkedAt": "2026-10-09T15:16:03.620Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/gravel_concrete_04",
+  "apiSha256": "57dbeae9d6a4c3766d8be0ad8fc98aca45ee1bd19f58b48d69dabc14ee77c33c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_concrete_04/gravel_concrete_04_diff_1k.jpg",
+  "assetFileMd5": "a75d5c2ba366d0237972e27e185ff353",
+  "assetFileSha256": "04e0a3e81efe3b23209c6beec012e600652ff81534d9aa5931996f34bd29cdff",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Gravel Concrete 04",
+    "tags": [
+      "rough",
+      "weathered",
+      "old",
+      "urban",
+      "sidewalk",
+      "gravel",
+      "concrete",
+      "coarse",
+      "rough  ",
+      "pavement",
+      "exterior",
+      "gritty",
+      "rough surface",
+      "granular"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "7207731b077be96e71b4bf548b0bc8b3bbafef15",
+    "date_published": 1756339200,
+    "staging": null,
+    "description": "Free 8K gravel concrete texture: coarse, weathered sidewalk concrete with gritty, granular surface - great for urban floors, pavements and exterior scenes.",
+    "categories": [
+      "floor",
+      "man made",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "6004f558",
+    "download_count": 7303,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_concrete_04.png?width=256&height=256&format=webp&v=6004f558"
+  }
+}

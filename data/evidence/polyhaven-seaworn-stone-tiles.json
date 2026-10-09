@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/seaworn_stone_tiles",
+  "checkedAt": "2026-10-09T16:06:26.075Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/seaworn_stone_tiles",
+  "apiSha256": "607999c127a12d1c863fabdfcaeffc9fe7527c56a2538b48953c56220f1459a6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/seaworn_stone_tiles/seaworn_stone_tiles_diff_1k.jpg",
+  "assetFileMd5": "593be91d2c4971897b4b0d265fff0693",
+  "assetFileSha256": "f116645da784d25c8291b3a8fb51a4cb4c5491683afd84141f11bd96d06cd04a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Seaworn Stone Tiles",
+    "categories": [
+      "sandstone",
+      "brick",
+      "wall",
+      "man made"
+    ],
+    "type": 1,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1712016000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "f97aca0e105e4ab914d05ccd6ce163d929d1c9df",
+    "tags": [
+      "rough",
+      "stonework",
+      "stone blocks",
+      "cast stone blocks",
+      "timeworn",
+      "wall",
+      "exterior",
+      "coarse",
+      "stone",
+      "synthetic stone"
+    ],
+    "description": "Free 8K material: seaworn stone tiles - coarse, timeworn cast-stone blocks with pitted, eroded faces, crisp joints and muted brown-gray tones.",
+    "category_id": "095573e6-25a6-59a5-b88e-6911bbfbc472",
+    "category": "Brick & Block/Concrete Block & Paver/Cast-Stone Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f0e7a34e",
+    "download_count": 30248,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/seaworn_stone_tiles.png?width=256&height=256&format=webp&v=f0e7a34e"
+  }
+}

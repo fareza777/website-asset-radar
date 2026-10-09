@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rectangular_facade_tiles_02",
+  "checkedAt": "2026-10-09T15:15:52.536Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rectangular_facade_tiles_02",
+  "apiSha256": "fd5a912d014a491b545206443962cf3730ecd2eefbd06c43ff4349eaf14c87f3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rectangular_facade_tiles_02/rectangular_facade_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "08259e4a5a4b0d0ce997a2288082c483",
+  "assetFileSha256": "146f98ad9f724faeff81836e585ed109e5efce99325d752ed1961b764c03a27c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rectangular Facade Tiles 02",
+    "categories": [
+      "wall",
+      "tiles"
+    ],
+    "tags": [
+      "tiles",
+      "rectangular",
+      "building facade",
+      "wall",
+      "walling",
+      "urban design",
+      "exterior",
+      "concrete",
+      "aggregate",
+      "rectangular",
+      "grid pattern"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2105.0000190734863,
+      2105.0000190734863
+    ],
+    "date_published": 1756771200,
+    "staging": null,
+    "files_hash": "b2a5754d30a40a5a9fb473c67fb0782f7bfa4d0c",
+    "description": "Free 8K texture of rectangular concrete facade tiles with gritty aggregate, subtle relief and grid pattern, ideal for exterior walls and urban facades",
+    "category_id": "2e5d701e-c1e8-538e-b4c9-04cfc35c747c",
+    "category": "Brick & Block/Concrete Block & Paver/Facade Panels",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "720ea04a",
+    "download_count": 861,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rectangular_facade_tiles_02.png?width=256&height=256&format=webp&v=720ea04a"
+  }
+}

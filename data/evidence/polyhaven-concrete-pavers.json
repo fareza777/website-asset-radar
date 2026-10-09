@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_pavers",
+  "checkedAt": "2026-10-09T16:03:06.351Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_pavers",
+  "apiSha256": "bfb14e4da0acfce428a65a7a2bfc1422855f4ad799a80497d3ff0b9f656c8948",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavers/concrete_pavers_diff_1k.jpg",
+  "assetFileMd5": "377ad5aeb4c4abd79ce32f92dc8ddccd",
+  "assetFileSha256": "eea1fb8b498154754f4961ce0792092ef56cadc3d210becbb0dc3bf6c96c261d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Pavers",
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "interlocking",
+      "pavers",
+      "pavement",
+      "outdoor",
+      "interlocking bricks",
+      "concrete",
+      "stamped concrete",
+      "precast",
+      "pavement patterned",
+      "patterned",
+      "sidewalk texture",
+      "patterned concrete"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "dimensions": [
+      1920.0000762939453,
+      1920.0000762939453
+    ],
+    "date_published": 1715040000,
+    "staging": null,
+    "files_hash": "a40f838a871f7b23be44f38becdabce97eb76b3b",
+    "description": "Free 16K texture of interlocking concrete pavers with worn, slightly rough surface, recessed joints and subtle dirt staining on patterned pavement.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7367fec9",
+    "download_count": 21158,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_pavers.png?width=256&height=256&format=webp&v=7367fec9"
+  }
+}

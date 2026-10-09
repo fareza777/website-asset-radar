@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Ground070",
+  "checkedAt": "2026-10-09T16:06:40.047Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Ground070&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "b1d950b94aaaf61f89cec9f6f640a2702d9045959305cc5d2329d9609d1c4834",
+  "apiMetadata": {
+    "assetId": "Ground070",
+    "dataType": "Material",
+    "displayName": "Ground 070",
+    "displayCategory": "Ground",
+    "shortLink": "https://ambientcg.com/a/Ground070",
+    "tags": [
+      "70",
+      "autumn",
+      "brown",
+      "fall",
+      "forest",
+      "ground",
+      "leaves",
+      "roots"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Ground070.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Ground070.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Ground070.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Ground070.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Ground070.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Ground070.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Ground070.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Ground070.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Ground070.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Ground070.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Ground070.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Ground070.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Ground070.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Ground070.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Ground070.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Ground070.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Ground070.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Ground070.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Ground070.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Ground070.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Ground070.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ground070.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Ground070.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Ground070.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_1K-JPG.zip",
+                "fileName": "Ground070_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_1K-JPG.zip",
+                "size": 9869016,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_2K-JPG.zip",
+                "fileName": "Ground070_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_2K-JPG.zip",
+                "size": 36118684,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_4K-JPG.zip",
+                "fileName": "Ground070_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_4K-JPG.zip",
+                "size": 137513502,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_8K-JPG.zip",
+                "fileName": "Ground070_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_8K-JPG.zip",
+                "size": 537278065,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_1K-PNG.zip",
+                "fileName": "Ground070_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_1K-PNG.zip",
+                "size": 18816196,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_2K-PNG.zip",
+                "fileName": "Ground070_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_2K-PNG.zip",
+                "size": 71245981,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_4K-PNG.zip",
+                "fileName": "Ground070_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_4K-PNG.zip",
+                "size": 277484311,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground070_8K-PNG.zip",
+                "fileName": "Ground070_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground070_8K-PNG.zip",
+                "size": 1092947175,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-09-11 14:00:00",
+    "earlyReleaseDate": "2023-09-01 00:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 16240,
+    "downloadCountMonth": 1247,
+    "downloadCountWeek": 403,
+    "popularityScore": 3.819885640217862,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 260,
+    "dimensionY": 260,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_Color.jpg?80515&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_Displacement.jpg?11054&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_NormalDX.jpg?16775&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_Roughness.jpg?38655&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_AmbientOcclusion.jpg?96314",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_Color.jpg?31367,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_Displacement.jpg?79253,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_NormalDX.jpg?61626,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_Roughness.jpg?93503,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground070/Ground070_SQ_AmbientOcclusion.jpg?36475&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ground070.webp",
+  "previewSha256": "bc98185b75a34c00f99a49cc1b00f2df37d0330da3cdc8e5a94fad8a5ee7ea77",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

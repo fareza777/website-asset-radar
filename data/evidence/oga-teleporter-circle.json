@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-teleporter-circle",
+  "sourceUrl": "https://opengameart.org/content/teleporter-circle",
+  "checkedAt": "2026-10-09T15:39:40.876Z",
+  "httpStatus": 200,
+  "pageSha256": "aed220a40cc96416ecb6ac735a15a1d86584459a36274a40f9c80e9b4a837fa3",
+  "title": "Teleporter Circle",
+  "authors": [
+    "Clint Bellanger"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Teleporter Circle by Clint Bellanger. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/teleporter-circle Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/teleporter.zip",
+    "https://opengameart.org/sites/default/files/teleport_128.png",
+    "https://opengameart.org/sites/default/files/teleport_256.png",
+    "https://opengameart.org/sites/default/files/teleport_512.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/teleporter.zip",
+  "downloadSha256": "f4d60be4384223527d908b8a96156671fcea4740f4bb5b05d890dbed66d5bca5",
+  "formats": [
+    "BLEND",
+    "PNG"
+  ],
+  "inspectedFiles": 7,
+  "licenseFiles": [],
+  "previewFile": "diff.png",
+  "previewSha256": "5e16b5392a334e4e852ceecf2be7fa4f02d4c292467bd90931e817a2c68f9078",
+  "sourceTags": [
+    "Fantasy",
+    "Isometric",
+    "teleport",
+    "Portal"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

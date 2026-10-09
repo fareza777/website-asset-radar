@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-lpc-wolf-animation",
+  "sourceUrl": "https://opengameart.org/content/lpc-wolf-animation",
+  "checkedAt": "2026-10-09T15:19:38.932Z",
+  "httpStatus": 200,
+  "pageSha256": "27f4d77c64c3f2fb4aaf18f0a52e27097f267bef9f289cd5da20c86a2ea81ac4",
+  "title": "[LPC] Wolf Animation",
+  "authors": [
+    "William.Thompsonj"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Attribute Stephen \"Redshrike\" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link back to this page or the OGA homepage. [LPC] Wolf Animation by William.Thompsonj. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/lpc-wolf-animation Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/howl_0.png",
+    "https://opengameart.org/sites/default/files/wolfsheet1_0.png",
+    "https://opengameart.org/sites/default/files/wolfsheet2_0.png",
+    "https://opengameart.org/sites/default/files/wolfsheet3_0.png",
+    "https://opengameart.org/sites/default/files/wolfsheet4_0.png",
+    "https://opengameart.org/sites/default/files/wolfsheet5_0.png",
+    "https://opengameart.org/sites/default/files/wolfsheet6_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/howl_0.png",
+  "downloadSha256": "3ecc063c63c929ede1b71f7ec3fb5e3c6b49a2aa08fa776585f5589a418faa30",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "howl_0.png",
+  "previewSha256": "3ecc063c63c929ede1b71f7ec3fb5e3c6b49a2aa08fa776585f5589a418faa30",
+  "sourceTags": [
+    "LPC",
+    "Enemy",
+    "animation",
+    "wolf"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

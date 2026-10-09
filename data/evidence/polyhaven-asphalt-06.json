@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_06",
+  "checkedAt": "2026-10-09T15:44:24.538Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_06",
+  "apiSha256": "3c6dbf81d028ffef623e34f1d02c6fbcc4cf9ac636bdaefe2689a739ff68b504",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_06/asphalt_06_diff_1k.jpg",
+  "assetFileMd5": "3d92683ec4481c35a43b4034f8363bc3",
+  "assetFileSha256": "eb513e6d769aa1b43850826b6eb75a4f361b80ce7694153beacc0ea1a0399c26",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Asphalt 06",
+    "categories": [
+      "asphalt",
+      "outdoor",
+      "floor",
+      "road"
+    ],
+    "tags": [
+      "rough",
+      "dirty",
+      "scuffed",
+      "driveway texture",
+      "sidewalk",
+      "hard surface",
+      "handmade",
+      "raw"
+    ],
+    "authors": {
+      "Jan Martens": "All"
+    },
+    "donated": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "staging": null,
+    "date_published": 1733184000,
+    "files_hash": "5d444c0a7c2b024e98b802df57170a5ee51e631d",
+    "description": "Free 8K texture of rough, dirty, scuffed asphalt with a coarse, handmade hard-surface look, muted brown-gray tones and subtle wear and grit.",
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1f29b46a",
+    "download_count": 37728,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_06.png?width=256&height=256&format=webp&v=1f29b46a"
+  }
+}

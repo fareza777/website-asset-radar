@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-country-side-platform-tiles",
+  "sourceUrl": "https://opengameart.org/content/country-side-platform-tiles",
+  "checkedAt": "2026-10-09T15:26:31.586Z",
+  "httpStatus": 200,
+  "pageSha256": "e923d03b873aff6d97ca8a2b3acdc1f6568398363d99ada2f7c217419396df7f",
+  "title": "Country Side Platform Tiles",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Country Side Platform Tiles by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/country-side-platform-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/country-platform-files.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/country-platform-files.zip",
+  "downloadSha256": "757b5d5a3516e8625353416ff99b16a67d8f073c311bb6951a72f932f47fa635",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 6,
+  "licenseFiles": [
+    "country-platform-files/license.txt"
+  ],
+  "previewFile": "country-platform-files/layers/country-platform-tileset.png",
+  "previewSha256": "7402d43de2ff42d7555d29fb773e296ff8f4f0379c6330cee02b8b4150b53650",
+  "sourceTags": [
+    "pixelart",
+    "background",
+    "tileset",
+    "country",
+    "tree",
+    "mountains"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

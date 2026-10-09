@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/scuba_suede",
+  "checkedAt": "2026-10-09T15:13:53.540Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/scuba_suede",
+  "apiSha256": "f0ab44cab79b94ff209d2aa2b9ba705578bb468f973e5fcc443d7a45399737e2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/scuba_suede/scuba_suede_diff_1k.jpg",
+  "assetFileMd5": "afacab8f1c8dcc0d5f3c026b0c2e01f1",
+  "assetFileSha256": "ec8af4e3cfa5a1ec30fd9fb116e1821bca1e847d7458ebd9a1ad49254a817c3f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Scuba Suede",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8484,
+      8296
+    ],
+    "dimensions": [
+      285.2202902890041,
+      278.89999747276306
+    ],
+    "staging": null,
+    "files_hash": "c66f1b428f65f5ba0e6097c9ae96fbf8e5cbd03d",
+    "tags": [
+      "blue",
+      "turquoise",
+      "waterproof",
+      "scuba",
+      "suede",
+      "neoprene"
+    ],
+    "description": "Free 8K texture: scuba-inspired turquoise suede with waterproof neoprene feel, soft microsuede nap and low sheen, versatile for apparel, gear and interiors.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "suede"
+    ],
+    "category_id": "304a42fc-c919-5e2a-9d89-7f2bc70fd754",
+    "category": "Textiles & Leather/Technical/Neoprene & Scuba",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "45bf42db",
+    "download_count": 7533,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scuba_suede.png?width=256&height=256&format=webp&v=45bf42db"
+  }
+}

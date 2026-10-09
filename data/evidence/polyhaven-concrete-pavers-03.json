@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_pavers_03",
+  "checkedAt": "2026-10-09T15:43:34.333Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_pavers_03",
+  "apiSha256": "fe12358823fe20b4b67a7c0e28d9e849efaebb89bad3b6870e84a5d51bdc125d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavers_03/concrete_pavers_03_diff_1k.jpg",
+  "assetFileMd5": "879240b77e51d01b30bd62e3ea641a26",
+  "assetFileSha256": "0e52f80ccadad053b8196b85dac0144516b60c836b54e1e9f9d7ca6c6835b4b8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Concrete Pavers 03",
+    "tags": [
+      "weathered",
+      "rough",
+      "old",
+      "concrete",
+      "exterior",
+      "cement",
+      "coarse",
+      "outdoor",
+      "outdoor flooring",
+      "weatherbeaten",
+      "paving",
+      "walkway",
+      "sidewalk",
+      "dirty",
+      "mossy ",
+      "pavement patterned",
+      "outdoor walkway",
+      "parking",
+      "driveway texture"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1734393600,
+    "staging": null,
+    "files_hash": "8871e8a85501731c6c199a3f17c23ab78e234a6d",
+    "description": "Free 8K texture: weathered, coarse concrete pavers with interlocking pattern, worn bevels, surface pitting, dirt streaks and moss in the joints.",
+    "categories": [
+      "concrete",
+      "outdoor",
+      "floor",
+      "plaster-concrete"
+    ],
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "8a3ca08a",
+    "download_count": 2041,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_pavers_03.png?width=256&height=256&format=webp&v=8a3ca08a"
+  }
+}

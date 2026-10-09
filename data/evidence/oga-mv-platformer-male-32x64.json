@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-mv-platformer-male-32x64",
+  "sourceUrl": "https://opengameart.org/content/mv-platformer-male-32x64",
+  "checkedAt": "2026-10-09T15:40:09.441Z",
+  "httpStatus": 200,
+  "pageSha256": "c144e5d28a054804290a91911cd47d37810dd4e280bd6f8e96f6f1c260e4b9cb",
+  "title": "MV Platformer Male (32x64)",
+  "authors": [
+    "MoikMellah"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "MV Platformer Male (32x64) by MoikMellah. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/mv-platformer-male-32x64 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/maleBase_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/maleBase_0.zip",
+  "downloadSha256": "d97257856c82f3af1f65eac8ce77b9db26a4fc425f01eba6b5633c990c9f77f6",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 19,
+  "licenseFiles": [],
+  "previewFile": "maleBase/frameGuide.png",
+  "previewSha256": "e96bcf531fd132abd86cc509c3e086a4feaff63a737b91f1b5e3f02d88aca584",
+  "sourceTags": [
+    "Sprite",
+    "Platformer",
+    "32x64",
+    "adventurer",
+    "ninja",
+    "hero",
+    "Enemy",
+    "NPC",
+    "armor"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

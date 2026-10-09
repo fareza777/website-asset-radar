@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/moon_dusted_05",
+  "checkedAt": "2026-10-09T15:23:55.857Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/moon_dusted_05",
+  "apiSha256": "6faea42e8711174895dfc2ead4862ba9bc1b0ee7b834a04930c3a1f591679bb4",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/moon_dusted_05/moon_dusted_05_diff_1k.jpg",
+  "assetFileMd5": "38a3ee1150dd66f0147a47ea033a695c",
+  "assetFileSha256": "379c8ccbebbd45d32e3c348b5091132b206f7d9cce07c8d848812bfbdeb47b98",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Moon Dusted 05",
+    "authors": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "Photography",
+      "Jenelle van Heerden": "Photography",
+      "Dario Barresi": "Processing"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "dimensions": [
+      500,
+      500
+    ],
+    "staging": null,
+    "tags": [
+      "rough",
+      "dirt",
+      "coarse",
+      "exterior",
+      "regolith",
+      "dusted",
+      "extraterrestrial",
+      "lunar",
+      "space"
+    ],
+    "date_published": 1750336463,
+    "categories": [
+      "outdoor",
+      "sand",
+      "terrain",
+      "collection: moon"
+    ],
+    "files_hash": "82c863ab4a3c5e4f4d49c35416b7585db2e65f66",
+    "description": "Free 16K texture: Moon Dusted 05 - coarse, dusty lunar regolith material with rough, cratered, matte surface for extraterrestrial terrain.",
+    "info": "Captured at [Spaceport Rostock](https://www.pts.space/products/spacelab-rostock/)'s lab. [More info](https://blog.polyhaven.com/moon).",
+    "category_id": "05388ef3-0704-5e51-962a-f707b8150b24",
+    "category": "Ground & Terrain/Regolith/Lunar Surface",
+    "collections": [
+      "moon"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "moon",
+    "img_version": "ff00c387",
+    "download_count": 2309,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_dusted_05.png?width=256&height=256&format=webp&v=ff00c387"
+  }
+}

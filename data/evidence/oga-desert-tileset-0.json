@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-desert-tileset-0",
+  "sourceUrl": "https://opengameart.org/content/desert-tileset-0",
+  "checkedAt": "2026-10-09T15:29:31.504Z",
+  "httpStatus": 200,
+  "pageSha256": "b226f7c185b7ae0332e2498781381950d31e27124ac7f3c8fbb13e8f2c513356",
+  "title": "Desert Tileset",
+  "authors": [
+    "Beast"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org) Desert Tileset by Beast. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/desert-tileset-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/desert_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/desert_1.png",
+  "downloadSha256": "ea021334ec45ab8b3ef11e0036dc7c1d606995cebf377de6482b112f8637532d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "desert_1.png",
+  "previewSha256": "ea021334ec45ab8b3ef11e0036dc7c1d606995cebf377de6482b112f8637532d",
+  "sourceTags": [
+    "16x16",
+    "tileset",
+    "desert",
+    "cactus",
+    "cacti",
+    "cliffs",
+    "sand"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

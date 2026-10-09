@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brick_wall_08",
+  "checkedAt": "2026-10-09T16:07:46.215Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brick_wall_08",
+  "apiSha256": "db6e16164abac3c2e5d51a9526bf0ca58c8059bf518617ad54993bff29ca7ca6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_08/brick_wall_08_diff_1k.jpg",
+  "assetFileMd5": "8cf5c09c4b0730a948be6a81b881727a",
+  "assetFileSha256": "e20bb6a284e612c4b3fd67e501fb1578705de3559872434e98be832c42671b85",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Brick Wall 08",
+    "categories": [
+      "brick",
+      "wall",
+      "outdoor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "mortar",
+      "raw",
+      "grey",
+      "coarse"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "dimensions": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "date_published": 1710979200,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "332e63a9762f740a0deb546bd885b8396e9886da",
+    "description": "Free 16K texture of a rough grey brick wall with coarse, raw mortar joints, uneven chipped bricks and gritty surface detail.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "5ceac5d8",
+    "download_count": 22963,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_08.png?width=256&height=256&format=webp&v=5ceac5d8"
+  }
+}

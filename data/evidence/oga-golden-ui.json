@@ -1,0 +1,52 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-golden-ui",
+  "sourceUrl": "https://opengameart.org/content/golden-ui",
+  "checkedAt": "2026-10-09T15:10:28.689Z",
+  "httpStatus": 200,
+  "pageSha256": "06b817f0541f6c14fa4b0183e51f2e18d59831bfc1c6b7ffb50d8dce8caf96d8",
+  "title": "Golden UI",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back to my OGA profile page Golden UI by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/golden-ui Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/ui_split.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/ui_split.png",
+  "downloadSha256": "1b5422a4d66121f6727be855055fa23f0b21fe620bc52da0a117d480f8c7dd75",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "ui_split.png",
+  "previewSha256": "1b5422a4d66121f6727be855055fa23f0b21fe620bc52da0a117d480f8c7dd75",
+  "sourceTags": [
+    "ui",
+    "gui",
+    "interface panel",
+    "frame",
+    "inventory",
+    "player",
+    "items",
+    "hud",
+    "fillbar",
+    "button",
+    "scrollbar",
+    "slider",
+    "box",
+    "pointer",
+    "menu",
+    "main menu",
+    "banner",
+    "Message",
+    "message box"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

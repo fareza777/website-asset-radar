@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-platform-pixel-art-assets",
+  "sourceUrl": "https://opengameart.org/content/platform-pixel-art-assets",
+  "checkedAt": "2026-10-09T15:36:06.817Z",
+  "httpStatus": 200,
+  "pageSha256": "6d4b3bfb1fbb4bb936c8a2ffb665d1c596ee31186083416ef0cea60c34c62461",
+  "title": "Platform Pixel Art Assets",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Platform Pixel Art Assets by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/platform-pixel-art-assets Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/grotto_escape_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/grotto_escape_pack.zip",
+  "downloadSha256": "26b8f44f106eb95c48b521cdc1c71e9d0605262f09ceadf2f8ca3820fda58b00",
+  "formats": [
+    "PNG",
+    "WAV"
+  ],
+  "inspectedFiles": 9,
+  "licenseFiles": [
+    "grotto_escape_pack/license.txt"
+  ],
+  "previewFile": "grotto_escape_pack/graphics/tiles.png",
+  "previewSha256": "ef68736cbb669f9946936ab84a2325c02a9000fc0b2776450a57ad829349d03f",
+  "sourceTags": [
+    "Pixel Art",
+    "platform",
+    "Action"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

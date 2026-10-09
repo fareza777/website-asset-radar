@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/faux_fur_geometric",
+  "checkedAt": "2026-10-09T15:10:32.050Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/faux_fur_geometric",
+  "apiSha256": "f915f222d16592d1b01019665477ff979d934ec08e095c6516ce18718e38f43a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/faux_fur_geometric/faux_fur_geometric_diff_1k.jpg",
+  "assetFileMd5": "533967ecc64c8730bb32fd4abaf0ccc2",
+  "assetFileSha256": "1487de0bbaa323734913e2c9212882f3a67229662a704be02feab36acbc2cd04",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Faux Fur Geometric",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      9186,
+      9062
+    ],
+    "dimensions": [
+      301.9999563694,
+      301.9766083948956
+    ],
+    "staging": null,
+    "files_hash": "af81173163b5623e138cfb51cde90a57958ef946",
+    "tags": [
+      "pink",
+      "luxury",
+      "fluffy",
+      "textile ",
+      "fabric",
+      "blanket",
+      "geometric",
+      "diamond",
+      "plush",
+      "fuzzy",
+      "faux fur",
+      "fur",
+      "fleece",
+      "napped"
+    ],
+    "sponsors": [
+      "84390067"
+    ],
+    "description": "Free plush faux-fur PBR fabric with a napped, fluffy pink surface and geometric diamond pattern - luxurious, soft material for blankets, upholstery, and props.",
+    "date_published": 1757078158,
+    "categories": [
+      "fabric",
+      "fur"
+    ],
+    "category_id": "ee65e76a-3474-5ce1-a36c-9638b95b326b",
+    "category": "Textiles & Leather/Pile & Velvet/Faux Fur",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "vault": "fabric",
+    "img_version": "03a77297",
+    "download_count": 6132,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/faux_fur_geometric.png?width=256&height=256&format=webp&v=03a77297"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-square-block-textures",
+  "sourceUrl": "https://opengameart.org/content/square-block-textures",
+  "checkedAt": "2026-10-09T15:47:01.299Z",
+  "httpStatus": 200,
+  "pageSha256": "af29b73210be40752ce49cc0cc8f77611980b951810127e73d463b63ffde5f4f",
+  "title": "Square Block Textures",
+  "authors": [
+    "etqws3"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Square Block Textures by etqws3. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/square-block-textures Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/2015-02-17%20%5BBlocks%5D%20%2820%20Textures%29%289x2%20Color%20Schemes%29.png",
+    "https://opengameart.org/sites/default/files/2015-02-17%20%28Mockup%20Practice%29%282%29%28undetailed%29.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/2015-02-17%20%5BBlocks%5D%20%2820%20Textures%29%289x2%20Color%20Schemes%29.png",
+  "downloadSha256": "388f55d293474b0537b7aeabd9ab98399e8871495cd94c1c8094ef5928bf15a4",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "2015-02-17 [Blocks] (20 Textures)(9x2 Color Schemes).png",
+  "previewSha256": "388f55d293474b0537b7aeabd9ab98399e8871495cd94c1c8094ef5928bf15a4",
+  "sourceTags": [
+    "Platformer",
+    "block",
+    "16x16",
+    "8x8",
+    "spritesheet"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

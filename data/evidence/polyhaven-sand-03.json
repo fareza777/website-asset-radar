@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sand_03",
+  "checkedAt": "2026-10-09T16:02:46.079Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sand_03",
+  "apiSha256": "2534049758df2b997ef5df15ce7f157615f86a2b1ef8652bec9d0f2a3459c231",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_03/sand_03_diff_1k.jpg",
+  "assetFileMd5": "84bde2b8bea6351805f67a15682b36b2",
+  "assetFileSha256": "e72144f9d7b81bdb7bbdb34222b53431738dcef79346dd89412d2abd541e4d30",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Sand 03",
+    "categories": [
+      "floor",
+      "sand"
+    ],
+    "type": 1,
+    "tags": [
+      "sand",
+      "sandy",
+      "beach",
+      "seaside",
+      "gritty",
+      "shore",
+      "costal",
+      "sandy beach",
+      "coastline",
+      "granular",
+      "coast"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1715644800,
+    "staging": null,
+    "sponsors": [
+      "26820710"
+    ],
+    "files_hash": "3c41202150d351ba3800440cfe57512bd4919681",
+    "description": "Free 8K sand texture with compacted, gritty grains, subtle ripple creases and worn, muted brown tones - coarse, sandy shore surface detail.",
+    "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+    "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "d4ebaa30",
+    "download_count": 31001,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sand_03.png?width=256&height=256&format=webp&v=d4ebaa30"
+  }
+}

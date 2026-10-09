@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/chinese_hackberry_bark",
+  "checkedAt": "2026-10-09T15:19:42.209Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/chinese_hackberry_bark",
+  "apiSha256": "1bf34bbac01a698732283bf2d8d7d49345646e5904650d122b722236368c0e17",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/chinese_hackberry_bark/chinese_hackberry_bark_diff_1k.jpg",
+  "assetFileMd5": "3751924f9dae48280cfa3dc93daac5d5",
+  "assetFileSha256": "dea0ece8e153a614331f51291eefdee71b8f5948395eecb40ffcd9aa67016913",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Chinese Hackberry Bark",
+    "categories": [
+      "natural",
+      "bark"
+    ],
+    "tags": [
+      "bark",
+      "chinese",
+      "chinese hackberry",
+      "tree trunk",
+      "forestry",
+      "trunk",
+      "tree bark texture",
+      "tree texture",
+      "natural",
+      "tree bark",
+      "organic",
+      "tree"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      16384
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1752537600,
+    "staging": null,
+    "files_hash": "1d340bc4069e4f040602e5350c4135e5631bf266",
+    "description": "Free 16K bark texture of Chinese hackberry - smooth, thin, papery trunk with peeled strips, brown-green tones and lichen patches for realistic natural surfaces.",
+    "category_id": "a965cbdc-272f-5c31-8e9d-fe415bf467fd",
+    "category": "Wood/Bark/Smooth & Peeling Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "e03e59aa",
+    "download_count": 1191,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chinese_hackberry_bark.png?width=256&height=256&format=webp&v=e03e59aa"
+  }
+}

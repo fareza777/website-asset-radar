@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/trident_maple_bark",
+  "checkedAt": "2026-10-09T15:41:12.534Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/trident_maple_bark",
+  "apiSha256": "d5edddd80db2ab40b6f169367063e8293a97d873e72d43abe8b80bdc310e8956",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/trident_maple_bark/trident_maple_bark_diff_1k.jpg",
+  "assetFileMd5": "d532bcf4e1f15d0c5e8c1f6acfdc4502",
+  "assetFileSha256": "d696c36e6a949c27bd069f36f76ff35be8317775818de09c056da6c97f72fcd7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Trident Maple Bark",
+    "categories": [
+      "natural",
+      "bark"
+    ],
+    "tags": [
+      "tree",
+      "tree bark",
+      "bark",
+      "tree bark texture",
+      "tree trunk",
+      "nature",
+      "botanical",
+      "outdoor",
+      "trident maple",
+      "forest",
+      "organic",
+      "landscape"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1736812800,
+    "staging": null,
+    "sponsors": [
+      "121968951"
+    ],
+    "files_hash": "e885f95a32e4d06caca62315d1058d0cff136fdd",
+    "description": "Free 8K Trident maple bark texture with deep vertical ridges, flaky plates, warm brown tones and a rough fibrous surface with slight sheen.",
+    "category_id": "8d2e6acd-922e-5774-89f1-3988e37758c3",
+    "category": "Wood/Bark/Furrowed Bark",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "fef98482",
+    "download_count": 3988,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/trident_maple_bark.png?width=256&height=256&format=webp&v=fef98482"
+  }
+}
