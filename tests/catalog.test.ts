@@ -6,6 +6,9 @@ import { filterAssets, canonicalUrl, parseLibrary } from "../lib/catalog-utils";
 import { validateCatalog, validateEvidenceDate } from "../lib/catalog-schema";
 
 const assets = catalog as Asset[];
+// Date-boundary fixtures are frozen independently of real daily catalog rechecks.
+// These synthetic dates are never written to the public catalog.
+const validationFixture = { ...assets[0], addedAt: "2026-10-08", verifiedAt: "2026-10-08", lastChecked: "2026-10-08T11:00:00Z" };
 
 test("search finds file formats, engine names and licenses", () => {
   for (const query of ["GLB", "PNG", "OGG", "CC0", "Godot", "Unity"])
@@ -71,23 +74,23 @@ test("latest means catalog addition and sorting leaves the original catalog unto
 
 test("duplicate identities fail even with www, trailing slashes or tracking parameters", () => {
   const duplicate = {
-    ...assets[0],
+    ...validationFixture,
     id: "different-id",
-    sourceUrl: `${assets[0].sourceUrl}/?utm_source=test#preview`,
+    sourceUrl: `${validationFixture.sourceUrl}/?utm_source=test#preview`,
   };
   assert.throws(
-    () => validateCatalog([assets[0], duplicate], "2026-10-08"),
+    () => validateCatalog([validationFixture, duplicate], "2026-10-08"),
     /Duplicate source/,
   );
   assert.throws(
-    () => validateCatalog([assets[0], assets[0]], "2026-10-08"),
+    () => validateCatalog([validationFixture, validationFixture], "2026-10-08"),
     /Duplicate asset/,
   );
   assert.equal(
     canonicalUrl(
       "https://www.kenney.nl/assets/tiny-town/?utm_campaign=test&ref=demo#images",
     ),
-    assets[0].sourceUrl,
+    "https://kenney.nl/assets/tiny-town",
   );
 });
 
@@ -100,14 +103,20 @@ test("uncertain licenses, mismatched source hosts, future dates and wrong previe
     { verifiedAt: "2026-02-30" },
     {
       previewProvenance: {
-        ...assets[0].previewProvenance,
+        ...validationFixture.previewProvenance,
         license: "CC-BY-4.0",
       },
     },
   ])
     assert.throws(() =>
-      validateCatalog([{ ...assets[0], ...patch }], "2026-10-08"),
+      validateCatalog([{ ...validationFixture, ...patch }], "2026-10-08"),
     );
+});
+
+test("daily rechecks advance truthful dates without breaking duplicate validation", () => {
+  const rechecked = { ...validationFixture, verifiedAt: "2026-10-10", lastChecked: "2026-10-10T01:00:00Z" };
+  assert.doesNotThrow(() => validateCatalog([rechecked], "2026-10-10"));
+  assert.throws(() => validateCatalog([rechecked, { ...rechecked, id: "duplicate-after-recheck" }], "2026-10-10"), /Duplicate source/);
 });
 
 test("displayed verification date follows real evidence timestamps in Jakarta", () => {
