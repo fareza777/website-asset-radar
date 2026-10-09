@@ -34,14 +34,14 @@ export async function generateMetadata({
     description: descriptions[name],
     alternates: { canonical: `/category/${category}/` },
     openGraph: {
-      title: `Free ${name} game assets | AssetRadar`,
+      title: `Free ${name} game assets | Game Asset Radar`,
       description: descriptions[name],
       url: `/category/${category}/`,
       images: ["/og.jpg"],
     },
     twitter: {
       card: "summary_large_image",
-      title: `Free ${name} game assets | AssetRadar`,
+      title: `Free ${name} game assets | Game Asset Radar`,
       description: descriptions[name],
       images: ["/og.jpg"],
     },

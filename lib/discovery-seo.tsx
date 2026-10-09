@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { DirectoryAsset } from "./types";
-import { jsonLd, siteUrl } from "./site";
+import { jsonLd, siteName, siteUrl } from "./site";
 
 export function directoryMetadata(
   title: string,
@@ -12,7 +12,7 @@ export function directoryMetadata(
     description,
     alternates: { canonical: path },
     openGraph: {
-      title: `${title} | AssetRadar`,
+      title: `${title} | ${siteName}`,
       description,
       url: path,
       type: "website",
@@ -21,13 +21,13 @@ export function directoryMetadata(
           url: "/og.jpg",
           width: 1200,
           height: 630,
-          alt: "AssetRadar curated game asset directory",
+          alt: `${siteName} curated game asset directory`,
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | AssetRadar`,
+      title: `${title} | ${siteName}`,
       description,
       images: ["/og.jpg"],
     },
@@ -100,7 +100,7 @@ export function AssetBreadcrumb({
             {
               "@type": "ListItem",
               position: 1,
-              name: "AssetRadar",
+              name: siteName,
               item: `${siteUrl}/`,
             },
             {

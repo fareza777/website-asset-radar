@@ -1,5 +1,10 @@
 /* A focused marketplace layer on the existing charcoal / mint identity. */
 :root { --filter-width: 230px; }
+.brand { gap: 10px; }
+.brand-mark { flex-shrink: 0; }
+.brand-wordmark { display: flex; flex-direction: column; gap: 2px; }
+.brand-game { font-size: 14px; line-height: 1; letter-spacing: 1.1px; font-weight: 500; color: #a6b9ae; }
+.brand-title { font-size: 21px; line-height: 1.2; letter-spacing: -.8px; }
 .main-content { max-width: 1540px; padding-inline: clamp(22px, 3.2vw, 56px); }
 .section-kicker { display: block; font: 13px var(--font-mono), monospace; color: #a6b9ae; letter-spacing: 1.2px; margin-bottom: 9px; }
 .homepage-opening { position: relative; padding-bottom: 25px; border-bottom: 1px solid var(--line); }
@@ -80,14 +85,18 @@
 .publisher-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 13px; }
 .publisher-tile { display: flex; flex-direction: column; padding: 19px; border: 1px solid #2b3830; border-radius: 8px; background: radial-gradient(ellipse at 5% 0, #b5f0cf08, transparent 70%), #171c19; transition: border-color 200ms, transform 200ms; min-width: 0; }
 .publisher-tile:hover { border-color: #587460; transform: translateY(-3px); }
-.publisher-tile-top { display: flex; align-items: center; gap: 10px; margin-bottom: 22px; }
+.publisher-tile-top { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
 .publisher-tile-top > svg { margin-left: auto; color: #889d8e; transition: transform 200ms; flex-shrink: 0; }
 .publisher-tile:hover .publisher-tile-top > svg { transform: translate(2px,-2px); }
-.publisher-monogram { display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; background: #24382c; border: 1px solid #3d5747; border-radius: 5px; font: 19px var(--font-mono), monospace; letter-spacing: -1px; color: var(--mint); }
-.publisher-synty .publisher-monogram { transform: skew(-5deg); }
-.publisher-polyperfect .publisher-monogram { border-radius: 10px 2px 10px 2px; }
-.publisher-quaternius .publisher-monogram { border-radius: 50%; }
-.publisher-kaykit .publisher-monogram { font-weight: 650; border-radius: 4px 10px 4px 10px; }
+.publisher-emblem { position: relative; display: inline-flex; align-items: center; justify-content: center; width: 66px; height: 66px; flex-shrink: 0; isolation: isolate; overflow: hidden; border: 1px solid #435848; border-radius: 13px; background: radial-gradient(ellipse at 22% 12%, #4b665135, transparent 70%), #1e2a22; box-shadow: inset 0 1px #d5ead510, 0 4px 10px #09150d35; transition: transform 350ms cubic-bezier(.2,.7,.3,1), border-color 250ms; }
+.publisher-emblem::after { content: ""; position: absolute; inset: 0; pointer-events: none; border-radius: inherit; background: linear-gradient(125deg, #edf4d010, transparent 42%); opacity: .5; transition: opacity 300ms; }
+.publisher-emblem > svg { display: block; width: 100%; height: 100%; padding: 3px; }
+.publisher-emblem-art { transform-origin: 40px 58px; filter: drop-shadow(0 2px 1px #0b191b40); transition: transform 350ms cubic-bezier(.2,.7,.3,1); }
+.publisher-emblem-ground { opacity: .8; transition: opacity 300ms; }
+.publisher-tile:is(:hover, :focus-visible) .publisher-emblem { border-color: #75977c; transform: perspective(400px) rotateX(5deg) rotateY(-7deg); }
+.publisher-tile:is(:hover, :focus-visible) .publisher-emblem-art { transform: translateY(-2px); }
+.publisher-tile:is(:hover, :focus-visible) .publisher-emblem-ground { opacity: 1; }
+.publisher-tile:is(:hover, :focus-visible) .publisher-emblem::after { opacity: 1; }
 .publisher-coordinate { color: #809687; font: 11px var(--font-mono), monospace; white-space: nowrap; }
 .publisher-tile > strong { font-size: 17px; font-weight: 550; letter-spacing: -.35px; overflow-wrap: anywhere; }
 .publisher-specialty { font-size: 14px; color: #9eafa3; margin-top: 5px; }
@@ -95,7 +104,7 @@
 .full-publisher-directory { margin-top: 0; }
 .full-publisher-directory .publisher-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .publisher-profile-header { display: flex; align-items: flex-start; gap: 25px; padding-block: 24px 35px; }
-.profile-monogram { width: 100px; height: 100px; flex-shrink: 0; font-size: 38px; margin-top: 6px; }
+.profile-emblem { width: 112px; height: 112px; border-radius: 20px; margin-top: 6px; }
 .publisher-profile-header h1 { font-size: clamp(37px, 4.5vw, 58px); line-height: 1.1; letter-spacing: -2px; }
 .publisher-profile-header p { font-size: 18px; color: #b1beb5; max-width: 60ch; line-height: 1.7; margin-block: 17px 23px; }
 .publisher-license-note { display: flex; gap: 15px; padding: 23px; border: 1px solid #33463a; border-radius: 9px; background: #1b2720; margin-bottom: 35px; }
@@ -259,11 +268,11 @@
   .publisher-coordinate { display: none; }
   .publisher-tile > strong { font-size: 16px; }
   .publisher-specialty { font-size: 13px; }
-  .publisher-monogram { width: 38px; height: 38px; font-size: 17px; }
+  .publisher-emblem { width: 62px; height: 62px; }
   .featured-publishers .discovery-heading { display: block; }
   .featured-publishers .discovery-heading > .text-link { margin-top: 13px; }
   .publisher-profile-header { gap: 16px; flex-direction: column; }
-  .profile-monogram { width: 62px; height: 62px; font-size: 26px; }
+  .profile-emblem { width: 86px; height: 86px; }
   .publisher-profile-header h1 { font-size: 41px; }
   .publisher-profile-header p { font-size: 17px; }
   .publisher-license-note { padding: 19px 16px; gap: 11px; }
@@ -292,4 +301,11 @@
   .compatibility-row { grid-template-columns: 1fr; gap: 12px; }
   .compatibility-engine { flex-direction: row; align-items: center; }
 }
-@media (prefers-reduced-motion: reduce) { .publisher-tile:hover { transform: none; } }
+html[data-motion-enabled="false"] .publisher-tile,
+html[data-motion-enabled="false"] .publisher-emblem,
+html[data-motion-enabled="false"] .publisher-emblem-art,
+html[data-motion-enabled="false"] .publisher-emblem-ground,
+html[data-motion-enabled="false"] .publisher-emblem::after { transform: none !important; transition: none !important; }
+@media (prefers-reduced-motion: reduce) {
+  .publisher-tile, .publisher-emblem, .publisher-emblem-art, .publisher-emblem-ground, .publisher-emblem::after { transform: none !important; transition: none !important; }
+}

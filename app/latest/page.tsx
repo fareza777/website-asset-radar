@@ -6,7 +6,7 @@ import { Clock } from "@phosphor-icons/react/dist/ssr";
 export const metadata: Metadata = {
   title: "Latest free game assets",
   description:
-    "Explore the latest additions to AssetRadar's verified free game asset catalog, sorted by the date they were added to the library.",
+    "Explore the latest additions to Game Asset Radar's verified free game asset catalog, sorted by the date they were added to the library.",
   alternates: { canonical: "/latest/" },
 };
 export default function Latest() {

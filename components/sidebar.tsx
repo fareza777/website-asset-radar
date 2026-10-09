@@ -281,7 +281,7 @@ export function Sidebar({
             <strong>Your next find awaits.</strong>
             <p>{collectionCount} curated collections.</p>
             <span className="maker-note-link">
-              Meet AssetRadar <ArrowUpRightIcon size={15} />
+              Meet Game Asset Radar <ArrowUpRightIcon size={15} />
             </span>
           </Link>
         </div>

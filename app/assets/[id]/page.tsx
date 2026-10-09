@@ -39,7 +39,7 @@ export async function generateMetadata({
     description: `${asset.summary} ${asset.license} license verified on ${formatDate(asset.verifiedAt)}.`,
     alternates: { canonical: `/asset/${id}/` },
     openGraph: {
-      title: `${asset.title} | AssetRadar`,
+      title: `${asset.title} | Game Asset Radar`,
       description: asset.summary,
       url: `/asset/${id}/`,
       images: [
@@ -48,7 +48,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: `${asset.title} | AssetRadar`,
+      title: `${asset.title} | Game Asset Radar`,
       description: asset.summary,
       images: [asset.preview],
     },

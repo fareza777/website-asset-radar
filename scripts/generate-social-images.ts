@@ -1,5 +1,5 @@
 import sharp from "sharp";
-import { siteUrl } from "../lib/site";
+import { siteName, siteUrl } from "../lib/site";
 
 const hostname = new URL(siteUrl).hostname;
 const panel = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
@@ -9,7 +9,7 @@ const panel = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"
     <circle cx="80" cy="85" r="17"/><circle cx="80" cy="85" r="10"/>
     <path d="M80 85 92 73"/>
   </g>
-  <text x="125" y="96" fill="#eff2f0" font-family="Arial" font-size="28" font-weight="600">AssetRadar<tspan fill="#b5f0cf">.</tspan></text>
+  <text x="125" y="96" fill="#eff2f0" font-family="Arial" font-size="28" font-weight="600">${siteName}<tspan fill="#b5f0cf">.</tspan></text>
   <text x="57" y="239" fill="#eff2f0" font-family="Arial" font-size="62" font-weight="600" letter-spacing="-3">Your next world</text>
   <text x="57" y="312" fill="#b5f0cf" font-family="Arial" font-size="62" font-weight="600" letter-spacing="-3">starts here.</text>
   <text x="60" y="369" fill="#a7b2ad" font-family="Arial" font-size="21">Free game assets. Verified licenses.</text>

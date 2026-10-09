@@ -5,7 +5,7 @@ import { Footer } from "@/components/footer";
 import { LibraryProvider } from "@/components/library-provider";
 import { MotionProvider } from "@/components/motion-provider";
 import { assets, collections, directoryAssets } from "@/lib/catalog";
-import { siteDescription, siteUrl } from "@/lib/site";
+import { siteDescription, siteName, siteUrl } from "@/lib/site";
 import "./globals.css";
 import "./discovery.css";
 import "./polish.css";
@@ -17,30 +17,30 @@ const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "AssetRadar | Free game assets. Your next world starts here.",
-    template: "%s | AssetRadar",
+    default: `${siteName} | Free game assets. Your next world starts here.`,
+    template: `%s | ${siteName}`,
   },
   description: siteDescription,
-  applicationName: "AssetRadar",
+  applicationName: siteName,
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",
-    siteName: "AssetRadar",
+    siteName,
     locale: "en_US",
-    title: "AssetRadar. Your next world starts here.",
+    title: `${siteName}. Your next world starts here.`,
     description: siteDescription,
     images: [
       {
         url: "/og.jpg",
         width: 1200,
         height: 630,
-        alt: "AssetRadar, a curated library of free game assets",
+        alt: `${siteName}, a curated library of free game assets`,
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "AssetRadar. Your next world starts here.",
+    title: `${siteName}. Your next world starts here.`,
     description: siteDescription,
     images: ["/og.jpg"],
   },

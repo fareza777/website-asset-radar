@@ -1,12 +1,13 @@
 import Link from "next/link";
 import { Target as RadarIcon } from "@phosphor-icons/react/dist/ssr";
+import { siteName } from "@/lib/site";
 
 export function Footer() {
   return (
     <footer className="footer">
       <div>
         <span className="footer-brand">
-          <RadarIcon size={17} /> AssetRadar
+          <RadarIcon size={17} /> {siteName}
         </span>
         <span className="footer-tagline">
           Find your pieces. Build your world.

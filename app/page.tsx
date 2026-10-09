@@ -11,7 +11,7 @@ import { FeaturedPublishers } from "@/components/featured-publishers";
 import { assets, offers } from "@/lib/catalog";
 import { filterAssets } from "@/lib/catalog-utils";
 import { defaultFilters } from "@/lib/types";
-import { siteUrl, jsonLd } from "@/lib/site";
+import { siteName, siteUrl, jsonLd } from "@/lib/site";
 
 export default function Home() {
   const featuredIds = [
@@ -33,7 +33,7 @@ export default function Home() {
           __html: jsonLd({
             "@context": "https://schema.org",
             "@type": "WebSite",
-            name: "AssetRadar",
+            name: siteName,
             url: siteUrl,
             description:
               "A curated directory of free game assets, limited-time free packs and verified worthwhile discounts.",

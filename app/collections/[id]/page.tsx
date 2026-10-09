@@ -24,14 +24,14 @@ export async function generateMetadata({
         description: collection.description,
         alternates: { canonical: `/collections/${id}/` },
         openGraph: {
-          title: `${collection.name} | AssetRadar`,
+          title: `${collection.name} | Game Asset Radar`,
           description: collection.description,
           url: `/collections/${id}/`,
           images: [getAsset(collection.cover)?.preview ?? "/og.jpg"],
         },
         twitter: {
           card: "summary_large_image",
-          title: `${collection.name} | AssetRadar`,
+          title: `${collection.name} | Game Asset Radar`,
           description: collection.description,
           images: [getAsset(collection.cover)?.preview ?? "/og.jpg"],
         },

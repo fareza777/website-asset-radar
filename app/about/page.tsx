@@ -13,7 +13,7 @@ import { ECB_RATES_URL } from "@/lib/exchange-rates";
 export const metadata: Metadata = {
   title: "A creative head start for game makers",
   description:
-    "AssetRadar is a free, independent library of verified game development assets. No accounts, no subscriptions, just a better starting point for your next game.",
+    "Game Asset Radar is a free, independent library of verified game development assets. No accounts, no subscriptions, just a better starting point for your next game.",
   alternates: { canonical: "/about/" },
 };
 export default function About() {
@@ -34,7 +34,7 @@ export default function About() {
         <h2>Every game starts somewhere.</h2>
         <p>
           Sometimes it starts with a sketch. Sometimes a game jam. Sometimes one
-          lovely set of tiles that gets your imagination moving. AssetRadar
+          lovely set of tiles that gets your imagination moving. Game Asset Radar
           makes those starting points easier to find.
         </p>
         <p>

@@ -10,7 +10,7 @@ import {
 export const metadata: Metadata = {
   title: "Game asset licenses & verified sources",
   description:
-    "Learn how AssetRadar verifies free game asset licenses, what CC0 means, and which original sources are permitted for catalog discovery.",
+    "Learn how Game Asset Radar verifies free game asset licenses, what CC0 means, and which original sources are permitted for catalog discovery.",
   alternates: { canonical: "/licenses/" },
 };
 export default function Licenses() {
@@ -109,7 +109,7 @@ export default function Licenses() {
       <section className="document-section">
         <h2>Creators come first.</h2>
         <p>
-          AssetRadar links you to the original source for downloads. Preview
+          Game Asset Radar links you to the original source for downloads. Preview
           provenance is stored in the catalog. We do not copy paid packs,
           restricted artwork, creator logos, or website example renders without
           permission. Free-asset previews come from licensed files. Promotion
