@@ -173,6 +173,7 @@
     "color": "mint",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
+      "kenney-pixel-ui-pack",
       "kenney-ui-pack-adventure",
       "kenney-mobile-controls",
       "kenney-cursor-pixel-pack",
@@ -183,17 +184,18 @@
       "kenney-board-game-icons"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T07:39:17.000Z"
   },
   {
     "id": "an-underground-world",
     "name": "An underground world",
-    "description": "Modular dungeon and cave models, stone textures, and RPG sounds. Assemble materials, lighting, and scene layouts in your engine.",
+    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, and RPG sounds. Art direction differs by pack; assemble materials and layouts in your engine.",
     "color": "blue",
     "assetIds": [
       "kenney-modular-dungeon-kit",
       "kenney-modular-cave-kit",
       "kenney-mini-dungeon",
+      "kenney-isometric-miniature-dungeon",
       "kenney-retro-fantasy-kit",
       "kenney-castle-kit",
       "kenney-rpg-audio",
@@ -202,12 +204,12 @@
       "kenney-retro-textures-fantasy"
     ],
     "cover": "kenney-modular-dungeon-kit",
-    "updatedAt": "2026-10-09T06:53:45.914Z"
+    "updatedAt": "2026-10-09T07:39:17.000Z"
   },
   {
     "id": "the-outside-world",
     "name": "The outside world",
-    "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, and wood textures from Poly Haven and ambientCG. Assemble materials in your engine.",
+    "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, wood, and leaf-litter textures from Poly Haven and ambientCG. Assemble materials in your engine.",
     "color": "mint",
     "assetIds": [
       "kenney-nature-kit",
@@ -219,10 +221,11 @@
       "polyhaven-grass-ground",
       "ambientcg-ground112",
       "ambientcg-grass005",
-      "ambientcg-rock064"
+      "ambientcg-rock064",
+      "polyhaven-leaf-scattered-gravel"
     ],
     "cover": "kenney-mini-forest",
-    "updatedAt": "2026-10-09T06:53:45.914Z"
+    "updatedAt": "2026-10-09T07:39:17.000Z"
   },
   {
     "id": "material-essentials",
