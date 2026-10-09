@@ -5,6 +5,7 @@ import { validateOffers, validateOfferEvidence } from "../lib/offers";
 import type { ArchivedOffer } from "../lib/types";
 import { validateExchangeRates } from "../lib/exchange-rates";
 import { validatePublishers, validateEngineFormats, validatePublisherMonitor } from "../lib/discovery-schema";
+import { validateOpenGameArtEvidence } from "./opengameart-utils";
 
 async function main() {
   const publishers = validatePublishers(JSON.parse(await readFile("data/publishers.json", "utf8")));
@@ -33,6 +34,7 @@ async function main() {
     const evidence = JSON.parse(
       await readFile(`data/evidence/${asset.id}.json`, "utf8"),
     );
+    if (asset.source === "OpenGameArt") validateOpenGameArtEvidence(asset, evidence);
     validateEvidenceDate(asset.verifiedAt, evidence);
     if (asset.lastChecked !== (evidence.lastLinkCheckAt ?? evidence.checkedAt))
       throw new Error(`Last checked does not match evidence: ${asset.id}`);

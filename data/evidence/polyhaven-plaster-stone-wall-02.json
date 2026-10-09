@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plaster_stone_wall_02",
+  "checkedAt": "2026-10-09T09:57:09.768Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plaster_stone_wall_02",
+  "apiSha256": "9c3383e38c1732393cf994a37186f00548143babf49b748226bef4cfaa4e4d6b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plaster_stone_wall_02/plaster_stone_wall_02_diff_1k.jpg",
+  "assetFileMd5": "8f3228aff32d87d2d6b2f0ea93959cd8",
+  "assetFileSha256": "e6d6ae8c9a536e0222c90f0b8027a085b3f96442d1f6bcbb31a8d50eb24fd09e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Plaster Stone Wall 02",
+    "categories": [
+      "plaster-concrete",
+      "plaster",
+      "concrete"
+    ],
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "stone embedded",
+      "embedded rock",
+      "concrete",
+      "plaster",
+      "cement",
+      "mortar",
+      "coarse",
+      "timeworn"
+    ],
+    "description": "Free 8k texture of coarse, weathered plaster and concrete with uneven, timeworn surface, exposed embedded stones and rough mortar.",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2119.999885559082,
+      2119.999885559082
+    ],
+    "files_hash": "3a1a45369ae2339eb073f6768f81e42998a61212",
+    "date_published": 1776729600,
+    "staging": null,
+    "category_id": "129d72a6-fe3d-5c05-9b24-cc75e89823bf",
+    "category": "Concrete/Plaster & Stucco/Plaster Over Brick & Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "9da235fd",
+    "download_count": 9203,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plaster_stone_wall_02.png?width=256&height=256&format=webp&v=9da235fd"
+  }
+}

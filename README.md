@@ -34,7 +34,7 @@ The exported site is in `out/`; the local static preview listens on port 3001. V
 - Canonical URLs, metadata, social previews, structured data, sitemap, and robots rules.
 - Original audio samples load only when played; licensed free previews are local optimized WebP files. Promotions prefer real publisher-hosted screenshots with creator credit and a fallback; audio without useful art keeps an original animated cover. Publisher marketing art and premium packs are not rehosted.
 
-The growing library contains individually verified CC0 packs from Kenney, texture materials from Poly Haven and material assets from ambientCG, alongside verified promotions. Run `npm run catalog:validate` for current counts. [Provenance and licensing](docs/catalog-provenance.md) explains the evidence and preview permissions. Metadata is in `data/assets.json`; per-product evidence is in `data/evidence/`. Publisher-listed counts are preserved where available. “Latest” means added to Game Asset Radar, not original release date. Genre placement is editorial; engine filters describe documented formats and may require manual setup.
+The growing library contains individually verified assets from OpenGameArt, Kenney, Poly Haven and ambientCG, alongside verified promotions. OpenGameArt supports CC0 and attributed CC-BY-3.0/4.0 submissions; other free importers retain their CC0 checks. Run `npm run catalog:validate` for current counts. [Provenance and licensing](docs/catalog-provenance.md) explains the evidence and preview permissions. Metadata is in `data/assets.json`; per-product evidence is in `data/evidence/`. Publisher-listed counts are preserved where available. “Latest” means added to Game Asset Radar, not original release date. Genre placement is editorial; engine filters describe documented formats and may require manual setup.
 
 ## Catalog maintenance
 
@@ -90,4 +90,4 @@ No production secrets are required. The daily maintenance agent needs GitHub acc
 
 ## Credits
 
-Assets belong to their original creators. Download the complete packs from the linked publishers. The imported Kenney, Poly Haven and ambientCG asset content is CC0; their logos and unrelated website content are not used as AssetRadar branding. Original application code is MIT licensed; asset permissions are documented separately.
+Assets belong to their original creators. Download the complete packs from the linked publishers. Imported Kenney, Poly Haven and ambientCG content is CC0. OpenGameArt entries retain their exact CC0 or CC BY license and creator credit; licensed preview modifications are identified on each detail page. Creator logos and unrelated website content are not used as AssetRadar branding. Original application code is MIT licensed; asset permissions are documented separately.

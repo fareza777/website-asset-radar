@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/old_mosaic_floor",
+  "checkedAt": "2026-10-09T10:02:19.546Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/old_mosaic_floor",
+  "apiSha256": "36066d2ce96bd0065866fde156864cd0049332bfa09d7f096a287fedafa5edf9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/old_mosaic_floor/old_mosaic_floor_diff_1k.jpg",
+  "assetFileMd5": "fdcab50d665ef915080a28305638d225",
+  "assetFileSha256": "2e8b4425070938018e8cec0193fcb9565f27ab2fff51e7ec33202afeb9fdb9b2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Old Mosaic Floor",
+    "categories": [
+      "floor",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "tags": [
+      "road",
+      "weathered",
+      "terrazzo",
+      "mosaic",
+      "tiles",
+      "gritty",
+      "rough surface",
+      "stone chips",
+      "irregular pattern",
+      "embedded-stones",
+      "stone embedded"
+    ],
+    "description": "Free 8k texture of a weathered mosaic terrazzo floor: rough, gritty concrete surface with irregular embedded stone chips and worn tile joints.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000.000238418579,
+      2000.000238418579
+    ],
+    "files_hash": "34851e3c81364f7b15fa972b13cebfbb689efe23",
+    "date_published": 1771891200,
+    "staging": null,
+    "category_id": "739e00c7-415e-556d-b673-6f62d5ce4bdd",
+    "category": "Ceramic/Terrazzo & Mosaic/Terrazzo",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "71f8bea1",
+    "download_count": 1468,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_mosaic_floor.png?width=256&height=256&format=webp&v=71f8bea1"
+  }
+}

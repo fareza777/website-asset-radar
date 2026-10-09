@@ -91,6 +91,7 @@ export default async function AssetPage({
             url: `${siteUrl}/asset/${id}/`,
             image: `${siteUrl}${asset.preview}`,
             license: asset.licenseUrl,
+            ...(asset.attribution ? { creditText: asset.attribution } : {}),
             isAccessibleForFree: true,
             sameAs: asset.sourceUrl,
             dateModified: asset.verifiedAt,
@@ -192,7 +193,7 @@ export default async function AssetPage({
               </div>
             )}
             <div>
-              <dt>Formats in archive</dt>
+              <dt>Verified content formats</dt>
               <dd>{asset.formats.join(" · ")}</dd>
             </div>
             <div>
@@ -252,6 +253,13 @@ export default async function AssetPage({
                 : "Attribution required"}
             </span>
           </div>
+          {asset.attribution && (
+            <div className="evidence-block attribution-block">
+              <strong>Creator credit & preview attribution</strong>
+              <p>{asset.attribution}</p>
+              <p>{asset.previewProvenance.note}</p>
+            </div>
+          )}
           <RadarScoreBreakdown asset={asset} />
           <div className="evidence-block">
             <strong>Verification evidence</strong>

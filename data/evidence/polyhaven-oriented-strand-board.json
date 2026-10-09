@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/oriented_strand_board",
+  "checkedAt": "2026-10-09T09:59:23.339Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/oriented_strand_board",
+  "apiSha256": "5db046c6e239e2e5d09c5af09a9a37d72dc5243b2b8dd60db08a236f9dc6836c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oriented_strand_board/oriented_strand_board_diff_1k.jpg",
+  "assetFileMd5": "86976bb53daadfc21378430951dc573d",
+  "assetFileSha256": "f2564c203e5ad37dfa240b43e9e954f9638592159fc52ac37fcefb78b8cea682",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Oriented Strand Board",
+    "categories": [
+      "wood"
+    ],
+    "tags": [
+      "compressed",
+      "coated finish",
+      "coated wood",
+      "coated",
+      "osb",
+      "industrial",
+      "waferboard",
+      "oriented strand board",
+      "wood chips",
+      "pressed wood panel",
+      "plywood",
+      "lacquered"
+    ],
+    "description": "Free 8k texture of oriented strand board - lacquered, slightly glossy coated wood with compressed wood-chip pattern and pressed waferboard surface",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2509.999990463257,
+      2509.999990463257
+    ],
+    "date_published": 1773705600,
+    "staging": null,
+    "files_hash": "f3a785a554208c95d0fb2e4e5ca831aa8cf51422",
+    "category_id": "8bcecb94-e6c6-55d1-a932-fc5b76c9259c",
+    "category": "Wood/Engineered Wood/OSB & Particleboard",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "9c3fe477",
+    "download_count": 12625,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/oriented_strand_board.png?width=256&height=256&format=webp&v=9c3fe477"
+  }
+}

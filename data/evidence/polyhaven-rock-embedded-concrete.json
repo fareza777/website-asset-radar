@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_embedded_concrete",
+  "checkedAt": "2026-10-09T10:05:40.996Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_embedded_concrete",
+  "apiSha256": "d718e144a3b18e80da3f3ad9eb31d233e8c8b44dcef8f10d0ca0026e91af08d0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_embedded_concrete/rock_embedded_concrete_diff_1k.jpg",
+  "assetFileMd5": "2aca0debac45df3a9b8edeea08833ae7",
+  "assetFileSha256": "98fbc0088fc1d37f9acf323bcba2d7c888bccded29f91a08ed358ea10a016e58",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rock Embedded Concrete",
+    "tags": [
+      "rocks",
+      "embedded rock",
+      "pebbles",
+      "stone embedded",
+      "embedded pebble",
+      "coarse",
+      "concrete",
+      "rounded pebbles",
+      "rounded rocks",
+      "pebbled surface",
+      "pebble finish ",
+      "bumpy"
+    ],
+    "description": "Free 8k texture of coarse exposed-aggregate concrete with rounded multi-colored pebbles, rough recessed mortar and subtle stone specular.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "518cdc7b9573dfef97ed4e5b7376a675cc4fdac0",
+    "staging": null,
+    "date_published": 1770076800,
+    "categories": [
+      "floor",
+      "man made",
+      "cobblestone"
+    ],
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "9c941339",
+    "download_count": 6297,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_embedded_concrete.png?width=256&height=256&format=webp&v=9c941339"
+  }
+}

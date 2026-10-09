@@ -1,0 +1,44 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-a-platformer-in-the-forest",
+  "sourceUrl": "https://opengameart.org/content/a-platformer-in-the-forest",
+  "checkedAt": "2026-10-09T10:13:35.817Z",
+  "httpStatus": 200,
+  "pageSha256": "77b4adab7a72a83569c93157a4d4d1ae4aaf283f831e0dd96c824bbaa76cfca9",
+  "title": "A platformer in the forest",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com A platformer in the forest by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/a-platformer-in-the-forest Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/swoosh_0.png",
+    "https://opengameart.org/sites/default/files/sheet_9.png",
+    "https://opengameart.org/sites/default/files/characters_7.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/sheet_9.png",
+  "downloadSha256": "48c44e51fad0ff1787d4d30448176633c84adcff42b06100e87e0d9541a624eb",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "sheet_9.png",
+  "previewSha256": "48c44e51fad0ff1787d4d30448176633c84adcff42b06100e87e0d9541a624eb",
+  "sourceTags": [
+    "Platformer",
+    "forest",
+    "16x16",
+    "king",
+    "elf",
+    "snake",
+    "ladder",
+    "crate",
+    "grass"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

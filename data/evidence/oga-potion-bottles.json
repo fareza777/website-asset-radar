@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-potion-bottles",
+  "sourceUrl": "https://opengameart.org/content/potion-bottles",
+  "checkedAt": "2026-10-09T09:47:10.083Z",
+  "httpStatus": 200,
+  "pageSha256": "40bb3c99378a74b2a5fd0fb9e1ff113c0eaf66601227e1c7848fd93e86a90747",
+  "title": "Potion Bottles",
+  "authors": [
+    "Rafaelchm"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "I'd just be glad if someone uses them, notice me though e-mail. I'd love to see them in use =) Potion Bottles by Rafaelchm. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/potion-bottles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/potions_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/potions_0.zip",
+  "downloadSha256": "2847fd36a375f28f7dad1bcfdddbd2a3abd55a94deea773368a3d6734a939a90",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 4,
+  "licenseFiles": [],
+  "previewFile": "pt1.png",
+  "previewSha256": "81f8706301fede20f4eba2b7872a22fcc23e65602c5a4ae896909874218c7205",
+  "sourceTags": [
+    "health potion",
+    "mana potion",
+    "potion bottle",
+    "potion"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

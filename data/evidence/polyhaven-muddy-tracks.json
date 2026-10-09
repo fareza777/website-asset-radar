@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/muddy_tracks",
+  "checkedAt": "2026-10-09T10:01:53.282Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/muddy_tracks",
+  "apiSha256": "8f858445cc6ad1989f00ce39642670ca3a5ea9e6240f83ae27bd12ccd2cfcac9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/muddy_tracks/muddy_tracks_diff_1k.jpg",
+  "assetFileMd5": "a0d904939720504810f60377c6463deb",
+  "assetFileSha256": "7867c9bfc6f6e85d51debddda3974ed68225e96b2cdb385a5518616102710730",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Muddy Tracks",
+    "categories": [
+      "floor",
+      "natural",
+      "outdoor",
+      "sand",
+      "dirty"
+    ],
+    "tags": [
+      "mud",
+      "muddy surface",
+      "tracks",
+      "tire tracks",
+      "wet",
+      "organic",
+      "outdoor",
+      "earth",
+      "dirty",
+      "earthy",
+      "loose earth",
+      "soil",
+      "moist ground",
+      "muddy terrain",
+      "off-road"
+    ],
+    "description": "Free 8k texture. Wet, earthy mud with deep tire tracks, rough clumps of loose soil, moist sheen and gritty, dirty surface detail.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2250,
+      2250
+    ],
+    "files_hash": "127da873bb561a84f8b892bda7d41d44486bf886",
+    "date_published": 1772064000,
+    "staging": null,
+    "category_id": "da4a03e2-d438-5c20-8e81-7231e7735d91",
+    "category": "Ground & Terrain/Soil & Mud/Tire-Tracked Mud",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "99ac7961",
+    "download_count": 6103,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/muddy_tracks.png?width=256&height=256&format=webp&v=99ac7961"
+  }
+}

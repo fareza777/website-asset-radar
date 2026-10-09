@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tiny-16-basic",
+  "sourceUrl": "https://opengameart.org/content/tiny-16-basic",
+  "checkedAt": "2026-10-09T10:13:56.248Z",
+  "httpStatus": 200,
+  "pageSha256": "1da1ff22cbdbb4b34cebe3f23ddeae4d33dab308c7b685b5bc0f155bc767120b",
+  "title": "Tiny 16: Basic",
+  "authors": [
+    "Sharm"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Please credit Lanea Zimmerman. The anti-DRM clause of CC-BY 3.0 is waved. Tiny 16: Basic by Sharm. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/tiny-16-basic Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/fontlarge.png",
+    "https://opengameart.org/sites/default/files/characters_1.png",
+    "https://opengameart.org/sites/default/files/things_0.png",
+    "https://opengameart.org/sites/default/files/dead_1.png",
+    "https://opengameart.org/sites/default/files/basictiles_2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/basictiles_2.png",
+  "downloadSha256": "3e738d7030e3d8c9aa9e49dbeed0e8a42b29a194cde533ac7aa7eb2edd50081c",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "basictiles_2.png",
+  "previewSha256": "3e738d7030e3d8c9aa9e49dbeed0e8a42b29a194cde533ac7aa7eb2edd50081c",
+  "sourceTags": [
+    "RPG",
+    "tileset",
+    "pixel"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -20,7 +20,7 @@
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, UI borders, runes, and RPG audio. Art styles and engine setup vary by pack.",
+    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, potion icons, UI borders, runes, and RPG audio. Art styles and engine setup vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -30,11 +30,12 @@
       "kenney-fantasy-ui-borders",
       "kenney-rune-pack",
       "kenney-retro-textures-fantasy",
-      "kenney-scribble-dungeons"
+      "kenney-scribble-dungeons",
+      "oga-potion-bottles"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-09T08:33:52.201Z"
+    "updatedAt": "2026-10-09T10:19:11.863Z"
   },
   {
     "id": "wild-by-nature",
@@ -78,7 +79,6 @@
     "id": "a-town-of-your-own",
     "name": "A town of your own",
     "description": "3D town and interior props, characters, and a separate 2D UI pack for fantasy prototypes. Materials and layouts need manual setup.",
-    "color": "peach",
     "assetIds": [
       "kenney-fantasy-town-kit",
       "kenney-mini-market",
@@ -90,13 +90,13 @@
       "kenney-building-kit"
     ],
     "cover": "kenney-fantasy-town-kit",
+    "color": "peach",
     "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "the-night-shift",
     "name": "The night shift",
     "description": "Choose 2D factory tiles or 3D industrial, road, and railway models, with CC0 metal and concrete surfaces. Materials need manual setup.",
-    "color": "mint",
     "assetIds": [
       "kenney-factory-kit",
       "kenney-city-kit-industrial",
@@ -109,13 +109,13 @@
       "ambientcg-asphalt033"
     ],
     "cover": "kenney-factory-kit",
+    "color": "mint",
     "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
     "description": "Space-station and modular sci-fi models, 2D shooter art, blasters, planet backgrounds, UI, and sound effects. Choose a visual direction before combining packs.",
-    "color": "blue",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
@@ -128,13 +128,13 @@
       "kenney-space-shooter-remastered"
     ],
     "cover": "kenney-space-station-kit",
+    "color": "blue",
     "updatedAt": "2026-10-09T08:33:52.201Z"
   },
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel and illustrated platformer art, expansion packs, and control prompts. Choose packs with a consistent palette and proportions.",
-    "color": "peach",
+    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, and control prompts. Choose packs with a consistent palette and proportions.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -146,16 +146,17 @@
       "kenney-platformer-art-mushrooms",
       "kenney-platformer-bricks",
       "kenney-pixel-platformer-blocks",
-      "kenney-platformer-art-extended-tileset"
+      "kenney-platformer-art-extended-tileset",
+      "oga-a-platformer-in-the-forest"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
-    "updatedAt": "2026-10-09T08:33:52.201Z"
+    "color": "peach",
+    "updatedAt": "2026-10-09T10:19:11.863Z"
   },
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
     "description": "Pixel RPG environments, caves, interiors, characters, and audio. Choose one palette and perspective before combining packs.",
-    "color": "blue",
     "assetIds": [
       "kenney-micro-roguelike",
       "kenney-roguelike-rpg-pack",
@@ -168,13 +169,13 @@
       "kenney-pico-8-city"
     ],
     "cover": "kenney-micro-roguelike",
+    "color": "blue",
     "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
     "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds. Select the pieces that suit your interface.",
-    "color": "mint",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -188,13 +189,13 @@
       "kenney-board-game-icons"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
+    "color": "mint",
     "updatedAt": "2026-10-09T07:39:17.000Z"
   },
   {
     "id": "an-underground-world",
     "name": "An underground world",
     "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, and RPG sounds. Art direction differs by pack; assemble materials and layouts in your engine.",
-    "color": "blue",
     "assetIds": [
       "kenney-modular-dungeon-kit",
       "kenney-modular-cave-kit",
@@ -208,13 +209,13 @@
       "kenney-retro-textures-fantasy"
     ],
     "cover": "kenney-modular-dungeon-kit",
+    "color": "blue",
     "updatedAt": "2026-10-09T07:39:17.000Z"
   },
   {
     "id": "the-outside-world",
     "name": "The outside world",
     "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, wood, and leaf-litter textures from Poly Haven and ambientCG. Assemble materials in your engine.",
-    "color": "mint",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-mini-forest",
@@ -229,13 +230,13 @@
       "polyhaven-leaf-scattered-gravel"
     ],
     "cover": "kenney-mini-forest",
+    "color": "mint",
     "updatedAt": "2026-10-09T07:39:17.000Z"
   },
   {
     "id": "material-essentials",
     "name": "Material essentials",
-    "color": "mint",
-    "description": "CC0 brick, concrete, metal, wood, fabric, and flooring textures from ambientCG and Poly Haven. Import the maps and build materials manually.",
+    "description": "CC0 brick, plaster, stone, concrete, metal, wood, fabric, and flooring textures from ambientCG and Poly Haven. Import the maps and build materials manually.",
     "assetIds": [
       "ambientcg-bricks105",
       "ambientcg-concrete048",
@@ -248,9 +249,11 @@
       "polyhaven-red-oak-veneer",
       "polyhaven-brick-floor-04",
       "polyhaven-coated-pine",
-      "polyhaven-patterned-terracotta-tiling"
+      "polyhaven-patterned-terracotta-tiling",
+      "polyhaven-plaster-stone-wall-02"
     ],
     "cover": "ambientcg-bricks105",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "color": "mint",
+    "updatedAt": "2026-10-09T10:19:11.863Z"
   }
 ]

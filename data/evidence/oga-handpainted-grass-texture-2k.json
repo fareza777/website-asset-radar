@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-handpainted-grass-texture-2k",
+  "sourceUrl": "https://opengameart.org/content/handpainted-grass-texture-2k",
+  "checkedAt": "2026-10-09T09:47:48.973Z",
+  "httpStatus": 200,
+  "pageSha256": "8ad4f3d60e0d7e2961b98621e881a3c6adea5712f52ce5a25a25d7e50bce73f7",
+  "title": "Handpainted Grass Texture (2k)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Handpainted Grass Texture (2k) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/handpainted-grass-texture-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/grass_70.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/grass_70.png",
+  "downloadSha256": "fc3fac1251ae5ef78c382df2a51250caa467305d4d4ff3da0384beeb171d6110",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "grass_70.png",
+  "previewSha256": "fc3fac1251ae5ef78c382df2a51250caa467305d4d4ff3da0384beeb171d6110",
+  "sourceTags": [
+    "handpainted",
+    "grass",
+    "seamless"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

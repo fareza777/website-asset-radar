@@ -63,7 +63,7 @@ hari, terpisah dari jumlah aset yang tidak dibatasi.
    npm run catalog:grow -- --write
    ```
 
-   Command melanjutkan antrean Kenney, Poly Haven dan ambientCG tanpa berhenti
+   Command melanjutkan antrean OpenGameArt, Kenney, Poly Haven dan ambientCG tanpa berhenti
    di 50/100. Jumlah masuk lebih awal hari ini hanya informasi. Sumber bergantian;
    duplikat/kandidat tanpa bukti ditolak. Setiap impor berhasil disimpan. Gunakan
    --minutes=<sisa menit total>, --minimum=<sisa minimum run ini> dan
@@ -119,7 +119,12 @@ API texture, CC0 dan checksum file diffuse; jangan salin render situsnya.
 ambientCG memakai API material dan format yang dinyatakan publisher; lisensinya
 secara eksplisit mencakup render material CC0. Semua preview punya provenance.
 Fab, itch.io dan GameDev Market tetap perlu bukti harga/lisensi per promo serta
-izin akses. Publisher lain/OpenGameArt masih memerlukan adapter per produk.
+izin akses. OpenGameArt sekarang punya importer untuk CC0, CC-BY-3.0 dan
+CC-BY-4.0: cek author/lisensi pada produk, inspeksi download sebenarnya, simpan
+atribusi, dan buat preview dari file berlisensi. Preview galeri situsnya tidak
+boleh diasumsikan berlisensi sama. Crawl-delay sumber tetap dipatuhi.
+Publisher lain masih memerlukan adapter per produk; nama dalam prompt saja
+tidak mengaktifkan dukungan baru. Unity belum menjadi sumber impor otomatis.
 Synty/CraftPix tetap permission review dalam publisher monitor; jangan ambil
 otomatis atau mengubah izinnya. Index bukan bukti harga/lisensi produk.
 

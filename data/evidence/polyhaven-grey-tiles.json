@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grey_tiles",
+  "checkedAt": "2026-10-09T10:12:22.444Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grey_tiles",
+  "apiSha256": "cd9c24d2d7348602b56b4b6755ee7b4e2d447af27ab5982f232d90f8f1487edd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_tiles/grey_tiles_diff_1k.jpg",
+  "assetFileMd5": "3f97161f7f838d3ebe4c1d8b7317a7fe",
+  "assetFileSha256": "17369bca024842b44c25b57fa943ea7d676994245d1f029ef6b481c1d3bf8ae3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Grey Tiles",
+    "categories": [
+      "outdoor",
+      "floor",
+      "man made"
+    ],
+    "tags": [
+      "weathered",
+      "old",
+      "discolored",
+      "grey",
+      "gray",
+      "exterior pavement",
+      "pavement",
+      "concrete tiles",
+      "concrete",
+      "precast",
+      "square tiles"
+    ],
+    "description": "Free 8k texture of weathered grey concrete tiles with subtle grime, discoloration, shallow grout lines and a matte stone surface.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "dimensions": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "files_hash": "aa2983bf70969b5ed80375edeb7e0ebac7b94f9a",
+    "staging": null,
+    "date_published": 1765929600,
+    "category_id": "095573e6-25a6-59a5-b88e-6911bbfbc472",
+    "category": "Brick & Block/Concrete Block & Paver/Cast-Stone Block",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1c1c6d4a",
+    "download_count": 6918,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_tiles.png?width=256&height=256&format=webp&v=1c1c6d4a"
+  }
+}

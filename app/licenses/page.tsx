@@ -10,7 +10,7 @@ import {
 export const metadata: Metadata = {
   title: "Game asset licenses & verified sources",
   description:
-    "Learn how Game Asset Radar verifies free game asset licenses, what CC0 means, and which original sources are permitted for catalog discovery.",
+    "Understand CC0 and CC BY game asset licenses, creator attribution, and Game Asset Radar's source and preview verification.",
   alternates: { canonical: "/licenses/" },
 };
 export default function Licenses() {
@@ -57,6 +57,27 @@ export default function Licenses() {
         </a>
       </section>
       <section className="document-section">
+        <span className="license-badge">CC BY 3.0 / 4.0</span>
+        <h2>Free to create. Keep the credit.</h2>
+        <p>
+          CC BY allows commercial use and modification under its terms. Keep
+          the creator&apos;s credit and supplied notices, link to the applicable
+          license, and identify your changes. Do not add restrictions that
+          prevent others from exercising the licensed rights.
+        </p>
+        <p>
+          Each asset page preserves the creator&apos;s attribution instructions
+          and identifies our preview changes. Check the exact license version
+          attached to your download.
+        </p>
+        <a className="text-link" href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noreferrer">
+          Read CC BY 3.0 <ArrowUpRight size={15} />
+        </a>{" · "}
+        <a className="text-link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">
+          Read CC BY 4.0 <ArrowUpRight size={15} />
+        </a>
+      </section>
+      <section className="document-section">
         <h2>What “verified” means here.</h2>
         <p>
           Each catalog entry records the original publisher page, explicit
@@ -65,7 +86,9 @@ export default function Licenses() {
           Poly Haven, we use its permitted public API and published asset
           license. For ambientCG materials, we verify its official API and
           license covering the asset files and preview renders; full archives
-          and engine performance are not tested.
+          and engine performance are not tested. OpenGameArt submissions need
+          their own author and license evidence plus an inspected asset download;
+          their website gallery images are excluded.
         </p>
         <p>
           Genre tags are editorial suggestions. Engine filters indicate
@@ -82,6 +105,11 @@ export default function Licenses() {
       <section className="document-section">
         <h2>Good assets start with good sources.</h2>
         <div className="source-cards">
+          <a href="https://opengameart.org/content/faq" target="_blank" rel="noreferrer">
+            <strong>OpenGameArt <ArrowUpRight size={18} /></strong>
+            <p>Independent creators&apos; assets under verified CC0 or CC BY licenses, with credit and previews from licensed download files.</p>
+            <span>Submission license + inspected asset download</span>
+          </a>
           <a href="https://kenney.nl/support" target="_blank" rel="noreferrer">
             <strong>
               Kenney <ArrowUpRight size={18} />
@@ -124,7 +152,7 @@ export default function Licenses() {
           missing images use original illustrations.
         </p>
         <p>
-          Daily discovery proposes changes through a reviewable pull request.
+          We add an asset only when its source and license can be verified.
           Ambiguous licenses, contradictory terms, and failed checks stay
           outside the verified catalog.
         </p>

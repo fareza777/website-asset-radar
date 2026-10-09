@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_16",
+  "checkedAt": "2026-10-09T10:10:07.883Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_16",
+  "apiSha256": "a6eab540a825a0eda867a3ce870b42354bb9cd9cf468c499bb0d9e1b4b3442f6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_16/rock_wall_16_diff_1k.jpg",
+  "assetFileMd5": "25716600a0deabc05fe34c33e75a45e9",
+  "assetFileSha256": "602183be039d7403e61e4a2f2b643f7f2738d14708be312fdb4d08c45bbce598",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rock Wall 16",
+    "categories": [
+      "wall",
+      "outdoor",
+      "rock"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "wall",
+      "rock wall",
+      "stone blocks",
+      "stonework",
+      "rock",
+      "timeworn",
+      "fortress walls",
+      "stone wall"
+    ],
+    "description": "Free 8k texture of dark, weathered stone blocks with rough, chiseled faces, recessed mortar joints and subtle wet sheen for an aged outdoor rock wall.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "f69b77be4cc4653ea4380bda721e830b15719651",
+    "staging": null,
+    "date_published": 1767830400,
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "a85a477e",
+    "download_count": 20330,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_16.png?width=256&height=256&format=webp&v=a85a477e"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-a-blocky-dungeon",
+  "sourceUrl": "https://opengameart.org/content/a-blocky-dungeon",
+  "checkedAt": "2026-10-09T10:14:35.987Z",
+  "httpStatus": 200,
+  "pageSha256": "0795cc8026f0f886562e1e97989faf1b6b193514e64061dbd39353d60a3d6a01",
+  "title": "A blocky dungeon",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back either to http://blog-buch.rhcloud.com or to my OGA profile page. A blocky dungeon by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/a-blocky-dungeon Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/dungeon_sheet_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/dungeon_sheet_0.png",
+  "downloadSha256": "0fb72f8198005b36c4eca48a287f0d4d462c3d7441504f7acfe6c8b5aaa5433e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "dungeon_sheet_0.png",
+  "previewSha256": "0fb72f8198005b36c4eca48a287f0d4d462c3d7441504f7acfe6c8b5aaa5433e",
+  "sourceTags": [
+    "dungeon",
+    "16x16",
+    "door",
+    "switch",
+    "totem",
+    "knight",
+    "slime"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

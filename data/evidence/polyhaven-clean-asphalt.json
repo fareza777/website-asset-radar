@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/clean_asphalt",
+  "checkedAt": "2026-10-09T10:09:13.871Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/clean_asphalt",
+  "apiSha256": "48d1e271f8261fe4100bb1efe05bf7df8af1c14ae3d762cbe3363c35f6fc5bdd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clean_asphalt/clean_asphalt_diff_1k.jpg",
+  "assetFileMd5": "7edccb95cbf72e63889baade8455f9e5",
+  "assetFileSha256": "ddf9224e9cfa3eb2998d9097e4cd34bd3630c85e0e6798e5a0a000415a684083",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Clean Asphalt",
+    "categories": [
+      "floor",
+      "asphalt"
+    ],
+    "tags": [
+      "rough",
+      "asphalt",
+      "grey",
+      "gray",
+      "course",
+      "gritty",
+      "fine-grained",
+      "road",
+      "asphalt road",
+      "roadway",
+      "tarmac road",
+      "tar",
+      "scratches",
+      "racing",
+      "bitumen",
+      "speedway",
+      "race track",
+      "pit lane"
+    ],
+    "description": "Free 8k asphalt texture: clean dark-gray surface with fine rough grain, subtle micro-roughness and faint seam line, low sheen and even tonality.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2099.9999046325684,
+      2099.9999046325684
+    ],
+    "files_hash": "402035bf9077d331e5de76b938c8b6d818aed6a0",
+    "staging": null,
+    "date_published": 1768262400,
+    "category_id": "bc174825-be31-5e80-9911-2eb9128cfee9",
+    "category": "Asphalt & Bitumen/Asphalt/Fresh Asphalt",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "547f00f6",
+    "download_count": 27619,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clean_asphalt.png?width=256&height=256&format=webp&v=547f00f6"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/marble_cliff_02",
+  "checkedAt": "2026-10-09T09:57:29.351Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/marble_cliff_02",
+  "apiSha256": "8c502da997a8ff26e8de0b2769e65794a382570aae536aea711c0328e7307557",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_cliff_02/marble_cliff_02_diff_1k.jpg",
+  "assetFileMd5": "af75fd7552eceb0a53fb46bcf919cdbf",
+  "assetFileSha256": "a1ca15e1b5cd7d0d03cb7abb93d44a18feb4bf6757ec3458805518f51f3ae1f1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Marble Cliff 02",
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "rock",
+      "cracked",
+      "sedimentary",
+      "sedimentary",
+      "fissured",
+      "marble",
+      "craggy",
+      "drone",
+      "dusty",
+      "brown"
+    ],
+    "description": "Free 8k texture of a weathered, craggy marble cliff - rough, fissured sedimentary rock with deep cracks, uneven surfaces and dusty brown veining.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      6801.3715744018555,
+      6801.3715744018555
+    ],
+    "files_hash": "b82c1ee56a75261deec98695ca45906e8d27917a",
+    "date_published": 1776297600,
+    "staging": null,
+    "sponsors": [
+      "121968951"
+    ],
+    "categories": [
+      "natural",
+      "rock",
+      "outdoor",
+      "aerial"
+    ],
+    "category_id": "19a0b774-8b0a-5853-a205-8f019fe00ae9",
+    "category": "Stone/Rock & Cliffs/Marble & Metamorphic",
+    "attributes": {
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "4b173ec8",
+    "download_count": 6426,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_cliff_02.png?width=256&height=256&format=webp&v=4b173ec8"
+  }
+}

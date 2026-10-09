@@ -1,9 +1,11 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import { validateCatalog } from "../lib/catalog-schema";
-import { fetchPermitted } from "./source-policy";
+import { fetchPermitted, setDownloadBudget, getDownloadedBytes } from "./source-policy";
+import policy from "../data/automation-policy.json";
 import { readKenneyEvidence, readPolyHavenLicense } from "./verification";
 import { ambientLicenseUrl, readAmbientLicense, readAmbientMetadata, ambientFormats } from "./ambientcg";
+import { assertOpenGameArtPageUnchanged, validateOpenGameArtEvidence } from "./opengameart-utils";
 
 async function main() {
   const assets = validateCatalog(
@@ -14,6 +16,12 @@ async function main() {
   const limit = limitFlag ? Number(limitFlag.split("=")[1]) : assets.length;
   if (!Number.isInteger(limit) || limit < 1)
     throw new Error("--limit must be a positive integer");
+  const consumedFlags = process.argv.filter((arg) => arg.startsWith("--downloaded-bytes="));
+  const consumed = consumedFlags.length ? Number(consumedFlags[0].slice("--downloaded-bytes=".length)) : 0;
+  const allowance = policy.maxArchiveDownloadMegabytes * 1_000_000;
+  if (consumedFlags.length > 1 || !Number.isSafeInteger(consumed) || consumed < 0 || consumed > allowance)
+    throw new Error("--downloaded-bytes must be within the daily shared download allowance");
+  setDownloadBudget(Math.max(1, allowance - consumed));
   const today = new Intl.DateTimeFormat("en-CA", {
     timeZone: "Asia/Jakarta",
   }).format(new Date());
@@ -74,6 +82,17 @@ async function main() {
         stored.apiSha256 = createHash("sha256").update(text).digest("hex");
         stored.apiMetadata = info;
         stored.licensePageSha256 = ambientLicenseHash;
+      } else if (asset.source === "OpenGameArt") {
+        if (consumed === allowance) throw new Error("Shared download budget exhausted; keep the previous verification");
+        const proof = validateOpenGameArtEvidence(asset, stored);
+        text = await (await fetchPermitted(asset.sourceUrl)).text();
+        assertOpenGameArtPageUnchanged(asset, proof.downloadUrl, text);
+        // A HEAD request cannot certify that files at a stable URL are unchanged.
+        const download = new Uint8Array(await (await fetchPermitted(proof.downloadUrl, {maxBytes: 25_000_000})).arrayBuffer());
+        if (createHash("sha256").update(download).digest("hex") !== proof.downloadSha256)
+          throw new Error("OpenGameArt download contents changed; inspect before re-verifying");
+        stored.pageSha256 = createHash("sha256").update(text).digest("hex");
+        stored.downloadCheckedAt = checkedAt;
       } else {
         await fetchPermitted(asset.sourceUrl, { method: "HEAD" });
         if (polyLicense === undefined) {
@@ -100,7 +119,7 @@ async function main() {
         stored.assetFileLinkCheckedAt = checkedAt;
       }
       const hash = createHash("sha256").update(text).digest("hex");
-      if (asset.license !== "CC0")
+      if (asset.license !== "CC0" && asset.source !== "OpenGameArt")
         throw new Error("This checker only recertifies explicit CC0 evidence");
       results.push({ id: asset.id, ok: true, sha256: hash });
       if (write) {
@@ -123,7 +142,7 @@ async function main() {
   await mkdir(".cache", { recursive: true });
   await writeFile(
     ".cache/link-check-report.json",
-    JSON.stringify({ checkedAt, results }, null, 2) + "\n",
+    JSON.stringify({ checkedAt, results, downloadBytes: getDownloadedBytes(), totalRunDownloadBytes: consumed + getDownloadedBytes() }, null, 2) + "\n",
   );
   const failures = results.filter((r) => !r.ok);
   if (failures.length)

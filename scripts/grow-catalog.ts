@@ -15,6 +15,8 @@ import { fillGrowthQueue, type GrowthCandidate } from "./catalog-growth-utils";
 import { seedKenney } from "./seed-catalog";
 import { seedPolyHaven } from "./seed-polyhaven";
 import { importAmbientCG } from "./ambientcg";
+import { importOpenGameArt } from "./opengameart";
+import { readOpenGameArtIndex } from "./opengameart-utils";
 
 function integerFlag(
   name: string,
@@ -174,10 +176,28 @@ async function main() {
   }
   setDownloadBudget(remainingDownloadBytes);
   // Enumerate each independent source; a failed source must not prevent the others.
-  for (const source of ["Kenney", "Poly Haven", "ambientCG"]) {
+  for (const source of ["OpenGameArt", "Kenney", "Poly Haven", "ambientCG"]) {
     const first = candidates.length;
     try {
-      if (source === "Kenney") {
+      if (source === "OpenGameArt") {
+        const pending = [
+          "https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC",
+          "https://opengameart.org/latest",
+        ];
+        const seen = new Set<string>(), products = new Set<string>();
+        const maxPages = backfill ? policy.backfill.maxIndexPages : policy.maxIndexPages;
+        while (pending.length && seen.size < maxPages && Date.now() < deadline) {
+          const url = pending.shift()!;
+          if (seen.has(url)) continue;
+          seen.add(url);
+          const index = readOpenGameArtIndex(await (await fetchPermitted(url)).text(), url);
+          index.products.forEach((product) => products.add(product));
+          for (const page of index.pages)
+            if (!seen.has(page) && !pending.includes(page)) pending.push(page);
+        }
+        for (const sourceUrl of products)
+          if (!existing.has(canonicalUrl(sourceUrl))) candidates.push({source, sourceUrl, payload: null});
+      } else if (source === "Kenney") {
         const pending = ["https://kenney.nl/assets"],
           seen = new Set<string>(),
           products = new Set<string>();
@@ -287,6 +307,7 @@ async function main() {
     deadline,
     downloadBudgetReached: () => getDownloadedBytes() >= remainingDownloadBytes,
     importCandidate: async (candidate) => {
+      if (candidate.source === "OpenGameArt") return importOpenGameArt(candidate.sourceUrl);
       if (candidate.source === "ambientCG")
         return importAmbientCG(String(candidate.payload));
       if (candidate.source === "Poly Haven") {

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pebble_bricks",
+  "checkedAt": "2026-10-09T10:04:21.927Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pebble_bricks",
+  "apiSha256": "60330becd5f62a6d0ba08728f4a69c2f32fba06baad6478c12ab00765b535d36",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pebble_bricks/pebble_bricks_diff_1k.jpg",
+  "assetFileMd5": "3d94386982da212e0f792f553fb6c8fe",
+  "assetFileSha256": "8e1737cc902752003413101a8f87200d5a5f995020d2312604ef9b8201f9e491",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Pebble Bricks",
+    "categories": [
+      "floor",
+      "man made",
+      "brick"
+    ],
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "embedded pebble",
+      "brick",
+      "bricks",
+      "herringbone",
+      "interlocking pattern",
+      "herringbone pattern",
+      "herringbone brick",
+      "coarse"
+    ],
+    "description": "Free 8k texture of herringbone interlocking bricks with a coarse, pebble-embedded, weathered surface, rough uneven grain and recessed grout lines.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2180.000066757202,
+      2180.000066757202
+    ],
+    "files_hash": "dfe267e5b4af0ef9b4b490aac5b794a180c00278",
+    "date_published": 1770249600,
+    "staging": null,
+    "category_id": "fd95b70a-91f7-556e-a9d5-e1d6fe6637be",
+    "category": "Brick & Block/Clay Brick/Herringbone",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1afb5939",
+    "download_count": 1830,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebble_bricks.png?width=256&height=256&format=webp&v=1afb5939"
+  }
+}

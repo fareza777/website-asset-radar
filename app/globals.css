@@ -1613,6 +1613,13 @@ h3 {
   color: var(--mint);
   margin-top: 10px;
 }
+.attribution-block {
+  overflow-wrap: anywhere;
+}
+.attribution-block strong,
+.attribution-block p {
+  font-size: 14px;
+}
 .license-panel-footer {
   display: flex;
   align-items: center;

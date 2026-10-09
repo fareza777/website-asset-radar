@@ -1,5 +1,5 @@
 {
-  "policyVersion": 2,
+  "policyVersion": 3,
   "checkedAt": "2026-10-09",
   "executablePolicy": "scripts/source-policy.ts",
   "userAgent": "AssetRadar/1.0 (+https://github.com/fareza777/website-asset-radar)",
@@ -9,6 +9,16 @@
   "importBatchSize": 5,
   "maxRechecksPerRun": 20,
   "sources": [
+    {
+      "name": "OpenGameArt",
+      "discovery": "https://opengameart.org/latest",
+      "guidance": "https://opengameart.org/content/faq",
+      "license": "CC0, CC-BY-3.0 or CC-BY-4.0; verify the submission's own license field",
+      "verification": "Exact author, license, attribution and public asset-file fields; inspect one real download and hash both archive/file and preview input. Conflicting rights, unsupported licenses and mirrored packs are excluded.",
+      "permittedPreview": "A licensed image from the submission's downloadable asset files, or an original waveform of a licensed OGG. Website gallery previews are not copied: the FAQ says their rights may differ.",
+      "robots": "Respect current robots rules and Crawl-delay, including for every download and redirect. Stop on missing policy or source protection.",
+      "excluded": "Website thumbnails, gallery previews, logos, login/private endpoints, unverified external mirrors, ambiguous authorship, 3D-only packs without a supported preview, and unclear license conditions."
+    },
     {
       "name": "Kenney",
       "discovery": "https://kenney.nl/assets",

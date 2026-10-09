@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-mountain-at-dusk-background",
+  "sourceUrl": "https://opengameart.org/content/mountain-at-dusk-background",
+  "checkedAt": "2026-10-09T10:16:51.327Z",
+  "httpStatus": 200,
+  "pageSha256": "200b0daa388e7010d6d385d96074ab7c60f91e5aca1e9a2fd805ec5b180a2212",
+  "title": "Mountain at Dusk Background",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Mountain at Dusk Background by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/mountain-at-dusk-background Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/parallax_mountain_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/parallax_mountain_pack.zip",
+  "downloadSha256": "aa31083f3ea4600b5bf89682974b153be0689ef0caf71d695c7cd194cd8de030",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 6,
+  "licenseFiles": [
+    "parallax_mountain_pack/license.txt"
+  ],
+  "previewFile": "parallax_mountain_pack/layers/parallax-mountain-foreground-trees.png",
+  "previewSha256": "27c7d400bce84c0cccc05726d0a91f48adc7c33eeb537b2bcf1544530740c5d3",
+  "sourceTags": [
+    "Pixel Art",
+    "pixelart",
+    "background",
+    "Castlevania",
+    "dusk"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

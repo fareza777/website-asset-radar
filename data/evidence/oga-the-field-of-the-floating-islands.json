@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-the-field-of-the-floating-islands",
+  "sourceUrl": "https://opengameart.org/content/the-field-of-the-floating-islands",
+  "checkedAt": "2026-10-09T10:01:36.193Z",
+  "httpStatus": 200,
+  "pageSha256": "161090e90b2cd6a14cf5920aca36a2e510721c899bad2214e8bdbcb3376085ea",
+  "title": "The Field of the Floating Islands",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com The Field of the Floating Islands by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/the-field-of-the-floating-islands Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tiles_16.png",
+    "https://opengameart.org/sites/default/files/tiles_packed_1.png",
+    "https://opengameart.org/sites/default/files/snow-expansion.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tiles_16.png",
+  "downloadSha256": "507a412131be138fedfff1958d55b3b6f8af27d7b71c3e7f0f13213aff02a4b7",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tiles_16.png",
+  "previewSha256": "507a412131be138fedfff1958d55b3b6f8af27d7b71c3e7f0f13213aff02a4b7",
+  "sourceTags": [
+    "tileset",
+    "grass",
+    "Rock",
+    "water",
+    "tree",
+    "pixelart",
+    "16x16"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

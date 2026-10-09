@@ -1,0 +1,61 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-lots-of-free-2d-tiles-and-sprites-by-hyptosis",
+  "sourceUrl": "https://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis",
+  "checkedAt": "2026-10-09T09:56:41.438Z",
+  "httpStatus": 200,
+  "pageSha256": "328194322b025a6b4a0e27594b4ac379aff42fd8a8892032030857f8c18cefa7",
+  "title": "Lots of free 2d tiles and sprites by Hyptosis",
+  "authors": [
+    "Hyptosis",
+    "Zabin"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please credit Hyptosis and Zabin (only drew 6 frames of the bomb's wick burning) from OGA and respect to the License. Lots of free 2d tiles and sprites by Hyptosis by Hyptosis, Zabin. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/hyptosis_tile-art-batch-1.png",
+    "https://opengameart.org/sites/default/files/hyptosis_til-art-batch-2.png",
+    "https://opengameart.org/sites/default/files/hyptosis_tile-art-batch-4.png",
+    "https://opengameart.org/sites/default/files/hyptosis_tile-art-batch-3_0.png",
+    "https://opengameart.org/sites/default/files/hyptosis_tile-art-batch-5.png",
+    "https://opengameart.org/sites/default/files/hyptosis_sprites-and-tiles-for-you.png",
+    "https://opengameart.org/sites/default/files/BombExploding.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/hyptosis_tile-art-batch-1.png",
+  "downloadSha256": "fc49032576ff7ac60b38e52a9d23683d8fed6104ee3ccee0ba1cb0b3ab33a62f",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "hyptosis_tile-art-batch-1.png",
+  "previewSha256": "fc49032576ff7ac60b38e52a9d23683d8fed6104ee3ccee0ba1cb0b3ab33a62f",
+  "sourceTags": [
+    "32x32",
+    "16x16",
+    "Sprite",
+    "tile",
+    "tileset",
+    "Terrain",
+    "monster",
+    "house",
+    "Indoors",
+    "interior",
+    "exterior",
+    "castle",
+    "wall",
+    "cave",
+    "plant",
+    "bomb",
+    "RPG",
+    "Platformer",
+    "finalfantasy",
+    "chronotrigger",
+    "zelda"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

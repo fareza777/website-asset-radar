@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-dungeon-tileset",
+  "sourceUrl": "https://opengameart.org/content/dungeon-tileset",
+  "checkedAt": "2026-10-09T09:59:10.055Z",
+  "httpStatus": 200,
+  "pageSha256": "fd0622df7c70c54cc36e3099882adad6bf8444c93761ae722a1c037eb7451796",
+  "title": "Dungeon tileset",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com Dungeon tileset by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/dungeon-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/dungeon_tiles_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/dungeon_tiles_0.png",
+  "downloadSha256": "526e911f980ebb4c1a781f4d219885722ec116a7be16499cbe68fd2a698bf6a4",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "dungeon_tiles_0.png",
+  "previewSha256": "526e911f980ebb4c1a781f4d219885722ec116a7be16499cbe68fd2a698bf6a4",
+  "sourceTags": [
+    "dungeon",
+    "tileset",
+    "Pixel Art",
+    "16x16",
+    "mage",
+    "knight",
+    "dwarf",
+    "cave",
+    "box",
+    "chest"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

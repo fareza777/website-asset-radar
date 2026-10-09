@@ -3,6 +3,7 @@ import { assetTypes, categories, type Collection } from "./types";
 import { canonicalUrl } from "./catalog-utils";
 import { calculateFreeScore } from "./offer-utils";
 import automationPolicy from "../data/automation-policy.json";
+import { isOpenGameArtProductUrl, isOpenGameArtDownloadUrl } from "./free-source-urls";
 
 const date = z
   .string()
@@ -45,9 +46,10 @@ export const assetSchema = z
     categories: z.array(z.enum(categories)).min(1),
     dimension: z.enum(["2D", "3D", "Audio"]),
     assetType: z.enum(assetTypes),
-    source: z.enum(["Kenney", "Poly Haven", "ambientCG"]),
+    source: z.enum(["Kenney", "Poly Haven", "ambientCG", "OpenGameArt"]),
     sourceUrl: https,
-    license: z.enum(["CC0", "CC-BY-4.0"]),
+    license: z.enum(["CC0", "CC-BY-3.0", "CC-BY-4.0"]),
+    attribution: z.string().min(10).max(3000).optional(),
     licenseUrl: https,
     verificationUrl: https,
     verifiedAt: date,
@@ -111,6 +113,12 @@ export function validateCatalog(
         new URL(asset.verificationUrl).pathname !== "/api/v2/full_json")
     )
       throw new Error(`Untrusted ambientCG source: ${asset.id}`);
+    if (asset.source === "OpenGameArt" &&
+      (!isOpenGameArtProductUrl(asset.sourceUrl) || canonicalUrl(asset.verificationUrl) !== url ||
+        !isOpenGameArtDownloadUrl(asset.previewProvenance.url)))
+      throw new Error(`Untrusted OpenGameArt source or preview origin: ${asset.id}`);
+    if (asset.license !== "CC0" && !asset.attribution)
+      throw new Error(`Attribution required: ${asset.id}`);
     if (
       asset.license === "CC0" &&
       canonicalUrl(asset.licenseUrl) !==
@@ -118,9 +126,9 @@ export function validateCatalog(
     )
       throw new Error(`License URL mismatch: ${asset.id}`);
     if (
-      asset.license === "CC-BY-4.0" &&
+      asset.license.startsWith("CC-BY-") &&
       canonicalUrl(asset.licenseUrl) !==
-        "https://creativecommons.org/licenses/by/4.0"
+        `https://creativecommons.org/licenses/by/${asset.license.slice(6)}`
     )
       throw new Error(`License URL mismatch: ${asset.id}`);
     if (asset.verifiedAt > today || asset.addedAt > today)

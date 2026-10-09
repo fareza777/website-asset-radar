@@ -1,4 +1,5 @@
 import robotsParser from "robots-parser";
+import { isOpenGameArtProductUrl, isOpenGameArtIndexUrl, isOpenGameArtDownloadUrl } from "../lib/free-source-urls";
 
 export const userAgent =
   "AssetRadar/1.0 (+https://github.com/fareza777/website-asset-radar)";
@@ -25,6 +26,8 @@ export function isPermittedUrl(value: string): boolean {
   }
   if (url.protocol !== "https:" || url.port || url.username || url.password)
     return false;
+  if (url.hostname === "opengameart.org")
+    return isOpenGameArtProductUrl(value) || isOpenGameArtIndexUrl(value) || isOpenGameArtDownloadUrl(value);
   if (url.hostname === "kenney.nl")
     return (
       /^\/assets(?:\/|$)/.test(url.pathname) ||
@@ -99,8 +102,9 @@ export async function readLimitedResponse(
   });
 }
 
-async function throttle(host: string) {
-  const wait = Math.max(0, 1400 - (Date.now() - (lastRequests.get(host) || 0)));
+async function throttle(host: string, crawlDelay = 0) {
+  const interval = Math.max(1400, crawlDelay * 1000);
+  const wait = Math.max(0, interval - (Date.now() - (lastRequests.get(host) || 0)));
   if (wait) await new Promise((resolve) => setTimeout(resolve, wait));
   lastRequests.set(host, Date.now());
 }
@@ -121,7 +125,9 @@ async function getRobots(origin: string) {
     throw new Error(
       `Cannot establish robots policy for ${origin}: ${response.status}`,
     );
-  const text = await response.text();
+  const text = await (await readLimitedResponse(response, 200_000)).text();
+  if (/<!doctype html|<html[\s>]/i.test(text))
+    throw new Error(`Cannot establish robots policy for ${origin}: HTML challenge`);
   robotsCache.set(origin, text);
   return text;
 }
@@ -136,11 +142,6 @@ export async function fetchPermitted(
   let url = new URL(value);
   // Poly Haven explicitly permits the public API and asset-download endpoint. Its website is never scraped for discovery.
   if (
-    url.hostname === "kenney.nl" &&
-    !robotsAllows(await getRobots(url.origin), value)
-  )
-    throw new Error(`Robots policy disallows ${value}`);
-  if (
     url.hostname === "polyhaven.com" &&
     url.pathname.startsWith("/a/") &&
     options.method !== "HEAD"
@@ -151,7 +152,15 @@ export async function fetchPermitted(
   if (url.hostname === "ambientcg.com" && !url.pathname.startsWith("/api/") && options.method !== "HEAD")
     throw new Error("ambientCG discovery uses its documented API, not website scraping");
   for (let attempt = 0; attempt < 4; attempt++) {
-    await throttle(url.hostname);
+    let crawlDelay = 0;
+    if (["kenney.nl", "opengameart.org"].includes(url.hostname)) {
+      const policy = robotsParser(`${url.origin}/robots.txt`, await getRobots(url.origin));
+      if (policy.isAllowed(url.toString(), "AssetRadar") === false)
+        throw new Error(`Robots policy disallows ${url}`);
+      crawlDelay = policy.getCrawlDelay("AssetRadar") ?? 0;
+      if (crawlDelay > 30) throw new Error("Robots crawl delay exceeds the supported interval; defer this source");
+    }
+    await throttle(url.hostname, crawlDelay);
     const response = await fetch(url, {
       method: options.method || "GET",
       headers: { "User-Agent": userAgent },
@@ -160,22 +169,24 @@ export async function fetchPermitted(
     });
     if (response.status >= 300 && response.status < 400) {
       const location = response.headers.get("location");
+      await response.body?.cancel();
       if (!location) throw new Error("Redirect missing its destination");
       const next = new URL(location, url);
       if (next.hostname !== url.hostname || !isPermittedUrl(next.toString()))
         throw new Error("Redirect escaped the permitted source");
-      if (
-        next.hostname === "kenney.nl" &&
-        !robotsAllows(await getRobots(next.origin), next.toString())
-      )
-        throw new Error("Redirect is disallowed by robots policy");
       url = next;
       continue;
     }
-    if (!response.ok) throw new Error(`${response.status}: ${url}`);
+    if (!response.ok || response.headers.get("cf-mitigated") === "challenge") {
+      await response.body?.cancel();
+      const protectedSource = [401, 403, 429].includes(response.status) ||
+        response.headers.get("cf-mitigated") === "challenge";
+      throw new Error(`${response.status}: ${url}${protectedSource ? "; stop on source protection" : ""}`);
+    }
     if (options.method === "HEAD") return response;
     const isDownload = url.hostname === "dl.polyhaven.org" ||
       url.hostname === "acg-media.struffelproductions.com" ||
+      isOpenGameArtDownloadUrl(url.toString()) ||
       /\.zip$/i.test(url.pathname);
     const maxBytes = Math.min(options.maxBytes ?? 8_000_000, isDownload ? downloadAllowance - downloadedBytes : Infinity);
     if (maxBytes < 1) { await response.body?.cancel(); throw new Error("Download budget exhausted"); }

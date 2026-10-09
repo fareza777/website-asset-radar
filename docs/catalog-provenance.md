@@ -1,6 +1,12 @@
 # Catalog provenance
 
-The launch catalog was checked on **8 October 2026** with 21 Kenney packs and three Poly Haven materials. On **9 October 2026 (Asia/Jakarta)**, more Kenney packs passed source-page and included-archive license checks, followed by additional permitted API imports. Current counts come from `npm run catalog:validate`; the supported free sources are Kenney, Poly Haven textures and ambientCG materials. Full packs remain at their original publishers.
+The launch catalog was checked on **8 October 2026** with 21 Kenney packs and three Poly Haven materials. On **9 October 2026 (Asia/Jakarta)**, more Kenney packs passed source-page and included-archive license checks, followed by additional permitted API imports. Current counts come from `npm run catalog:validate`; the supported free sources are OpenGameArt, Kenney, Poly Haven textures and ambientCG materials. Full packs remain at their original publishers.
+
+## OpenGameArt
+
+The adapter checks each submission's own author, Creative Commons license, attribution instructions and public downloadable-file field. It accepts CC0, CC-BY-3.0 and CC-BY-4.0 only, preserves attribution and provides the full license/source links. Formats and preview inputs are inspected in one recorded real download; uninspected downloads and engine behavior are not certified. Evidence includes product-page and download hashes, original input filename/hash, actual check time, authors, selected license and creator notice. A community submission does not receive the established first-party publishers' reputation score automatically.
+
+Previews use licensed downloadable content, resized and converted to WebP, or an original measured OGG waveform; no full track or archive is hosted. The [OpenGameArt FAQ](https://opengameart.org/content/faq) explicitly warns that website gallery previews can have different rights, so those images are excluded. CC-BY credit and the preview modification notice appear on the detail page and in structured metadata. Archives have path/expanded-size limits. Conflicting permissions, unsupported licenses, unclear authorship and duplicate or known mirrored packs are rejected. Requests respect robots and the site's published crawl delay; changed product identity, license or download hashes fail re-verification.
 
 ## Kenney
 

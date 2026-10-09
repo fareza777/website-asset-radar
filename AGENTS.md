@@ -24,7 +24,12 @@ and --downloaded-bytes when earlier work consumed those resources. Do not reset
 budgets or run concurrent writers. Legacy --limit is now a minimum alias, never
 an output cap; legacy --candidates no longer imposes an inspection ceiling.
 Rechecks/candidate URLs are not additions. Report real shortfalls instead of
-inventing data. Unity automation requires a separate source agreement under its
+inventing data. Growth supports OpenGameArt alongside Kenney, Poly Haven textures
+and ambientCG materials. OpenGameArt requires its own license/author/file fields,
+real download inspection and CC-BY attribution when applicable. Its website
+gallery preview rights are separate: only licensed download content is copied.
+Respect the source's published crawl delay; do not bypass unsupported licenses.
+Unity automation requires a separate source agreement under its
 Asset Store Terms section 3.3; do not scrape it or its private APIs.
 Curated Collections are also part of daily maintenance: review at least 3 existing
 themes, update relevant selections and create at most 1 useful new theme per day.
