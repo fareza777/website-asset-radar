@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/leaf_scattered_gravel",
+  "checkedAt": "2026-10-09T04:43:06.908Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/leaf_scattered_gravel",
+  "apiSha256": "585fc95cb4622fd5ae8c297725a55d0a3592b836d8ec32b8a5e4ee18d53f2695",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leaf_scattered_gravel/leaf_scattered_gravel_diff_1k.jpg",
+  "assetFileMd5": "942caa0033af89f6d92509e8e94dd522",
+  "assetFileSha256": "ef128c7caf2ee7b7da08caea5a5170157162e1773602a154b1a889cb9bf43492",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Leaf Scattered Gravel",
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "gravel",
+      "rock"
+    ],
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "tags": [
+      "forest",
+      "nature",
+      "stones",
+      "autumn",
+      "leaves",
+      "stone-fragments",
+      "organic-debris",
+      "organic-debris",
+      "loose pebbles"
+    ],
+    "description": "Free 8K texture of leaf-littered gravel: dark stones mixed with dried brown leaves and twigs, damp, rough and uneven surface with rich micro detail.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "files_hash": "1776cedc8d340fb844730db8f6773fcb6e1eb2db",
+    "img_version": "a9811e8b",
+    "date_published": 1790726400,
+    "staging": null,
+    "download_count": 663,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leaf_scattered_gravel.png?width=256&height=256&format=webp&v=a9811e8b"
+  }
+}

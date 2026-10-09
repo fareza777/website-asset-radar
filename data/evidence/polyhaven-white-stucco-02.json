@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_stucco_02",
+  "checkedAt": "2026-10-09T04:43:00.055Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_stucco_02",
+  "apiSha256": "cedc9281a7e107b6ad2b807e7392121f746856bf1a7d73b32704530fd9effdaa",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_stucco_02/white_stucco_02_diff_1k.jpg",
+  "assetFileMd5": "388388828a5999a17da48921494a4039",
+  "assetFileSha256": "1bd4c13b65d5a56615ef14d077f39b8907a71ea7cea6c2414cf55f900d03adbc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "White Stucco 02",
+    "categories": [
+      "outdoor",
+      "wall",
+      "plaster",
+      "plaster-concrete",
+      "man made"
+    ],
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "tags": [
+      "stucco",
+      "rough",
+      "coarse",
+      "exterior",
+      "architectural",
+      "rendered",
+      "skim-coat"
+    ],
+    "description": "Free 8K texture: white stucco material with rough, pitted grain, soft matte sheen and subtle gray variation, crisp normal detail and natural plaster relief.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      0.00007868050033721374,
+      1800.0000715255737
+    ],
+    "files_hash": "eaac73c249dce8e61e9cc75820631f7e87f187a9",
+    "img_version": "eb848324",
+    "date_published": 1791158400,
+    "staging": null,
+    "download_count": 800,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_stucco_02.png?width=256&height=256&format=webp&v=eb848324"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/multicolored_pebble_floor",
+  "checkedAt": "2026-10-09T04:43:03.536Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/multicolored_pebble_floor",
+  "apiSha256": "00b598e71572e58c889595f7d8e2a231e0000cabe055b2e48a26d44ab804fbcc",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/multicolored_pebble_floor/multicolored_pebble_floor_diff_1k.jpg",
+  "assetFileMd5": "e0ed8d4b9c965ef308401663e558bf42",
+  "assetFileSha256": "a1bd0095b38cc6f746f650130fd29b5963a0457b900be8576957dc03c96b3445",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Multicolored Pebble Floor",
+    "categories": [
+      "outdoor",
+      "floor",
+      "man made",
+      "cobblestone"
+    ],
+    "category": "Stone/Cobblestone & Paving/Rounded Cobbles & Pebbles",
+    "attributes": {
+      "surface_use": "paving",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "tags": [
+      "pebble mosaic",
+      "rounded stones",
+      "stone paving",
+      "street",
+      "embedded stones",
+      "natural stone"
+    ],
+    "description": "Free 8K pebble floor texture of multicolored rounded stones in cement, subtle gloss on stones, rough grout, natural gray/brown tones, strong relief.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "e68bcb96-6d27-562a-bac7-d821ebdaa2a7",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "img_version": "8fa4cf50",
+    "files_hash": "c822c5ac4e64310c5ffc7e56b330bed9426e0087",
+    "date_published": 1790899200,
+    "staging": null,
+    "download_count": 635,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/multicolored_pebble_floor.png?width=256&height=256&format=webp&v=8fa4cf50"
+  }
+}

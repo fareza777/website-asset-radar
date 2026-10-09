@@ -1,5 +1,17 @@
 [
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 67,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-08T11:23:21.717Z",
     "id": "kenney-tiny-town",
     "title": "Tiny Town",
     "author": "Kenney",
@@ -46,7 +58,9 @@
       "sha256": "cb909e46bf51deb2906eeeb14b323aa42e861a738a734f449dc460ad682e4ccc",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
+    "featured": true
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -55,12 +69,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 67,
+    "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:21.717Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:24.063Z",
     "id": "kenney-nature-kit",
     "title": "Nature Kit",
     "author": "Kenney",
@@ -107,7 +119,9 @@
       "sha256": "ec44c42bdbfbdfbe84f4337f6f30af6c208bfa993e61e3c60270474284cc597a",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
+    "featured": true
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -116,12 +130,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 71,
+    "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:24.063Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:25.817Z",
     "id": "kenney-tiny-dungeon",
     "title": "Tiny Dungeon",
     "author": "Kenney",
@@ -166,7 +178,9 @@
       "sha256": "2b922fefcaa5728986e0b5c1fb901a51c3e571c39e6bed1a22fa1ffdf504370f",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
+    "featured": true
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -175,12 +189,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 67,
+    "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:25.817Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:27.562Z",
     "id": "kenney-ui-pack",
     "title": "UI Pack",
     "author": "Kenney",
@@ -227,7 +239,9 @@
       "sha256": "653c84028dd03c368ec35451689585756b6a1f2d9a5e37b4986eeca2637d4fb0",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
+    "featured": true
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -236,12 +250,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 71,
+    "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:27.562Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:29.287Z",
     "id": "kenney-tiny-battle",
     "title": "Tiny Battle",
     "author": "Kenney",
@@ -288,7 +300,9 @@
       "sha256": "03d4fbcc8a1f08be69a642d6f6bbcd7c19abc6cf7bb7498a2236420f323ce6af",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -298,11 +312,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:29.287Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:31.008Z",
     "id": "kenney-tiny-farm",
     "title": "Tiny Farm",
     "author": "Kenney",
@@ -348,7 +360,9 @@
       "sha256": "72a5011248c9c608763960dbf3fba99f03dbbda03198855f86327e361bdd2bf3",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -358,11 +372,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:31.008Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:32.733Z",
     "id": "kenney-pixel-platformer",
     "title": "Pixel Platformer",
     "author": "Kenney",
@@ -405,7 +417,9 @@
       "sha256": "58aaba5ff85a2786191e7daff18e540b9c89c925e67873ec6028d3d868deee69",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
+    "featured": true
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -414,12 +428,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 67,
+    "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:32.733Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:34.459Z",
     "id": "kenney-simplified-platformer-pack",
     "title": "Simplified Platformer Pack",
     "author": "Kenney",
@@ -462,7 +474,9 @@
       "sha256": "729780e2aaaecbd1d18f99b65c01fd035604b84f3561f5b5904bce027643c7e9",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -472,11 +486,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:34.459Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:36.268Z",
     "id": "kenney-castle-kit",
     "title": "Castle Kit",
     "author": "Kenney",
@@ -521,7 +533,9 @@
       "sha256": "e827745f432d65e590e69287120a4d5d1a1595cbc687876f7ad65948a81c5655",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -531,11 +545,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:36.268Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:38.055Z",
     "id": "kenney-survival-kit",
     "title": "Survival Kit",
     "author": "Kenney",
@@ -580,7 +592,9 @@
       "sha256": "701745dfb5e19516ffd4431f1802cd2a85f2da3dd2aafcd06e66aba1a13c5429",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -590,11 +604,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:38.055Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:39.817Z",
     "id": "kenney-mini-dungeon",
     "title": "Mini Dungeon",
     "author": "Kenney",
@@ -641,7 +653,9 @@
       "sha256": "7a65382e432f273014d2c96b4eb59bf1d99e49b3009888a7c9dbc702c7942c56",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -651,11 +665,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:39.817Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:41.642Z",
     "id": "kenney-pirate-kit",
     "title": "Pirate Kit",
     "author": "Kenney",
@@ -704,7 +716,9 @@
       "sha256": "20d32149b250f919d125d1f7ec8690cc9ee3e62ac729aae9ee9b386179a48907",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -714,11 +728,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:41.642Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:43.472Z",
     "id": "kenney-city-kit-suburban",
     "title": "City Kit (Suburban)",
     "author": "Kenney",
@@ -764,7 +776,9 @@
       "sha256": "5aa4aa641d466b1ab07348a2924b170f24e398e5933c3e980e9d73fab4476b48",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -774,11 +788,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:43.472Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:45.398Z",
     "id": "kenney-food-kit",
     "title": "Food Kit",
     "author": "Kenney",
@@ -824,7 +836,9 @@
       "sha256": "5824d6462448e59a111e8528cda7416484f1086b415aaa8b5fde02d65dbefe93",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -834,11 +848,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:45.398Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:47.135Z",
     "id": "kenney-ui-pack-rpg-expansion",
     "title": "UI Pack (RPG Expansion)",
     "author": "Kenney",
@@ -885,7 +897,9 @@
       "sha256": "4228f214927f81f7f47ca9f91abd6d11838d3d90ec785d968ca53f0f8f7b23dc",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -895,11 +909,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:47.135Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:48.883Z",
     "id": "kenney-game-icons",
     "title": "Game Icons",
     "author": "Kenney",
@@ -945,7 +957,9 @@
       "sha256": "88a3fe23453a9ede2de08a1f40c8b93c2754085548956b676d41be215e13e5dc",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -955,11 +969,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:48.883Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:50.787Z",
     "id": "kenney-input-prompts",
     "title": "Input Prompts",
     "author": "Kenney",
@@ -1006,7 +1018,9 @@
       "sha256": "fd1fe0bb41875b06037a4f142302a47de837369ddb8bc0d1a3c37de5b70cf0aa",
       "note": "Preview of an actual CC0 controller graphic from the asset archive, optimized against an original background."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1015,12 +1029,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 71,
+    "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:50.787Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:52.627Z",
     "id": "kenney-rpg-audio",
     "title": "RPG Audio",
     "author": "Kenney",
@@ -1066,7 +1078,9 @@
       "sha256": "2ef665bd8b65dbe669f4560be38a6d8f04a162e618b15a49e3e71b58e558aab0",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1076,11 +1090,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:52.627Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:54.425Z",
     "id": "kenney-interface-sounds",
     "title": "Interface Sounds",
     "author": "Kenney",
@@ -1125,7 +1137,9 @@
       "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1135,11 +1149,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:54.425Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:56.215Z",
     "id": "kenney-impact-sounds",
     "title": "Impact Sounds",
     "author": "Kenney",
@@ -1183,7 +1195,9 @@
       "sha256": "b9524658b52a99a20590f8feefc103088637fd13ea8ec35811aee785e1f2f330",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1193,11 +1207,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:56.215Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:23:58.018Z",
     "id": "kenney-music-jingles",
     "title": "Music Jingles",
     "author": "Kenney",
@@ -1240,7 +1252,9 @@
       "sha256": "1010c9b566d6c090ff03a4aaaf7439e26eb4cc4f20373800d0b7e6a9057b795d",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1249,12 +1263,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 70,
+    "radarScore": 68,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:23:58.018Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:28:01.152Z",
     "id": "polyhaven-brown-planks-03",
     "title": "Brown Planks 03",
     "author": "Rob Tuytel",
@@ -1303,7 +1315,9 @@
       "license": "CC0",
       "sha256": "8dfae22286fa9bb0ed62ce7326e8bc14c284e567d38fd64b5a453838080ecf19",
       "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
-    },
+    }
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1313,11 +1327,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 68,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:28:01.152Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:28:01.778Z",
     "id": "polyhaven-rock-boulder-cracked",
     "title": "Rock Boulder Cracked",
     "author": "Dario Barresi & Dimitrios Savva",
@@ -1365,7 +1377,9 @@
       "license": "CC0",
       "sha256": "e88c9e50109c7f610bc380a00b9bdac5954c392bb02134dedeea3358da57276a",
       "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
-    },
+    }
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -1375,11 +1389,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 68,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T11:28:01.778Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T11:28:02.286Z",
     "id": "polyhaven-forest-ground-04",
     "title": "Forest Ground 04",
     "author": "Rob Tuytel & Rico Cilliers",
@@ -1427,19 +1439,7 @@
       "license": "CC0",
       "sha256": "50a4dda30875020c64385261aa7e00e2155b592302fa6794165f58fae73cbd2c",
       "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
-    },
-    "type": "free",
-    "originalPrice": null,
-    "salePrice": 0,
-    "discountPercent": null,
-    "currency": null,
-    "expiresAt": null,
-    "rating": null,
-    "reviewCount": null,
-    "radarScore": 68,
-    "commercialUse": true,
-    "lastChecked": "2026-10-08T11:28:02.286Z",
-    "dealScore": null
+    }
   },
   {
     "type": "free",
@@ -1451,6 +1451,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:16:10.480Z",
     "id": "kenney-fantasy-town-kit",
@@ -1500,8 +1501,7 @@
       "sha256": "ff91a6ef330b802fb352228795fc55f14ad30938e270a9279c3c80a4d7cdd489",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
-    "dealScore": null
+    "featured": true
   },
   {
     "type": "free",
@@ -1513,6 +1513,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:16:41.122Z",
     "id": "kenney-modular-dungeon-kit",
@@ -1560,8 +1561,7 @@
       "sha256": "09d8cbc0c727cda99734417a1c186f2d14e611faa4c71113fa03da6ce968961d",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
-    "dealScore": null
+    "featured": true
   },
   {
     "type": "free",
@@ -1573,6 +1573,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:17:12.245Z",
     "id": "kenney-modular-cave-kit",
@@ -1621,8 +1622,7 @@
       "sha256": "01350e2604223b174852717bf0b9762dfdb435e23a908141fe5070ab629d91bd",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1634,6 +1634,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:17:20.141Z",
     "id": "kenney-mini-forest",
@@ -1682,8 +1683,7 @@
       "sha256": "eecf4eb023bfaabb1c8930e413a3a58991bab0b376c6818742a09f99b3e4046c",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1695,6 +1695,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:17:43.491Z",
     "id": "kenney-city-kit-industrial",
@@ -1744,8 +1745,7 @@
       "sha256": "da7d3eaffba43b0068dca6e462a5d27aeabe320859a5c74b2241a22a5b4d3c6b",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1757,6 +1757,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:18:06.503Z",
     "id": "kenney-factory-kit",
@@ -1806,8 +1807,7 @@
       "sha256": "81e6ddc15ee60af66235447d4584b6bbbe1c004431d3baf4083916a213442025",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1819,6 +1819,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:18:20.736Z",
     "id": "kenney-city-kit-roads",
@@ -1866,8 +1867,7 @@
       "sha256": "fd2a6725305726b706912636af5b388a5de7e15bdfe33ac74f3bf36d58115e3b",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1879,6 +1879,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:18:40.032Z",
     "id": "kenney-city-kit-commercial",
@@ -1926,8 +1927,7 @@
       "sha256": "e4a8153a5064a1eda1b8e04e0db5064ed0481cb05fd978516792d24eafe2ba5e",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1939,6 +1939,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:19:00.706Z",
     "id": "kenney-platformer-kit",
@@ -1986,8 +1987,7 @@
       "sha256": "a7eefbc9fdf5654672d9d3c4c31342137ab3a152ec7b48406315dd82c3390976",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -1999,6 +1999,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:19:22.332Z",
     "id": "kenney-car-kit",
@@ -2047,8 +2048,7 @@
       "sha256": "a6241f3f50ce9f93cfe833091748877b94df552532255efb5f061c4aeee6dfc8",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2060,6 +2060,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:19:47.287Z",
     "id": "kenney-graveyard-kit",
@@ -2110,8 +2111,7 @@
       "sha256": "152abc150ca638598289d1986ae4c2fe39fb59ecd8a7bce4aa0011529f1f1ba9",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2123,6 +2123,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:20:16.734Z",
     "id": "kenney-modular-space-kit",
@@ -2172,8 +2173,7 @@
       "sha256": "79440c5bbf7f2bd4e58f563b54909e239f5a94356062c43ace95dab6ddb2d136",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2185,6 +2185,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:20:45.182Z",
     "id": "kenney-space-kit",
@@ -2232,8 +2233,7 @@
       "sha256": "5a5286df1b4a7719bd184db5ad14f3be93c5f65da224671cde01a1f191f846b3",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2245,6 +2245,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:20:55.513Z",
     "id": "kenney-space-station-kit",
@@ -2293,8 +2294,7 @@
       "sha256": "948b53fe7ec59b0594b07b004cda4763e2a631e83049ca986879c00e22c4151c",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2306,6 +2306,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:21:06.603Z",
     "id": "kenney-retro-fantasy-kit",
@@ -2355,8 +2356,7 @@
       "sha256": "bb72b872bb8be1b49ea839b69d27007b86fce7a84874d7e1d0dac8ec50ffbd02",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2368,6 +2368,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:21:23.555Z",
     "id": "kenney-retro-urban-kit",
@@ -2416,8 +2417,7 @@
       "sha256": "070a5b455f2d49a58650a22ab1ec4a3d7e59a8861618b04aac8359aea90ad9c2",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2429,6 +2429,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:21:48.906Z",
     "id": "kenney-tower-defense-kit",
@@ -2476,8 +2477,7 @@
       "sha256": "13d2066156033f2a71e63341b2aec0b2fa5a89bf25364767dfeca23074ede298",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2489,6 +2489,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:22:13.557Z",
     "id": "kenney-train-kit",
@@ -2539,8 +2540,7 @@
       "sha256": "19ded823791ea411d7e3a156cc32c7755ab5ac1df35361214ec7536bc9a99960",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2552,6 +2552,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:22:21.572Z",
     "id": "kenney-mini-market",
@@ -2601,8 +2602,7 @@
       "sha256": "77e54d04afde778892f0e2a7ab548b6daaa6b7922a8fcd4bee97b9b9c1dd094b",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2614,6 +2614,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:22:31.344Z",
     "id": "kenney-building-kit",
@@ -2661,8 +2662,7 @@
       "sha256": "8a4286aa805789be8d5ace82aa8fe21bf72c61fa44c0d02689be5a47173390d4",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2674,6 +2674,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:22:57.588Z",
     "id": "kenney-furniture-kit",
@@ -2724,8 +2725,7 @@
       "sha256": "db093becbb7f5682d17e795786ee8983df7d99311d925734372a92f5efb89f39",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2737,6 +2737,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:23:12.970Z",
     "id": "kenney-prototype-kit",
@@ -2788,8 +2789,7 @@
       "sha256": "2fab1abaad596f45fd3dfda5af2aa50bc27831d74392d87431972a33b46c6164",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2801,6 +2801,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:23:23.791Z",
     "id": "kenney-watercraft-kit",
@@ -2849,8 +2850,7 @@
       "sha256": "0c0fb0c5d606b04cd53caf63f0a2dbfcaeb1150d7df367a9270ac6e448127bc3",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2862,6 +2862,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:23:51.242Z",
     "id": "kenney-racing-kit",
@@ -2910,8 +2911,7 @@
       "sha256": "2314cda05884e6a81440b6fa897b1f387a56ef32da1e842e0198e2447627e55e",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -2923,6 +2923,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:23:54.873Z",
     "id": "kenney-tiny-factory",
@@ -2969,8 +2970,7 @@
       "sha256": "0bf3bb0d048cf4c7f18b65c0da668a7824c49dfd7c076e93cca71123b5899ed4",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
-    "dealScore": null
+    "featured": true
   },
   {
     "type": "free",
@@ -2982,6 +2982,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:02.298Z",
     "id": "kenney-pico-8-platformer",
@@ -3028,8 +3029,7 @@
       "sha256": "9472a55dfef82d12c2054920b66f50cbe501ad38f4a98a122bc21f92437f0793",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3041,6 +3041,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:21.899Z",
     "id": "kenney-pixel-platformer-farm-expansion",
@@ -3086,8 +3087,7 @@
       "sha256": "cb1757fafd807f0c187c3041626ca177b7942d4e1dfad7164afbe733f4e9ef06",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3099,6 +3099,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:25.989Z",
     "id": "kenney-pixel-platformer-industrial-expansion",
@@ -3146,8 +3147,7 @@
       "sha256": "cb89295cba513b994f59a0019dc17cf1f85384e609f583f17adaf138d399cf10",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3159,6 +3159,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:29.896Z",
     "id": "kenney-pixel-platformer-food-expansion",
@@ -3204,8 +3205,7 @@
       "sha256": "d74546f58ce7c9b6fba855bad1aaa633a2aacf4a0eff9028d979033b8fd44dce",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3217,6 +3217,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:39.326Z",
     "id": "kenney-1-bit-platformer-pack",
@@ -3264,8 +3265,7 @@
       "sha256": "e67474c6e424f659dbac4f0b21cd8415316ffb06ab556faafa7ef35d323a4063",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3277,6 +3277,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:43.478Z",
     "id": "kenney-micro-roguelike",
@@ -3323,8 +3324,7 @@
       "sha256": "94117e63df4ad55ae425a109a447048a640accaa27f9ae2ab54e948f0d7d80cc",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3336,6 +3336,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:48.400Z",
     "id": "kenney-monochrome-rpg",
@@ -3381,8 +3382,7 @@
       "sha256": "2d4a62f325a3815f9177199a001a427f9aed89d075b65994cdc0677d2ae9e8a1",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3394,6 +3394,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:54.685Z",
     "id": "kenney-roguelike-rpg-pack",
@@ -3443,8 +3444,7 @@
       "sha256": "da141c9b1add3d6944c4d9b516a235ef59ae58fc39579e982b3995ba7172f935",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3456,6 +3456,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:24:58.825Z",
     "id": "kenney-roguelike-caves-dungeons",
@@ -3505,8 +3506,7 @@
       "sha256": "75ca995bf2b90bb6870a7e3e76cd484078a75da0c7b66fb61370ab338d29c29d",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3518,6 +3518,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:25:05.417Z",
     "id": "kenney-roguelike-indoors",
@@ -3563,8 +3564,7 @@
       "sha256": "1d60557a73cee216790eb1f9cdf0286f2f8faccb5313a25475b489a3219a2b96",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3576,6 +3576,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:25:10.100Z",
     "id": "kenney-rpg-urban-pack",
@@ -3623,8 +3624,7 @@
       "sha256": "7e8891b85b79bb3cc944edddd05996452f8fbc6cb9753831b9c9db30b0b8bbdd",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3636,6 +3636,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:25:54.285Z",
     "id": "kenney-isometric-miniature-farm",
@@ -3680,8 +3681,7 @@
       "sha256": "429a4b996837af7ab6a88467443b349660ffd9aa23a3c775481cc30b7267eba5",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3693,6 +3693,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:26:54.486Z",
     "id": "kenney-isometric-miniature-dungeon",
@@ -3736,8 +3737,7 @@
       "sha256": "109331ef0d654fe83098daf6e7078524221382180e87fe29e569f1522ca78b5f",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3749,6 +3749,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:27:01.921Z",
     "id": "kenney-scribble-platformer",
@@ -3792,8 +3793,7 @@
       "sha256": "617fc97c0bf4e0feded8189762135a2fbdbb572bf3a455e769aff21e0bead67b",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3805,6 +3805,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:27:19.356Z",
     "id": "kenney-platformer-pack-medieval",
@@ -3852,8 +3853,7 @@
       "sha256": "6731e73859e6d1021e3c3b1a635a042b718bd0b4fb06138b2c8f58ac8903419f",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3865,6 +3865,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:27:23.456Z",
     "id": "kenney-roguelike-characters",
@@ -3910,8 +3911,7 @@
       "sha256": "451f0b67e1b4e7c92e1fb503f1e989af149ad99fa699bc5dbf137804e27e4cf9",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -3923,6 +3923,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:27:28.161Z",
     "id": "kenney-ui-pack-pixel-adventure",
@@ -3970,8 +3971,7 @@
       "sha256": "ea97eda6ebae4d6ba3f983e1a04643c83174484134803b80e3e8f320e6afcd9d",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": true,
-    "dealScore": null
+    "featured": true
   },
   {
     "type": "free",
@@ -3983,6 +3983,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:27:41.940Z",
     "id": "kenney-ui-pack-sci-fi",
@@ -4031,8 +4032,7 @@
       "sha256": "0479f3a1a94497e9bf7f765339a730e5c87f2287b9e806c5e616be3e9c16f14d",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4044,6 +4044,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:27:47.912Z",
     "id": "kenney-ui-pack-adventure",
@@ -4091,8 +4092,7 @@
       "sha256": "7722a97c3774322fa0fa2dda1c596169b9b4581b25afcf59f07ce4b37fe244f5",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4104,6 +4104,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:05.995Z",
     "id": "kenney-mobile-controls",
@@ -4151,8 +4152,7 @@
       "sha256": "39e2da18290228fad5115ec1b61945be9b80b55240be71cde7e0e298e195e6b8",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4164,6 +4164,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:12.205Z",
     "id": "kenney-cursor-pack",
@@ -4209,8 +4210,7 @@
       "sha256": "1e044464d692a9419d89affa29b37d486842e5f2bfbac55ebe3fd1b8ea2ae056",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4222,6 +4222,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:16.017Z",
     "id": "kenney-cursor-pixel-pack",
@@ -4267,8 +4268,7 @@
       "sha256": "f6c4afae11efd83b4d000e3058289ac1b71e2f07e2d79c196b46592d362a11b3",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4280,6 +4280,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:31.284Z",
     "id": "kenney-crosshair-pack",
@@ -4326,8 +4327,7 @@
       "sha256": "5fb727b2a274099ba07270429bf7950b5b18b5bfabf6015d9701525ad8127a0f",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4339,6 +4339,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 71,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:42.407Z",
     "id": "kenney-game-icons-expansion",
@@ -4386,8 +4387,7 @@
       "sha256": "16bd53274f519148c77aba2f0df3d049946fcd589a24fba238d8847f8e2e704b",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4399,6 +4399,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:49.932Z",
     "id": "kenney-input-prompts-pixel",
@@ -4447,8 +4448,7 @@
       "sha256": "fc6b7f9aefeb285bc246eb96e2dcac47c04b5771683813d40a383a8ef9e770e7",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4460,6 +4460,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:28:53.768Z",
     "id": "kenney-pixel-ui-pack",
@@ -4504,8 +4505,7 @@
       "sha256": "e2dda1fb46d863d99352b59dc7169fc1624e778e6d57d6925314225f4f68a825",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4517,6 +4517,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:29:19.445Z",
     "id": "kenney-sci-fi-sounds",
@@ -4562,8 +4563,7 @@
       "sha256": "1527944e16eb14b48ee03fe3e7ce6aae94262833a4e1f83928d451a7414fe4e1",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4575,6 +4575,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:29:26.697Z",
     "id": "kenney-digital-audio",
@@ -4620,8 +4621,7 @@
       "sha256": "cdbea353b2e435b4f869c7b045af81079c5d5eb81cfbbc805013ccc3a7a0f36a",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
     "type": "free",
@@ -4633,6 +4633,7 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 70,
+    "dealScore": null,
     "commercialUse": true,
     "lastChecked": "2026-10-08T21:29:31.837Z",
     "id": "kenney-ui-audio",
@@ -4679,10 +4680,21 @@
       "sha256": "59175ac17cd49a68dd736285738441287636112a84a6f7ce0d89921bda5a5360",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
-    "dealScore": null
+    "featured": false
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 70,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-08T21:29:43.063Z",
     "id": "kenney-voiceover-pack-fighter",
     "title": "Voiceover Pack (Fighter)",
     "author": "Kenney",
@@ -4726,7 +4738,9 @@
       "sha256": "232c59c88113298e4d7de15a0ad4e00efb4d040d3efec683dd5f9b1394ce0eac",
       "note": "Original waveform visualization measured from the decoded CC0 audio sample named in this record. The audio preview is one sound, not the complete pack."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -4735,12 +4749,10 @@
     "expiresAt": null,
     "rating": null,
     "reviewCount": null,
-    "radarScore": 70,
+    "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T21:29:43.063Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T21:30:42.736Z",
     "id": "kenney-particle-pack",
     "title": "Particle Pack",
     "author": "Kenney",
@@ -4784,7 +4796,9 @@
       "sha256": "37b1b04371116a4ed3b2316056880034b0db7f59605a50c9058591de01b716e0",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -4794,11 +4808,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T21:30:42.736Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T21:31:08.706Z",
     "id": "kenney-smoke-particles",
     "title": "Smoke Particles",
     "author": "Kenney",
@@ -4843,7 +4855,9 @@
       "sha256": "861a60214db4a740c18249d614cfa68d20d2c3614042a1305c356fc9e5e6c99c",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
-    "featured": false,
+    "featured": false
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -4853,11 +4867,9 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T21:31:08.706Z",
-    "dealScore": null
-  },
-  {
+    "lastChecked": "2026-10-08T21:32:08.292Z",
     "id": "kenney-light-masks",
     "title": "Light Masks",
     "author": "Kenney",
@@ -4902,6 +4914,52 @@
       "sha256": "39f575515c791f1d092d8832ffe33575cd6071f8707bef3b5aac379d200aff29",
       "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
     },
+    "featured": false
+  },
+  {
+    "id": "kenney-skyboxes-space",
+    "title": "Skyboxes Space",
+    "author": "Kenney",
+    "summary": "Five CC0 space skybox textures of galaxies and nebulas, listed by Kenney as a 2026 texture release.",
+    "categories": [
+      "3D"
+    ],
+    "dimension": "2D",
+    "assetType": "Textures",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/skyboxes-space",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/skyboxes-space",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Skyboxes Space; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "0b3fe9caf08fa3fd77eb45a35e60aa2077ef8aae05929095931177c0fb3bb954",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "skybox",
+      "space",
+      "galaxy",
+      "nebula"
+    ],
+    "fileCount": 5,
+    "preview": "/previews/kenney-skyboxes-space.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/skyboxes-space/b3d0ebe0d4-1790850383/kenney_skyboxes-space.zip",
+      "file": "Preview.png",
+      "license": "CC0",
+      "sha256": "19e793fc305afc8b58d4682045f48830335f69b7e1124e6b46fe6b7f060c6437",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
     "featured": false,
     "type": "free",
     "originalPrice": null,
@@ -4912,8 +4970,486 @@
     "rating": null,
     "reviewCount": null,
     "radarScore": 67,
+    "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-10-08T21:32:08.292Z",
-    "dealScore": null
+    "lastChecked": "2026-10-09T04:42:08.098Z"
+  },
+  {
+    "id": "kenney-scribble-platformer-expansion",
+    "title": "Scribble Platformer Expansion",
+    "author": "Kenney",
+    "summary": "Seventy scribble-style platformer tiles at 64 by 64 pixels, published as a CC0 expansion in 2026.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/scribble-platformer-expansion",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/scribble-platformer-expansion",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Scribble Platformer Expansion; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "e4643e770063b204e972c394b2d046a42adf87282ba7b6f59506885d5568e409",
+    "formats": [
+      "PNG",
+      "SVG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "platformer"
+    ],
+    "fileCount": 70,
+    "preview": "/previews/kenney-scribble-platformer-expansion.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/scribble-platformer-expansion/e28d7ba15c-1787574405/kenney_scribble-platformer-expansion_1.0.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "7fdccc29a9090e8561513355f8c2421dc86684555cc290bca6b8c3572cf35868",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false,
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 71,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:42:13.696Z"
+  },
+  {
+    "id": "kenney-blocky-characters",
+    "title": "Blocky Characters",
+    "author": "Kenney",
+    "summary": "Twenty animated blocky 3D character files. Kenney lists this CC0 pack as a complete version 2.0 remake.",
+    "categories": [
+      "3D"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/blocky-characters",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Blocky Characters; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "3c9181984f92988437774eafa421cfc7234723b06bdb1e72b41e88bf581d41ee",
+    "formats": [
+      "PNG",
+      "FBX",
+      "OBJ",
+      "GLB"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "character"
+    ],
+    "fileCount": 20,
+    "preview": "/previews/kenney-blocky-characters.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/blocky-characters/8369c0cf30-1749547469/kenney_blocky-characters_20.zip",
+      "file": "Preview.png",
+      "license": "CC0",
+      "sha256": "8cd352a9f9bcfb5dc51c23df5fb02965facd2d899bed3e172072ab32968e42b2",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false,
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 67,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:42:27.179Z"
+  },
+  {
+    "id": "kenney-fish-pack",
+    "title": "Fish Pack",
+    "author": "Kenney",
+    "summary": "One hundred twenty 2D fish and underwater animal sprites. Version 2.0 adds separate vector files under CC0.",
+    "categories": [
+      "Survival"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "Kenney",
+    "sourceUrl": "https://kenney.nl/assets/fish-pack",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://kenney.nl/assets/fish-pack",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Fish Pack; License: Creative Commons CC0; free download confirmed on the source page and in License.txt.",
+    "evidenceSha256": "088d5d84fb4009de4317b3ed962fe634b498d8ce45dac6f38c2e6f829b450dc4",
+    "formats": [
+      "PNG",
+      "SVG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal",
+      "GameMaker"
+    ],
+    "engineNote": "Engine filters indicate standard file formats that can be imported. These are raw assets, not official engine integrations or ready-made projects; setup or conversion may be required.",
+    "tags": [
+      "fish",
+      "underwater",
+      "animal"
+    ],
+    "fileCount": 120,
+    "preview": "/previews/kenney-fish-pack.webp",
+    "previewProvenance": {
+      "url": "https://kenney.nl/media/pages/assets/fish-pack/07ae98c5b6-1747237960/kenney_fish-pack_2.zip",
+      "file": "Sample.png",
+      "license": "CC0",
+      "sha256": "fcff920afba94f1ff2abea109f8c510dcd8d399cfd0517f182a8735ba95ad08c",
+      "note": "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding."
+    },
+    "featured": false,
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 71,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:42:33.239Z"
+  },
+  {
+    "id": "polyhaven-square-pavers",
+    "title": "Square Pavers",
+    "author": "Dario Barresi",
+    "authors": [
+      "Dario Barresi"
+    ],
+    "summary": "Weathered square brick pavers for outdoor walkways, published by Dario Barresi with diffuse, normal, roughness, and displacement maps.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/square_pavers",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/square_pavers",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "4984ff5e057de6308dc679f3e33e6189e0cd31891ab9d55df5f42c51b423a842",
+    "formats": [
+      "EXR",
+      "JPG",
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "floor",
+      "man made",
+      "outdoor",
+      "brick"
+    ],
+    "preview": "/previews/polyhaven-square-pavers.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_pavers/square_pavers_diff_1k.jpg",
+      "file": "square_pavers_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "6f6c670ffd01fc28d90de920c9a6804d963920bd7ed9d13e69390c17d63aa16e",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 68,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:42:54.070Z"
+  },
+  {
+    "id": "polyhaven-herringbone-concrete-tile-03",
+    "title": "Herringbone Concrete Tile 03",
+    "author": "Charlotte Baglioni",
+    "authors": [
+      "Charlotte Baglioni"
+    ],
+    "summary": "Weathered herringbone concrete pavers for exterior surfaces, published by Charlotte Baglioni with the standard texture-map set.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/herringbone_concrete_tile_03",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/herringbone_concrete_tile_03",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "e02592b0f62607bc1170d9543f641d7793ffde7b3c4d762f31db1afc6f1ad85f",
+    "formats": [
+      "EXR",
+      "JPG",
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "man made",
+      "outdoor",
+      "plaster-concrete"
+    ],
+    "preview": "/previews/polyhaven-herringbone-concrete-tile-03.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/herringbone_concrete_tile_03/herringbone_concrete_tile_03_diff_1k.jpg",
+      "file": "herringbone_concrete_tile_03_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "6b56b78e65ec664b924482c7783155f1cdd1ea57bbd6f64839e2e9ee8a0e8d3f",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 68,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:42:56.502Z"
+  },
+  {
+    "id": "polyhaven-white-stucco-02",
+    "title": "White Stucco 02",
+    "author": "Dimitrios Savva",
+    "authors": [
+      "Dimitrios Savva"
+    ],
+    "summary": "A coarse white exterior stucco wall material by Dimitrios Savva, supplied as CC0 surface maps rather than a finished scene.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/white_stucco_02",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/white_stucco_02",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "cedc9281a7e107b6ad2b807e7392121f746856bf1a7d73b32704530fd9effdaa",
+    "formats": [
+      "EXR",
+      "JPG",
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "outdoor",
+      "wall",
+      "plaster",
+      "plaster-concrete",
+      "man made"
+    ],
+    "preview": "/previews/polyhaven-white-stucco-02.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_stucco_02/white_stucco_02_diff_1k.jpg",
+      "file": "white_stucco_02_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "1bd4c13b65d5a56615ef14d077f39b8907a71ea7cea6c2414cf55f900d03adbc",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 68,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:43:00.055Z"
+  },
+  {
+    "id": "polyhaven-multicolored-pebble-floor",
+    "title": "Multicolored Pebble Floor",
+    "author": "Dimitrios Savva",
+    "authors": [
+      "Dimitrios Savva"
+    ],
+    "summary": "An outdoor pebble-mosaic floor of rounded stones by Dimitrios Savva, supplied as CC0 paving texture maps.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/multicolored_pebble_floor",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/multicolored_pebble_floor",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "00b598e71572e58c889595f7d8e2a231e0000cabe055b2e48a26d44ab804fbcc",
+    "formats": [
+      "EXR",
+      "JPG",
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "outdoor",
+      "floor",
+      "man made",
+      "cobblestone"
+    ],
+    "preview": "/previews/polyhaven-multicolored-pebble-floor.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/multicolored_pebble_floor/multicolored_pebble_floor_diff_1k.jpg",
+      "file": "multicolored_pebble_floor_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "a1bd0095b38cc6f746f650130fd29b5963a0457b900be8576957dc03c96b3445",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 68,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:43:03.536Z"
+  },
+  {
+    "id": "polyhaven-leaf-scattered-gravel",
+    "title": "Leaf Scattered Gravel",
+    "author": "Dimitrios Savva",
+    "authors": [
+      "Dimitrios Savva"
+    ],
+    "summary": "Outdoor gravel mixed with autumn leaves and loose pebbles, a CC0 terrain texture by Dimitrios Savva.",
+    "categories": [
+      "Survival",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "Poly Haven",
+    "sourceUrl": "https://polyhaven.com/a/leaf_scattered_gravel",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://api.polyhaven.com/info/leaf_scattered_gravel",
+    "verifiedAt": "2026-10-09",
+    "addedAt": "2026-10-09",
+    "evidence": "Asset identity confirmed by the Poly Haven public API. Poly Haven's published license dedicates its texture assets to CC0. Preview uses the actual diffuse map, not a restricted example render.",
+    "evidenceSha256": "585fc95cb4622fd5ae8c297725a55d0a3592b836d8ec32b8a5e4ee18d53f2695",
+    "formats": [
+      "EXR",
+      "JPG",
+      "PNG"
+    ],
+    "engines": [
+      "Unity",
+      "Godot",
+      "Unreal"
+    ],
+    "engineNote": "These texture-map formats can be imported into game engines. Materials need to be assembled in your engine; this is not an official engine integration or ready-made project.",
+    "tags": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "gravel",
+      "rock"
+    ],
+    "preview": "/previews/polyhaven-leaf-scattered-gravel.webp",
+    "previewProvenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leaf_scattered_gravel/leaf_scattered_gravel_diff_1k.jpg",
+      "file": "leaf_scattered_gravel_diff_1k.jpg",
+      "license": "CC0",
+      "sha256": "ef128c7caf2ee7b7da08caea5a5170157162e1773602a154b1a889cb9bf43492",
+      "note": "Cropped and optimized from the actual CC0 diffuse texture downloaded using the permitted public API. No website example render is copied."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 68,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-10-09T04:43:06.908Z"
   }
 ]
