@@ -1,4 +1,8 @@
-# Panduan update harian GameAssetRadar di Cursor
+# Panduan update harian Game Asset Radar di Cursor
+
+Pemilik mengizinkan update katalog **langsung commit dan push ke `main` setelah
+semua pemeriksaan lulus**, tanpa PR atau menunggu review. Vercel otomatis deploy
+dari push tersebut. Aturan ini menggantikan alur review manual sebelumnya.
 
 **Maksimum yang disiapkan: 50 aset baru terverifikasi per hari**, gabungan free,
 limited free, dan deals. Ini batas kerja proyek yang dapat ditinjau manusia,
@@ -21,15 +25,15 @@ batas kandidat dan recheck dari file itu.
 | Aset free lama yang dicek ulang                      |                                 20 |
 | Descriptor per batch importer                        |                                  5 |
 | Halaman index Kenney yang diikuti discovery          |                                 20 |
-| Waktu kerja keseluruhan, termasuk validasi dan PR    |                           60 menit |
-| Waktu terakhir yang dicadangkan untuk validasi/PR    |                           10 menit |
+| Waktu kerja keseluruhan, termasuk validasi dan push  |                           60 menit |
+| Waktu terakhir untuk validasi dan publikasi          |                           10 menit |
 | Download archive baru secara kumulatif               |                             500 MB |
-| Draft PR aktif                                       | 1; lanjutkan PR yang masih terbuka |
+| Publikasi                                           | 1 commit terverifikasi/run ke main |
 
 Kualitas dan pengecekan promo lama didahulukan. Batas waktu, bandwidth, izin
 sumber, jumlah temuan, dan penggunaan cloud agent bisa menurunkan hasil harian.
 Nol penambahan boleh terjadi. Rerun manual harus menghitung penambahan yang sudah
-diajukan/di-merge hari itu; jangan membuat tambahan jatah 50. Batas waktu dan
+disiapkan/dipublikasikan hari itu; jangan membuat tambahan jatah 50. Batas waktu dan
 download adalah instruksi untuk agent, bukan timer/billing limiter pada Cursor.
 Importer tetap membatasi ukuran setiap response dan lima descriptor per batch.
 
@@ -37,16 +41,17 @@ Importer tetap membatasi ukuran setiap response dan lima descriptor per batch.
 
 1. Buka [Cursor Automations](https://cursor.com/automations), buat automation,
    pilih **Single repository**: `fareza777/website-asset-radar`, branch `main`.
-2. Nama: **GameAssetRadar — daily verified discovery**. Pilih scheduled trigger
+2. Nama: **Game Asset Radar — daily verified discovery**. Pilih scheduled trigger
    setiap hari **08:00 Asia/Jakarta**. Jika UI menggunakan UTC, gunakan **01:00 UTC**
    (`0 1 * * *`). Pastikan next-run yang ditampilkan sesuai.
 3. Tempel **seluruh isi** [prompt siap pakai](../.cursor/automations/daily-assets.md).
    Gunakan Node.js 24 dan install command `npm ci`. Pilih model sesuai anggaran
    akun; tidak perlu paket hosting/database baru.
-4. Gunakan kemampuan PR bawaan Cursor. Helper shell opsional tersedia jika `gh`
-   sudah terautentikasi. Minta output **draft PR** terhadap `main`.
-5. Save dan Activate di akun Cursor, lalu jalankan satu kali untuk meninjau hasil.
-   Sesudah PR direview dan di-merge, integrasi Vercel yang sudah ada melakukan deploy.
+4. Gunakan akses Git yang tersedia untuk commit dan push langsung ke `main`
+   sesudah validasi. Jangan membuat PR atau menggunakan helper PR lama. Jika
+   akses/proteksi branch menolak push, laporkan; jangan mengubah izin/proteksi.
+5. Save dan Activate di akun Cursor, lalu jalankan satu kali untuk memeriksa hasil.
+   Setiap push yang berhasil ke `main` memicu deploy melalui integrasi Vercel existing.
 
 File prompt dalam repo **belum mengaktifkan jadwal di akun Cursor**. Scheduled
 automations memakai cloud agents; penggunaan agent mengikuti biaya/limit akun.
@@ -56,7 +61,7 @@ harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.c
 
 ## Urutan kerja setiap hari
 
-1. Ambil main terbaru atau lanjutkan draft PR katalog yang masih terbuka. Tolak
+1. Mulai dari main terbaru di checkout automation. Tolak
    perubahan di luar file katalog, bukti, dan media berizin. Install locked dependencies.
 2. Arsipkan promo kedaluwarsa/stale melalui `npm run offers:update`. Jangan
    memperbarui tanggal verifikasi hanya karena menjalankan script.
@@ -80,8 +85,12 @@ harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.c
    updater; updater menghitung discount/Radar Score/Deal Score dan memakai waktu dari evidence.
 7. Recheck sampai 20 free assets lama jika masih dalam waktu. Jalankan semua
    validasi. Hentikan import baru ketika sisa waktu 10 menit.
-8. Buka/perbarui satu draft PR dengan daftar perubahan dan ringkasan angka/bukti.
-   Jangan auto-merge atau deploy langsung. Tanpa perubahan valid, tidak perlu PR.
+8. Stage hanya file katalog/bukti/media berizin yang diperbolehkan, periksa diff,
+   lalu commit dan push langsung ke `main`. Fetch main lagi sebelum push dan
+   pastikan fast-forward; jika main maju, rebase commit katalog milik run ini
+   ke main terbaru lalu jalankan seluruh pemeriksaan lagi. Jangan force-push
+   atau memasukkan perubahan lain. Konflik/validasi gagal berarti publikasi dihentikan.
+   Vercel melakukan deploy otomatis. Tanpa perubahan bermakna, tidak perlu commit/push.
 
 ## Perintah yang dipakai
 
@@ -108,8 +117,11 @@ npm run typecheck
 npm test
 npm run build
 
-# Opsional, hanya jika gh terautentikasi; menjalankan validasi lagi lalu membuat draft PR.
-node scripts/open-catalog-pr.mjs --publish
+# Setelah semua pemeriksaan lulus, stage hanya file yang diizinkan dan commit.
+# Ikuti bagian publikasi langsung dalam docs/automation.md.
+git fetch origin main
+git merge-base --is-ancestor origin/main HEAD
+git push origin HEAD:main
 ```
 
 Discovery hanya menulis `.cache/discovery-report.json`; ia tidak menerbitkan
@@ -166,7 +178,7 @@ jumlah file, engine integration, atau tanggal rilis. Countdown hanya untuk expir
 absolut dengan timezone yang diketahui. Harga/claim promo disembunyikan otomatis
 jika expired atau sudah 48 jam tanpa evidence baru, sekalipun deploy belum berubah.
 
-## Format ringkasan PR
+## Format laporan update harian
 
 ### Skor dan compatibility yang wajib diperiksa
 
@@ -201,8 +213,11 @@ Sisa jatah hari ini: <jumlah>
 Validasi: <hasil sebenarnya>
 Evidence: <source/license/price/preview/compatibility untuk tiap record>
 Skor: <Radar Score kualitas dan Deal Score kesempatan beli, beserta alasan>
+Publikasi: <commit SHA, hasil push, remote main SHA, status deploy yang terverifikasi>
 ```
 
-Review minimal: periksa source/price/license setiap penambahan, isi preview,
-expiry, duplicate, dan hasil CI. Setelah merge, site tetap static dan tidak
-memerlukan akun pengunjung atau paid backend.
+Pemeriksaan otomatis wajib: source/price/license setiap penambahan, isi preview,
+expiry, duplicate, serta lint, TypeScript, tests dan build. Tidak perlu menunggu
+review pemilik. Setelah push, pastikan remote main sesuai commit; jangan menyebut
+deploy berhasil sebelum commit tersebut benar-benar live. Site tetap static
+tanpa akun pengunjung atau paid backend.

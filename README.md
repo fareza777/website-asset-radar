@@ -81,7 +81,7 @@ npm run build
 
 GitHub Actions runs these checks on pushes and pull requests. The `website-asset-radar` project in Fareza's projects is linked to this repository; pushes to `main` deploy production and pull requests get preview deployments. Vercel's Next.js adapter detects `output: "export"` and serves the static export. Leave Vercel's Output Directory override unset so the adapter can read Next.js build manifests. The primary public domain is `https://gameassetradar.top`; `www.gameassetradar.top` redirects to it. Set `NEXT_PUBLIC_SITE_URL` at build time when assigning a different public domain. Run `npx tsx scripts/generate-social-images.ts` to regenerate the social cover with that domain; its artwork comes from the existing licensed Nature Kit preview.
 
-No production secrets are required. The daily maintenance agent needs GitHub access to propose a PR; visitors never need an account. The Cursor automation is prepared in this repository and must be saved and activated in the owner's Cursor account.
+No production secrets are required. The daily maintenance agent needs GitHub access to commit verified catalog updates and push directly to `main` after all checks pass, as authorized by the owner. No PR or manual review is required; the existing Vercel integration deploys each successful push. Visitors never need an account. The Cursor automation is prepared in this repository and must be saved and activated in the owner's Cursor account.
 
 ## Credits
 

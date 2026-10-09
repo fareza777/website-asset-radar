@@ -1,14 +1,14 @@
 # Daily Cursor Automation
 
-The repository contains a ready-to-paste automation prompt, source restrictions, importers, promotion lifecycle validation, and a draft-PR helper. **A file in this repository does not register or activate a native Cursor Automation.** Save it in the owner's Cursor account using the setup below.
+The repository contains a ready-to-paste automation prompt, source restrictions, importers and promotion lifecycle validation. The owner authorizes catalog-only commits and direct pushes to `main` once every check passes, without a PR or manual approval. This replaces the earlier PR-only workflow. **A file in this repository does not register or activate a native Cursor Automation.** Save it in the owner's Cursor account using the setup below.
 
 ## Setup
 
-Open [Cursor Automations](https://cursor.com/automations), create an automation, and select this single repository: `fareza777/website-asset-radar`, base branch `main`. Name it **AssetRadar — daily verified assets**. Set a daily scheduled trigger at **08:00 Asia/Jakarta**; if the schedule uses UTC, use **01:00 UTC**, equivalent to `0 1 * * *`. Confirm the next-run time displayed by Cursor.
+Open [Cursor Automations](https://cursor.com/automations), create an automation, and select this single repository: `fareza777/website-asset-radar`, base branch `main`. Name it **Game Asset Radar — daily verified assets**. Set a daily scheduled trigger at **08:00 Asia/Jakarta**; if the schedule uses UTC, use **01:00 UTC**, equivalent to `0 1 * * *`. Confirm the next-run time displayed by Cursor.
 
-Paste the complete contents of [the automation prompt](../.cursor/automations/daily-assets.md). Use the repository's Node.js 24 environment and install command `npm ci`. Enable PR creation; GitHub CLI access is needed only when using the optional helper. The native PR tool can be used when shell GitHub authentication is unavailable. Save and activate, then run once manually and inspect its draft PR before leaving the schedule enabled.
+Paste the complete contents of [the automation prompt](../.cursor/automations/daily-assets.md). Use the repository's Node.js 24 environment and install command `npm ci`. The agent needs existing Git push access to this repository's `main`; do not enable a PR workflow for these daily updates. Save and activate, then run once manually and inspect the resulting commit/push report. Never change account permissions or branch protections if a push is denied; report the failure.
 
-Cursor supports scheduled cloud-agent automations, repository selection, and PR creation. Runs consume Cursor cloud-agent usage; the website itself needs no paid backend. These setup details follow [Cursor's official automation documentation](https://cursor.com/docs/cloud-agent/automations). The [Indonesian setup/run guide](cursor-daily-guide.md) explains the higher-throughput workflow and review process. Project ceilings in `data/automation-policy.json` allow up to 150 candidate inspections and 50 new verified items per Jakarta day, 50 promotion rechecks and 20 free rechecks, within 60 minutes and 500 MB of new archives. These are project processing limits, not Cursor product limits or guaranteed output. The agent must track time/downloads and reserve 10 minutes for checks and its PR.
+Cursor supports scheduled cloud-agent automations and repository selection. Runs consume Cursor cloud-agent usage; the website itself needs no paid backend. These setup details follow [Cursor's official automation documentation](https://cursor.com/docs/cloud-agent/automations). The [Indonesian setup/run guide](cursor-daily-guide.md) explains the discovery workflow and direct publication process. Project ceilings in `data/automation-policy.json` allow up to 150 candidate inspections and 50 new verified items per Jakarta day, 50 promotion rechecks and 20 free rechecks, within 60 minutes and 500 MB of new archives. These are project processing limits, not Cursor product limits or guaranteed output. The agent must track time/downloads and reserve 10 minutes for checks, commit and push.
 
 ## Ten featured publisher monitors
 
@@ -30,7 +30,7 @@ their product licenses/evidence. Featured profiles may honestly have no listings
 Watch and discovery inspections share the 150-candidate daily ceiling; use
 `catalog:discover -- --limit=100` after a 50-slot publisher watch and reduce both
 to the actual remaining allowance. Journal-only timestamp changes do not merit
-a PR. Include all ten statuses and meaningful changes/failures in the run report.
+a commit. Include all ten statuses and meaningful changes/failures in the run report.
 
 ## Permitted permanent-free sources
 
@@ -61,17 +61,30 @@ Poly Haven descriptors use `{ "slug": "api_confirmed_slug", "summary": "Original
 
 `npm run catalog:check -- --limit=20 --write` rechecks up to 20 oldest entries. A failure writes a review report and leaves the catalog and evidence unchanged. Do not alter dates or label failures verified by hand.
 
-## PR review
+## Direct publication
 
-Reuse an existing open catalog PR before creating a new one. Stop if it is closed, merged, or has unrelated changes. On a clean main checkout with catalog changes, the helper creates `catalog/daily-YYYY-MM-DD`; on an existing catalog branch it updates that branch. It refuses files outside the catalog, evidence, and permitted media directories.
+Start each daily run from the latest `origin/main` in the automation's isolated checkout. Confirm the origin repository is `fareza777/website-asset-radar`. Publish only the files allowed by the daily prompt: catalog/offer/archive/candidate records, exchange-rate snapshot, publisher observation journal, individual evidence JSON, licensed preview WebP and audio OGG. Inspect both working changes and commits ahead of `origin/main`. Do not include application code, dependencies, source policies, publisher configuration, secrets or unrelated work. Never use blanket staging or change permissions/branch protection.
 
 ```sh
-node scripts/open-catalog-pr.mjs --publish
+npm run offers:validate
+npm run catalog:validate
+npm run lint
+npm run typecheck
+npm test
+npm run build
 ```
 
-The helper runs lint, TypeScript, integrity tests, media/evidence validation, and a static production build before pushing. Its default invocation is read-only. If using Cursor's native PR tool, run the same checks first and explicitly request a **draft** against `main`.
+After every check passes and the full diff is verified, stage only the allowed changed files, inspect the staged diff, and make one descriptive catalog commit. Fetch `origin/main` again and require `git merge-base --is-ancestor origin/main HEAD` to succeed. If main advanced, rebase only this run's own catalog commits onto it, inspect the resulting diff and rerun every check. Stop publication on conflicts or failed validation; never force-push. The push itself will reject a concurrent non-fast-forward update.
 
-The PR should list additions/rechecks, original source and license links, verification dates, media provenance, checks performed, and skipped/failed candidates. Attach the run's discovery/link-check summaries. A human reviews and merges. The automation never merges, changes production settings, adds dependencies, or deploys directly. No changes means no PR.
+```sh
+git fetch origin main
+git merge-base --is-ancestor origin/main HEAD
+git push origin HEAD:main
+```
+
+No PR or human approval is required. The existing Vercel integration deploys a successful push to `main`; do not invoke a separate deployment or alter production settings. Report additions/rechecks, source/license/price/preview evidence, actual check dates, counts/budgets, skipped/failed candidates and the pushed SHA. Verify remote `main` matches the commit. Report deployment as pending unless that exact commit is confirmed live. No meaningful changes means no commit/push; unchanged publisher timestamps alone do not justify publication.
+
+The legacy `scripts/open-catalog-pr.mjs` remains available for explicitly requested manual PR work. The daily automation does not invoke it or resume its old review branches.
 
 ## Free Today and Deals Radar
 
