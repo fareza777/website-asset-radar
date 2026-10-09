@@ -2,11 +2,21 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { discoveryLimit, readKenneyIndex } from "../scripts/discovery-utils";
 
-test("daily discovery permits the configured throughput and rejects runaway limits", () => {
+test("discovery batches can exceed the former quota while malformed sizes are rejected", () => {
   assert.equal(discoveryLimit([]), 150);
   assert.equal(discoveryLimit(["--limit=1"]), 1);
   assert.equal(discoveryLimit(["--limit=150"]), 150);
-  for (const value of ["0", "151", "-1", "1.5", "NaN", "Infinity", ""]) {
+  assert.equal(discoveryLimit(["--limit=151"]), 151);
+  assert.equal(discoveryLimit(["--limit=5000"]), 5000);
+  for (const value of [
+    "0",
+    "9007199254740992",
+    "-1",
+    "1.5",
+    "NaN",
+    "Infinity",
+    "",
+  ]) {
     assert.throws(() => discoveryLimit([`--limit=${value}`]));
   }
   assert.throws(() => discoveryLimit(["--limit=5", "--limit=10"]));

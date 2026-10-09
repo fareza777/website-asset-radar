@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/teak_veneer",
+  "checkedAt": "2026-10-09T08:30:24.455Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/teak_veneer",
+  "apiSha256": "4f5e75fe9a54d8ecd2c8010418b333b74a4afebe55e45138118f2a03da139280",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/teak_veneer/teak_veneer_diff_1k.jpg",
+  "assetFileMd5": "0ca1914271448bcec9989ccaf46ea6b8",
+  "assetFileSha256": "ba501180029ec8804e430177e4d67446da23a3be4d5dbad94a498de070324275",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Teak Veneer",
+    "tags": [
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "natural wood",
+      "natural veneer",
+      "natural",
+      "teak",
+      "brown",
+      "wood",
+      "wood grain",
+      "teak wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "81a422ab12abf7df21f2c39122fdd2ae378b48f0",
+    "description": "Free 8K teak veneer texture with warm brown tones, fine natural grain and subtle knots, smooth, low-sheen wood material for furniture and interiors.",
+    "category_id": "3a571502-24b8-50a1-88b0-436a835089a4",
+    "category": "Wood/Veneer/Dark & Exotic Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "373b0a3e",
+    "download_count": 4762,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teak_veneer.png?width=256&height=256&format=webp&v=373b0a3e"
+  }
+}

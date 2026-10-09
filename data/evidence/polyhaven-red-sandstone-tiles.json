@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/red_sandstone_tiles",
+  "checkedAt": "2026-10-09T08:41:28.017Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/red_sandstone_tiles",
+  "apiSha256": "1dba6374e2f24e7c51de92a8df7e8be9c56fe83ab00b461b0d2677b1655467df",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_sandstone_tiles/red_sandstone_tiles_diff_1k.jpg",
+  "assetFileMd5": "ef7c353fc97ceb0999bb93c985c2136e",
+  "assetFileSha256": "5f60643cab96b48baa78e44b8179db4b89d171172acdaf0fea23242d052db196",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Red Sandstone Tiles",
+    "categories": [
+      "floor",
+      "outdoor",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "paving",
+      "sandstone",
+      "coarse",
+      "exterior",
+      "rough  ",
+      "gritty",
+      "stone tiles",
+      "chipped",
+      "stone blocks"
+    ],
+    "description": "Free 8K texture of red sandstone tiles: dark reddish slabs with layered grain, rough stone relief, worn edges, subtle chips, dirt-stained seams, slight sheen.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2050.408124923706,
+      2050.410032272339
+    ],
+    "files_hash": "394ed70d9fe765e99d9bab67e8a036685eb17f6a",
+    "staging": null,
+    "date_published": 1781654400,
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "52c243af",
+    "download_count": 2421,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_sandstone_tiles.png?width=256&height=256&format=webp&v=52c243af"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forest_ground_06",
+  "checkedAt": "2026-10-09T08:37:11.629Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forest_ground_06",
+  "apiSha256": "ea4d8a35275cfed801f96277ebdc6d4e11f274e7484b4f4668e99322698c49ef",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_06/forest_ground_06_diff_1k.jpg",
+  "assetFileMd5": "a91ecaf924f680905dd8be50b32bf3cb",
+  "assetFileSha256": "2bcfe6e3de263e50c236b1e7db09b674a4385e79f8906c94dce4c9d10afa7e18",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Forest Ground 06",
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "floor"
+    ],
+    "tags": [
+      "dirt",
+      "dirty",
+      "soil",
+      "compact soil",
+      "loose earth",
+      "scattered leaves",
+      "forest soil",
+      "forest",
+      "scattered rocks",
+      "forest debris",
+      "pathway",
+      "dry soil",
+      "pebbly",
+      "twigs",
+      "leaves",
+      "fallen leaves"
+    ],
+    "description": "Free 8K forest ground texture with compacted dark soil, scattered pebbles, twigs and leaf flecks, subtle damp sheen and varied roughness.",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2109.999895095825,
+      2109.999895095825
+    ],
+    "files_hash": "2cf0a14d1dc8ade0de0014bfe858942982f490f9",
+    "staging": null,
+    "date_published": 1783641600,
+    "category_id": "2b016db1-a760-53aa-89ac-54c30f13214a",
+    "category": "Ground & Terrain/Forest Floor/Forest Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "info": "This forest ground was scanned near the entrance of the Ichikawa Zoo, in Japan. The zoo became really famous when a [video](https://x.com/Euphorbia10182/status/2018888215525269643) about a baby monkey (Punch!) holding a monkey plushie as a substitute mother went viral.",
+    "img_version": "629ed7e4",
+    "download_count": 17037,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_ground_06.png?width=256&height=256&format=webp&v=629ed7e4"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/silver_oak_veneer_02",
+  "checkedAt": "2026-10-09T08:29:19.215Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/silver_oak_veneer_02",
+  "apiSha256": "24c40e85a484b949ce62c1e642b85039b3457092886caae8249d156c504c1b98",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/silver_oak_veneer_02/silver_oak_veneer_02_diff_1k.jpg",
+  "assetFileMd5": "bf9b181be28b7b03f01629d1ad0818c4",
+  "assetFileSha256": "d62277afe6dc6a57a4150ee980b70b7208770c4c293458260abf32788a747e77",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Silver Oak Veneer 02",
+    "tags": [
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood",
+      "natural wood",
+      "natural veneer",
+      "veneer",
+      "veneer wood",
+      "fine grain",
+      "oak",
+      "wood grain"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "fdc4f522071a076f1189bd2ba409534691660305",
+    "description": "Free 8K texture: Silver oak veneer with fine natural grain, smooth satin surface and pale tone. Versatile for furniture, cabinets, interiors and trims.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "sponsors": [
+      "20953239"
+    ],
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "29edcf97",
+    "download_count": 1819,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/silver_oak_veneer_02.png?width=256&height=256&format=webp&v=29edcf97"
+  }
+}

@@ -29,11 +29,12 @@
       "kenney-rpg-audio",
       "kenney-fantasy-ui-borders",
       "kenney-rune-pack",
-      "kenney-retro-textures-fantasy"
+      "kenney-retro-textures-fantasy",
+      "kenney-scribble-dungeons"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T08:33:52.201Z"
   },
   {
     "id": "wild-by-nature",
@@ -113,7 +114,7 @@
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Space-station and modular sci-fi models, blasters, planet art, sky backgrounds, interface pieces, and sound effects.",
+    "description": "Space-station and modular sci-fi models, 2D shooter art, blasters, planet backgrounds, UI, and sound effects. Choose a visual direction before combining packs.",
     "color": "blue",
     "assetIds": [
       "kenney-space-kit",
@@ -123,10 +124,11 @@
       "kenney-sci-fi-sounds",
       "kenney-blaster-kit",
       "kenney-planets",
-      "kenney-skyboxes-space"
+      "kenney-skyboxes-space",
+      "kenney-space-shooter-remastered"
     ],
     "cover": "kenney-space-station-kit",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-09T08:33:52.201Z"
   },
   {
     "id": "one-more-jump",
@@ -142,10 +144,12 @@
       "kenney-input-prompts-pixel",
       "kenney-new-platformer-pack",
       "kenney-platformer-art-mushrooms",
-      "kenney-platformer-bricks"
+      "kenney-platformer-bricks",
+      "kenney-pixel-platformer-blocks",
+      "kenney-platformer-art-extended-tileset"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
-    "updatedAt": "2026-10-09T06:53:45.914Z"
+    "updatedAt": "2026-10-09T08:33:52.201Z"
   },
   {
     "id": "small-pixels-big-quests",

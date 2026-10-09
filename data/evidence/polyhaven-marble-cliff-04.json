@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/marble_cliff_04",
+  "checkedAt": "2026-10-09T08:44:49.966Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/marble_cliff_04",
+  "apiSha256": "05393fe637a5e3316ef24a507cc8c99641b6a0696df420e155ba91d9054396b1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_cliff_04/marble_cliff_04_diff_1k.jpg",
+  "assetFileMd5": "9ecd75e972387f05ff6d0b4583c5f38f",
+  "assetFileSha256": "5ca430dabb5f29790bcf2086763c84566b6c5aaf0bcf65e7aab484d71c33fb7c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Marble Cliff 04",
+    "categories": [
+      "outdoor",
+      "natural",
+      "rock",
+      "aerial"
+    ],
+    "tags": [
+      "uneven",
+      "rough",
+      "weathered",
+      "cracked",
+      "rock face",
+      "rock",
+      "cliff",
+      "stratified",
+      "veined",
+      "marble",
+      "geological",
+      "fissured",
+      "striated",
+      "stone",
+      "fractured"
+    ],
+    "description": "Free 8K marble cliff texture with rough, stratified stone, deep cracks and fissures, beige to tan layers streaked with white veining and weathered surfaces.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      12656.517028808594,
+      12656.39877319336
+    ],
+    "files_hash": "7e9bc54be6f92260e70a8d674400401f2e691346",
+    "date_published": 1779321600,
+    "staging": null,
+    "category_id": "19a0b774-8b0a-5853-a205-8f019fe00ae9",
+    "category": "Stone/Rock & Cliffs/Marble & Metamorphic",
+    "attributes": {
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "2a6f6b87",
+    "download_count": 6403,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_cliff_04.png?width=256&height=256&format=webp&v=2a6f6b87"
+  }
+}

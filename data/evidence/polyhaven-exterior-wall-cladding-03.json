@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/exterior_wall_cladding_03",
+  "checkedAt": "2026-10-09T08:43:04.530Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/exterior_wall_cladding_03",
+  "apiSha256": "2683b132d86a97c8bf121166e5893d5476dadcb41b1be9c504118c34fccccf01",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/exterior_wall_cladding_03/exterior_wall_cladding_03_diff_1k.jpg",
+  "assetFileMd5": "b8373b399ccea7430d404ea424fc6cad",
+  "assetFileSha256": "b284af8fb0d4997c85f172902fcf0a0fa337249f63af1dd9c8f71cb5838df89e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Exterior Wall Cladding 03",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "plaster-concrete"
+    ],
+    "tags": [
+      "rough",
+      "grooved",
+      "concrete",
+      "plaster",
+      "plastered",
+      "painted",
+      "painted concrete",
+      "facade",
+      "cladding",
+      "grainy",
+      "plastering"
+    ],
+    "description": "Free 8K texture of painted concrete cladding with horizontal grooves. Grainy, rough plaster surface, matte sheen, even beige tone and crisp lines.",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1960.0000381469727,
+      1960.0000381469727
+    ],
+    "files_hash": "8ccaa6cf07aa56f915c80e665420c8cccd1f3669",
+    "staging": null,
+    "date_published": 1780617600,
+    "category_id": "9d3c7da3-4959-5d42-8abc-5c31017a2fd4",
+    "category": "Concrete/Plaster & Stucco/Painted Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "3e5f393e",
+    "download_count": 5742,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/exterior_wall_cladding_03.png?width=256&height=256&format=webp&v=3e5f393e"
+  }
+}

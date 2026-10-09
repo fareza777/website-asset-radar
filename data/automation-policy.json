@@ -1,7 +1,8 @@
 {
-  "minimumNewItemsPerDay": 50,
-  "maxNewItemsPerDay": 100,
-  "maxCandidatesPerDay": 150,
+  "minimumNewItemsPerRun": 50,
+  "maxNewItemsPerRun": null,
+  "maxCandidatesPerRun": null,
+  "discoveryBatchSize": 150,
   "maxPublishersPerDay": 10,
   "maxPromotionRechecksPerDay": 50,
   "maxFreeRechecksPerDay": 20,
@@ -16,8 +17,7 @@
     "maxAssets": 16
   },
   "backfill": {
-    "maxNewItems": 500,
-    "maxCandidates": 1000,
+    "discoveryBatchSize": 1000,
     "maxIndexPages": 40,
     "maxRunMinutes": 120,
     "maxDownloadMegabytes": 1000

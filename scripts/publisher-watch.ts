@@ -43,7 +43,7 @@ async function fetchIndex(publisher: Publisher) {
 async function main() {
   const limitArg = process.argv.find((arg) => arg.startsWith("--limit="));
   const limit = limitArg ? Number(limitArg.slice(8)) : 50;
-  if (!Number.isInteger(limit) || limit < 1 || limit > policy.maxCandidatesPerDay) throw new Error(`Candidate limit must be 1–${policy.maxCandidatesPerDay}.`);
+  if (!Number.isSafeInteger(limit) || limit < 1) throw new Error("Candidate batch size must be a positive safe integer.");
   const previous: { checks?: Check[] } = JSON.parse(await readFile("data/publisher-monitor.json", "utf8").catch(() => "{}"));
   const catalog = JSON.parse(await readFile("data/assets.json", "utf8"));
   const offers = JSON.parse(await readFile("data/offers.json", "utf8"));

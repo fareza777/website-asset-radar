@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brushed_concrete_04",
+  "checkedAt": "2026-10-09T08:35:25.813Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brushed_concrete_04",
+  "apiSha256": "64db4ded0d9ca94f846c9cecdbca9f8fd2a6221335d23f8a47ddc1061b9ecd3d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brushed_concrete_04/brushed_concrete_04_diff_1k.jpg",
+  "assetFileMd5": "3478006c0ae12b2dea6264861929d0a3",
+  "assetFileSha256": "5dd957199bdbaa203b04ab39c7e8af02a0cd36013daad995592c53352beded4c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Brushed Concrete 04",
+    "categories": [
+      "outdoor",
+      "man made",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "concrete",
+      "plaster",
+      "brushed",
+      "linear grooves",
+      "scratched",
+      "grooved",
+      "concrete blocks",
+      "chipped",
+      "cement",
+      "worn",
+      "exterior"
+    ],
+    "description": "Free 8K brushed concrete texture with tight horizontal brush marks, panel joints, tiny chips, and a rough, matte brown-gray tone.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000.9167194366455,
+      2000.917911529541
+    ],
+    "files_hash": "c38a11c7f36bac3678d8b0e0bbd41395e8521841",
+    "staging": null,
+    "date_published": 1784678400,
+    "category_id": "8e19ddef-056e-5554-834d-2fd52f1c17f7",
+    "category": "Concrete/Cast Walls & Floors/Trowel & Brushed Finish",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4ca95bfc",
+    "download_count": 5737,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brushed_concrete_04.png?width=256&height=256&format=webp&v=4ca95bfc"
+  }
+}

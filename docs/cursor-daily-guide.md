@@ -2,8 +2,11 @@
 
 ## Instruksi singkat untuk Cursor
 
-> Update Game Asset Radar setiap hari. Target minimal 50 aset baru terverifikasi,
-> gabungan gratis permanen, Free Today dan deals berkualitas. Cari rilis baru
+> Update Game Asset Radar setiap hari. Setiap run tambah MINIMAL 50 aset BARU
+> terverifikasi, tanpa batas maksimal jumlah aset. Gabungkan gratis permanen,
+> Free Today dan deals berkualitas. Jangan berhenti di 50/100 atau karena run
+> sebelumnya sudah menambah banyak hari ini. Teruskan selama waktu, bandwidth
+> dan sumber yang diizinkan masih tersedia. Cari rilis baru
 > sekaligus isi katalog dari aset lama yang belum masuk. Jika satu kandidat
 > gagal, cari pengganti; jangan berhenti setelah satu batch. Cek sumber, lisensi,
 > harga, diskon, preview, link dan duplikat. Arsipkan promo yang selesai.
@@ -21,11 +24,11 @@ File repo ini tidak mendaftarkan atau mengaktifkan jadwal akun secara otomatis.
 
 Angka berlaku dari [automation-policy.json](../data/automation-policy.json).
 
-| Pekerjaan                                      |                 Harian |
+| Pekerjaan                                      |                Per run |
 | ---------------------------------------------- | ---------------------: |
 | Target aset baru, semua tipe digabung          |         **Minimal 50** |
-| Batas penambahan reguler                       |                    100 |
-| Pemeriksaan kandidat produk                    |                    150 |
+| Maksimal penambahan aset                       |       **Tanpa plafon** |
+| Maksimal pemeriksaan kandidat                  |           Tanpa plafon |
 | Publisher dipantau                             |                     10 |
 | Koleksi existing direview / tema baru          | Minimal 3 / maksimal 1 |
 | Aset gratis per Curated Collection             |                   6–16 |
@@ -34,11 +37,15 @@ Angka berlaku dari [automation-policy.json](../data/automation-policy.json).
 | Download baru                                  |                 500 MB |
 
 Recheck harga, tanggal baru, URL kandidat dan menghidupkan promo lama bukan aset
-baru. Hitung penambahan per hari Asia/Jakarta, termasuk yang sudah ada ketika
-agent mulai. Rerun tidak mereset jatah. Lima descriptor hanya ukuran satu batch;
-lanjutkan batch dan ganti kandidat gagal sampai target 50. Bila sumber/lisensi
-atau anggaran benar-benar menghalangi target, laporkan shortfall dan penyebabnya.
-Jangan mengklaim 50 ketika hanya 9 yang masuk.
+baru. Simpan ID katalog/free/promo/archive saat run dimulai; hitung hanya ID baru
+yang belum ada pada baseline itu. Penambahan run lain pada hari yang sama tidak
+memenuhi minimum run ini. Jika melanjutkan run yang terputus, pakai baseline yang
+sama agar tidak menghitung ulang. Lima descriptor hanya ukuran satu batch.
+Lewati 50, 100, 200 dan seterusnya selama sumber terverifikasi dan anggaran nyata
+masih tersedia. Waktu 90 menit dan download 500 MB menjaga biaya; keduanya bukan
+jatah jumlah aset. Laporkan penyebab berhenti dan shortfall bila minimum gagal.
+Jangan mengklaim 50 ketika hanya 9 masuk. Batas satu tema koleksi baru tetap per
+hari, terpisah dari jumlah aset yang tidak dibatasi.
 
 ## Langkah harian
 
@@ -47,22 +54,30 @@ Jangan mengklaim 50 ketika hanya 9 yang masuk.
 2. Pantau sepuluh publisher dengan workflow existing. Cari promo BARU dari sumber
    yang mengizinkan akses, dengan npm run offers:discover -- --limit=30 --inspect.
    Baca .cache/promotion-discovery-report.json. Ini hanya kandidat/observasi harga,
-   belum izin publish. Hitung inspeksinya dalam anggaran 150. Verifikasi produk, harga/currency/tier, lisensi, format
+   belum izin publish. Tiga puluh hanya batch pertama, bisa diperbesar selama
+   waktu tersedia; jangan mengulang kandidat gagal yang sama. Verifikasi produk, harga/currency/tier, lisensi, format
    dan expiry absolut. Terapkan kandidat terverifikasi lewat updater existing.
-3. Isi kekurangan target harian dengan:
+3. Teruskan impor katalog tanpa plafon jumlah:
 
    ```sh
-   npm run catalog:grow -- --limit=50 --write
+   npm run catalog:grow -- --write
    ```
 
-   Command menghitung free/promo/archive yang sudah ditambahkan hari ini, lalu
-   melanjutkan antrean Kenney, Poly Haven dan ambientCG. Sumber dibagi bergantian;
+   Command melanjutkan antrean Kenney, Poly Haven dan ambientCG tanpa berhenti
+   di 50/100. Jumlah masuk lebih awal hari ini hanya informasi. Sumber bergantian;
    duplikat/kandidat tanpa bukti ditolak. Setiap impor berhasil disimpan. Gunakan
-   --candidates=<sisa> dan --minutes=<sisa> untuk mengurangi anggaran yang sudah
-   dipakai langkah sebelumnya. Tanpa --write hanya discovery.
+   --minutes=<sisa menit total>, --minimum=<sisa minimum run ini> dan
+   --downloaded-bytes=<bytes yang sudah diunduh run ini> untuk meneruskan anggaran.
+   Contoh setelah 12 menit, 3 promo BARU dan nol download pack/media:
+   npm run catalog:grow -- --minutes=78 --minimum=47 --downloaded-bytes=0 --write.
+   Gunakan --minimum pada jadwal baru. Flag lama --limit=50 sekarang berarti
+   minimum, bukan batas berhenti; --candidates lama tidak membatasi pemeriksaan. Tanpa --write hanya discovery; --plan menampilkan rencana tanpa
+   internet atau mengubah data. Jangan reset anggaran dengan mengulang command.
 
-4. Baca .cache/growth-report.json: target, tambahan nyata, penolakan, sumber
-   terblokir, bytes download dan shortfall. Recheck aset lama jika waktu cukup.
+4. Baca .cache/growth-report.json: minimumRemaining, additionLimit/inspectionLimit
+   null (tanpa plafon), tambahan nyata, penolakan, sumber terblokir,
+   totalRunDownloadBytes, shortfall dan stopReason. Cocokkan seluruh tambahan
+   run ini dengan baseline awal, termasuk promo baru. Recheck bila waktu cukup.
 5. Update data/collections.json: review minimal 3 koleksi secara bergantian,
    prioritaskan tema yang cocok dengan aset baru. Tambah/pilih ulang aset yang
    relevan, buang referensi hilang dan pertahankan 6–16 aset gratis terverifikasi.
@@ -89,12 +104,13 @@ npm run build
 ## Pengisian awal
 
 ```sh
-npm run catalog:grow -- --mode=backfill --limit=150 --write
+npm run catalog:grow -- --mode=backfill --write
 ```
 
-Mode terpisah untuk backlog awal: maksimal 500 penambahan, 1.000 pemeriksaan,
-120 menit dan 1.000 MB per run. Lanjutkan pada run berikutnya tanpa mengimpor URL
-lama. Jangan jalankan beberapa writer bersamaan atau melewati validasi.
+Mode manual untuk backlog awal: tanpa plafon jumlah aset/pemeriksaan, dengan
+anggaran 120 menit dan 1.000 MB per run. Jadwal biasa tetap memakai anggaran
+90 menit/500 MB. Lanjutkan pada run berikutnya tanpa mengimpor URL lama.
+Jangan jalankan beberapa writer bersamaan atau melewati validasi.
 
 ## Sumber dan kualitas
 
@@ -119,7 +135,9 @@ nyata; Importable memerlukan format isi yang tercatat; lainnya Unverified.
 Jangan menyalin pack berbayar/logo atau membuat harga/rating/expiry palsu.
 Jangan membuat artikel filler atau memecah pack untuk menambah jumlah.
 
-Laporan: free + limited free + deals baru; total harian versus target 50;
+Laporan: free + limited free + deals BARU RUN INI versus minimum 50; tampilkan
+tambahan run sebelumnya hari ini secara terpisah, jangan menggunakannya untuk
+berhenti. Sebut tanpa plafon jumlah dan alasan berhenti yang sebenarnya;
 collections direview/diubah/baru dan perubahan member;
 shortfall/alasan; recheck/arsip; sumber berhasil/skip/blocked; evidence;
 waktu/download; hasil pemeriksaan; commit/push dan status deploy.

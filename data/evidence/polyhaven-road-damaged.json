@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/road_damaged",
+  "checkedAt": "2026-10-09T08:39:48.198Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/road_damaged",
+  "apiSha256": "b88f1130a2c719fac74ab7e701d1c1a7802d827b06334a4b1f388db162961cf5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/road_damaged/road_damaged_diff_1k.jpg",
+  "assetFileMd5": "83a4a1e4ffff72e32b56fbb3e3cfdedb",
+  "assetFileSha256": "40286b168d8e2990a68c1a97e0162218cc4222b686f2810b8047783d573eddff",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Road Damaged",
+    "categories": [
+      "man made",
+      "road",
+      "asphalt"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "crumbling",
+      "asphalt",
+      "asphalt road",
+      "dusty",
+      "dirty",
+      "cracked",
+      "damaged",
+      "chipped",
+      "pothole",
+      "potholes",
+      "pitted",
+      "battered",
+      "deteriorating",
+      "tar"
+    ],
+    "description": "Free 8K texture of damaged road: cracked, patchy asphalt with potholes, rough aggregate, dark stains, matte and dusty wear.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "files_hash": "bfe0f5226de0e29ab607228a106dd7afa924109b",
+    "staging": null,
+    "date_published": 1782432000,
+    "category_id": "7325cb43-c347-55cd-8df0-ff415e0d454d",
+    "category": "Asphalt & Bitumen/Roads/Damaged Roads",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "damaged",
+        "cracked",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "da6b1001",
+    "download_count": 1886,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/road_damaged.png?width=256&height=256&format=webp&v=da6b1001"
+  }
+}

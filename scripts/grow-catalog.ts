@@ -16,18 +16,22 @@ import { seedKenney } from "./seed-catalog";
 import { seedPolyHaven } from "./seed-polyhaven";
 import { importAmbientCG } from "./ambientcg";
 
-function positiveFlag(name: string, fallback: number, ceiling: number) {
+function integerFlag(
+  name: string,
+  fallback: number | null,
+  minimum = 1,
+  ceiling = Number.MAX_SAFE_INTEGER,
+) {
   const flags = process.argv.filter((arg) => arg.startsWith(`--${name}=`));
   const value = flags.length
     ? Number(flags[0].slice(name.length + 3))
     : fallback;
   if (
     flags.length > 1 ||
-    !Number.isInteger(value) ||
-    value < 1 ||
-    value > ceiling
+    (value !== null &&
+      (!Number.isSafeInteger(value) || value < minimum || value > ceiling))
   )
-    throw new Error(`--${name} must be 1 through ${ceiling}`);
+    throw new Error(`--${name} must be ${minimum} through ${ceiling}`);
   return value;
 }
 
@@ -39,26 +43,30 @@ async function main() {
     throw new Error("Use --mode=daily or --mode=backfill");
   const write = process.argv.includes("--write");
   const backfill = mode === "backfill";
-  const maxNew = backfill
-    ? policy.backfill.maxNewItems
-    : policy.maxNewItemsPerDay;
-  const candidateCeiling = backfill
-    ? policy.backfill.maxCandidates
-    : policy.maxCandidatesPerDay;
-  const maxCandidates = positiveFlag(
-    "candidates",
-    candidateCeiling,
-    candidateCeiling,
-  );
-  const limit = positiveFlag(
-    "limit",
-    backfill ? maxNew : policy.minimumNewItemsPerDay,
-    maxNew,
-  );
+  // Old saved schedules used --limit=50 and --candidates=150. Accept those
+  // flags without restoring the output quotas the owner explicitly removed.
+  const legacyMinimum = integerFlag("limit", null);
+  const legacyCandidateHint = integerFlag("candidates", null);
+  if (
+    legacyMinimum !== null &&
+    process.argv.some((arg) => arg.startsWith("--minimum="))
+  )
+    throw new Error("Use --minimum or its legacy --limit alias, not both");
+  const limit = policy.maxNewItemsPerRun;
+  const maxCandidates = policy.maxCandidatesPerRun;
+  const minimumRemaining = integerFlag(
+    "minimum",
+    legacyMinimum ?? policy.minimumNewItemsPerRun,
+    0,
+  )!;
+  if (legacyMinimum !== null || legacyCandidateHint !== null)
+    console.error(
+      "Legacy growth flags: --limit now means minimum, and --candidates no longer caps inspections. Use --minimum and the actual time/download budget; growth has no item ceiling.",
+    );
   const minuteCeiling = backfill
     ? policy.backfill.maxRunMinutes
     : policy.maxRunMinutes;
-  const minutes = positiveFlag("minutes", minuteCeiling, minuteCeiling);
+  const minutes = integerFlag("minutes", minuteCeiling, 1, minuteCeiling)!;
   if (minutes <= 10)
     throw new Error(
       "Reserve at least 10 minutes for validation and publication",
@@ -100,9 +108,33 @@ async function main() {
       .filter((item) => item.addedAt === today)
       .map((item) => item.id),
   );
-  const target = backfill
-    ? limit
-    : Math.max(0, Math.min(limit - todayIds.size, maxNew - todayIds.size));
+  const downloadAllowance =
+    (backfill
+      ? policy.backfill.maxDownloadMegabytes
+      : policy.maxArchiveDownloadMegabytes) * 1_000_000;
+  const downloadedBeforeThisRun = integerFlag(
+    "downloaded-bytes",
+    0,
+    0,
+    downloadAllowance,
+  )!;
+  const remainingDownloadBytes = downloadAllowance - downloadedBeforeThisRun;
+  const plan = {
+    mode,
+    minimumNewItems: policy.minimumNewItemsPerRun,
+    minimumRemaining,
+    additionLimit: limit,
+    inspectionLimit: maxCandidates,
+    legacyCandidateHint,
+    existingItems: catalog.length + offers.length + archive.length,
+    addedBeforeThisRunToday: todayIds.size,
+    minutes,
+    remainingDownloadBytes,
+  };
+  if (process.argv.includes("--plan")) {
+    console.log(JSON.stringify(plan));
+    return;
+  }
   const sources: {
     source: string;
     status: string;
@@ -110,40 +142,37 @@ async function main() {
     reason?: string;
   }[] = [];
   const candidates: GrowthCandidate[] = [];
-  if (target === 0) {
+  if (remainingDownloadBytes === 0) {
     await mkdir(".cache", { recursive: true });
     await writeFile(
       ".cache/growth-report.json",
       JSON.stringify(
         {
           checkedAt: new Date().toISOString(),
-          mode,
-          target,
-          addedBeforeThisRunToday: todayIds.size,
+          ...plan,
           added: [],
           failures: [],
           inspected: 0,
           blocked: [],
           sources: [],
           downloadBytes: 0,
+          totalRunDownloadBytes: downloadedBeforeThisRun,
           elapsedSeconds: Math.round((Date.now() - startedAt) / 1000),
-          shortfall: 0,
-          note: "Today's target was already met. This invocation added and reverified no records.",
+          shortfall: minimumRemaining,
+          stopReason: "download_budget",
+          note: "The outer run's download allowance is exhausted. No records added or reverified.",
         },
         null,
         2,
       ) + "\n",
     );
     console.log(
-      `Today's target is already met: ${todayIds.size} verified new items. No duplicate imports or restamped dates.`,
+      "Download allowance exhausted; no new imports. Earlier additions today never satisfy this run's minimum.",
     );
+    if (minimumRemaining) process.exitCode = 1;
     return;
   }
-  setDownloadBudget(
-    (backfill
-      ? policy.backfill.maxDownloadMegabytes
-      : policy.maxArchiveDownloadMegabytes) * 1_000_000,
-  );
+  setDownloadBudget(remainingDownloadBytes);
   // Enumerate each independent source; a failed source must not prevent the others.
   for (const source of ["Kenney", "Poly Haven", "ambientCG"]) {
     const first = candidates.length;
@@ -199,7 +228,7 @@ async function main() {
       } else {
         // Popular backlog and latest releases are both real product inventory.
         const count = backfill ? 250 : 150;
-        const wanted = Math.min(maxCandidates, Math.max(50, target * 2));
+        const wanted = maxCandidates ?? Infinity;
         for (
           let offset = 0;
           Date.now() < deadline && candidates.length - first < wanted;
@@ -241,21 +270,22 @@ async function main() {
   await writeFile(
     ".cache/growth-candidates.json",
     JSON.stringify(
-      { at: new Date().toISOString(), mode, target, sources, candidates },
+      { at: new Date().toISOString(), ...plan, sources, candidates },
       null,
       2,
     ) + "\n",
   );
   if (!write) {
     console.log(
-      `Read-only discovery: ${candidates.length} queued; ${target} new verified items needed. Use --write to import.`,
+      `Read-only discovery: ${candidates.length} queued; minimum ${minimumRemaining} new verified items, addition limit ${limit ?? "none"}. Use --write to import.`,
     );
     return;
   }
   const result = await fillGrowthQueue(candidates, {
-    target,
+    target: limit,
     maxCandidates,
     deadline,
+    downloadBudgetReached: () => getDownloadedBytes() >= remainingDownloadBytes,
     importCandidate: async (candidate) => {
       if (candidate.source === "ambientCG")
         return importAmbientCG(String(candidate.payload));
@@ -277,6 +307,7 @@ async function main() {
           .find("td")
           .last()
           .text()
+          .replace(/\s+/g, " ")
           .trim();
       const category = row("Category") || row("Category/series");
       const tags = row("Tags").toLowerCase();
@@ -331,14 +362,13 @@ async function main() {
   });
   const report = {
     checkedAt: new Date().toISOString(),
-    mode,
-    target,
-    addedBeforeThisRunToday: todayIds.size,
+    ...plan,
     ...result,
     sources,
     downloadBytes: getDownloadedBytes(),
+    totalRunDownloadBytes: downloadedBeforeThisRun + getDownloadedBytes(),
     elapsedSeconds: Math.round((Date.now() - startedAt) / 1000),
-    shortfall: Math.max(0, target - result.added.length),
+    shortfall: Math.max(0, minimumRemaining - result.added.length),
     unity: {
       status: "permission_required",
       reason:
@@ -351,7 +381,7 @@ async function main() {
     JSON.stringify(report, null, 2) + "\n",
   );
   console.log(
-    `Growth complete: ${result.added.length}/${target} verified additions; ${result.inspected} inspected; ${result.failures.length} rejected; ${report.shortfall} shortfall.`,
+    `Growth complete: ${result.added.length} verified additions (minimum ${minimumRemaining}, limit ${limit ?? "none"}); ${result.inspected} inspected; ${result.failures.length} rejected; ${report.shortfall} shortfall; stopped: ${result.stopReason}.`,
   );
   if (report.shortfall) process.exitCode = 1;
 }

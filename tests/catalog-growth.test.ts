@@ -4,11 +4,128 @@ import { discoveryLimit, readKenneyIndex } from "../scripts/discovery-utils";
 import { isPermittedUrl } from "../scripts/source-policy";
 import { isPermittedOfferUrl } from "../scripts/offer-source-policy";
 import { fillGrowthQueue } from "../scripts/catalog-growth-utils";
+import { spawnSync } from "node:child_process";
+import {
+  mkdtempSync,
+  mkdirSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs";
+import { tmpdir } from "node:os";
+import { join, resolve } from "node:path";
+import { pathToFileURL } from "node:url";
+import { createRequire } from "node:module";
 
-test("initial backfill can inspect more than a daily maintenance batch", () => {
+test("discovery accepts large batches without a fixed catalog quota", () => {
   assert.equal(discoveryLimit(["--mode=backfill", "--limit=500"]), 500);
-  assert.throws(() => discoveryLimit(["--mode=backfill", "--limit=1001"]));
+  assert.equal(discoveryLimit(["--mode=backfill", "--limit=1001"]), 1001);
+  assert.equal(discoveryLimit(["--limit=2500"]), 2500);
+  for (const value of ["0", "-1", "1.5", "NaN", "Infinity", "9007199254740992"])
+    assert.throws(() => discoveryLimit([`--limit=${value}`]));
   assert.throws(() => discoveryLimit(["--mode=unknown"]));
+});
+
+test("a new run plans uncapped growth even when 223 items were already added today", () => {
+  const fixture = mkdtempSync(join(tmpdir(), "radar-growth-"));
+  try {
+    mkdirSync(join(fixture, "data"));
+    const today = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Asia/Jakarta",
+    }).format(new Date());
+    const assets = JSON.parse(readFileSync("data/assets.json", "utf8"))
+      .slice(0, 223)
+      .map((asset: Record<string, unknown>) => ({
+        ...asset,
+        addedAt: today,
+        verifiedAt: today,
+      }));
+    writeFileSync(join(fixture, "data/assets.json"), JSON.stringify(assets));
+    writeFileSync(join(fixture, "data/offers.json"), "[]");
+    writeFileSync(join(fixture, "data/offer-archive.json"), "[]");
+    const loader = pathToFileURL(
+      createRequire(resolve("package.json")).resolve("tsx"),
+    ).href;
+    const readPlan = (...args: string[]) => {
+      const run = spawnSync(
+        process.execPath,
+        [
+          "--import",
+          loader,
+          resolve("scripts/grow-catalog.ts"),
+          "--plan",
+          ...args,
+        ],
+        {
+          cwd: fixture,
+          encoding: "utf8",
+          env: { ...process.env, TSX_TSCONFIG_PATH: resolve("tsconfig.json") },
+        },
+      );
+      assert.equal(run.status, 0, run.stderr);
+      return JSON.parse(run.stdout.trim());
+    };
+    const plan = readPlan();
+    assert.equal(plan.minimumNewItems, 50);
+    assert.equal(plan.additionLimit, null);
+    assert.equal(plan.inspectionLimit, null);
+    assert.equal(plan.minimumRemaining, 50);
+    assert.equal(plan.addedBeforeThisRunToday, 223);
+    assert.equal(plan.existingItems, 223);
+    const remaining = readPlan(
+      "--minimum=0",
+      "--minutes=30",
+      "--downloaded-bytes=12345",
+    );
+    assert.equal(remaining.minimumRemaining, 0);
+    assert.equal(remaining.additionLimit, null);
+    assert.equal(remaining.remainingDownloadBytes, 499987655);
+    const batch = readPlan("--limit=2500", "--candidates=5000");
+    assert.equal(batch.minimumRemaining, 2500);
+    assert.equal(batch.additionLimit, null);
+    assert.equal(batch.inspectionLimit, null);
+    const oldSchedule = readPlan("--limit=50", "--candidates=121");
+    assert.equal(oldSchedule.minimumRemaining, 50);
+    assert.equal(oldSchedule.additionLimit, null);
+    assert.equal(oldSchedule.inspectionLimit, null);
+  } finally {
+    rmSync(fixture, { recursive: true, force: true });
+  }
+});
+
+test("uncapped growth still stops at the real shared download budget", async () => {
+  const candidates = Array.from({ length: 60 }, (_, i) => ({
+    source: "A",
+    sourceUrl: `https://example.test/${i}`,
+    payload: i,
+  }));
+  let downloaded = 0;
+  const result = await fillGrowthQueue(candidates, {
+    deadline: Date.now() + 10_000,
+    downloadBudgetReached: () => downloaded >= 700,
+    importCandidate: async (candidate) => {
+      downloaded += 100;
+      return `verified-${candidate.payload}`;
+    },
+  });
+  assert.equal(result.added.length, 7);
+  assert.equal(result.inspected, 7);
+  assert.equal(result.stopReason, "download_budget");
+});
+
+test("growth continues past 50 and the old 100-item ceiling until verified inventory is exhausted", async () => {
+  const candidates = Array.from({ length: 223 }, (_, i) => ({
+    source: "A",
+    sourceUrl: `https://example.test/${i}`,
+    payload: i,
+  }));
+  const result = await fillGrowthQueue(candidates, {
+    deadline: Date.now() + 10_000,
+    importCandidate: async (candidate) => `verified-${candidate.payload}`,
+  });
+  assert.equal(result.added.length, 223);
+  assert.equal(result.inspected, 223);
+  assert.equal(result.stopReason, "sources_exhausted");
 });
 
 test("empty fragment pagination links do not consume the page budget twice", () => {

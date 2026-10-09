@@ -12,11 +12,17 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 When maintaining or discovering catalog content, read the current repo prompt at
 `.cursor/automations/daily-assets.md` and `data/automation-policy.json` first.
-The owner requires a daily target of at least 50 genuinely NEW verified items
-combined across permanent free, limited free and curated deals. Five is a seed
-batch size, not a stopping point. After verifying new promotions, use
-`npm run catalog:grow -- --limit=50 --write` to fill today's shortfall from the
-unlisted backlog; subtract already used inspection/time budgets with its flags.
+The owner requires at least 50 genuinely NEW verified items PER RUN combined
+across permanent free, limited free and curated deals, with NO maximum item count.
+Earlier runs today never satisfy this run's minimum. Record starting IDs across
+free/active/archived items; report new identities against that baseline. Continue
+beyond 50/100 while permitted inventory and the real time/download budget remain.
+Five is an importer batch size, not a stopping point. After new promotions, use
+`npm run catalog:grow -- --write` without --limit or --candidates. Pass actual
+remaining --minutes, --minimum (subtract only this run's new promotions/imports)
+and --downloaded-bytes when earlier work consumed those resources. Do not reset
+budgets or run concurrent writers. Legacy --limit is now a minimum alias, never
+an output cap; legacy --candidates no longer imposes an inspection ceiling.
 Rechecks/candidate URLs are not additions. Report real shortfalls instead of
 inventing data. Unity automation requires a separate source agreement under its
 Asset Store Terms section 3.3; do not scrape it or its private APIs.

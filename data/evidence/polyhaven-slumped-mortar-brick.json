@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/slumped_mortar_brick",
+  "checkedAt": "2026-10-09T08:43:44.437Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/slumped_mortar_brick",
+  "apiSha256": "0f579662cfb6cdc50e5a3d33917d113f61a9c8c71b1a1111d856aaa3c00e2a20",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/slumped_mortar_brick/slumped_mortar_brick_diff_1k.jpg",
+  "assetFileMd5": "ce699a7757eb07f8ac48cfdd8aca0ad9",
+  "assetFileSha256": "8adfc8febcd3cc054f142fccd9b994bbf70ba11a82add29e4cc73e45b279dbdd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Slumped Mortar Brick",
+    "tags": [
+      "concrete",
+      "cement",
+      "plasterconcrete",
+      "mortar",
+      "brick",
+      "bricks",
+      "weathered",
+      "deteriorating",
+      "painted",
+      "rough",
+      "brick wall",
+      "dirty",
+      "slumped",
+      "loose mortar",
+      "cracking"
+    ],
+    "description": "Free 8K slumped mortar brick material: dusty tan painted wall with softened bricks, loose mortar ridges, rough matte finish, chips and shallow cracks.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1769.9999809265137,
+      1769.9999809265137
+    ],
+    "files_hash": "55cd66160f352b327c98f246f111e404a3683f4d",
+    "staging": null,
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick",
+      "plaster-concrete"
+    ],
+    "date_published": 1780272000,
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "painted",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "18163024",
+    "download_count": 5366,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slumped_mortar_brick.png?width=256&height=256&format=webp&v=18163024"
+  }
+}

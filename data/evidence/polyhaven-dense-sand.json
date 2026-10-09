@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/dense_sand",
+  "checkedAt": "2026-10-09T08:35:08.657Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/dense_sand",
+  "apiSha256": "a3acb19e2790e127cede44a603fba4d08846d77329adf473f23948b1594ae565",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dense_sand/dense_sand_diff_1k.jpg",
+  "assetFileMd5": "1c3d2c1f41b24ea9133973f2dedd5fea",
+  "assetFileSha256": "0d2430c115167a2da3f60d60eb9ea2aa51e71472e2672f94c7f5df78342081ff",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Dense Sand",
+    "categories": [
+      "outdoor",
+      "sand",
+      "natural"
+    ],
+    "tags": [
+      "rough",
+      "sand",
+      "sandy",
+      "sandpit",
+      "granular",
+      "coarse",
+      "gritty",
+      "compact",
+      "footprints",
+      "tan"
+    ],
+    "description": "Free 8K texture of compacted tan sand with crusted clumps, shallow pits and subtle granular detail. Dry, matte roughness with slight color variation.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "files_hash": "a879d92e50ec8fa37f370a8d2ad69bffbe4893d3",
+    "staging": null,
+    "date_published": 1784851200,
+    "category_id": "2262e1f2-20db-5ba4-9915-764041ba9c4c",
+    "category": "Ground & Terrain/Sand/Compacted & Trampled Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "worn"
+      ]
+    },
+    "img_version": "c0bf0384",
+    "download_count": 4278,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dense_sand.png?width=256&height=256&format=webp&v=c0bf0384"
+  }
+}

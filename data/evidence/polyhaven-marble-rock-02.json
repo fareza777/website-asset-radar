@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/marble_rock_02",
+  "checkedAt": "2026-10-09T08:42:10.045Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/marble_rock_02",
+  "apiSha256": "84412e0cf1ada8591c4b5efd2f0379cc6e3bb3107f1eb250a8c6768012e3c636",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_rock_02/marble_rock_02_diff_1k.jpg",
+  "assetFileMd5": "10da23cf9e82abc7f47b5d77eccae94b",
+  "assetFileSha256": "2fa423b561fd6ce3782deb61de2c727821a128c2f5bdad552cba827cbe31c6d9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Marble Rock 02",
+    "categories": [
+      "outdoor",
+      "natural",
+      "rock"
+    ],
+    "tags": [
+      "uneven",
+      "rock",
+      "cracked",
+      "weathered",
+      "marble",
+      "craggy",
+      "stone",
+      "rock face",
+      "chipped",
+      "striated",
+      "rugged",
+      "fissured",
+      "rock formation",
+      "veined"
+    ],
+    "description": "Free 8K texture of weathered beige marble rock with craggy fractures, fine veins, and uneven matte surface, subtle color variation and chipped details.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2002.079963684082,
+      2002.0811557769775
+    ],
+    "files_hash": "742ee4ef720bcf2d63a9b88f9d542388b6346d3b",
+    "staging": null,
+    "date_published": 1781222400,
+    "category_id": "19a0b774-8b0a-5853-a205-8f019fe00ae9",
+    "category": "Stone/Rock & Cliffs/Marble & Metamorphic",
+    "attributes": {
+      "condition": [
+        "weathered",
+        "cracked",
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "40bfb52c",
+    "download_count": 4901,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_rock_02.png?width=256&height=256&format=webp&v=40bfb52c"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/embedded_plank_flooring",
+  "checkedAt": "2026-10-09T08:36:26.344Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/embedded_plank_flooring",
+  "apiSha256": "3d41c4f569d26003c93707c1b27cd754df895df45043bca8852a9f65acb436e0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/embedded_plank_flooring/embedded_plank_flooring_diff_1k.jpg",
+  "assetFileMd5": "0d4784e25f88485681c0334c6f8d19c2",
+  "assetFileSha256": "8bc615c4cf1aa7462e40831049b7aa9c235a2c43fc8b73a428483b964cbf4c4d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Embedded Plank Flooring",
+    "categories": [
+      "floor",
+      "man made",
+      "plaster-concrete",
+      "wood"
+    ],
+    "tags": [
+      "rough",
+      "uneven",
+      "wood",
+      "embedded planks",
+      "wood planks",
+      "cement",
+      "wooden planks",
+      "planks",
+      "lumber",
+      "roughhewn",
+      "kerf marks",
+      "cracked",
+      "timber"
+    ],
+    "description": "Free 8K texture of embedded plank flooring: warm brown wood blocks set in light grout, varied grain and end-grain, worn, matte, subtle roughness.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2029.9999713897705,
+      2029.9999713897705
+    ],
+    "files_hash": "60d9c22331181661eb7a4226b138b0410bcff944",
+    "staging": null,
+    "date_published": 1784073600,
+    "category_id": "915d88ec-54f1-5a28-9aec-90a228cea143",
+    "category": "Wood/Boards & Planks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "e1e5755d",
+    "download_count": 2023,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/embedded_plank_flooring.png?width=256&height=256&format=webp&v=e1e5755d"
+  }
+}

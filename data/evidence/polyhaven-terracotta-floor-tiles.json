@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/terracotta_floor_tiles",
+  "checkedAt": "2026-10-09T08:40:59.643Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/terracotta_floor_tiles",
+  "apiSha256": "64653729dc539c4f9cd1bf602d9a2d93bbca36b29678e59378f200bf998fb155",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/terracotta_floor_tiles/terracotta_floor_tiles_diff_1k.jpg",
+  "assetFileMd5": "06cc0f29e2a61115580fe147140c0201",
+  "assetFileSha256": "966ff423065e4a4ce9490864fba61fdb491985d4a2c60eb2b85181c7e7edcd5d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Terracotta Floor Tiles",
+    "categories": [
+      "man made",
+      "indoor",
+      "tiles"
+    ],
+    "tags": [
+      "terracotta",
+      "tiles",
+      "ceramic",
+      "square",
+      "consistent",
+      "grout lines",
+      "indoor flooring",
+      "chipped",
+      "ceramic tiles",
+      "uneven",
+      "weathered",
+      "grout"
+    ],
+    "description": "Free 8K terracotta floor tile material: warm red-brown squares with soft gloss, uneven surfaces, worn edges, and dark recessed grout lines with light stains.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2079.9999237060547,
+      2079.9999237060547
+    ],
+    "files_hash": "269baa11e585f97d7c9f51bc9c6b2fc6abbe3dc0",
+    "staging": null,
+    "date_published": 1781827200,
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "616bffb6",
+    "download_count": 3516,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/terracotta_floor_tiles.png?width=256&height=256&format=webp&v=616bffb6"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roof_planks",
+  "checkedAt": "2026-10-09T08:27:52.075Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roof_planks",
+  "apiSha256": "aeb7b915fb94fa29bd39db67ad3138289012f4d19a99cded42c8d7dfcf5a110b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_planks/roof_planks_diff_1k.jpg",
+  "assetFileMd5": "5974b88403aa1b35fca528936ef9ce63",
+  "assetFileSha256": "707666b21699215611bb55e8bcc919e607f58c049202f0fd700d334c59e0bddc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Roof Planks",
+    "tags": [
+      "weathered",
+      "wood",
+      "wooden",
+      "wooden flooring ",
+      "wooden planks",
+      "wooden floor",
+      "planks",
+      "plank",
+      "varnished",
+      "pine",
+      "timber",
+      "beams",
+      "lumber"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1500.0001192092896,
+      1500.0001192092896
+    ],
+    "staging": null,
+    "files_hash": "af0dd0eed9b11db1b861e998934d819e59d2deea",
+    "description": "Free 8K texture of varnished weathered pine roof planks - realistic timber grain, knots and narrow seams; ideal for wooden floors, beams and rustic exteriors.",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "d1bbc812",
+    "download_count": 2220,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_planks.png?width=256&height=256&format=webp&v=d1bbc812"
+  }
+}

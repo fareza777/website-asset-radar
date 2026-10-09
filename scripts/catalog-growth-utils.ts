@@ -9,14 +9,21 @@ export type GrowthReport = {
   failures: { sourceUrl: string; reason: string }[];
   inspected: number;
   blocked: string[];
+  stopReason:
+    | "addition_limit"
+    | "inspection_limit"
+    | "time_budget"
+    | "download_budget"
+    | "sources_exhausted";
 };
 
 export async function fillGrowthQueue(
   candidates: GrowthCandidate[],
   options: {
-    target: number;
-    maxCandidates: number;
+    target?: number | null;
+    maxCandidates?: number | null;
     deadline: number;
+    downloadBudgetReached?: () => boolean;
     importCandidate: (candidate: GrowthCandidate) => Promise<string | null>;
   },
 ): Promise<GrowthReport> {
@@ -25,7 +32,10 @@ export async function fillGrowthQueue(
     failures: [],
     inspected: 0,
     blocked: [],
+    stopReason: "sources_exhausted",
   };
+  const additionLimit = options.target ?? Infinity;
+  const inspectionLimit = options.maxCandidates ?? Infinity;
   const queues = new Map<string, GrowthCandidate[]>();
   const seen = new Set<string>();
   for (const candidate of candidates) {
@@ -38,16 +48,18 @@ export async function fillGrowthQueue(
   }
   const available = () => [...queues.values()].some((queue) => queue.length);
   while (
-    result.added.length < options.target &&
-    result.inspected < options.maxCandidates &&
+    result.added.length < additionLimit &&
+    result.inspected < inspectionLimit &&
     Date.now() < options.deadline &&
+    !options.downloadBudgetReached?.() &&
     available()
   ) {
     for (const [source, queue] of queues) {
       if (
-        result.added.length >= options.target ||
-        result.inspected >= options.maxCandidates ||
-        Date.now() >= options.deadline
+        result.added.length >= additionLimit ||
+        result.inspected >= inspectionLimit ||
+        Date.now() >= options.deadline ||
+        options.downloadBudgetReached?.()
       )
         break;
       const candidate = queue.shift();
@@ -70,5 +82,14 @@ export async function fillGrowthQueue(
       }
     }
   }
+  result.stopReason = options.downloadBudgetReached?.()
+    ? "download_budget"
+    : Date.now() >= options.deadline
+      ? "time_budget"
+      : result.added.length >= additionLimit
+        ? "addition_limit"
+        : result.inspected >= inspectionLimit
+          ? "inspection_limit"
+          : "sources_exhausted";
   return result;
 }

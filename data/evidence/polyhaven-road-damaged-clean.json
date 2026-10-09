@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/road_damaged_clean",
+  "checkedAt": "2026-10-09T08:34:45.788Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/road_damaged_clean",
+  "apiSha256": "83bbc939b049dec87ae38a663a45597a60f43e77ab34d985eae513a6ac328b6b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/road_damaged_clean/road_damaged_clean_diff_1k.jpg",
+  "assetFileMd5": "31f5131c8001abc89d8e22582ce20f76",
+  "assetFileSha256": "e765a6f1db7e93b8b726a614b560feee3d7538f47b7c36c8da92bfbd2bea00cb",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Road Damaged Clean",
+    "categories": [
+      "asphalt",
+      "outdoor",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "dirty",
+      "dusty",
+      "asphalt",
+      "road",
+      "asphalt road",
+      "pitted",
+      "granular",
+      "tar",
+      "bumpy"
+    ],
+    "description": "Free 8K texture of a damaged road: dark, matte, brownish asphalt with fine pits, subtle wear, and uniform, debris-free detail.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "files_hash": "898c4acb8e84d9617683bc7a3470f0575c2cc00c",
+    "staging": null,
+    "date_published": 1785110400,
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "damaged",
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "img_version": "e3064ee5",
+    "download_count": 770,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/road_damaged_clean.png?width=256&height=256&format=webp&v=e3064ee5"
+  }
+}

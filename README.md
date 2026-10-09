@@ -42,8 +42,8 @@ The growing library contains individually verified CC0 packs from Kenney, textur
 npm run catalog:validate          # Schema, dates, deduplication, media, and evidence
 npm run catalog:check             # Read-only live source/license/download checks
 npm run catalog:discover -- --limit=150 # Candidates only; no catalog mutation
-npm run catalog:grow -- --limit=50 --write # Fill today's combined 50-item target
-npm run catalog:grow -- --mode=backfill --limit=150 --write # Initial bulk filling
+npm run catalog:grow -- --write # Minimum 50 per run; continue without an item cap
+npm run catalog:grow -- --mode=backfill --write # Manual bulk filling, larger resource budget
 npm run catalog:check -- --limit=20 --write
 ```
 
@@ -56,7 +56,7 @@ npx tsx scripts/seed-catalog.ts --input=.cache/kenney-imports.json
 npx tsx scripts/seed-polyhaven.ts --input=.cache/polyhaven-imports.json
 ```
 
-Importers retain existing records/dates and verify each new source/license/preview. The owner's daily target is **at least 50 genuinely new verified items**, combining free, limited-free and deals. The growth command fills any shortfall from unlisted backlog, alternates sources and replaces rejected candidates; five is an individual seed batch size, not a stopping point. Regular ceilings are 100 additions, 150 inspections, 90 minutes and 500 MB; initial backfill has separate bounded limits. Real access/verification failures produce an honest shortfall report, never invented assets. Start with [the simple Indonesian guide](docs/cursor-daily-guide.md), [the full prompt](.cursor/automations/daily-assets.md), and [technical details](docs/automation.md). Unity collection requires a separate source agreement under its Asset Store Terms section 3.3; no unauthorized scraping is implemented.
+Importers preserve existing records/dates and verify each new source/license/preview. The owner requires **at least 50 genuinely new verified items PER RUN, with no maximum item count**, combining free, limited-free and curated deals. Earlier additions today never satisfy a new run. Growth alternates sources and replaces rejected candidates, continuing beyond 50/100 while the actual 90-minute/500-MB resource budget remains; there is no fixed inspection quota. Five is an importer batch size. Pass remaining time, minimum and already consumed download bytes after other work. Legacy growth `--limit` now means minimum, while legacy `--candidates` no longer limits inspections; update saved schedules to the current prompt. Reports include real additions, stop reason and minimum shortfall. Start with [the Indonesian guide](docs/cursor-daily-guide.md), [the current prompt](.cursor/automations/daily-assets.md) and [technical details](docs/automation.md). Unity automation requires a separate agreement under Asset Store Terms section 3.3; no unauthorized scraping is implemented.
 
 Curated Collections are maintained daily in `data/collections.json`: review at least 3 existing themes, refresh relevant selections and create at most 1 useful new theme when appropriate. Each selection contains 6–16 verified permanent-free assets with a cover from its own members. Existing IDs remain stable. A real editorial `updatedAt` appears on the detail page and in the sitemap; an unchanged review never advances it or any asset verification timestamp. Collection edits/memberships are reported separately from the 50-new-asset target. Personal collections remain browser-local.
 

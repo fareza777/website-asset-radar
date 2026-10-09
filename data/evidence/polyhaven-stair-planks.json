@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stair_planks",
+  "checkedAt": "2026-10-09T08:30:10.068Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stair_planks",
+  "apiSha256": "e2bc6e35b396e98f7818e0619772891f3cc72f1bed54aa5cb5ba31853d7f699f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stair_planks/stair_planks_diff_1k.jpg",
+  "assetFileMd5": "cf17c344e6a1470fe98820901317ecf6",
+  "assetFileSha256": "6e3031d8ab4122b1d5c88a50a770d35b25f39eba46ee1cf51f93a0ad263c81cb",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Stair Planks",
+    "tags": [
+      "planks",
+      "wooden",
+      "wooden flooring ",
+      "wood",
+      "wooden planks",
+      "varnished",
+      "grain",
+      "wood grain",
+      "stairs",
+      "timber",
+      "weathered",
+      "scratched",
+      "plank",
+      "wooden floor",
+      "coated",
+      "flooring"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1200.0000476837158,
+      1200.0000476837158
+    ],
+    "staging": null,
+    "files_hash": "eaeec84b7e0d199fe13d66cddf109a53e11121ea",
+    "description": "Free 8K texture of varnished wooden stair planks - coated timber with visible grain, subtle scratches and weathering, ideal for realistic flooring, stairs, and interior scenes.",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "0fe05c15",
+    "download_count": 3310,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stair_planks.png?width=256&height=256&format=webp&v=0fe05c15"
+  }
+}

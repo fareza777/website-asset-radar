@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_stucco",
+  "checkedAt": "2026-10-09T08:33:29.922Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_stucco",
+  "apiSha256": "3d7b1d7853134a0264ced275e03742e5c48583a3afb9daa015369b283977c755",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_stucco/white_stucco_diff_1k.jpg",
+  "assetFileMd5": "34b66656dbf2a90eec29306deb1a20d0",
+  "assetFileSha256": "5f2d11f5675ffe679155d8e38ed8eaa9b9972126675641e4977c8a4f905f276b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "White Stucco",
+    "categories": [
+      "wall",
+      "man made",
+      "wall",
+      "man made",
+      "plaster",
+      "indoor"
+    ],
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "tags": [
+      "rough",
+      "wall",
+      "painted",
+      "stucco",
+      "white",
+      "granular",
+      "matte",
+      "uneven",
+      "porous",
+      "plaster"
+    ],
+    "description": "Free 8K white stucco texture with fine granular bumps, subtle pores and a matte, slightly warm off‑white plaster finish.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1998.0629682540894,
+      1998.0640411376953
+    ],
+    "files_hash": "6130f832c1ced67099984a28a99031483624ce44",
+    "date_published": 1786406400,
+    "staging": null,
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "clean"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "10c37d5f",
+    "download_count": 19189,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_stucco.png?width=256&height=256&format=webp&v=10c37d5f"
+  }
+}

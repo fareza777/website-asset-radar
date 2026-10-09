@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/weathered_peeling_timber",
+  "checkedAt": "2026-10-09T08:34:15.368Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/weathered_peeling_timber",
+  "apiSha256": "85d7fb028b9c5839286fc7f666f8ca5266417fc610323377a74f10ca4d2f3701",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_peeling_timber/weathered_peeling_timber_diff_1k.jpg",
+  "assetFileMd5": "f121813ceb13db1627db54793221dabc",
+  "assetFileSha256": "d646fa8f29c01282b2af61d757659b9f159f337de213c1a234816233973466d0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Weathered Peeling Timber",
+    "categories": [
+      "outdoor",
+      "wood",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "wood",
+      "wood planks",
+      "peeling",
+      "peeling paint",
+      "wooden planks",
+      "rustic",
+      "plank",
+      "distressed",
+      "flaking paint",
+      "nail holes",
+      "dry"
+    ],
+    "description": "Free 8K wood texture of worn planks: rough, split grain with deep seams, peeling green and white paint exposing aged brown timber and chalky wear, nail holes.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1100.000023841858,
+      1100.000023841858
+    ],
+    "files_hash": "5cdf4531c71c0973bdc4966ec222f019c3920456",
+    "staging": null,
+    "date_published": 1785456000,
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "painted",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "img_version": "f122129f",
+    "download_count": 3126,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weathered_peeling_timber.png?width=256&height=256&format=webp&v=f122129f"
+  }
+}

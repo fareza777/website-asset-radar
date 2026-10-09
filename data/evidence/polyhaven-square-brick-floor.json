@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_brick_floor",
+  "checkedAt": "2026-10-09T08:34:30.873Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_brick_floor",
+  "apiSha256": "cbb0b549a2a4748ba9b8b2327359665706dcf2ef9b2dcf8ca63e0a5ba22fe6d2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_brick_floor/square_brick_floor_diff_1k.jpg",
+  "assetFileMd5": "9e5d1baf9b2048fbbedb97a6321630fe",
+  "assetFileSha256": "1490bb2718a3ad089f3c010604f733d0388605e497490207199b746343e7dcd4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Square Brick Floor",
+    "categories": [
+      "indoor",
+      "brick",
+      "man made"
+    ],
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "chipped",
+      "brick",
+      "bricks",
+      "grouted",
+      "scratched",
+      "floor",
+      "discolored",
+      "grid",
+      "scuffed",
+      "old brick",
+      "pitted"
+    ],
+    "description": "Free 8K texture of a weathered square brick floor: small red-brown tiles with worn edges, subtle gloss, rough grout and scattered cement patches.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "a2126fd4c9e5ac47233bd2b5549ea632d52ef659",
+    "staging": null,
+    "date_published": 1785283200,
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "b0f2b637",
+    "download_count": 2463,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_brick_floor.png?width=256&height=256&format=webp&v=b0f2b637"
+  }
+}

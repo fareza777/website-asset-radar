@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/washed_grey_oak_veneer",
+  "checkedAt": "2026-10-09T08:31:11.487Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/washed_grey_oak_veneer",
+  "apiSha256": "757af5363a4faeb230f84b6e73bed70da3dfc14e1d897cac2ede8353b86a408e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/washed_grey_oak_veneer/washed_grey_oak_veneer_diff_1k.jpg",
+  "assetFileMd5": "e8a8409762da39d16a4cfbf62f21539c",
+  "assetFileSha256": "17cdfffc65a814265e7d3e288a3de1615e0ccc691ecca10ab02d7fd72dc10f64",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Washed Grey Oak Veneer",
+    "tags": [
+      "veneer",
+      "veneer wood",
+      "natural grain",
+      "grain",
+      "oak",
+      "flat wood surface",
+      "natural wood grain",
+      "wood grain",
+      "raw wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "6baa0dec66ef3cff5dda6c0fc7601f3433e6db75",
+    "description": "Free 8K texture of washed grey oak veneer with subtle natural grain, flat smooth surface and fine oak detail - ideal for furniture, interiors and visualization.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "20a84966",
+    "download_count": 548,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/washed_grey_oak_veneer.png?width=256&height=256&format=webp&v=20a84966"
+  }
+}

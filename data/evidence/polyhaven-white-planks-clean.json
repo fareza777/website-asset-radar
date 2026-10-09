@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_planks_clean",
+  "checkedAt": "2026-10-09T08:32:01.795Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_planks_clean",
+  "apiSha256": "d48848b7139d7f6ab11c21282792658d64b3f6b681969f51806ef035777b68f6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_planks_clean/white_planks_clean_diff_1k.jpg",
+  "assetFileMd5": "50b7addfff3f66b46c0182d23faf2882",
+  "assetFileSha256": "1be65e3940b59a4e7eb902f47da5d00ddb2b427b5ef18e7959fd82f17a3afb2c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "White Planks Clean",
+    "tags": [
+      "painted",
+      "painted wood",
+      "wood",
+      "wood wall",
+      "wooden",
+      "wooden planks",
+      "white",
+      "paneling"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "staging": null,
+    "files_hash": "0deaf60759552def289291b0f87c7f4ec39da900",
+    "description": "Free 8K texture of clean white painted wooden planks with narrow grooves, subtle grain and light wear - ideal for interior walls, paneling, and props.",
+    "sponsors": [
+      "121968951"
+    ],
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wall",
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "971885cd",
+    "download_count": 3275,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_planks_clean.png?width=256&height=256&format=webp&v=971885cd"
+  }
+}

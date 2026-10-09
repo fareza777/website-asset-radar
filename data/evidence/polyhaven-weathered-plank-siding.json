@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/weathered_plank_siding",
+  "checkedAt": "2026-10-09T08:36:05.412Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/weathered_plank_siding",
+  "apiSha256": "2fab4617554590e6ae5d2d871961cadd91a394189460d5f0e35b7e09d14770f6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_plank_siding/weathered_plank_siding_diff_1k.jpg",
+  "assetFileMd5": "90f818fd61602ac7268ee89857e77396",
+  "assetFileSha256": "dad0442114f1efd9a25195f2e2ac480693c2a6199f3987f4cfac4002b2820fbd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Weathered Plank Siding",
+    "categories": [
+      "outdoor",
+      "wall",
+      "wood"
+    ],
+    "tags": [
+      "rough",
+      "wood",
+      "wooden planks",
+      "exterior",
+      "rustic",
+      "plank siding",
+      "weathered",
+      "weatherbeaten",
+      "horizontal planks",
+      "cladding",
+      "lap siding",
+      "lumber",
+      "timber",
+      "plank"
+    ],
+    "description": "Free 8K weathered plank siding texture: dark brown wood with layered boards, worn edges, nail marks, subtle grain and roughness, slight sheen and seams.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1570.0000524520874,
+      1570.0000524520874
+    ],
+    "files_hash": "2abcb76d5b6adf54f2e033d181740d82c0585376",
+    "staging": null,
+    "date_published": 1784246400,
+    "category_id": "04edc771-9ea5-5eb3-903f-94d1a6aa5641",
+    "category": "Wood/Boards & Planks/Clapboard & Siding",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "ed01a128",
+    "download_count": 3481,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weathered_plank_siding.png?width=256&height=256&format=webp&v=ed01a128"
+  }
+}

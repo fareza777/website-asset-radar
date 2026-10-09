@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/road_damaged_2",
+  "checkedAt": "2026-10-09T08:38:21.576Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/road_damaged_2",
+  "apiSha256": "89de796d270a8a1563c5b8d9ff14c2aa7b5894b379fe1d91f52ea782dc3d48c1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/road_damaged_2/road_damaged_2_diff_1k.jpg",
+  "assetFileMd5": "50efa339302652e84743005b2d5bbba7",
+  "assetFileSha256": "5d1c75fdf76db59cd7a24785ed493c2f1404bee19033550f10e82e134906352e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Road Damaged 2",
+    "categories": [
+      "road",
+      "asphalt",
+      "man made"
+    ],
+    "tags": [
+      "uneven",
+      "rough",
+      "asphalt",
+      "asphalt road",
+      "damaged",
+      "weathered",
+      "damaged",
+      "pothole",
+      "potholes",
+      "deteriorating",
+      "tar",
+      "battered",
+      "cracked",
+      "deteriorated",
+      "cracks",
+      "pitted",
+      "dusty",
+      "gravelly"
+    ],
+    "description": "Free 8K road texture featuring a heavily worn surface with cracks, pothole scars and gritty granules, dark brown tones, and natural rough variation.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "files_hash": "1f18d40e74a8d85953a71b5b7267f13a909460e0",
+    "staging": null,
+    "date_published": 1783036800,
+    "category_id": "7325cb43-c347-55cd-8df0-ff415e0d454d",
+    "category": "Asphalt & Bitumen/Roads/Damaged Roads",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "damaged",
+        "cracked",
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "58421871",
+    "download_count": 1761,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/road_damaged_2.png?width=256&height=256&format=webp&v=58421871"
+  }
+}

@@ -4,8 +4,8 @@
   "executablePolicy": "scripts/source-policy.ts",
   "userAgent": "AssetRadar/1.0 (+https://github.com/fareza777/website-asset-radar)",
   "minimumRequestIntervalMs": 1400,
-  "minimumNewItemsPerDay": 50,
-  "maxAdditionsPerRun": 100,
+  "minimumNewItemsPerRun": 50,
+  "maxAdditionsPerRun": null,
   "importBatchSize": 5,
   "maxRechecksPerRun": 20,
   "sources": [

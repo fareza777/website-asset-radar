@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wooden_floor_02",
+  "checkedAt": "2026-10-09T08:33:11.888Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wooden_floor_02",
+  "apiSha256": "71568c35222158b3582e35f50cbee87c54e27369ab156cd91a04781fccfe9104",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wooden_floor_02/wooden_floor_02_diff_1k.jpg",
+  "assetFileMd5": "7395f558aa2e2e898bb26fdc8bd5468b",
+  "assetFileSha256": "82e56941b7554ad8069d3e5fffa149165b01f52bafa2f631f1618a6cf166fd88",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Wooden Floor 02",
+    "tags": [
+      "wood planks",
+      "hardwood",
+      "wooden",
+      "wood",
+      "wooden flooring ",
+      "wooden plank",
+      "wooden floor",
+      "wooden knots",
+      "grain",
+      "wood grain",
+      "planks",
+      "interior flooring",
+      "hardwood flooring",
+      "timber"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "Scanning",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "dimensions": [
+      1942.000150680542,
+      1942.000150680542
+    ],
+    "staging": null,
+    "files_hash": "781102842eb33013e7fd7511c66fb243cd1a3fa1",
+    "description": "Free 16K texture of warm hardwood planks with visible grain, knots and soft satin sheen - ideal for interior flooring, timber scenes and realistic renders.",
+    "sponsors": [
+      "121968951"
+    ],
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "floor",
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "fd40223d",
+    "download_count": 2836,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_floor_02.png?width=256&height=256&format=webp&v=fd40223d"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sapele_veneer",
+  "checkedAt": "2026-10-09T08:28:32.947Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sapele_veneer",
+  "apiSha256": "125cd5dc2253d70f0c8bc9a42876a856811805160d5dc61e2504f5d28429ed18",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sapele_veneer/sapele_veneer_diff_1k.jpg",
+  "assetFileMd5": "352de55fa1c75522b7faae4d72024748",
+  "assetFileSha256": "b0996ca0f175991d1db4c9fbfefa26ce1b8100e0cc1480864d8870fd1ba78fe7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Sapele Veneer",
+    "tags": [
+      "grain",
+      "wood",
+      "wood grain",
+      "raw",
+      "raw wood",
+      "veneer",
+      "sapele",
+      "veneer wood",
+      "timber",
+      "natural wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "dimensions": [
+      500,
+      500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "staging": null,
+    "files_hash": "113a156a88c9ee2ea9fd0a56c8898671b7b574bd",
+    "description": "Free 8K sapele veneer texture - warm reddish-brown wood with fine linear grain, smooth raw surface and subtle sheen; great for furniture, interiors and prop materials.",
+    "category_id": "3a571502-24b8-50a1-88b0-436a835089a4",
+    "category": "Wood/Veneer/Dark & Exotic Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "raw wood",
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "e3e4055a",
+    "download_count": 1571,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sapele_veneer.png?width=256&height=256&format=webp&v=e3e4055a"
+  }
+}

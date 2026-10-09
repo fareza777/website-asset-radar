@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_textured_concrete",
+  "checkedAt": "2026-10-09T08:46:20.658Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_textured_concrete",
+  "apiSha256": "bf503bf1a43a8b89fc467ce8fb0b1343346f1d9e673f93e04529a2ec8e22c528",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_textured_concrete/wood_textured_concrete_diff_1k.jpg",
+  "assetFileMd5": "670f233ec7dd3361a1efede0fa610d83",
+  "assetFileSha256": "fa62e11dd49db7d73ab7b6582bbe312318cecba709350bc28e9f8ba8286d352f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Wood Textured Concrete",
+    "categories": [
+      "outdoor",
+      "wall",
+      "concrete",
+      "plaster-concrete",
+      "plaster"
+    ],
+    "tags": [
+      "rough",
+      "concrete",
+      "plaster",
+      "plastered",
+      "wood grain",
+      "stamped concrete",
+      "grain stamped ",
+      "grainy",
+      "coarse",
+      "industrial",
+      "imprinted"
+    ],
+    "description": "Free 8k texture of wood-textured concrete: coarse, stamped vertical wood grain in brown-gray tones, rough plastered surface with weathering, chips and visible seams.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "files_hash": "466c66b33606367ba5add7df975e8571617e4931",
+    "date_published": 1777507200,
+    "staging": null,
+    "category_id": "d84e9e27-e85e-570d-ab7a-d33056a6357a",
+    "category": "Concrete/Cast Walls & Floors/Stamped & Decorative",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1aebb8b9",
+    "download_count": 3173,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_textured_concrete.png?width=256&height=256&format=webp&v=1aebb8b9"
+  }
+}

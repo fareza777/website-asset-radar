@@ -1,0 +1,202 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Pizza004",
+  "checkedAt": "2026-10-09T08:27:56.990Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Pizza004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "291ba9bf1e2af8ee730da10e79ffc115ff30542fe71d3e29cd9d244634ca5df7",
+  "apiMetadata": {
+    "assetId": "Pizza004",
+    "dataType": "Material",
+    "displayName": "Pizza 004",
+    "displayCategory": "Pizza",
+    "shortLink": "https://ambientcg.com/a/Pizza004",
+    "tags": [
+      "004",
+      "4",
+      "baked",
+      "cheese",
+      "food",
+      "golden",
+      "greasy",
+      "green",
+      "kitchen",
+      "mozzarella",
+      "pizza",
+      "pizza004",
+      "spinach"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Pizza004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Pizza004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Pizza004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Pizza004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Pizza004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Pizza004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Pizza004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Pizza004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Pizza004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Pizza004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Pizza004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Pizza004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Pizza004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Pizza004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Pizza004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Pizza004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Pizza004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Pizza004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Pizza004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Pizza004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Pizza004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Pizza004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Pizza004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Pizza004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_1K-JPG.zip",
+                "fileName": "Pizza004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_1K-JPG.zip",
+                "size": 6922030,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_2K-JPG.zip",
+                "fileName": "Pizza004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_2K-JPG.zip",
+                "size": 20355102,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_4K-JPG.zip",
+                "fileName": "Pizza004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_4K-JPG.zip",
+                "size": 63436093,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_8K-JPG.zip",
+                "fileName": "Pizza004_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_8K-JPG.zip",
+                "size": 221259758,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_1K-PNG.zip",
+                "fileName": "Pizza004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_1K-PNG.zip",
+                "size": 16142696,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_2K-PNG.zip",
+                "fileName": "Pizza004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_2K-PNG.zip",
+                "size": 57823726,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_4K-PNG.zip",
+                "fileName": "Pizza004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_4K-PNG.zip",
+                "size": 216730975,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Pizza004_8K-PNG.zip",
+                "fileName": "Pizza004_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Pizza004_8K-PNG.zip",
+                "size": 741542323,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2026-03-20 19:00:00",
+    "earlyReleaseDate": "2026-03-17 22:47:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 2992,
+    "downloadCountMonth": 812,
+    "downloadCountWeek": 227,
+    "popularityScore": 5.819323047188362,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 40,
+    "dimensionY": 40,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Color.jpg?90104&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Displacement.jpg?69580&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_NormalDX.jpg?89111&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Roughness.jpg?31253&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Opacity.jpg?98818&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_AmbientOcclusion.jpg?5146",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Color.jpg?33095,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Displacement.jpg?97339,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_NormalDX.jpg?758,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Roughness.jpg?98518,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Opacity.jpg?69779,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_AmbientOcclusion.jpg?82852&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Pizza004.webp",
+  "previewSha256": "9a53dbbad2b2d320c6633812cb957d5badc0173886fb66c3c9d48b5f52fa0dfd",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

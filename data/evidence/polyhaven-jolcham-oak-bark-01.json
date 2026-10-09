@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/jolcham_oak_bark_01",
+  "checkedAt": "2026-10-09T08:46:40.486Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/jolcham_oak_bark_01",
+  "apiSha256": "ad265a1e84d567468b9799c3127a8dee4cfda6a81fe741441ab9b484cd132f7b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/jolcham_oak_bark_01/jolcham_oak_bark_01_diff_1k.jpg",
+  "assetFileMd5": "a74acddb27c17674d94498c1be7f0495",
+  "assetFileSha256": "08c26b3ea38718dfc3902d0889ac06e2ce0ae9cddb31d8988723eee1780a71c8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Jolcham Oak Bark 01",
+    "categories": [
+      "outdoor",
+      "natural",
+      "bark"
+    ],
+    "description": "Free 8k texture of Jolcham oak bark: rough, weathered, uneven bark with mossy, lichen-covered patches, deep fissures and coarse organic brown-green tones.",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      16384
+    ],
+    "date_published": 1777334400,
+    "staging": null,
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "moss",
+      "mossy",
+      "mosscovered",
+      "bark",
+      "tree",
+      "tree bark",
+      "organic",
+      "fissured",
+      "bark texture",
+      "tree trunk",
+      "trunk",
+      "tree texture",
+      "non square"
+    ],
+    "dimensions": [
+      1000,
+      2000
+    ],
+    "files_hash": "0a79f73d58cae8285349ccab52becc63ba56456e",
+    "category_id": "fc8dd00d-a670-5b83-af7f-2281cb9ca987",
+    "category": "Wood/Bark/Fissured Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "0f99fd59",
+    "download_count": 5208,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/jolcham_oak_bark_01.png?width=256&height=256&format=webp&v=0f99fd59"
+  }
+}

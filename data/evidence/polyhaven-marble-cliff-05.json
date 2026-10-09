@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/marble_cliff_05",
+  "checkedAt": "2026-10-09T08:44:25.309Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/marble_cliff_05",
+  "apiSha256": "886cbd9c2cdbce2a4318aecc31e857192d9505ad14cebecea7fe5dd767f836b7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_cliff_05/marble_cliff_05_diff_1k.jpg",
+  "assetFileMd5": "84d207d6f6d8a52c41da48144b951eab",
+  "assetFileSha256": "06d39eeb7243e5dd1aa8a5e2f4acb6e62fc3457ceb066bfa73743c977336baa4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Marble Cliff 05",
+    "categories": [
+      "aerial",
+      "rock",
+      "natural",
+      "outdoor"
+    ],
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "rock",
+      "chipped",
+      "stone",
+      "marble",
+      "striated",
+      "veined",
+      "fractured",
+      "cracked",
+      "cliff",
+      "craggy",
+      "fissured",
+      "striations",
+      "rock face",
+      "rock formation",
+      "exposed rock"
+    ],
+    "description": "Free 8K marble cliff texture with pale beige and gray tones, dense veining and striations, heavy weathering, deep cracks and chips, rough, uneven surface.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      20002.0694732666,
+      20001.800537109375
+    ],
+    "files_hash": "d68002075e784ddf27fe0a8e552466329fb7e81c",
+    "date_published": 1779753600,
+    "staging": null,
+    "category_id": "19a0b774-8b0a-5853-a205-8f019fe00ae9",
+    "category": "Stone/Rock & Cliffs/Marble & Metamorphic",
+    "attributes": {
+      "condition": [
+        "weathered",
+        "cracked",
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "27c0b64d",
+    "download_count": 14836,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_cliff_05.png?width=256&height=256&format=webp&v=27c0b64d"
+  }
+}

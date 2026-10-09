@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_maple_veneer",
+  "checkedAt": "2026-10-09T08:31:28.506Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_maple_veneer",
+  "apiSha256": "19e9a41396572b2941d0757812df2fea61f9838037748869751b33edd5d8fe32",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_maple_veneer/white_maple_veneer_diff_1k.jpg",
+  "assetFileMd5": "33f613aa2b8f215f390e897165948b9c",
+  "assetFileSha256": "0cdcb6d726ca7e6039ab0eeb2b1828a0ef188b43c2370972cf6eebeaff76aaa0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "White Maple Veneer",
+    "tags": [
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "white",
+      "natural wood",
+      "wood",
+      "natural veneer",
+      "natural",
+      "light wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "5be8d1761b5664324112e7a911536a8395ff44a1",
+    "description": "Free 8K white maple veneer texture - light, natural wood grain with subtle figure and smooth satin finish; great for furniture, cabinetry and interior scenes.",
+    "category_id": "696337cd-d4c7-5cc4-98f9-cddf9a6c4ee5",
+    "category": "Wood/Veneer/Light Hardwood Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "94010e04",
+    "download_count": 4568,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_maple_veneer.png?width=256&height=256&format=webp&v=94010e04"
+  }
+}

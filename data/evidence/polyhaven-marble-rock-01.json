@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/marble_rock_01",
+  "checkedAt": "2026-10-09T08:42:27.337Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/marble_rock_01",
+  "apiSha256": "bd93f68923546e6fe5a8353bb5ba2da320623c6e73f0938b4472efa8a56268ae",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_rock_01/marble_rock_01_diff_1k.jpg",
+  "assetFileMd5": "3ae8062d6c46f875dec8191084cc4d88",
+  "assetFileSha256": "dcceb9961c1200d6c857006db0fbfaef92fd6734e626d9587eae5691e6c0262c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Marble Rock 01",
+    "categories": [
+      "outdoor",
+      "rock",
+      "natural"
+    ],
+    "tags": [
+      "uneven",
+      "rock",
+      "rock face",
+      "geological",
+      "cracked",
+      "boulder",
+      "craggy",
+      "marble",
+      "veined",
+      "weathered",
+      "striated"
+    ],
+    "description": "Free 8K marble rock texture with a cracked, veined surface. Light gray-beige stone, dark striations and pits, weathered with craggy relief.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2002.079963684082,
+      2002.0811557769775
+    ],
+    "files_hash": "f3c6b324d949ea2b3bb28eff1f75cf763322eaf8",
+    "staging": null,
+    "date_published": 1781049600,
+    "category_id": "19a0b774-8b0a-5853-a205-8f019fe00ae9",
+    "category": "Stone/Rock & Cliffs/Marble & Metamorphic",
+    "attributes": {
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "e5802972",
+    "download_count": 3283,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_rock_01.png?width=256&height=256&format=webp&v=e5802972"
+  }
+}
