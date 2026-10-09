@@ -27,7 +27,7 @@ The exported site is in `out/`; the local static preview listens on port 3001. V
 - Search plus combined genre, dimension, asset type, engine, license, and source filters. Filters are shareable in the URL.
 - Latest additions, CC0 browsing, grid/list views, and responsive navigation.
 - Favorites and personal collections saved in this browser with `localStorage`, including cross-tab updates and graceful handling of unavailable storage.
-- Twelve curated collections and static pages for every asset and category.
+- Curated collections and static pages for every asset and category.
 - Original animated editorial scenes, a radar navigation panel, and optional motion. Animations pause offscreen or in hidden tabs and respect reduced-motion preferences.
 - Free Today with verified zero prices, license tiers and known-expiry countdowns; Deals Radar with real prices, discounts and marketplace ratings when available.
 - Transparent Radar Score, commercial-use notes, and automatic expiry/stale-evidence protection. The homepage keeps free assets at its core while highlighting a few reviewed promotions.
@@ -57,6 +57,8 @@ npx tsx scripts/seed-polyhaven.ts --input=.cache/polyhaven-imports.json
 ```
 
 Importers retain existing records/dates and verify each new source/license/preview. The owner's daily target is **at least 50 genuinely new verified items**, combining free, limited-free and deals. The growth command fills any shortfall from unlisted backlog, alternates sources and replaces rejected candidates; five is an individual seed batch size, not a stopping point. Regular ceilings are 100 additions, 150 inspections, 90 minutes and 500 MB; initial backfill has separate bounded limits. Real access/verification failures produce an honest shortfall report, never invented assets. Start with [the simple Indonesian guide](docs/cursor-daily-guide.md), [the full prompt](.cursor/automations/daily-assets.md), and [technical details](docs/automation.md). Unity collection requires a separate source agreement under its Asset Store Terms section 3.3; no unauthorized scraping is implemented.
+
+Curated Collections are maintained daily in `data/collections.json`: review at least 3 existing themes, refresh relevant selections and create at most 1 useful new theme when appropriate. Each selection contains 6–16 verified permanent-free assets with a cover from its own members. Existing IDs remain stable. A real editorial `updatedAt` appears on the detail page and in the sitemap; an unchanged review never advances it or any asset verification timestamp. Collection edits/memberships are reported separately from the 50-new-asset target. Personal collections remain browser-local.
 
 Promotion data lives in `data/offers.json` with matching first-party price/license evidence in `data/offer-evidence/`. The initial 3 limited-free Fab packs and 2 itch.io deals were checked on 8 October 2026 at 16:41 UTC; four additional itch.io deals were checked at 21:25–21:26 UTC (9 October in Jakarta). Prices retain the actually displayed currency and license tier; there are no invented USD conversions or end dates. These records naturally become inactive without a new check within 48 hours.
 

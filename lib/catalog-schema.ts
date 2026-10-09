@@ -1,7 +1,8 @@
 import { z } from "zod";
-import { assetTypes, categories } from "./types";
+import { assetTypes, categories, type Collection } from "./types";
 import { canonicalUrl } from "./catalog-utils";
 import { calculateFreeScore } from "./offer-utils";
+import automationPolicy from "../data/automation-policy.json";
 
 const date = z
   .string()
@@ -103,9 +104,12 @@ export function validateCatalog(
       (sourceHost !== "polyhaven.com" || evidenceHost !== "api.polyhaven.com")
     )
       throw new Error(`Untrusted Poly Haven source: ${asset.id}`);
-    if (asset.source === "ambientCG" &&
-      (sourceHost !== "ambientcg.com" || evidenceHost !== "ambientcg.com" ||
-        new URL(asset.verificationUrl).pathname !== "/api/v2/full_json"))
+    if (
+      asset.source === "ambientCG" &&
+      (sourceHost !== "ambientcg.com" ||
+        evidenceHost !== "ambientcg.com" ||
+        new URL(asset.verificationUrl).pathname !== "/api/v2/full_json")
+    )
       throw new Error(`Untrusted ambientCG source: ${asset.id}`);
     if (
       asset.license === "CC0" &&
@@ -127,6 +131,58 @@ export function validateCatalog(
       throw new Error(`Preview license mismatch: ${asset.id}`);
   }
   return assets;
+}
+
+export function validateCollections(
+  input: unknown,
+  assets: readonly { id: string }[],
+  now = Date.now(),
+): Collection[] {
+  const id = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/);
+  const collections = z
+    .array(
+      z
+        .object({
+          id,
+          name: z.string().trim().min(3).max(80),
+          description: z.string().trim().min(30).max(240),
+          assetIds: z
+            .array(id)
+            .min(automationPolicy.collections.minAssets)
+            .max(automationPolicy.collections.maxAssets),
+          cover: id,
+          color: z.enum(["peach", "blue", "mint", "lime"]),
+          updatedAt: z.iso.datetime().refine((value) => {
+            const timestamp = Date.parse(value);
+            return (
+              Number.isFinite(timestamp) &&
+              timestamp <= now &&
+              new Date(timestamp).toISOString().slice(0, 19) ===
+                value.slice(0, 19)
+            );
+          }, "Invalid or future editorial update timestamp"),
+        })
+        .strict(),
+    )
+    .min(1)
+    .parse(input);
+  const ids = new Set(assets.map((asset) => asset.id));
+  const collectionIds = new Set<string>();
+  const names = new Set<string>();
+  for (const collection of collections) {
+    const name = collection.name.toLowerCase().replace(/\s+/g, " ");
+    if (collectionIds.has(collection.id) || names.has(name))
+      throw new Error("Duplicate collection identity or name");
+    collectionIds.add(collection.id);
+    names.add(name);
+    if (
+      !collection.assetIds.includes(collection.cover) ||
+      collection.assetIds.some((id) => !ids.has(id)) ||
+      new Set(collection.assetIds).size !== collection.assetIds.length
+    )
+      throw new Error(`Invalid collection references: ${collection.id}`);
+  }
+  return collections;
 }
 
 /** A displayed verification date must be supported by a real recorded check. */

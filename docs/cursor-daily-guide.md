@@ -7,6 +7,9 @@
 > sekaligus isi katalog dari aset lama yang belum masuk. Jika satu kandidat
 > gagal, cari pengganti; jangan berhenti setelah satu batch. Cek sumber, lisensi,
 > harga, diskon, preview, link dan duplikat. Arsipkan promo yang selesai.
+> Update juga Curated Collections: review minimal 3 koleksi, tambah aset yang
+> cocok, dan buat maksimal 1 tema baru bila berguna. Tiap koleksi 6–16 aset gratis
+> terverifikasi. Perubahan koleksi tidak dihitung sebagai 50 aset baru.
 > Setelah semua pemeriksaan dan build lulus, langsung commit dan push ke main
 > tanpa PR atau review saya. Jangan mengarang data untuk memenuhi target.
 
@@ -18,15 +21,17 @@ File repo ini tidak mendaftarkan atau mengaktifkan jadwal akun secara otomatis.
 
 Angka berlaku dari [automation-policy.json](../data/automation-policy.json).
 
-| Pekerjaan                                      |           Harian |
-| ---------------------------------------------- | ---------------: |
-| Target aset baru, semua tipe digabung          |   **Minimal 50** |
-| Batas penambahan reguler                       |              100 |
-| Pemeriksaan kandidat produk                    |              150 |
-| Publisher dipantau                             |               10 |
-| Recheck promo / free lama                      | Maksimal 50 / 20 |
-| Waktu keseluruhan / cadangan validasi dan push |    90 / 10 menit |
-| Download baru                                  |           500 MB |
+| Pekerjaan                                      |                 Harian |
+| ---------------------------------------------- | ---------------------: |
+| Target aset baru, semua tipe digabung          |         **Minimal 50** |
+| Batas penambahan reguler                       |                    100 |
+| Pemeriksaan kandidat produk                    |                    150 |
+| Publisher dipantau                             |                     10 |
+| Koleksi existing direview / tema baru          | Minimal 3 / maksimal 1 |
+| Aset gratis per Curated Collection             |                   6–16 |
+| Recheck promo / free lama                      |       Maksimal 50 / 20 |
+| Waktu keseluruhan / cadangan validasi dan push |          90 / 10 menit |
+| Download baru                                  |                 500 MB |
 
 Recheck harga, tanggal baru, URL kandidat dan menghidupkan promo lama bukan aset
 baru. Hitung penambahan per hari Asia/Jakarta, termasuk yang sudah ada ketika
@@ -58,7 +63,16 @@ Jangan mengklaim 50 ketika hanya 9 yang masuk.
 
 4. Baca .cache/growth-report.json: target, tambahan nyata, penolakan, sumber
    terblokir, bytes download dan shortfall. Recheck aset lama jika waktu cukup.
-5. Jalankan semua pemeriksaan di bawah. Stage hanya katalog/bukti/media berizin,
+5. Update data/collections.json: review minimal 3 koleksi secara bergantian,
+   prioritaskan tema yang cocok dengan aset baru. Tambah/pilih ulang aset yang
+   relevan, buang referensi hilang dan pertahankan 6–16 aset gratis terverifikasi.
+   Buat maksimal 1 koleksi baru bila temanya berguna dan berbeda. Cover harus
+   salah satu member; pertahankan ID/URL existing. Jangan campur promo sementara
+   ke koleksi gratis atau menjanjikan semua pack langsung cocok di satu engine.
+   Tulis deskripsi Inggris dan updatedAt UTC hanya ketika isi benar-benar berubah.
+   Review tanpa perubahan tidak mengganti tanggal. Laporkan koleksi direview,
+   diubah/baru, serta member ditambah/dihapus. Ini tidak menambah hitungan 50 aset.
+6. Jalankan semua pemeriksaan di bawah. Stage hanya katalog/koleksi/bukti/media berizin,
    commit dan push main. Jika main maju, rebase hanya commit katalog run ini dan
    ulangi pemeriksaan. Jangan force-push atau mengubah izin/proteksi branch.
    Vercel deploy otomatis; sebut berhasil hanya setelah commit itu live.
@@ -106,6 +120,7 @@ Jangan menyalin pack berbayar/logo atau membuat harga/rating/expiry palsu.
 Jangan membuat artikel filler atau memecah pack untuk menambah jumlah.
 
 Laporan: free + limited free + deals baru; total harian versus target 50;
+collections direview/diubah/baru dan perubahan member;
 shortfall/alasan; recheck/arsip; sumber berhasil/skip/blocked; evidence;
 waktu/download; hasil pemeriksaan; commit/push dan status deploy.
 

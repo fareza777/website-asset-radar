@@ -171,6 +171,8 @@ export type Collection = {
   assetIds: string[];
   cover: string;
   color: string;
+  /** Actual editorial content update, separate from asset verification. */
+  updatedAt: string;
 };
 
 export type PersonalCollection = {

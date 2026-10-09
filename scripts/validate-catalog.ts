@@ -1,7 +1,6 @@
 import { readFile, stat } from "node:fs/promises";
 import path from "node:path";
-import { validateCatalog, validateEvidenceDate } from "../lib/catalog-schema";
-import type { Collection } from "../lib/types";
+import { validateCatalog, validateEvidenceDate, validateCollections } from "../lib/catalog-schema";
 import { validateOffers, validateOfferEvidence } from "../lib/offers";
 import type { ArchivedOffer } from "../lib/types";
 import { validateExchangeRates } from "../lib/exchange-rates";
@@ -95,23 +94,9 @@ async function main() {
         throw new Error(`Invalid offer thumbnail: ${offer.id}`);
     }
   }
-  const collections = JSON.parse(
+  const collections = validateCollections(JSON.parse(
     await readFile("data/collections.json", "utf8"),
-  ) as Collection[];
-  const ids = new Set(assets.map((a) => a.id));
-  const collectionIds = new Set<string>();
-  for (const collection of collections) {
-    if (collectionIds.has(collection.id) || !/^[a-z0-9-]+$/.test(collection.id))
-      throw new Error("Invalid or duplicate collection id");
-    collectionIds.add(collection.id);
-    if (
-      !ids.has(collection.cover) ||
-      !collection.assetIds.length ||
-      collection.assetIds.some((id) => !ids.has(id)) ||
-      new Set(collection.assetIds).size !== collection.assetIds.length
-    )
-      throw new Error(`Invalid collection references: ${collection.id}`);
-  }
+  ), assets);
   console.log(
     `Catalog valid: ${assets.length} free assets, ${offers.length} promotions, ${collections.length} collections; media and evidence present.`,
   );

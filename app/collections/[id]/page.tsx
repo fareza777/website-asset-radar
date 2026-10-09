@@ -3,7 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "@phosphor-icons/react/dist/ssr";
-import { assets, collections, getCollection, getAsset } from "@/lib/catalog";
+import { collections, getCollection, getAsset } from "@/lib/catalog";
+import { formatDate } from "@/lib/catalog-utils";
 import { AssetGallery } from "@/components/asset-gallery";
 import { jsonLd, siteUrl } from "@/lib/site";
 
@@ -47,7 +48,10 @@ export default async function CollectionPage({
   const collection = getCollection(id);
   if (!collection) notFound();
   const cover = getAsset(collection.cover);
-  const items = assets.filter((a) => collection.assetIds.includes(a.id));
+  const items = collection.assetIds.flatMap((assetId) => {
+    const asset = getAsset(assetId);
+    return asset ? [asset] : [];
+  });
   return (
     <>
       <script
@@ -58,6 +62,7 @@ export default async function CollectionPage({
             "@type": "CollectionPage",
             name: collection.name,
             description: collection.description,
+            dateModified: collection.updatedAt,
             url: `${siteUrl}/collections/${id}/`,
             mainEntity: {
               "@type": "ItemList",
@@ -79,7 +84,7 @@ export default async function CollectionPage({
           <span className="intro-category">CURATED COLLECTION</span>
           <h1>{collection.name}</h1>
           <p>{collection.description}</p>
-          <span>{items.length} free assets · All licenses verified</span>
+          <span>{items.length} free assets · All licenses verified · Updated {formatDate(collection.updatedAt)}</span>
         </div>
         {cover && (
           <Image

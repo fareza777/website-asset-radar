@@ -11,6 +11,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .map((a) => a.lastChecked)
     .sort()
     .at(-1);
+  const lastCollectionUpdate = collections
+    .map((collection) => collection.updatedAt)
+    .sort()
+    .at(-1);
+  const lastContentUpdate = [lastChecked, lastCollectionUpdate]
+    .filter((date): date is string => Boolean(date))
+    .sort()
+    .at(-1);
   return [
     ...[
       "",
@@ -26,7 +34,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       "/publishers",
     ].map((path) => ({
       url: `${siteUrl}${path}/`,
-      lastModified: lastChecked,
+      lastModified:
+        path === "/collections" || path === ""
+          ? lastContentUpdate
+          : lastChecked,
       changeFrequency:
         path === "/free-today" || path === "/deals"
           ? ("daily" as const)
@@ -39,10 +50,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: 0.8,
     })),
-    ...publishers.map((publisher) => ({ url: `${siteUrl}/publisher/${publisher.id}/`, lastModified: publisher.profileCheckedAt, changeFrequency: "weekly" as const, priority: 0.7 })),
+    ...publishers.map((publisher) => ({
+      url: `${siteUrl}/publisher/${publisher.id}/`,
+      lastModified: publisher.profileCheckedAt,
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    })),
     ...collections.map((c) => ({
       url: `${siteUrl}/collections/${c.id}/`,
-      lastModified: lastChecked,
+      lastModified: c.updatedAt,
       priority: 0.7,
     })),
     ...directoryAssets.map((a) => ({

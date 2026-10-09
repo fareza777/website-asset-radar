@@ -18,6 +18,29 @@ After applying verified new promotions, run `npm run catalog:grow -- --limit=50 
 
 Initial/manual bulk filling uses `npm run catalog:grow -- --mode=backfill --limit=150 --write`. Separate ceilings are 500 new items, 1,000 inspections, 40 Kenney index pages, 120 minutes and 1,000 MB per run. Continue from unlisted inventory on later runs; never run simultaneous writers. Both modes retain source, license, schema, scoring and evidence checks. Shortfall exits unsuccessfully while preserving already verified additions.
 
+## Curated Collections
+
+`data/collections.json` is now included in the daily agent's publication allowlist.
+After importing assets, review at least 3 existing themes and rotate attention
+across Jakarta days. Add genuinely relevant packs, replace misplaced choices,
+remove missing/ineligible references, and create at most 1 distinct useful new
+theme per day. The policy requires 6–16 unique permanent-free catalog members
+per selection, a cover belonging to those members, stable existing IDs/names,
+an existing color and a factual original English description. Current curated
+pages are for free assets; promotions retain their existing dedicated routes.
+
+Select by purpose, visual direction, perspective, contents and documented formats,
+not just shared keywords or quantity. Preserve the free-directory focus and
+explain manual assembly where useful. Never imply a complete tested game project
+or a uniform style across unrelated packs. Set `updatedAt` to a real UTC editorial
+completion time only after public content changes; unchanged reviews keep the
+old date. The detail page and sitemap use that date independently of source,
+license or price verification. Write review decisions and member deltas to
+`.cache/collections-review-report.json`; report unchanged reviews as unchanged.
+Collection memberships and new collection pages do not count toward the 50-new-asset
+target. The catalog validator rejects invalid metadata, future timestamps,
+duplicate identities/names/members, unknown assets and covers outside the selection.
+
 ## Ten featured publisher monitors
 
 `npm run publishers:watch -- --limit=50 --write` checks the configured official

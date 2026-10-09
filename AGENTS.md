@@ -20,6 +20,12 @@ unlisted backlog; subtract already used inspection/time budgets with its flags.
 Rechecks/candidate URLs are not additions. Report real shortfalls instead of
 inventing data. Unity automation requires a separate source agreement under its
 Asset Store Terms section 3.3; do not scrape it or its private APIs.
+Curated Collections are also part of daily maintenance: review at least 3 existing
+themes, update relevant selections and create at most 1 useful new theme per day.
+Follow data/automation-policy.json collections limits and the full prompt. Keep
+6–16 verified permanent-free members, stable IDs and member-owned covers. Advance
+collection updatedAt only for real editorial changes; preserve asset verification
+dates. Collection edits/memberships never count toward the 50-new-asset target.
 Preserve source/licensing/preview/price/compatibility evidence. After all required
 checks and build pass, commit catalog-only changes and push main directly as
 authorized by the owner. No PR or owner review is required. Never force-push,

@@ -9,6 +9,12 @@
   "maxIndexPages": 20,
   "maxRunMinutes": 90,
   "maxArchiveDownloadMegabytes": 500,
+  "collections": {
+    "minimumReviewedPerDay": 3,
+    "maxNewPerDay": 1,
+    "minAssets": 6,
+    "maxAssets": 16
+  },
   "backfill": {
     "maxNewItems": 500,
     "maxCandidates": 1000,

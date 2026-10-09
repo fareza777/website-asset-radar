@@ -2,78 +2,99 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "Tiny towns, quiet farms, and all the pieces for a game that feels like home.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles for a cozy prototype. Pick an art direction before combining packs.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
-      "kenney-tiny-battle",
       "kenney-food-kit",
       "kenney-city-kit-suburban",
-      "kenney-music-jingles"
+      "kenney-music-jingles",
+      "kenney-cube-pets",
+      "kenney-mini-characters",
+      "kenney-holiday-kit"
     ],
     "cover": "kenney-tiny-town",
-    "color": "peach"
+    "color": "peach",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "Build your next quest with pixel dungeons, fantasy castles, and RPG essentials.",
+    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, UI borders, runes, and RPG audio. Art styles and engine setup vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
       "kenney-castle-kit",
       "kenney-ui-pack-rpg-expansion",
-      "kenney-rpg-audio"
+      "kenney-rpg-audio",
+      "kenney-fantasy-ui-borders",
+      "kenney-rune-pack",
+      "kenney-retro-textures-fantasy"
     ],
     "cover": "kenney-tiny-dungeon",
-    "color": "blue"
+    "color": "blue",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Open-air environments and survival props for your next outdoor adventure.",
+    "description": "Outdoor models and scenery, boats, fish art, and sky backgrounds for adventure prototypes. Choose packs that suit your art direction.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
       "kenney-pirate-kit",
-      "kenney-impact-sounds"
+      "kenney-impact-sounds",
+      "kenney-mini-forest",
+      "kenney-watercraft-kit",
+      "kenney-skyboxes",
+      "kenney-fish-pack"
     ],
     "cover": "kenney-nature-kit",
-    "color": "mint"
+    "color": "mint",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "the-finishing-touches",
     "name": "The finishing touches",
-    "description": "Thoughtful interfaces, clear icons, and audio details to bring a prototype together.",
+    "description": "UI kits, control prompts, medals, cursors, and interface audio for clear prototype menus and interaction feedback.",
     "assetIds": [
       "kenney-ui-pack",
       "kenney-ui-pack-rpg-expansion",
       "kenney-game-icons",
       "kenney-input-prompts",
       "kenney-interface-sounds",
-      "kenney-music-jingles"
+      "kenney-music-jingles",
+      "kenney-game-icons-expansion",
+      "kenney-cursor-pack",
+      "kenney-medals",
+      "kenney-input-prompts-pixel-1-bit"
     ],
     "cover": "kenney-ui-pack",
-    "color": "lime"
+    "color": "lime",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "a-town-of-your-own",
     "name": "A town of your own",
-    "description": "Build a fantasy town, furnish its rooms, and give its menus a matching adventure style.",
+    "description": "3D town and interior props, characters, and a separate 2D UI pack for fantasy prototypes. Materials and layouts need manual setup.",
     "color": "peach",
     "assetIds": [
       "kenney-fantasy-town-kit",
       "kenney-mini-market",
       "kenney-furniture-kit",
       "kenney-food-kit",
-      "kenney-ui-pack-adventure"
+      "kenney-ui-pack-adventure",
+      "kenney-modular-buildings",
+      "kenney-mini-characters",
+      "kenney-building-kit"
     ],
-    "cover": "kenney-fantasy-town-kit"
+    "cover": "kenney-fantasy-town-kit",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "the-night-shift",
     "name": "The night shift",
-    "description": "Factories, roads, and railways for a small industrial world with plenty to build.",
+    "description": "Choose 2D factory tiles or 3D industrial, road, and railway models, with CC0 metal and concrete surfaces. Materials need manual setup.",
     "color": "mint",
     "assetIds": [
       "kenney-factory-kit",
@@ -81,28 +102,36 @@
       "kenney-city-kit-roads",
       "kenney-train-kit",
       "kenney-tiny-factory",
-      "kenney-ui-pack"
+      "kenney-ui-pack",
+      "ambientcg-metal063",
+      "ambientcg-concrete034",
+      "ambientcg-asphalt033"
     ],
-    "cover": "kenney-factory-kit"
+    "cover": "kenney-factory-kit",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Assemble a sci-fi setting with space kits, a space station, interface pieces, and sound effects.",
+    "description": "Space-station and modular sci-fi models, blasters, planet art, sky backgrounds, interface pieces, and sound effects.",
     "color": "blue",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
       "kenney-space-station-kit",
       "kenney-ui-pack-sci-fi",
-      "kenney-sci-fi-sounds"
+      "kenney-sci-fi-sounds",
+      "kenney-blaster-kit",
+      "kenney-planets",
+      "kenney-skyboxes-space"
     ],
-    "cover": "kenney-space-station-kit"
+    "cover": "kenney-space-station-kit",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Start a 2D platformer with pixel environments, countryside and industrial expansions, and clear control prompts.",
+    "description": "Pixel and illustrated platformer art, expansion packs, and control prompts. Choose packs with a consistent palette and proportions.",
     "color": "peach",
     "assetIds": [
       "kenney-pixel-platformer",
@@ -110,14 +139,18 @@
       "kenney-pixel-platformer-farm-expansion",
       "kenney-pixel-platformer-industrial-expansion",
       "kenney-pixel-platformer-food-expansion",
-      "kenney-input-prompts-pixel"
+      "kenney-input-prompts-pixel",
+      "kenney-new-platformer-pack",
+      "kenney-platformer-art-mushrooms",
+      "kenney-platformer-bricks"
     ],
-    "cover": "kenney-pixel-platformer-farm-expansion"
+    "cover": "kenney-pixel-platformer-farm-expansion",
+    "updatedAt": "2026-10-09T06:53:45.914Z"
   },
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
-    "description": "Tiny roguelike environments, caves, interiors, and characters for your next top-down adventure.",
+    "description": "Pixel RPG environments, caves, interiors, characters, and audio. Choose one palette and perspective before combining packs.",
     "color": "blue",
     "assetIds": [
       "kenney-micro-roguelike",
@@ -125,14 +158,18 @@
       "kenney-roguelike-caves-dungeons",
       "kenney-roguelike-indoors",
       "kenney-roguelike-characters",
-      "kenney-rpg-audio"
+      "kenney-rpg-audio",
+      "kenney-monochrome-rpg",
+      "kenney-rpg-urban-pack",
+      "kenney-pico-8-city"
     ],
-    "cover": "kenney-micro-roguelike"
+    "cover": "kenney-micro-roguelike",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pair readable interfaces and cursors with small audio cues that make each interaction feel complete.",
+    "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds. Select the pieces that suit your interface.",
     "color": "mint",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
@@ -140,14 +177,18 @@
       "kenney-mobile-controls",
       "kenney-cursor-pixel-pack",
       "kenney-ui-audio",
-      "kenney-digital-audio"
+      "kenney-digital-audio",
+      "kenney-fantasy-ui-borders",
+      "kenney-medals",
+      "kenney-board-game-icons"
     ],
-    "cover": "kenney-ui-pack-pixel-adventure"
+    "cover": "kenney-ui-pack-pixel-adventure",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   },
   {
     "id": "an-underground-world",
     "name": "An underground world",
-    "description": "Modular dungeons, caves, and fantasy scenery for building a 3D world below the surface.",
+    "description": "Modular dungeon and cave models, stone textures, and RPG sounds. Assemble materials, lighting, and scene layouts in your engine.",
     "color": "blue",
     "assetIds": [
       "kenney-modular-dungeon-kit",
@@ -155,14 +196,18 @@
       "kenney-mini-dungeon",
       "kenney-retro-fantasy-kit",
       "kenney-castle-kit",
-      "kenney-rpg-audio"
+      "kenney-rpg-audio",
+      "polyhaven-rock-wall-17",
+      "ambientcg-rock063",
+      "kenney-retro-textures-fantasy"
     ],
-    "cover": "kenney-modular-dungeon-kit"
+    "cover": "kenney-modular-dungeon-kit",
+    "updatedAt": "2026-10-09T06:53:45.914Z"
   },
   {
     "id": "the-outside-world",
     "name": "The outside world",
-    "description": "Forest and survival models paired with real CC0 ground, rock, and wood color-map previews.",
+    "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, and wood textures from Poly Haven and ambientCG. Assemble materials in your engine.",
     "color": "mint",
     "assetIds": [
       "kenney-nature-kit",
@@ -170,8 +215,35 @@
       "kenney-survival-kit",
       "polyhaven-forest-ground-04",
       "polyhaven-rock-boulder-cracked",
-      "polyhaven-brown-planks-03"
+      "polyhaven-brown-planks-03",
+      "polyhaven-grass-ground",
+      "ambientcg-ground112",
+      "ambientcg-grass005",
+      "ambientcg-rock064"
     ],
-    "cover": "kenney-mini-forest"
+    "cover": "kenney-mini-forest",
+    "updatedAt": "2026-10-09T06:53:45.914Z"
+  },
+  {
+    "id": "material-essentials",
+    "name": "Material essentials",
+    "color": "mint",
+    "description": "CC0 brick, concrete, metal, wood, fabric, and flooring textures from ambientCG and Poly Haven. Import the maps and build materials manually.",
+    "assetIds": [
+      "ambientcg-bricks105",
+      "ambientcg-concrete048",
+      "ambientcg-metal063",
+      "ambientcg-fabric084",
+      "ambientcg-plaster001",
+      "ambientcg-tiles141",
+      "ambientcg-marble012",
+      "ambientcg-pavingstones151",
+      "polyhaven-red-oak-veneer",
+      "polyhaven-brick-floor-04",
+      "polyhaven-coated-pine",
+      "polyhaven-patterned-terracotta-tiling"
+    ],
+    "cover": "ambientcg-bricks105",
+    "updatedAt": "2026-10-09T06:51:35.303Z"
   }
 ]
