@@ -379,7 +379,7 @@ export function AssetGallery({
       )}
       <p className="engine-filter-note">
         {offerMode
-          ? "Prices are checked in the listed currency and may vary by region or license tier. Purchase directly from the original creator."
+          ? "Prices shown in USD. ≈ marks a conversion estimate; checkout prices may vary by region or license tier. Purchase directly from the original creator."
           : "Engine filters match importable file formats. Asset setup may be required."}
       </p>
     </section>

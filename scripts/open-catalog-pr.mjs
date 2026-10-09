@@ -69,7 +69,7 @@ if (!changed.length) {
 if (
   changed.some(
     (file) =>
-      !/^(data\/(assets|offers|offer-archive|offer-candidates)\.json|data\/(evidence|offer-evidence)\/[a-z0-9-]+\.json|public\/previews\/[a-z0-9-]+\.webp|public\/audio\/[a-z0-9-]+\.ogg)$/.test(
+      !/^(data\/(assets|offers|offer-archive|offer-candidates|exchange-rates)\.json|data\/(evidence|offer-evidence)\/[a-z0-9-]+\.json|public\/previews\/[a-z0-9-]+\.webp|public\/audio\/[a-z0-9-]+\.ogg)$/.test(
         file,
       ),
   )

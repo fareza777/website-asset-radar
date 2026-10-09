@@ -47,7 +47,7 @@ export function AssetCard({
         </Link>
         <FavoriteButton asset={asset} />
         <div className="image-radar-badge">
-          <RadarBadge score={asset.radarScore} />
+          <RadarBadge score={asset.radarScore} provisional />
         </div>
       </div>
       <div className="asset-card-body">
@@ -80,7 +80,7 @@ export function AssetCard({
           <span className="license-badge">
             {asset.license === "CC0" ? "CC0" : "CC BY"}
           </span>
-          {view === "list" && <RadarBadge score={asset.radarScore} />}
+          {view === "list" && <RadarBadge score={asset.radarScore} provisional />}
         </div>
       </div>
     </article>

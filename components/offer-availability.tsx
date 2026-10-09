@@ -1,13 +1,18 @@
 "use client";
 import { ArrowUpRight, Clock } from "@phosphor-icons/react";
 import type { Promotion } from "@/lib/types";
-import { formatCountdown, formatPrice, offerStatus } from "@/lib/offer-utils";
+import { formatCountdown, offerStatus } from "@/lib/offer-utils";
+import { usdPrice, usdRateLabel } from "@/lib/usd-prices";
 import { useOfferClock } from "@/lib/use-offer-clock";
 
 export function OfferAvailability({ asset }: { asset: Promotion }) {
   const now = useOfferClock([asset]),
     status = now === null ? null : offerStatus(asset, now);
   const active = status === "active";
+  const original =
+    now === null ? null : usdPrice(asset.originalPrice, asset.currency, now);
+  const sale =
+    now === null ? null : usdPrice(asset.salePrice, asset.currency, now);
   return (
     <div className="detail-offer-availability">
       {active ? (
@@ -16,12 +21,33 @@ export function OfferAvailability({ asset }: { asset: Promotion }) {
             <strong>
               {asset.type === "limited_free"
                 ? "FREE"
-                : formatPrice(asset.salePrice, asset.currency)}
+                : (sale?.text ?? "Check source price")}
             </strong>
-            <s>{formatPrice(asset.originalPrice, asset.currency)}</s>
+            {original && <s>{original.text}</s>}
             <span className="offer-kind">−{asset.discountPercent}%</span>
+            <span className="offer-currency">USD</span>
           </div>
           <p>{asset.priceNote}</p>
+          {asset.currency !== "USD" && (
+            <p className="detail-fx-note">
+              {original?.estimated ? (
+                <>
+                  USD estimates converted from the source currency using{" "}
+                  <a
+                    href={original.sourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    ECB reference rates
+                  </a>{" "}
+                  from {usdRateLabel(original.rateDate!)}. These are comparison
+                  amounts; checkout pricing may differ.
+                </>
+              ) : (
+                "A current USD conversion is unavailable. Check pricing at the source."
+              )}
+            </p>
+          )}
           {asset.expiresAt && (
             <p className="detail-offer-expiry">
               <Clock size={17} />

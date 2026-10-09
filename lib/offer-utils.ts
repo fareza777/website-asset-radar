@@ -1,4 +1,5 @@
-import type { Asset, Promotion } from "./types";
+import type { Promotion } from "./types";
+export { calculateRadarScore, calculateFreeScore, scoreBreakdown } from "./radar-score";
 
 export const OFFER_FRESHNESS_MS = 48 * 60 * 60 * 1000;
 export const MIN_DEAL_SCORE = 70;
@@ -19,52 +20,6 @@ export function calculateDiscount(original: number, sale: number): number {
   return sale === 0
     ? 100
     : Math.min(99, Math.round(((original - sale) / original) * 100));
-}
-
-/** Editorial score v1. Marketplace stars are kept separate from the score. */
-export function scoreBreakdown(offer: Promotion) {
-  // A small number of ratings should not dominate curation: 10-rating prior.
-  const quality =
-    offer.rating !== null && offer.reviewCount !== null
-      ? (offer.rating * offer.reviewCount + offer.curation.quality * 10) /
-        (offer.reviewCount + 10)
-      : offer.curation.quality;
-  return {
-    quality: Math.round((quality / 5) * 25),
-    value: Math.round((offer.curation.value / 5) * 20),
-    discount: Math.round(
-      (calculateDiscount(offer.originalPrice, offer.salePrice) / 100) * 15,
-    ),
-    completeness: Math.round((offer.curation.completeness / 5) * 10),
-    license: offer.commercialUse ? 20 : 0,
-    reputation: Math.round((offer.curation.reputation / 5) * 10),
-  };
-}
-
-export function calculateRadarScore(offer: Promotion): number {
-  return Math.max(
-    0,
-    Math.min(
-      100,
-      Object.values(scoreBreakdown(offer)).reduce((sum, n) => sum + n, 0),
-    ),
-  );
-}
-
-export function calculateFreeScore(
-  asset: Pick<Asset, "formats" | "fileCount" | "commercialUse">,
-): number {
-  // Unrated free packs get neutral quality, full free value, known format breadth
-  // and verified commercial rights. No marketplace rating is invented.
-  return (
-    18 +
-    20 +
-    15 +
-    (asset.formats.length > 1 ? 8 : 6) +
-    (asset.fileCount ? 2 : 0) +
-    (asset.commercialUse ? 20 : 0) +
-    10
-  );
 }
 
 export function offerStatus(

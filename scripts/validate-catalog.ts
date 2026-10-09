@@ -4,8 +4,10 @@ import { validateCatalog, validateEvidenceDate } from "../lib/catalog-schema";
 import type { Collection } from "../lib/types";
 import { validateOffers, validateOfferEvidence } from "../lib/offers";
 import type { ArchivedOffer } from "../lib/types";
+import { validateExchangeRates } from "../lib/exchange-rates";
 
 async function main() {
+  validateExchangeRates(JSON.parse(await readFile("data/exchange-rates.json", "utf8")));
   const assets = validateCatalog(
     JSON.parse(await readFile("data/assets.json", "utf8")),
   );

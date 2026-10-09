@@ -17,6 +17,7 @@ import { siteUrl, jsonLd } from "@/lib/site";
 import { FavoriteButton, AssetCard } from "@/components/asset-card";
 import { CollectionPicker } from "@/components/collection-picker";
 import { RadarBadge } from "@/components/radar-badge";
+import { RadarScoreBreakdown } from "@/components/score-breakdown";
 import { AssetBreadcrumb } from "@/lib/discovery-seo";
 
 export const dynamicParams = false;
@@ -138,7 +139,7 @@ export default async function AssetPage({
             <span>{asset.dimension}</span>
             <span>{asset.assetType}</span>
             <span className="license-badge">{asset.license}</span>
-            <RadarBadge score={asset.radarScore} />
+            <RadarBadge score={asset.radarScore} provisional />
           </div>
           <h1>{asset.title}</h1>
           <p className="detail-author">
@@ -251,6 +252,7 @@ export default async function AssetPage({
                 : "Attribution required"}
             </span>
           </div>
+          <RadarScoreBreakdown asset={asset} />
           <div className="evidence-block">
             <strong>Verification evidence</strong>
             <p>{asset.evidence}</p>

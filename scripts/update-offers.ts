@@ -5,6 +5,8 @@ import {
   reconcileOffers,
   validateOffers,
   validateOfferEvidence,
+  calculateRadarScore,
+  calculateDiscount,
 } from "../lib/offers";
 import type { ArchivedOffer, OfferEvidence, Promotion } from "../lib/types";
 
@@ -13,11 +15,21 @@ async function main() {
     write = process.argv.includes("--write");
   const free = JSON.parse(await readFile("data/assets.json", "utf8"));
   const current = validateOffers(
-    JSON.parse(await readFile("data/offers.json", "utf8")),
+    z
+      .array(promotionSchema)
+      .parse(JSON.parse(await readFile("data/offers.json", "utf8")))
+      .map((offer) => ({
+        ...offer,
+        discountPercent: calculateDiscount(
+          offer.originalPrice,
+          offer.salePrice,
+        ),
+        radarScore: calculateRadarScore(offer as Promotion),
+      })),
     free,
     now,
   );
-  const archive = z
+  const parsedArchive = z
     .array(
       z
         .object({
@@ -30,6 +42,10 @@ async function main() {
     .parse(
       JSON.parse(await readFile("data/offer-archive.json", "utf8")),
     ) as ArchivedOffer[];
+  const archive = parsedArchive.map((entry) => ({
+    ...entry,
+    offer: { ...entry.offer, radarScore: calculateRadarScore(entry.offer) },
+  }));
   // Validate candidate IDs before using them to construct evidence file paths.
   const candidates = z
     .array(promotionSchema)

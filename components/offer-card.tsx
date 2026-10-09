@@ -2,7 +2,8 @@
 import Link from "next/link";
 import { ArrowUpRight, Star, Clock } from "@phosphor-icons/react";
 import type { Promotion } from "@/lib/types";
-import { formatCountdown, formatPrice, offerStatus } from "@/lib/offer-utils";
+import { formatCountdown, offerStatus } from "@/lib/offer-utils";
+import { usdPrice, usdRateLabel } from "@/lib/usd-prices";
 import { useOfferClock } from "@/lib/use-offer-clock";
 import { FavoriteButton } from "./favorite-button";
 import { RadarBadge } from "./radar-badge";
@@ -18,6 +19,10 @@ export function OfferCard({
   const now = useOfferClock([asset]);
   const status = now === null ? null : offerStatus(asset, now);
   const active = status === "active";
+  const original =
+    now === null ? null : usdPrice(asset.originalPrice, asset.currency, now);
+  const sale =
+    now === null ? null : usdPrice(asset.salePrice, asset.currency, now);
   return (
     <article
       className={`asset-card offer-card ${view === "list" ? "list-card" : ""}`}
@@ -41,7 +46,10 @@ export function OfferCard({
                 ? "PRICE CHECK"
                 : "OFFER ARCHIVED"}
           </span>
-          <RadarBadge score={asset.radarScore} />
+          <RadarBadge
+            score={asset.radarScore}
+            provisional={asset.rating === null}
+          />
         </div>
         <Link className="asset-title" href={`/asset/${asset.id}/`}>
           {asset.title}
@@ -67,29 +75,38 @@ export function OfferCard({
           <span title={asset.licenseNote}>{asset.license}</span>
         </div>
         <div className="offer-price-row">
-          {active ? (
+          {active && (sale || asset.type === "limited_free") ? (
             <>
               <span className="offer-price">
-                {asset.type === "limited_free"
-                  ? "FREE"
-                  : formatPrice(asset.salePrice, asset.currency)}
+                {asset.type === "limited_free" ? "FREE" : sale!.text}
               </span>
-              <s
-                aria-label={`Original price ${formatPrice(asset.originalPrice, asset.currency)}`}
-              >
-                {formatPrice(asset.originalPrice, asset.currency)}
-              </s>
+              {original && (
+                <s aria-label={`Original price ${original.text} USD`}>
+                  {original.text}
+                </s>
+              )}
+              <span className="offer-currency">USD</span>
             </>
           ) : (
             <span className="offer-inactive">
               {status === null
                 ? "Loading verified price…"
-                : status === "expired"
-                  ? "Promotion ended"
-                  : "Awaiting a fresh price check"}
+                : active
+                  ? "Check USD price at source"
+                  : status === "expired"
+                    ? "Promotion ended"
+                    : "Awaiting a fresh price check"}
             </span>
           )}
         </div>
+        {active && original?.estimated && (
+          <p
+            className="offer-fx-note"
+            title={`Converted for comparison using European Central Bank reference rates from ${usdRateLabel(original.rateDate!)}. Source pricing may differ.`}
+          >
+            USD estimate · ECB {usdRateLabel(original.rateDate!)}
+          </p>
+        )}
         <div className="offer-footer">
           <span className="offer-expiry">
             {active && asset.expiresAt ? (

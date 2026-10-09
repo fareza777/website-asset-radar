@@ -40,6 +40,8 @@ Elektrobear's audio promotion retains the original animated audio deck. Visual p
 
 Radar Score is an editorial calculation based on disclosed inputs and observed information. Marketplace ratings are reproduced only where observed and are kept distinct from editorial judgments. Contents/formats and creator descriptions were reviewed; these packs were not performance-tested in an engine.
 
+On 9 October the [v2 scoring rubric](radar-score.md) recalculated all catalog scores without changing source prices, currency, ratings, licenses, curation inputs or verification dates. Free packs now have provisional scores because published ratings and engine tests are unavailable. USD is the display currency; IDR observations above remain original evidence. Approximate USD equivalents use the official ECB daily feed dated 8 October 2026 (EUR base: USD 1.1186, IDR 20045.31), recorded in `data/exchange-rates.json` with the actual fetch time and feed hash. Currency conversion is explicitly labeled and does not constitute a new publisher price check.
+
 ## Application fonts
 
 Geist Sans and Geist Mono are self-hosted by Next.js under the SIL Open Font License. The original notice is included at `public/licenses/geist-ofl.txt`, from [Vercel's font repository](https://github.com/vercel/geist-font/blob/main/OFL.txt).

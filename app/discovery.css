@@ -354,6 +354,21 @@ body {
   font-size: 15px;
   color: var(--muted);
 }
+.offer-currency {
+  color: var(--muted);
+  font: 500 13px/1.4 var(--font-mono), monospace;
+}
+.offer-fx-note {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 4px 0 0;
+}
+.detail-fx-note a {
+  color: var(--mint);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 .offer-inactive {
   font-size: 15px;
   color: var(--muted);
@@ -555,6 +570,12 @@ body {
   font-family: var(--font-mono), monospace;
   margin: 0;
   color: var(--mint);
+  white-space: nowrap;
+}
+.score-breakdown .score-evidence-note {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #b8c9be;
 }
 .score-method-table {
   width: 100%;

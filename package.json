@@ -13,6 +13,7 @@
     "catalog:check": "tsx scripts/check-catalog.ts",
     "catalog:discover": "tsx scripts/discover-assets.ts",
     "catalog:enrich": "tsx scripts/enrich-free-catalog.ts",
+    "prices:refresh": "tsx scripts/update-exchange-rates.ts --write",
     "offers:validate": "tsx scripts/update-offers.ts",
     "offers:update": "tsx scripts/update-offers.ts --write",
     "offers:check-links": "tsx scripts/check-offer-links.ts"

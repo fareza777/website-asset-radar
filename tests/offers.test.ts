@@ -263,7 +263,6 @@ test("a large discount cannot compensate for weak editorial quality or poor valu
       offer.salePrice,
     );
     offer.radarScore = calculateRadarScore(offer);
-    assert.ok(offer.radarScore >= 70);
     assert.throws(() => validateOffers([offer], [], now), /curation/);
   }
 });

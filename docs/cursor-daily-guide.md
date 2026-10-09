@@ -59,6 +59,8 @@ harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.c
    perubahan di luar file katalog, bukti, dan media berizin. Install locked dependencies.
 2. Arsipkan promo kedaluwarsa/stale melalui `npm run offers:update`. Jangan
    memperbarui tanggal verifikasi hanya karena menjalankan script.
+   Jalankan `npm run prices:refresh` sekali untuk snapshot kurs ECB. Jika gagal,
+   jangan mengganti kurs dengan tebakan atau memajukan `lastChecked` promo.
 3. Verifikasi promo tertua terlebih dahulu: produk persis sama, harga asli dan
    promo, mata uang, tier, izin komersial, rating jika tersedia, dan expiry yang
    benar-benar diketahui. HEAD hanya memeriksa link, bukan harga/lisensi.
@@ -80,6 +82,7 @@ harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.c
 ```sh
 npm ci
 npm run offers:update
+npm run prices:refresh
 npm run catalog:discover -- --limit=150
 npm run offers:check-links -- --limit=50
 

@@ -7,17 +7,16 @@ import {
 } from "@phosphor-icons/react/dist/ssr";
 import type { Promotion } from "@/lib/types";
 import { formatDate } from "@/lib/catalog-utils";
-import { scoreBreakdown } from "@/lib/offer-utils";
 import { jsonLd, siteUrl } from "@/lib/site";
 import { OfferPreview } from "./offer-preview";
 import { OfferAvailability } from "./offer-availability";
 import { FavoriteButton } from "./favorite-button";
 import { CollectionPicker } from "./collection-picker";
 import { RadarBadge } from "./radar-badge";
+import { RadarScoreBreakdown } from "./score-breakdown";
 import { AssetBreadcrumb } from "@/lib/discovery-seo";
 
 export function OfferDetail({ asset }: { asset: Promotion }) {
-  const scores = scoreBreakdown(asset);
   return (
     <>
       <script
@@ -62,7 +61,10 @@ export function OfferDetail({ asset }: { asset: Promotion }) {
           <div className="detail-tags">
             <span>{asset.dimension}</span>
             <span>{asset.assetType}</span>
-            <RadarBadge score={asset.radarScore} />
+            <RadarBadge
+              score={asset.radarScore}
+              provisional={asset.rating === null}
+            />
           </div>
           <h1>{asset.title}</h1>
           <p className="detail-author">
@@ -156,32 +158,7 @@ export function OfferDetail({ asset }: { asset: Promotion }) {
             Read the source license
             <ArrowUpRight size={16} />
           </a>
-          <div className="score-breakdown">
-            <h3>Radar Score {asset.radarScore} / 100</h3>
-            <dl>
-              {Object.entries(scores).map(([label, value]) => (
-                <div key={label}>
-                  <dt>
-                    {label === "reputation" ? "Creator / source trust" : label}
-                  </dt>
-                  <dd>
-                    {value} /{" "}
-                    {label === "quality"
-                      ? 25
-                      : label === "value" || label === "license"
-                        ? 20
-                        : label === "discount"
-                          ? 15
-                          : 10}
-                  </dd>
-                </div>
-              ))}
-            </dl>
-            <Link href="/about/#radar-score" className="text-link">
-              Read the scoring method
-              <ArrowUpRight size={15} />
-            </Link>
-          </div>
+          <RadarScoreBreakdown asset={asset} />
           <div className="evidence-block">
             <strong>Verification evidence</strong>
             <p>

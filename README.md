@@ -66,6 +66,8 @@ npm run offers:update            # Import reviewed candidates and archive expire
 
 Reviewed candidates go in `data/offer-candidates.json`; archived records remain in `data/offer-archive.json`. The updater calculates discounts and the six-part Radar Score, rejects duplicate canonical/affiliate identities and mismatched evidence, and takes lastChecked only from a completed verification. A working link alone cannot verify a deal. Publication requires source price, currency, tier, applicable commercial license and actual ratings where available. No explicit art permission means no copied product thumbnail.
 
+[Radar Score v2](docs/radar-score.md) uses conservative rating-sample weighting, anchored editorial grades and provisional scores for unrated free packs. Each detail page shows the breakdown. Visitor text is English and prices display USD. Original source currencies remain in verification data; non-USD displays are explicitly marked estimates using dated ECB reference rates. Run `npm run prices:refresh` to update the static reference snapshot, without changing product price evidence or lastChecked. Unsupported or outdated conversion estimates are hidden.
+
 Canonical SEO routes are `/free/`, `/free-today/`, `/deals/`, `/collections/`, `/category/[slug]/` and `/asset/[slug]/`. Legacy plural asset/category paths permanently redirect on Vercel. Private Favorites stay noindex, and collections/favorites work locally without accounts. Promotion prices/claims wait for a live browser clock so cached HTML cannot advertise an expired price; permanent-free content remains available in static HTML.
 
 ## Checks and deployment
