@@ -38,7 +38,7 @@ export default function Deals() {
         heading="Deals Radar"
       />
       <p className="discovery-note">
-        At least 30% off and a Radar Score of 70+.{" "}
+        At least 30% off, Radar Score 60+ and Deal Score 70+.{" "}
         <Link className="text-link" href="/about/#radar-score">
           How we score a find
         </Link>

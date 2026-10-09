@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { directoryAssets, collections } from "@/lib/catalog";
 import { categories } from "@/lib/types";
 import { siteUrl } from "@/lib/site";
+import { publishers } from "@/lib/publishers";
 
 export const dynamic = "force-static";
 
@@ -21,6 +22,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       "/collections",
       "/about",
       "/licenses",
+      "/explore",
+      "/publishers",
     ].map((path) => ({
       url: `${siteUrl}${path}/`,
       lastModified: lastChecked,
@@ -36,6 +39,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: 0.8,
     })),
+    ...publishers.map((publisher) => ({ url: `${siteUrl}/publisher/${publisher.id}/`, lastModified: publisher.profileCheckedAt, changeFrequency: "weekly" as const, priority: 0.7 })),
     ...collections.map((c) => ({
       url: `${siteUrl}/collections/${c.id}/`,
       lastModified: lastChecked,

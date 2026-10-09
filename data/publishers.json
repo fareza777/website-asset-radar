@@ -1,0 +1,213 @@
+[
+  {
+    "id": "synty",
+    "name": "Synty",
+    "initials": "SY",
+    "specialty": "Low-poly worlds",
+    "summary": "Stylized 3D environments, characters, interface packs and animations from Synty Studios.",
+    "aliases": [
+      "Synty",
+      "Synty Studios"
+    ],
+    "officialUrl": "https://syntystore.com/",
+    "catalogUrl": "https://syntystore.com/",
+    "evidenceUrl": "https://syntystore.com/community/faq",
+    "licenseNote": "Licenses and supported engines vary by product and storefront. Source files and engine projects must be checked on the exact pack.",
+    "watch": {
+      "url": "https://syntystore.com/",
+      "mode": "permission_review",
+      "note": "Automated permission must be established from the store terms before fetching its catalog."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "kenney",
+    "name": "Kenney",
+    "initials": "K",
+    "specialty": "A complete free toolkit",
+    "summary": "Free 2D sprites, 3D models, UI, textures and audio for game development.",
+    "aliases": [
+      "Kenney",
+      "Kenney.nl"
+    ],
+    "officialUrl": "https://kenney.nl/",
+    "catalogUrl": "https://kenney.nl/assets",
+    "evidenceUrl": "https://kenney.nl/support",
+    "licenseNote": "Game assets on the asset pages are CC0. Tool and other product licenses are separate; verify the pack's included license.",
+    "watch": {
+      "url": "https://kenney.nl/assets",
+      "mode": "public_index",
+      "note": "Existing paced public-index importer; robots and product/archive license checks still apply."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "quaternius",
+    "name": "Quaternius",
+    "initials": "Q",
+    "specialty": "Characters & 3D kits",
+    "summary": "3D game asset packs spanning characters, animations, props and environments.",
+    "aliases": [
+      "Quaternius"
+    ],
+    "officialUrl": "https://quaternius.com/",
+    "catalogUrl": "https://quaternius.com/",
+    "evidenceUrl": "https://quaternius.com/license.html",
+    "licenseNote": "The current Quaternius Asset License (QAL) permits commercial projects but restricts standalone redistribution. Older CC0 labels must not be assumed to apply to new downloads.",
+    "watch": {
+      "url": "https://quaternius.com/",
+      "mode": "public_index",
+      "note": "Public index links only. Resolve QAL versus older CC0 claims on the exact release; no unlicensed media copying."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "naturemanufacture",
+    "name": "NatureManufacture",
+    "initials": "NM",
+    "specialty": "Natural environments",
+    "summary": "Nature environments and terrain systems, with product editions for Unity and Unreal Engine.",
+    "aliases": [
+      "NatureManufacture",
+      "Nature Manufacture"
+    ],
+    "officialUrl": "https://naturemanufacture.com/",
+    "catalogUrl": "https://naturemanufacture.com/assets/",
+    "evidenceUrl": "https://naturemanufacture.com/about-us/",
+    "licenseNote": "Check the exact Unity or Fab edition, commercial license, engine version and render pipeline before adding a product.",
+    "watch": {
+      "url": "https://naturemanufacture.com/",
+      "mode": "public_index",
+      "note": "Official catalog/news links only; marketplace prices require a separate permitted product check."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "polyperfect",
+    "name": "polyperfect",
+    "initials": "pp",
+    "specialty": "Animated low-poly life",
+    "summary": "Low-poly environment and character packs, animated animals, interfaces and game systems.",
+    "aliases": [
+      "polyperfect",
+      "Polyperfect"
+    ],
+    "officialUrl": "https://www.polyperfect.com/",
+    "catalogUrl": "https://www.polyperfect.com/products",
+    "evidenceUrl": "https://www.polyperfect.com/products",
+    "licenseNote": "Verify the specific marketplace edition, license and included engine files. A publisher's overall engine support is not proof for every pack.",
+    "watch": {
+      "url": "https://www.polyperfect.com/products",
+      "mode": "public_index",
+      "note": "Official product links only; no private storefront or download API."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "kaykit",
+    "name": "KayKit",
+    "initials": "KK",
+    "specialty": "Playful modular 3D",
+    "summary": "Kay Lousberg's modular low-poly environments, character packs and character animations.",
+    "aliases": [
+      "KayKit",
+      "Kay Lousberg",
+      "Kay Lousberg / KayKit"
+    ],
+    "officialUrl": "https://kaylousberg.com/",
+    "catalogUrl": "https://kaylousberg.com/game-assets",
+    "evidenceUrl": "https://kaylousberg.com/game-assets",
+    "licenseNote": "Verify the free and paid tiers separately. A source-file upgrade is not automatically part of the free download.",
+    "watch": {
+      "url": "https://kaylousberg.com/game-assets",
+      "mode": "public_index",
+      "note": "Official index links only; follow the exact linked itch product to verify tier, price and license."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "infinity-pbr",
+    "name": "Infinity PBR",
+    "initials": "IP",
+    "specialty": "Customizable fantasy",
+    "summary": "Customizable 3D characters, monsters, environments, audio and Unity tools by Magic Pig Games.",
+    "aliases": [
+      "Infinity PBR",
+      "Magic Pig Games"
+    ],
+    "officialUrl": "https://infinitypbr.com/",
+    "catalogUrl": "https://infinitypbr.com/",
+    "evidenceUrl": "https://infinitypbr.com/about-infinity-pbr",
+    "licenseNote": "Infinity PBR is a series by Magic Pig Games. Check each product's license, edition and documented Unity, Unreal or Godot support.",
+    "watch": {
+      "url": "https://infinitypbr.com/",
+      "mode": "public_index",
+      "note": "Official product links only; displayed homepage prices do not establish a current marketplace promotion."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "craftpix",
+    "name": "CraftPix",
+    "initials": "CP",
+    "specialty": "2D art & interfaces",
+    "summary": "Free and premium 2D sprites, tilesets, interfaces, icons and game art kits.",
+    "aliases": [
+      "CraftPix",
+      "CraftPix.net",
+      "Craftpix"
+    ],
+    "officialUrl": "https://craftpix.net/",
+    "catalogUrl": "https://craftpix.net/freebies/",
+    "evidenceUrl": "https://craftpix.net/freebies/",
+    "licenseNote": "Check the exact product license and download requirements. Free assets do not make website artwork or descriptions freely reusable.",
+    "watch": {
+      "url": "https://craftpix.net/freebies/",
+      "mode": "permission_review",
+      "note": "Website terms restrict copying/retransmission. Use an approved feed or explicit permission before automated collection; do not scrape or rehost artwork."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "ansimuz",
+    "name": "Ansimuz",
+    "initials": "AZ",
+    "specialty": "16-bit pixel worlds",
+    "summary": "Retro pixel-art characters, backgrounds, tilesets and effects by Luis Zuno.",
+    "aliases": [
+      "Ansimuz",
+      "ansimuz",
+      "Luis Zuno"
+    ],
+    "officialUrl": "https://ansimuz.com/",
+    "catalogUrl": "https://ansimuz.itch.io/",
+    "evidenceUrl": "https://ansimuz.com/",
+    "licenseNote": "Free, paid and expanded collections have different contents. Verify commercial terms and the actual minimum price per product.",
+    "watch": {
+      "url": "https://ansimuz.itch.io/",
+      "mode": "public_index",
+      "note": "Official creator index only; robots/terms and product-specific price/license checks apply."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  },
+  {
+    "id": "pixel-frog",
+    "name": "Pixel Frog",
+    "initials": "PF",
+    "specialty": "Pixel platformer pieces",
+    "summary": "Pixel-art characters, tilesets, objects and animated sprites, including the Pixel Adventure packs.",
+    "aliases": [
+      "Pixel Frog"
+    ],
+    "officialUrl": "https://pixelfrog-assets.itch.io/",
+    "catalogUrl": "https://pixelfrog-assets.itch.io/",
+    "evidenceUrl": "https://pixelfrog-assets.itch.io/pixel-adventure-1",
+    "licenseNote": "Pixel Adventure lists PNG artwork under CC0. Verify every other pack independently; a playable demo does not mean an engine project is included.",
+    "watch": {
+      "url": "https://pixelfrog-assets.itch.io/",
+      "mode": "public_index",
+      "note": "Official creator index only; inspect an actual product page if the index does not expose useful metadata."
+    },
+    "profileCheckedAt": "2026-10-09T02:32:52Z"
+  }
+]

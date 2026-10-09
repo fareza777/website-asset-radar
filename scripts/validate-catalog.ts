@@ -5,8 +5,12 @@ import type { Collection } from "../lib/types";
 import { validateOffers, validateOfferEvidence } from "../lib/offers";
 import type { ArchivedOffer } from "../lib/types";
 import { validateExchangeRates } from "../lib/exchange-rates";
+import { validatePublishers, validateEngineFormats, validatePublisherMonitor } from "../lib/discovery-schema";
 
 async function main() {
+  const publishers = validatePublishers(JSON.parse(await readFile("data/publishers.json", "utf8")));
+  validateEngineFormats(JSON.parse(await readFile("data/engine-formats.json", "utf8")));
+  validatePublisherMonitor(JSON.parse(await readFile("data/publisher-monitor.json", "utf8")), publishers);
   validateExchangeRates(JSON.parse(await readFile("data/exchange-rates.json", "utf8")));
   const assets = validateCatalog(
     JSON.parse(await readFile("data/assets.json", "utf8")),

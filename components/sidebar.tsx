@@ -126,6 +126,8 @@ export function Sidebar({
   const shortcuts = [
     { href: "/latest/", label: "Latest assets", icon: ClockIcon },
     { href: "/cc0/", label: "CC0 only", icon: ShieldCheckIcon },
+    { href: "/explore/", label: "Advanced search", icon: SquaresFourIcon },
+    { href: "/publishers/", label: "Publishers", icon: CubeIcon },
   ];
   const library = [
     {
@@ -139,7 +141,9 @@ export function Sidebar({
   const current =
     path.startsWith("/asset/") || path.startsWith("/assets/")
       ? "Asset details"
-      : path.startsWith("/category/") || path.startsWith("/categories/")
+      : path.startsWith("/publisher/")
+        ? "Publisher profile"
+        : path.startsWith("/category/") || path.startsWith("/categories/")
         ? "Categories"
         : path.startsWith("/collections/")
           ? "Collections"

@@ -33,6 +33,7 @@ export const assetSchema = z
     rating: z.null(),
     reviewCount: z.null(),
     radarScore: z.number().int().min(0).max(100),
+    dealScore: z.null(),
     commercialUse: z.literal(true),
     lastChecked: z.iso.datetime(),
     id: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),

@@ -11,6 +11,7 @@ type DiscoveryKeys =
   | "rating"
   | "reviewCount"
   | "radarScore"
+  | "dealScore"
   | "commercialUse"
   | "lastChecked";
 export function enrichFreeAsset(
@@ -28,6 +29,7 @@ export function enrichFreeAsset(
     rating: null,
     reviewCount: null,
     radarScore: 0,
+    dealScore: null,
     commercialUse: true,
     lastChecked: checkedAt,
   };

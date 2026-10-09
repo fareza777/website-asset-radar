@@ -13,18 +13,22 @@ import type { DirectoryAsset } from "@/lib/types";
 import { FavoriteButton } from "./favorite-button";
 import { RadarBadge } from "./radar-badge";
 import { OfferCard } from "./offer-card";
+import { EngineChips } from "./engine-compatibility";
+import { PublisherCredit } from "./publisher-credit";
 export { FavoriteButton } from "./favorite-button";
 
 export function AssetCard({
   asset,
   view = "grid",
   priority = false,
+  preferredEngine,
 }: {
   asset: DirectoryAsset;
   view?: "grid" | "list";
   priority?: boolean;
+  preferredEngine?: string;
 }) {
-  if (asset.type !== "free") return <OfferCard asset={asset} view={view} />;
+  if (asset.type !== "free") return <OfferCard asset={asset} view={view} preferredEngine={preferredEngine} />;
   const DimensionIcon =
     asset.dimension === "3D"
       ? CubeIcon
@@ -59,7 +63,7 @@ export function AssetCard({
           <span className="free-label">FREE</span>
         </div>
         <p className="asset-author">
-          by {asset.author}
+          by <PublisherCredit asset={asset} />
           <SealCheckIcon
             size={13}
             weight="fill"
@@ -82,6 +86,7 @@ export function AssetCard({
           </span>
           {view === "list" && <RadarBadge score={asset.radarScore} provisional />}
         </div>
+        <EngineChips asset={asset} preferredEngine={preferredEngine} />
       </div>
     </article>
   );

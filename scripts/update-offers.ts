@@ -9,6 +9,7 @@ import {
   calculateDiscount,
 } from "../lib/offers";
 import type { ArchivedOffer, OfferEvidence, Promotion } from "../lib/types";
+import { calculateDealScore } from "../lib/radar-score";
 
 async function main() {
   const now = Date.now(),
@@ -25,6 +26,7 @@ async function main() {
           offer.salePrice,
         ),
         radarScore: calculateRadarScore(offer as Promotion),
+        dealScore: calculateDealScore(offer as Promotion),
       })),
     free,
     now,
@@ -44,7 +46,7 @@ async function main() {
     ) as ArchivedOffer[];
   const archive = parsedArchive.map((entry) => ({
     ...entry,
-    offer: { ...entry.offer, radarScore: calculateRadarScore(entry.offer) },
+    offer: { ...entry.offer, radarScore: calculateRadarScore(entry.offer), dealScore: calculateDealScore(entry.offer) },
   }));
   // Validate candidate IDs before using them to construct evidence file paths.
   const candidates = z

@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { canonicalUrl } from "./catalog-utils";
+import { calculateDealScore } from "./radar-score";
 import {
   assetTypes,
   categories,
@@ -66,6 +67,7 @@ export const promotionSchema = z
     rating,
     reviewCount,
     radarScore: z.number().int().min(0).max(100),
+    dealScore: z.number().int().min(0).max(100),
     source: z.enum([
       "Fab",
       "Unity Asset Store",
@@ -256,6 +258,8 @@ export function validateOffers(
       throw new Error(`Discount does not match verified prices: ${offer.id}`);
     if (offer.radarScore !== calculateRadarScore(offer))
       throw new Error(`Radar Score needs recalculation: ${offer.id}`);
+    if (offer.dealScore !== calculateDealScore(offer))
+      throw new Error(`Deal Score needs recalculation: ${offer.id}`);
     if ((offer.rating === null) !== (offer.reviewCount === null))
       throw new Error(`Incomplete rating evidence: ${offer.id}`);
     if ((offer.preview === null) !== (offer.thumbnailPermission === null))
@@ -303,7 +307,8 @@ export function validateOffers(
       offer.type === "deal" &&
       (offer.salePrice <= 0 ||
         offer.discountPercent < MIN_DEAL_DISCOUNT ||
-        offer.radarScore < MIN_DEAL_SCORE ||
+        offer.dealScore < MIN_DEAL_SCORE ||
+        offer.radarScore < 60 ||
         offer.curation.quality < MIN_DEAL_GRADE ||
         offer.curation.value < MIN_DEAL_GRADE ||
         (offer.rating !== null && offer.rating < 4))
@@ -407,6 +412,7 @@ export function reconcileOffers(
         candidate.salePrice,
       ),
       radarScore: calculateRadarScore(candidate),
+      dealScore: calculateDealScore(candidate),
     };
     validateOffers([offer], [], now);
     validateOfferEvidence(offer, proof, now);

@@ -1,6 +1,7 @@
 {
   "maxNewItemsPerDay": 50,
   "maxCandidatesPerDay": 150,
+  "maxPublishersPerDay": 10,
   "maxPromotionRechecksPerDay": 50,
   "maxFreeRechecksPerDay": 20,
   "importBatchSize": 5,

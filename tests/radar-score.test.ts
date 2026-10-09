@@ -7,6 +7,9 @@ import {
   adjustedRating,
   calculateFreeScore,
   calculateRadarScore,
+  calculateDealScore,
+  dealScoreBreakdown,
+  DEAL_FACTORS,
   freeScoreBreakdown,
   gradeFraction,
   scoreBreakdown,
@@ -35,16 +38,16 @@ test("unrated promotions retain unknown stars and receive limited quality credit
     reviewCount: null,
     curation: { ...offer.curation, quality: 5 },
   };
-  assert.ok(scoreBreakdown(unrated).quality <= 15);
+  assert.ok(scoreBreakdown(unrated).quality <= 20);
   assert.equal(unrated.rating, null);
   assert.equal(unrated.reviewCount, null);
 });
 
 test("free packs have provisional quality and no imaginary paid-price discount", () => {
   const scores = freeScoreBreakdown(free);
-  assert.equal(scores.quality, 15);
-  assert.equal(scores.discount, 0);
-  assert.ok(scores.value < SCORE_FACTORS.value.maximum);
+  assert.equal(scores.quality, 20);
+  assert.ok(scores.completeness < SCORE_FACTORS.completeness.maximum);
+  assert.equal(free.dealScore, null);
   assert.ok(calculateFreeScore(free) < 90);
   assert.equal(free.rating, null);
 });
@@ -60,14 +63,14 @@ test("large file counts and featured placement cannot inflate free quality or va
   );
 });
 
-test("discount is bounded and commercial restrictions affect license usability", () => {
+test("prices and discount size affect Deal Score but never asset quality", () => {
   const almostFree = { ...offer, salePrice: 0.001 };
-  assert.ok(scoreBreakdown(almostFree).discount <= 10);
-  assert.ok(
-    calculateRadarScore(almostFree) -
-      calculateRadarScore({ ...offer, salePrice: offer.originalPrice / 2 }) <=
-      5,
-  );
+  const halfPrice = { ...offer, salePrice: offer.originalPrice / 2 };
+  assert.ok(dealScoreBreakdown(almostFree).discount <= 20);
+  assert.deepEqual(scoreBreakdown(almostFree), scoreBreakdown(halfPrice));
+  assert.equal(calculateRadarScore(almostFree), calculateRadarScore(halfPrice));
+  assert.ok(calculateDealScore(almostFree) > calculateDealScore(halfPrice));
+  assert.equal(calculateRadarScore({ ...offer, curation: { ...offer.curation, value: 0 } }), calculateRadarScore(offer));
   assert.ok(
     scoreBreakdown({ ...offer, licenseTier: "Personal" }).license <
       scoreBreakdown({ ...offer, licenseTier: null }).license,
@@ -99,5 +102,13 @@ test("anchored grades and published scores are reproducible within disclosed wei
       asset.radarScore,
       Object.values(parts).reduce((sum, n) => sum + n, 0),
     );
+    if (asset.type !== "free") {
+      const dealParts = dealScoreBreakdown(asset);
+      assert.equal(asset.dealScore, calculateDealScore(asset));
+      for (const factor of Object.keys(DEAL_FACTORS) as (keyof typeof DEAL_FACTORS)[]) {
+        assert.ok(dealParts[factor] >= 0 && dealParts[factor] <= DEAL_FACTORS[factor].maximum);
+      }
+    }
   }
+  assert.equal(Object.values(DEAL_FACTORS).reduce((sum, f) => sum + f.maximum, 0), 100);
 });

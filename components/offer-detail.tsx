@@ -15,6 +15,8 @@ import { CollectionPicker } from "./collection-picker";
 import { RadarBadge } from "./radar-badge";
 import { RadarScoreBreakdown } from "./score-breakdown";
 import { AssetBreadcrumb } from "@/lib/discovery-seo";
+import { EngineCompatibilityPanel } from "./engine-compatibility";
+import { PublisherCredit } from "./publisher-credit";
 
 export function OfferDetail({ asset }: { asset: Promotion }) {
   return (
@@ -68,7 +70,7 @@ export function OfferDetail({ asset }: { asset: Promotion }) {
           </div>
           <h1>{asset.title}</h1>
           <p className="detail-author">
-            Created by {asset.author} · {asset.source}
+            Created by <PublisherCredit asset={asset} /> · {asset.source}
           </p>
           <p className="detail-summary">{asset.summary}</p>
           <OfferAvailability asset={asset} />
@@ -177,6 +179,7 @@ export function OfferDetail({ asset }: { asset: Promotion }) {
           </div>
         </section>
       </div>
+      <EngineCompatibilityPanel asset={asset} />
     </>
   );
 }

@@ -66,10 +66,20 @@ if (!changed.length) {
   console.log("No catalog changes; no PR created.");
   process.exit(0);
 }
+if (changed.length === 1 && changed[0] === "data/publisher-monitor.json") {
+  const journal = JSON.parse(readFileSync(changed[0], "utf8"));
+  let baseline = { checks: [] };
+  try { baseline = JSON.parse(run("git", ["show", `origin/main:${changed[0]}`])); } catch { /* New journal is reviewable. */ }
+  const meaningful = journal.checks.some((check) => check.changed || baseline.checks.find((prior) => prior.id === check.id)?.status !== check.status);
+  if (!meaningful) {
+    console.log("Only unchanged publisher-index timestamps changed; no PR created.");
+    process.exit(0);
+  }
+}
 if (
   changed.some(
     (file) =>
-      !/^(data\/(assets|offers|offer-archive|offer-candidates|exchange-rates)\.json|data\/(evidence|offer-evidence)\/[a-z0-9-]+\.json|public\/previews\/[a-z0-9-]+\.webp|public\/audio\/[a-z0-9-]+\.ogg)$/.test(
+      !/^(data\/(assets|offers|offer-archive|offer-candidates|exchange-rates|publisher-monitor)\.json|data\/(evidence|offer-evidence)\/[a-z0-9-]+\.json|public\/previews\/[a-z0-9-]+\.webp|public\/audio\/[a-z0-9-]+\.ogg)$/.test(
         file,
       ),
   )
@@ -103,6 +113,7 @@ mkdirSync(".cache", { recursive: true });
 const catalog = JSON.parse(readFileSync("data/assets.json", "utf8"));
 const promotions = JSON.parse(readFileSync("data/offers.json", "utf8"));
 const archive = JSON.parse(readFileSync("data/offer-archive.json", "utf8"));
+const monitor = JSON.parse(readFileSync("data/publisher-monitor.json", "utf8"));
 const changedIds = changed
   .filter((file) => file.startsWith("data/evidence/"))
   .map((file) =>
@@ -134,7 +145,7 @@ const archivedSummary = changed.includes("data/offer-archive.json")
   : "No archive changes.";
 writeFileSync(
   ".cache/catalog-pr-body.md",
-  `Maintains the curated free library and verified promotions. Prices are published only with matching first-party evidence; expired or stale offers are archived.\n\nFree assets reviewed:\n\n${reviewed.map((asset) => `- [${asset.title}](${asset.sourceUrl}) — [${asset.license}](${asset.licenseUrl}); checked ${asset.lastChecked}; evidence: \`data/evidence/${asset.id}.json\``).join("\n") || "No free-asset evidence changes."}\n\nPromotions reviewed:\n\n${reviewedOffers.map((asset) => `- [${asset.title}](${asset.canonicalSourceUrl}) — ${asset.currency} ${asset.originalPrice} → ${asset.salePrice}; ${asset.discountPercent}% off; Radar Score ${asset.radarScore}; [${asset.license}](${asset.licenseUrl})${asset.licenseTier ? ` (${asset.licenseTier} tier)` : ""}; ${asset.expiresAt ? `ends ${asset.expiresAt}` : "end time unconfirmed"}; checked ${asset.lastChecked}; evidence: \`data/offer-evidence/${asset.id}.json\`${asset.publisherPreview ? `; publisher preview by ${asset.publisherPreview.credit}, source ${asset.publisherPreview.sourceUrl}, image checked ${asset.publisherPreview.checkedAt}` : "; original editorial cover"}`).join("\n") || "No promotion evidence changes."}\n\nArchive changes (most recent 10):\n\n${archivedSummary}\n\nChanged files:\n\n${changed.map((file) => `- \`${file}\``).join("\n")}\n\nValidation: lint, TypeScript, integrity tests, media/evidence validation, and static production build passed. Review discovery/link-check summaries and the daily budget counts from the Cursor run alongside each record's evidence. A successful HEAD request does not verify price or license terms. Copied local media requires explicit permission; publisher CDN previews link to observed public galleries with provenance and never refresh deal evidence. Missing/failed previews use original editorial covers.\n\nThis PR requires human review. It does not merge itself or deploy directly.\n`,
+  `Maintains the curated free library and verified promotions. Prices are published only with matching first-party evidence; expired or stale offers are archived.\n\nFree assets reviewed:\n\n${reviewed.map((asset) => `- [${asset.title}](${asset.sourceUrl}) — [${asset.license}](${asset.licenseUrl}); checked ${asset.lastChecked}; evidence: \`data/evidence/${asset.id}.json\``).join("\n") || "No free-asset evidence changes."}\n\nPromotions reviewed:\n\n${reviewedOffers.map((asset) => `- [${asset.title}](${asset.canonicalSourceUrl}) — ${asset.currency} ${asset.originalPrice} → ${asset.salePrice}; ${asset.discountPercent}% off; Radar Score ${asset.radarScore}, Deal Score ${asset.dealScore}; [${asset.license}](${asset.licenseUrl})${asset.licenseTier ? ` (${asset.licenseTier} tier)` : ""}; ${asset.expiresAt ? `ends ${asset.expiresAt}` : "end time unconfirmed"}; checked ${asset.lastChecked}; evidence: \`data/offer-evidence/${asset.id}.json\`${asset.publisherPreview ? `; publisher preview by ${asset.publisherPreview.credit}, source ${asset.publisherPreview.sourceUrl}, image checked ${asset.publisherPreview.checkedAt}` : "; original editorial cover"}`).join("\n") || "No promotion evidence changes."}\n\nPublisher index observations (not product verification):\n\n${monitor.checks.map((check) => `- ${check.id}: ${check.status}${check.changed ? "; index changed" : ""}; last successful index check ${check.checkedAt ?? "none"}; ${check.note}`).join("\n")}\n\nArchive changes (most recent 10):\n\n${archivedSummary}\n\nChanged files:\n\n${changed.map((file) => `- \`${file}\``).join("\n")}\n\nValidation: lint, TypeScript, integrity tests, media/evidence validation, and static production build passed. Review discovery/link-check summaries and the daily budget counts from the Cursor run alongside each record's evidence. A successful HEAD request does not verify price or license terms. Copied local media requires explicit permission; publisher CDN previews link to observed public galleries with provenance and never refresh deal evidence. Missing/failed previews use original editorial covers.\n\nThis PR requires human review. It does not merge itself or deploy directly.\n`,
 );
 if (existing.length) {
   run("gh", [

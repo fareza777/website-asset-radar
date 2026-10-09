@@ -9,6 +9,7 @@ import { siteDescription, siteUrl } from "@/lib/site";
 import "./globals.css";
 import "./discovery.css";
 import "./polish.css";
+import "./marketplace.css";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist" });
 const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });

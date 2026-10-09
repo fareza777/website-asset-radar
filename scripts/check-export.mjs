@@ -7,13 +7,6 @@ const sitemap = await readFile(path.join(root, "sitemap.xml"), "utf8");
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(
   (match) => match[1],
 );
-const promotions = [
-  ...JSON.parse(await readFile("data/offers.json", "utf8")),
-  ...JSON.parse(await readFile("data/offer-archive.json", "utf8")).map(
-    (entry) => entry.offer,
-  ),
-];
-const promotionIds = new Set(promotions.map((offer) => offer.id));
 let assetPages = 0;
 for (const value of urls) {
   const url = new URL(value);
@@ -31,10 +24,9 @@ for (const value of urls) {
   if (!social || new URL(social).origin !== url.origin)
     throw new Error(`Missing local social preview: ${url.pathname}`);
   await stat(path.join(root, new URL(social).pathname));
-  if (
-    ["/", "/free-today/", "/deals/"].includes(url.pathname) ||
-    promotionIds.has(url.pathname.split("/")[2])
-  ) {
+  // Every public page, including mixed discovery and publisher catalogs, must
+  // wait for the browser clock before displaying time-sensitive promotion claims.
+  {
     if (
       $("a")
         .toArray()
@@ -68,9 +60,14 @@ for (const value of urls) {
     assetPages++;
   }
 }
-for (const route of ["/free/", "/free-today/", "/deals/", "/collections/"])
+for (const route of ["/free/", "/free-today/", "/deals/", "/collections/", "/explore/", "/publishers/"])
   if (!urls.some((value) => new URL(value).pathname === route))
     throw new Error(`Missing discovery route: ${route}`);
+const publishers = JSON.parse(await readFile("data/publishers.json", "utf8"));
+for (const publisher of publishers) {
+  if (!urls.some((value) => new URL(value).pathname === `/publisher/${publisher.id}/`))
+    throw new Error(`Missing publisher profile: ${publisher.id}`);
+}
 const favorites = load(
   await readFile(path.join(root, "favorites/index.html"), "utf8"),
 );

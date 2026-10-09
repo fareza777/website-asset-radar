@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { EngineCompatibilityPanel } from "@/components/engine-compatibility";
+import { PublisherCredit } from "@/components/publisher-credit";
 import { notFound } from "next/navigation";
 import {
   ArrowLeft,
@@ -144,9 +146,7 @@ export default async function AssetPage({
           <h1>{asset.title}</h1>
           <p className="detail-author">
             Created by{" "}
-            <a href={asset.sourceUrl} target="_blank" rel="noreferrer">
-              {asset.author} <ArrowUpRight size={13} />
-            </a>
+            <PublisherCredit asset={asset} />
           </p>
           <p className="detail-summary">{asset.summary}</p>
           <a
@@ -270,6 +270,7 @@ export default async function AssetPage({
           </div>
         </section>
       </div>
+      <EngineCompatibilityPanel asset={asset} />
       <section className="related-section">
         <div className="collections-heading">
           <div>

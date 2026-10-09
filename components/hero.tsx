@@ -11,7 +11,7 @@ export function Hero() {
     <section className="hero" aria-labelledby="hero-heading">
       <div className="hero-copy">
         <div className="hero-eyebrow">
-          <span className="live-dot" /> THE CREATIVE HEAD START
+          <span className="live-dot" /> GOOD ASSETS. CLEAR SIGNAL.
         </div>
         <h1 id="hero-heading">
           Your next world
@@ -19,11 +19,11 @@ export function Hero() {
           <span>starts here.</span>
         </h1>
         <p>
-          Remarkable free game assets. Verified licenses.
-          <br className="desktop-br" /> More time to make something great.
+          Find the pieces your game is missing. Free assets first,
+          <br className="desktop-br" /> worthwhile deals when they matter.
         </p>
-        <Link href="/free/" className="button primary">
-          Explore the library <ArrowRightIcon size={18} />
+        <Link href="/free/" className="hero-library-link text-link">
+          Explore verified free assets <ArrowRightIcon size={18} />
         </Link>
       </div>
       <Link

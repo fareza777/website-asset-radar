@@ -15,7 +15,7 @@ export function RadarBadge({
       title={
         provisional
           ? "Provisional editorial score: no marketplace ratings or in-engine testing. Read the evidence and method."
-          : "Editorial score based on published evidence, separate from marketplace stars. Read the method."
+          : "Quality score based on published evidence. Price and discounts are assessed separately in Deal Score."
       }
       aria-label={`Radar Score ${score} out of 100${provisional ? ", provisional" : ""}. Read how it works.`}
     >
@@ -26,4 +26,8 @@ export function RadarBadge({
       </span>
     </Link>
   );
+}
+
+export function DealBadge({ score }: { score: number }) {
+  return <Link className="deal-score-badge" href="/about/#deal-score" aria-label={`Deal Score ${score} out of 100. Read the value scoring method.`} title="Value of the verified offer, separate from asset quality. A historical score is not a current availability claim.">Deal Score <strong>{score}</strong><span className="sr-only"> / 100</span></Link>;
 }

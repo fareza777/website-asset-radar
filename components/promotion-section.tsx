@@ -22,7 +22,7 @@ export function PromotionSection({
         asset.type === type &&
         (now === null || offerStatus(asset, now) === "active"),
     )
-    .sort((a, b) => b.radarScore - a.radarScore);
+    .sort((a, b) => type === "deal" ? b.discountPercent - a.discountPercent || b.dealScore - a.dealScore : b.radarScore - a.radarScore);
   const visible = verified.slice(0, 3);
   const isFree = type === "limited_free",
     Icon = isFree ? Fire : Tag;
@@ -32,7 +32,8 @@ export function PromotionSection({
         <div>
           <h2 id={`${type}-heading`}>
             <Icon size={23} weight="duotone" />
-            {isFree ? "Free Today" : "Deals on Our Radar"}
+            {isFree ? "Free Today" : "Biggest Deals"}
+            {isFree && <span className="section-percent">100% OFF</span>}
             {now !== null && (
               <span className="asset-count">{verified.length}</span>
             )}
@@ -40,7 +41,7 @@ export function PromotionSection({
           <p>
             {isFree
               ? "Premium finds. Yours to claim while they’re free."
-              : "A few worthwhile upgrades, at a better price."}
+              : "Meaningful discounts, selected for quality and value."}
           </p>
         </div>
         <Link className="text-link" href={isFree ? "/free-today/" : "/deals/"}>

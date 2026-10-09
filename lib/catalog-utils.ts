@@ -1,4 +1,6 @@
 import type { DirectoryAsset, Filters, PersonalCollection } from "./types";
+import { assetCompatibility, compatibilityFor } from "./engine-compatibility";
+import { matchesPublisher } from "./publishers";
 
 export function filterAssets<T extends DirectoryAsset>(
   assets: T[],
@@ -19,7 +21,7 @@ export function filterAssets<T extends DirectoryAsset>(
       asset.dimension,
       asset.license,
       ...asset.formats,
-      ...asset.engines,
+      ...assetCompatibility(asset).filter((item) => item.status !== "Unverified").map((item) => item.engine),
       ...asset.tags,
       ...asset.categories,
     ]
@@ -33,9 +35,18 @@ export function filterAssets<T extends DirectoryAsset>(
         )) &&
       (filters.dimension === "All" || asset.dimension === filters.dimension) &&
       (filters.assetType === "All" || asset.assetType === filters.assetType) &&
-      (filters.engine === "All" || asset.engines.includes(filters.engine)) &&
+      (filters.engine === "All" || compatibilityFor(asset, filters.engine).status !== "Unverified" || filters.compatibility === "Unverified") &&
+      (filters.compatibility === "All" || (filters.engine === "All"
+        ? filters.compatibility === "Unverified"
+          ? assetCompatibility(asset).every((item) => item.status === "Unverified")
+          : assetCompatibility(asset).some((item) => item.status === filters.compatibility)
+        : compatibilityFor(asset, filters.engine).status === filters.compatibility)) &&
       (filters.license === "All" || asset.license === filters.license) &&
-      (filters.source === "All" || asset.source === filters.source)
+      (filters.source === "All" || asset.source === filters.source) &&
+      matchesPublisher(asset, filters.publisher) &&
+      (filters.format === "All" || asset.formats.some((format) => format.toUpperCase() === filters.format.toUpperCase())) &&
+      (filters.type === "All" || asset.type === filters.type) &&
+      (filters.discount === "All" || asset.type !== "free" && asset.discountPercent >= Number(filters.discount))
     );
   });
   if (filters.sort === "latest")
@@ -45,6 +56,9 @@ export function filterAssets<T extends DirectoryAsset>(
     );
   if (filters.sort === "name")
     return result.sort((a, b) => a.title.localeCompare(b.title));
+  if (filters.sort === "quality") return result.sort((a, b) => b.radarScore - a.radarScore || a.title.localeCompare(b.title));
+  if (filters.sort === "discount") return result.sort((a, b) => (b.discountPercent ?? -1) - (a.discountPercent ?? -1) || b.radarScore - a.radarScore);
+  if (filters.sort === "deal") return result.sort((a, b) => (b.dealScore ?? -1) - (a.dealScore ?? -1) || b.radarScore - a.radarScore);
   return result.sort(
     (a, b) => Number(Boolean(b.featured)) - Number(Boolean(a.featured)),
   );

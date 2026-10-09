@@ -1,0 +1,13 @@
+[
+  {"engine":"Unity","kind":"image","formats":["PNG","JPG","JPEG","PSD","TGA","EXR","HDR"],"documentationUrl":"https://docs.unity3d.com/6000.0/Documentation/Manual/ImportingTextures.html"},
+  {"engine":"Unity","kind":"model","formats":["FBX","OBJ","DAE"],"documentationUrl":"https://docs.unity3d.com/6000.0/Documentation/Manual/3D-formats.html"},
+  {"engine":"Unity","kind":"audio","formats":["WAV","OGG","MP3","FLAC","AIF","AIFF"],"documentationUrl":"https://docs.unity3d.com/6000.0/Documentation/Manual/AudioFiles-compatibility.html"},
+  {"engine":"Godot","kind":"image","formats":["PNG","JPG","JPEG","SVG","EXR","HDR"],"documentationUrl":"https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_images.html"},
+  {"engine":"Godot","kind":"model","formats":["GLB","GLTF","FBX","OBJ","DAE"],"documentationUrl":"https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_3d_scenes/available_formats.html"},
+  {"engine":"Godot","kind":"audio","formats":["WAV","OGG","MP3"],"documentationUrl":"https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_audio_samples.html"},
+  {"engine":"Unreal","kind":"image","formats":["PNG","JPG","JPEG","PSD","TGA","EXR","HDR"],"documentationUrl":"https://dev.epicgames.com/documentation/en-us/unreal-engine/textures-in-unreal-engine"},
+  {"engine":"Unreal","kind":"model","formats":["FBX"],"documentationUrl":"https://dev.epicgames.com/documentation/en-us/unreal-engine/fbx-content-pipeline"},
+  {"engine":"Unreal","kind":"audio","formats":["WAV","OGG","MP3","FLAC","AIF"],"documentationUrl":"https://dev.epicgames.com/documentation/en-us/unreal-engine/importing-audio-files"},
+  {"engine":"GameMaker","kind":"image","formats":["PNG","JPG","JPEG","GIF"],"documentationUrl":"https://manual.gamemaker.io/lts/en/Introduction/The_Asset_Browser.htm"},
+  {"engine":"GameMaker","kind":"audio","formats":["WAV","OGG","MP3"],"documentationUrl":"https://manual.gamemaker.io/lts/en/Introduction/The_Asset_Browser.htm"}
+]

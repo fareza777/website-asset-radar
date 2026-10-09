@@ -8,13 +8,18 @@ import { useOfferClock } from "@/lib/use-offer-clock";
 import { FavoriteButton } from "./favorite-button";
 import { RadarBadge } from "./radar-badge";
 import { OfferPreview } from "./offer-preview";
+import { EngineChips } from "./engine-compatibility";
+import { PublisherCredit } from "./publisher-credit";
+import { DealBadge } from "./radar-badge";
 
 export function OfferCard({
   asset,
   view = "grid",
+  preferredEngine,
 }: {
   asset: Promotion;
   view?: "grid" | "list";
+  preferredEngine?: string;
 }) {
   const now = useOfferClock([asset]);
   const status = now === null ? null : offerStatus(asset, now);
@@ -55,7 +60,7 @@ export function OfferCard({
           {asset.title}
           <ArrowUpRight className="card-arrow" size={17} />
         </Link>
-        <p className="asset-author">by {asset.author}</p>
+        <p className="asset-author">by <PublisherCredit asset={asset} /></p>
         <div className="offer-source-row">
           <span>{asset.source}</span>
           {asset.rating !== null && (
@@ -68,12 +73,11 @@ export function OfferCard({
           {asset.licenseTier && <span>{asset.licenseTier} tier</span>}
         </div>
         <div className="offer-specs">
-          <span>
-            {asset.engines.length ? asset.engines.join(" / ") : asset.dimension}
-          </span>
+          <span>{asset.dimension}</span>
           <span>{asset.assetType}</span>
           <span title={asset.licenseNote}>{asset.license}</span>
         </div>
+        <EngineChips asset={asset} preferredEngine={preferredEngine} />
         <div className="offer-price-row">
           {active && (sale || asset.type === "limited_free") ? (
             <>
@@ -99,6 +103,7 @@ export function OfferCard({
             </span>
           )}
         </div>
+        <DealBadge score={asset.dealScore} />
         {active && original?.estimated && (
           <p
             className="offer-fx-note"

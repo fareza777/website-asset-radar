@@ -2,6 +2,7 @@
 
 import { useSyncExternalStore } from "react";
 import { defaultFilters, type Filters } from "./types";
+import { parseFilterUrl, serializeFilterUrl } from "./filter-url";
 
 const eventName = "assetradar:filters";
 function subscribe(listener: () => void) {
@@ -20,30 +21,19 @@ export function useCatalogFilters(initial: Partial<Filters>) {
   );
   const defaults = { ...defaultFilters, ...initial };
   const params = new URLSearchParams(search);
-  const filters = { ...defaults };
-  for (const key of Object.keys(defaultFilters) as (keyof Filters)[]) {
-    const value = params.get(key);
-    if (value !== null)
-      (filters as Record<string, string>)[key] = value.slice(0, 200);
-  }
-  if (!["curated", "latest", "name"].includes(filters.sort))
-    filters.sort = defaults.sort;
+  const filters = parseFilterUrl(search, initial);
   function update(patch: Partial<Filters>, reset = false) {
     const next = reset ? defaults : { ...filters, ...patch };
-    const query = new URLSearchParams();
-    for (const key of Object.keys(defaultFilters) as (keyof Filters)[]) {
-      if (next[key] !== defaults[key]) query.set(key, next[key]);
-    }
-    // Preserve personal collection selectors and unrelated URL state.
-    for (const [key, value] of params)
-      if (!(key in defaultFilters)) query.set(key, value);
-    const encoded = query.toString();
-    window.history.replaceState(
+    const encoded = serializeFilterUrl(next, initial, params.toString());
+    const method = !reset && Object.keys(patch).every((key) => key === "query") ? "replaceState" : "pushState";
+    const target = `${window.location.pathname}${encoded ? `?${encoded}` : ""}${window.location.hash}`;
+    if (target === `${window.location.pathname}${window.location.search}${window.location.hash}`) return;
+    window.history[method](
       window.history.state,
       "",
-      `${window.location.pathname}${encoded ? `?${encoded}` : ""}${window.location.hash}`,
+      target,
     );
     window.dispatchEvent(new Event(eventName));
   }
-  return { filters, defaults, update };
+  return { filters, defaults, update, search };
 }

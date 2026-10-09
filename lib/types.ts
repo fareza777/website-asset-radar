@@ -32,6 +32,8 @@ export type Asset = {
   rating: null;
   reviewCount: null;
   radarScore: number;
+  /** Quality only; discounts never increase Radar Score. */
+  dealScore: null;
   commercialUse: boolean;
   lastChecked: string;
   id: string;
@@ -78,6 +80,7 @@ export type Promotion = Omit<
   | "expiresAt"
   | "rating"
   | "reviewCount"
+  | "dealScore"
   | "source"
   | "license"
   | "preview"
@@ -96,6 +99,8 @@ export type Promotion = Omit<
   rating: number | null;
   /** Marketplace rating count; not a claim that these are written reviews. */
   reviewCount: number | null;
+  /** Value of the verified promotion, separate from asset quality. */
+  dealScore: number;
   source:
     | "Fab"
     | "Unity Asset Store"
@@ -182,7 +187,12 @@ export type Filters = {
   engine: string;
   license: string;
   source: string;
-  sort: "curated" | "latest" | "name";
+  publisher: string;
+  format: string;
+  type: "All" | "free" | "limited_free" | "deal";
+  discount: "All" | "30" | "50" | "70";
+  compatibility: "All" | "Native" | "Importable" | "Unverified";
+  sort: "curated" | "latest" | "name" | "quality" | "discount" | "deal";
 };
 
 export const defaultFilters: Filters = {
@@ -193,5 +203,10 @@ export const defaultFilters: Filters = {
   engine: "All",
   license: "All",
   source: "All",
+  publisher: "All",
+  format: "All",
+  type: "All",
+  discount: "All",
+  compatibility: "All",
   sort: "curated",
 };

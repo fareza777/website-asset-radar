@@ -6,6 +6,8 @@ import {
 } from "@/components/home-discovery";
 import { PromotionSection } from "@/components/promotion-section";
 import { CollectionsPreview } from "@/components/collections-preview";
+import { TodaysRadar } from "@/components/todays-radar";
+import { FeaturedPublishers } from "@/components/featured-publishers";
 import { assets, offers } from "@/lib/catalog";
 import { filterAssets } from "@/lib/catalog-utils";
 import { defaultFilters } from "@/lib/types";
@@ -34,15 +36,16 @@ export default function Home() {
             name: "AssetRadar",
             url: siteUrl,
             description:
-              "A curated library of free game development assets with verified licenses.",
+              "A curated directory of free game assets, limited-time free packs and verified worthwhile discounts.",
           }),
         }}
       />
-      <Hero />
-      <HomeSearch />
+      <div className="homepage-opening"><Hero /><HomeSearch /></div>
+      <TodaysRadar free={assets.find((asset) => asset.id === "kenney-platformer-kit") ?? assets[0]} offers={offers} />
+      <FreeDiscoverySection assets={featured} />
       <PromotionSection offers={offers} type="limited_free" />
       <PromotionSection offers={offers} type="deal" />
-      <FreeDiscoverySection assets={featured} />
+      <FeaturedPublishers />
       <FreeDiscoverySection
         assets={filterAssets(assets, { ...defaultFilters, sort: "latest" })}
         latest

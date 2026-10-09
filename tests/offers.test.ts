@@ -9,6 +9,7 @@ import {
   validateOffers,
 } from "../lib/offers";
 import type { Promotion, OfferEvidence } from "../lib/types";
+import { calculateDealScore } from "../lib/radar-score";
 
 // Synthetic fixtures only: these are never imported into the public catalog.
 const now = Date.parse("2026-10-08T12:00:00Z");
@@ -30,6 +31,7 @@ const fixture = (): Promotion => ({
   rating: 4.5,
   reviewCount: 20,
   radarScore: 0,
+  dealScore: 0,
   source: "itch.io",
   sourceUrl: "https://example-creator.itch.io/test-pack",
   canonicalSourceUrl: "https://example-creator.itch.io/test-pack",
@@ -85,7 +87,7 @@ const evidence = (offer = fixture()): OfferEvidence => ({
 });
 const scored = () => {
   const offer = fixture();
-  return { ...offer, radarScore: calculateRadarScore(offer) };
+  return { ...offer, radarScore: calculateRadarScore(offer), dealScore: calculateDealScore(offer) };
 };
 
 test("discounts require finite verified prices and use actual price math", () => {
@@ -124,7 +126,8 @@ test("expiry and stale evidence disable promotions at the boundary, including un
 test("scores stay 0–100, account for commercial rights, and never mutate external ratings", () => {
   const offer = fixture();
   const score = calculateRadarScore(offer);
-  assert.ok(score >= 70 && score <= 100);
+  assert.ok(score >= 60 && score <= 100);
+  assert.ok(calculateDealScore(offer) >= 70);
   assert.ok(calculateRadarScore({ ...offer, commercialUse: false }) < score);
   assert.ok(
     calculateRadarScore({
@@ -174,6 +177,7 @@ test("invalid prices, untrusted URLs, fabricated discounts and weak deals cannot
     { canonicalSourceUrl: "https://evil.com/test-pack" },
     { licenseUrl: "https://evil.com/license" },
     { radarScore: 100 },
+    { dealScore: 100 },
     { rating: 7 },
     { reviewCount: null },
     { originalPrice: 20, salePrice: 19, discountPercent: 5 },
@@ -263,6 +267,7 @@ test("a large discount cannot compensate for weak editorial quality or poor valu
       offer.salePrice,
     );
     offer.radarScore = calculateRadarScore(offer);
+    offer.dealScore = calculateDealScore(offer);
     assert.throws(() => validateOffers([offer], [], now), /curation/);
   }
 });
@@ -322,4 +327,5 @@ test("reconciliation archives expired/stale offers without claiming a fresh chec
   assert.equal(restored.active[0].lastChecked, proof.checkedAt);
   assert.equal(restored.active[0].discountPercent, 75);
   assert.equal(restored.active[0].radarScore, calculateRadarScore(refreshed));
+  assert.equal(restored.active[0].dealScore, calculateDealScore(refreshed));
 });

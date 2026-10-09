@@ -6,6 +6,8 @@ import {
   scoreBreakdown,
   scoreEvidenceNote,
   SCORE_FACTORS,
+  DEAL_FACTORS,
+  dealScoreBreakdown,
 } from "@/lib/radar-score";
 
 export function RadarScoreBreakdown({ asset }: { asset: DirectoryAsset }) {
@@ -27,6 +29,11 @@ export function RadarScoreBreakdown({ asset }: { asset: DirectoryAsset }) {
           ),
         )}
       </dl>
+      {asset.type !== "free" && <div className="deal-score-breakdown">
+        <h3>Deal Score {asset.dealScore} / 100</h3>
+        <p className="score-evidence-note">Value of the recorded promotion: quality, usefulness for the price, verified reduction and commercial terms. Availability is checked separately.</p>
+        <dl>{Object.entries(dealScoreBreakdown(asset)).map(([factor, points]) => <div key={factor}><dt>{DEAL_FACTORS[factor as keyof typeof DEAL_FACTORS].label}</dt><dd>{points} / {DEAL_FACTORS[factor as keyof typeof DEAL_FACTORS].maximum}</dd></div>)}</dl>
+      </div>}
       <Link href="/about/#radar-score" className="text-link">
         Read the scoring method <ArrowUpRight size={15} />
       </Link>

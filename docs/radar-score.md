@@ -1,4 +1,4 @@
-# Radar Score v2 and USD prices
+# Radar Score v3, Deal Score and USD prices
 
 Radar Score is a reproducible **editorial estimate**, not measured asset quality or
 an engine benchmark. Missing evidence must stay unknown. Never boost a grade to
@@ -8,12 +8,13 @@ and evidence limitations.
 
 | Factor | Maximum | Rule |
 | --- | ---: | --- |
-| Quality and rating evidence | 30 | Half editorial grade, half moderated marketplace average; unknown ratings limit quality to 15. |
-| Value for asking price | 20 | Reviewed utility relative to actual price, supported by a rationale. |
-| Verified discount | 10 | Exact source-price ratio, without intermediate percentage rounding. |
-| Documented contents/usability | 20 | Published contents receive 80% of their graded contribution because paid files have not been audited. |
-| Commercial license flexibility | 10 | CC0 10; creator/attribution license 8; Personal revenue-limited tier 7; unverified commercial use 0. |
-| Creator/source trust | 10 | Evidence-supported editorial reputation grade. |
+| Quality and rating evidence | 40 | Half editorial grade, half moderated marketplace average; unknown ratings limit quality to 20. |
+| Documented contents/usability | 30 | Published contents receive 80% of their graded contribution because paid files have not been audited. |
+| Commercial license flexibility | 15 | CC0 100%; commercial creator/attribution license 80%; Personal revenue-limited tier 70%; unverified commercial use 0. Round the contribution. |
+| Creator/source trust | 15 | Evidence-supported editorial reputation grade. |
+
+**Radar Score contains no price, discount or value component.** The same asset
+with unchanged quality evidence keeps the same Radar Score when its price changes.
 
 Grades 0–5 interpolate these anchors: 0 = 0%, 1 = 10%, 2 = 25%, 3 = 50%,
 4 = 75%, 5 = 100%. A grade of 3 is adequate, 4 strong and 5 exceptional.
@@ -28,18 +29,31 @@ marketplace rating or confidence interval. It reduces the influence of small
 perfect samples. Displayed marketplace stars/counts remain the observed values.
 
 Permanent-free assets currently lack marketplace ratings and engine tests. Their
-quality is provisional at 15/30; zero-cost commercial access earns 15/20 value;
-discount is 0 because no original paid price is established. Completeness uses
+quality is provisional at 20/40. Completeness uses
 checked formats (4), hashed source evidence (4), licensed preview proof (4),
 known scope (1), useful editable/interchange formats (up to 3), and a playable
 original OGG sample (2). SVG earns 3 format points; 3D FBX/OBJ/GLB earns up to 3;
 EXR earns 2. More files beyond a known scope never improve the score. Verified
-Kenney/Poly Haven evidence earns 8/10 source trust. License points follow the
+Kenney/Poly Haven evidence earns 12/15 source trust. Multiply the completeness
+subtotal by 1.5 and round. License points follow the
 same commercial-license rubric. Provisional scores do not mean poor quality.
 
-Deals still require 30% off, Radar Score 70+, quality/value grades at least 3,
+## Separate Deal Score
+
+| Factor | Maximum | Rule |
+| --- | ---: | --- |
+| Asset quality | 35 | Radar Score × 0.35, rounded. |
+| Value for asking price | 35 | Anchored value grade × 35, rounded; evidence-supported usefulness for the actual price. |
+| Verified price reduction | 20 | `(1 − salePrice / originalPrice) × 20`, bounded and rounded; actual verified prices, not rounded badge percentages. |
+| Commercial terms | 10 | Same license fractions as Radar Score, rounded. |
+
+Permanent-free assets have `dealScore: null`. Promotions have a separately
+derived numeric `dealScore`; a 100% discount does not automatically earn 100.
+The two scores are consistent across cards, filters, detail pages and validators.
+
+Deals require 30% off, Radar Score 60+, Deal Score 70+, quality/value grades at least 3,
 commercial permission, and at least 4/5 marketplace stars when known. The updater
-recalculates scores without advancing verification dates. Free importers and
+recalculates both scores without advancing verification dates. Free importers and
 `npm run catalog:enrich` calculate the free method from existing evidence;
 enrichment is not a new source check.
 

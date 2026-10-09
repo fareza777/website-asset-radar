@@ -4,7 +4,7 @@
     "lastChecked": "2026-10-08T16:41:49Z",
     "commercialUse": true,
     "discountPercent": 100,
-    "radarScore": 83,
+    "radarScore": 76,
     "preview": null,
     "thumbnailPermission": null,
     "type": "limited_free",
@@ -59,14 +59,15 @@
       "credit": "Six Sides Studios",
       "checkedAt": "2026-10-08T23:22:09.023Z",
       "note": "Observed in this product's public publisher gallery. Linked directly from Fab's media CDN; no artwork or paid pack files were copied into the repository. This preview check does not refresh price or license verification."
-    }
+    },
+    "dealScore": 89
   },
   {
     "addedAt": "2026-10-08",
     "lastChecked": "2026-10-08T16:41:49Z",
     "commercialUse": true,
     "discountPercent": 100,
-    "radarScore": 82,
+    "radarScore": 77,
     "preview": null,
     "thumbnailPermission": null,
     "type": "limited_free",
@@ -122,14 +123,15 @@
       "credit": "NordVader",
       "checkedAt": "2026-10-08T23:22:48.624Z",
       "note": "Observed in this product's public publisher gallery. Linked directly from Fab's media CDN; no artwork or paid pack files were copied into the repository. This preview check does not refresh price or license verification."
-    }
+    },
+    "dealScore": 85
   },
   {
     "addedAt": "2026-10-08",
     "lastChecked": "2026-10-08T16:41:49Z",
     "commercialUse": true,
     "discountPercent": 100,
-    "radarScore": 76,
+    "radarScore": 66,
     "preview": null,
     "thumbnailPermission": null,
     "type": "limited_free",
@@ -185,7 +187,8 @@
       "credit": "Emberlight Creations",
       "checkedAt": "2026-10-08T23:22:58.394Z",
       "note": "Observed in this product's public publisher gallery. Linked directly from Fab's media CDN; no artwork or paid pack files were copied into the repository. This preview check does not refresh price or license verification."
-    }
+    },
+    "dealScore": 85
   },
   {
     "addedAt": "2026-10-08",
@@ -247,14 +250,15 @@
       "credit": "WinLu",
       "checkedAt": "2026-10-08T23:21:00.434Z",
       "note": "Observed in this product's public gallery. Uses itch.io's existing 794px publisher-hosted preview; no artwork or paid archive was copied. Preview verification does not refresh prices or licensing."
-    }
+    },
+    "dealScore": 77
   },
   {
     "addedAt": "2026-10-08",
     "lastChecked": "2026-10-08T16:41:49Z",
     "commercialUse": true,
     "discountPercent": 50,
-    "radarScore": 79,
+    "radarScore": 76,
     "preview": null,
     "thumbnailPermission": null,
     "type": "deal",
@@ -307,7 +311,8 @@
       "credit": "brullov",
       "checkedAt": "2026-10-08T23:21:02.351Z",
       "note": "Observed in this product's public gallery. Uses itch.io's existing 794px publisher-hosted preview; no artwork or paid archive was copied. Preview verification does not refresh prices or licensing."
-    }
+    },
+    "dealScore": 80
   },
   {
     "id": "elektrobear-80-songs",
@@ -327,7 +332,7 @@
     "expiresAt": "2026-11-01T12:12:00Z",
     "rating": 5,
     "reviewCount": 32,
-    "radarScore": 83,
+    "radarScore": 82,
     "source": "itch.io",
     "sourceUrl": "https://moonanagames.itch.io/80-songs-pack",
     "canonicalSourceUrl": "https://moonanagames.itch.io/80-songs-pack",
@@ -364,7 +369,8 @@
       "completeness": 5,
       "reputation": 4.5,
       "rationale": "A publisher-listed collection of 80 tracks for $10, with 5.0/5 from 32 marketplace ratings and explicit commercial project use. Useful breadth for projects needing several music cues; composer credit is required."
-    }
+    },
+    "dealScore": 82
   },
   {
     "id": "brullov-castle-of-despair",
@@ -385,7 +391,7 @@
     "expiresAt": "2026-10-31T23:00:00Z",
     "rating": 4.9,
     "reviewCount": 75,
-    "radarScore": 81,
+    "radarScore": 79,
     "source": "itch.io",
     "sourceUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
     "canonicalSourceUrl": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair",
@@ -426,7 +432,8 @@
       "credit": "brullov",
       "checkedAt": "2026-10-08T23:21:03.858Z",
       "note": "Observed in this product's public gallery. Uses itch.io's existing 794px publisher-hosted preview; no artwork or paid archive was copied. Preview verification does not refresh prices or licensing."
-    }
+    },
+    "dealScore": 81
   },
   {
     "id": "winlu-fantasy-interior",
@@ -446,7 +453,7 @@
     "expiresAt": "2026-10-30T18:10:00Z",
     "rating": 4.8,
     "reviewCount": 26,
-    "radarScore": 77,
+    "radarScore": 80,
     "source": "itch.io",
     "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-interior",
     "canonicalSourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-interior",
@@ -489,7 +496,8 @@
       "credit": "WinLu",
       "checkedAt": "2026-10-08T23:21:04.160Z",
       "note": "Observed in this product's public gallery. Uses itch.io's existing 794px publisher-hosted preview; no artwork or paid archive was copied. Preview verification does not refresh prices or licensing."
-    }
+    },
+    "dealScore": 73
   },
   {
     "id": "gandalf-medieval-fantasy-tiles",
@@ -551,6 +559,7 @@
       "credit": "GandalfHardcore",
       "checkedAt": "2026-10-08T23:21:06.031Z",
       "note": "Observed in this product's public gallery. Uses itch.io's existing 794px publisher-hosted preview; no artwork or paid archive was copied. Preview verification does not refresh prices or licensing. Demonstration characters belong to separate packs, as the publisher states."
-    }
+    },
+    "dealScore": 73
   }
 ]

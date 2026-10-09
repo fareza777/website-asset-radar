@@ -16,6 +16,7 @@ batas kandidat dan recheck dari file itu.
 | ---------------------------------------------------- | ---------------------------------: |
 | Aset baru yang lolos verifikasi, semua tipe digabung |           50 per hari Asia/Jakarta |
 | Kandidat baru yang diperiksa, semua sumber digabung  |                                150 |
+| Status publisher yang ditinjau                     |               10 (cek atau skip) |
 | Promo lama yang diverifikasi ulang                   |                                 50 |
 | Aset free lama yang dicek ulang                      |                                 20 |
 | Descriptor per batch importer                        |                                  5 |
@@ -64,14 +65,19 @@ harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.c
 3. Verifikasi promo tertua terlebih dahulu: produk persis sama, harga asli dan
    promo, mata uang, tier, izin komersial, rating jika tersedia, dan expiry yang
    benar-benar diketahui. HEAD hanya memeriksa link, bukan harga/lisensi.
-4. Temukan kandidat dari sumber yang diizinkan; pilih paling berguna dan hindari
+4. Jalankan `npm run publishers:watch -- --limit=50 --write` untuk 10 publisher.
+   Baca laporan index berhasil/berubah, blocked, dan permission review. Tanggal
+   ini hanya tanggal cek index, bukan verifikasi harga atau lisensi aset.
+   Temukan kandidat dari sumber yang diizinkan; pilih paling berguna dan hindari
    duplicate URL/affiliate/versi. Utamakan free assets, limited free premium, lalu
-   deals yang memenuhi diskon 30%+, Radar Score 70+, dan ambang kualitas.
+   deals yang memenuhi diskon 30%+, Radar Score 60+, Deal Score 70+, dan ambang kualitas.
+   Discovery free memakai `--limit=100` atau sisa jatah yang lebih kecil; total
+   kandidat yang benar-benar diperiksa dari semua sumber tetap maksimal 150.
 5. Verifikasi lisensi dan isi setiap kandidat. Import free assets dalam batch
    **maksimal 5**, sampai sisa jatah harian, waktu, atau download habis. Maksimal
    10 batch penuh hanya jika tidak ada promo baru yang memakai jatah 50 tersebut.
 6. Simpan evidence aktual. Untuk promo, masukkan kandidat ke queue lalu jalankan
-   updater; updater menghitung discount/Radar Score dan memakai waktu dari evidence.
+   updater; updater menghitung discount/Radar Score/Deal Score dan memakai waktu dari evidence.
 7. Recheck sampai 20 free assets lama jika masih dalam waktu. Jalankan semua
    validasi. Hentikan import baru ketika sisa waktu 10 menit.
 8. Buka/perbarui satu draft PR dengan daftar perubahan dan ringkasan angka/bukti.
@@ -83,7 +89,8 @@ harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.c
 npm ci
 npm run offers:update
 npm run prices:refresh
-npm run catalog:discover -- --limit=150
+npm run publishers:watch -- --limit=50 --write
+npm run catalog:discover -- --limit=100
 npm run offers:check-links -- --limit=50
 
 # Setelah descriptor ditinjau; tiap file berisi paling banyak 5 aset.
@@ -106,12 +113,38 @@ node scripts/open-catalog-pr.mjs --publish
 ```
 
 Discovery hanya menulis `.cache/discovery-report.json`; ia tidak menerbitkan
-150 kandidat. Jangan menjalankan semua batch setelah mencapai jatah 50 gabungan.
+hasil kandidat. Pemantau menulis `.cache/publisher-watch-report.json` dan, dengan
+`--write`, jurnal `data/publisher-monitor.json`. Kandidat dibagi antar publisher
+agar satu katalog besar tidak memakai seluruh slot. Laporan index tidak
+mengubah `lastChecked` aset, harga, lisensi, rating, atau compatibility. Jangan
+menjalankan semua batch setelah mencapai jatah 50 gabungan.
 Kegagalan robots, 403, CAPTCHA, rate limit, harga ambigu, atau lisensi tidak jelas
 berarti sumber/candidate dilewati dan dilaporkan. Jangan bypass proteksi atau
 menambah domain ke allowlist dari dalam automation.
 
 ## Sumber, preview, dan konten
+
+### Sepuluh publisher yang dipantau
+
+| Publisher | Index resmi | Metode saat ini |
+| --- | --- | --- |
+| Synty | https://syntystore.com/ | Permission review; tidak di-fetch otomatis |
+| Kenney | https://kenney.nl/assets | Public index + importer CC0 yang sudah ada |
+| Quaternius | https://quaternius.com/ | Public index; lisensi QAL/CC0 diperiksa per produk |
+| NatureManufacture | https://naturemanufacture.com/ | Public index; cek produk/edisi engine yang sama |
+| polyperfect | https://www.polyperfect.com/products | Public index; kandidat, bukan listing terverifikasi |
+| KayKit | https://kaylousberg.com/game-assets | Public index; pisahkan tier gratis/upgrade berbayar |
+| Infinity PBR | https://infinitypbr.com/ | Public index; cek kredit publisher/edisi per produk |
+| CraftPix | https://craftpix.net/freebies/ | Permission review; tidak di-fetch otomatis |
+| Ansimuz | https://ansimuz.itch.io/ | Public index; produk/tier diperiksa terpisah |
+| Pixel Frog | https://pixelfrog-assets.itch.io/ | Public index; cek lisensi dan format produk |
+
+Konfigurasi yang direview ada di `data/publishers.json`. Public index tetap harus
+lolos robots, pacing, ukuran/timeouts, dan akses sumber; hentikan jika proteksi
+muncul. Status permission review tidak boleh diubah oleh agent harian. Index
+yang berubah hanya sinyal untuk memeriksa produk, bukan bukti perubahan harga.
+Jangan klaim semua 10 berhasil jika ada skip/blocked. Profil publisher yang
+belum memiliki listing terverifikasi tetap boleh kosong.
 
 Importer free saat ini mendukung **Kenney CC0** dan **Poly Haven texture API**.
 Marketplace prioritas promo adalah **Fab, Unity Asset Store, itch.io, dan GameDev
@@ -135,8 +168,29 @@ jika expired atau sudah 48 jam tanpa evidence baru, sekalipun deploy belum berub
 
 ## Format ringkasan PR
 
+### Skor dan compatibility yang wajib diperiksa
+
+Radar Score v3 menilai kualitas (40), kelengkapan/usability (30), lisensi (15),
+dan kepercayaan creator/source (15). Harga/diskon tidak menaikkan Radar Score.
+Deal Score terpisah: kualitas (35), value (35), diskon aktual (20), lisensi (10).
+Jangan memberi nilai 5 otomatis atau menaikkan grade agar lolos kurasi. Free
+tanpa rating tetap provisional; `dealScore` free harus `null`.
+
+Native memerlukan paket engine yang benar-benar tercatat. Importable memerlukan
+format isi yang terverifikasi dan didukung dokumentasi engine di
+`data/engine-formats.json`. ZIP/RAR, gambar preview, atau tag Unity/Unreal/Godot
+saja tetap Unverified. Cantumkan sumber dan kebutuhan setup manual di `engineNote`;
+jangan mengklaim performa, shader/material, atau animasi sudah diuji.
+
+Yang diperbarui harian: aset/promo baru, harga/currency/tier, expiry, status
+expired/stale, perubahan lisensi, rating/count jika tersedia, format/package
+engine, source link, publisher credit, provenance screenshot, kedua skor yang
+dihitung ulang, snapshot kurs, dan jurnal 10 publisher. Homepage, kategori,
+filter, profil publisher serta halaman SEO ikut berubah dari data tanpa edit UI.
+
 ```text
 Tanggal/run: <Asia/Jakarta dan waktu UTC>
+Publisher: <10 status: checked / permission review / blocked; perubahan nyata>
 Kandidat diperiksa: <jumlah dari maksimal 150>
 Aset baru: <free> free + <limited free> limited free + <deal> deals = <total, maksimal 50/hari>
 Recheck: <promo> promo + <free> free
@@ -145,7 +199,8 @@ Dilewati/gagal: <jumlah dan alasan singkat>
 Pemakaian: <menit> menit, <MB> archive baru
 Sisa jatah hari ini: <jumlah>
 Validasi: <hasil sebenarnya>
-Evidence: <source/license/price/preview untuk tiap record>
+Evidence: <source/license/price/preview/compatibility untuk tiap record>
+Skor: <Radar Score kualitas dan Deal Score kesempatan beli, beserta alasan>
 ```
 
 Review minimal: periksa source/price/license setiap penambahan, isi preview,
