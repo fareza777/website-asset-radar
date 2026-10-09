@@ -44,7 +44,7 @@ export type Asset = {
   categories: Category[];
   dimension: "2D" | "3D" | "Audio";
   assetType: AssetType;
-  source: "Kenney" | "Poly Haven";
+  source: "Kenney" | "Poly Haven" | "ambientCG";
   sourceUrl: string;
   license: "CC0" | "CC-BY-4.0";
   licenseUrl: string;

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/black_oak_veneer",
+  "checkedAt": "2026-10-09T05:53:49.018Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/black_oak_veneer",
+  "apiSha256": "885eb5306c67c8c2ef445a4899f4e6bb9c00caab1e2504ca779e4929b2f9f593",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/black_oak_veneer/black_oak_veneer_diff_1k.jpg",
+  "assetFileMd5": "83abcaef4fd86aa32cc258ea331003ca",
+  "assetFileSha256": "7893f9bfeda626364f0a803dea6327c9f3a7b2f2fe330f6b4f326f6b06c0c265",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Black Oak Veneer",
+    "tags": [
+      "raw",
+      "wood",
+      "oak",
+      "natural wood grain",
+      "natural grain",
+      "grain",
+      "gray",
+      "wood grain",
+      "veneer",
+      "veneer wood",
+      "flat wood surface"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "4809af52cb5437c77d1e4da4e830de6973f468e3",
+    "description": "Free black oak veneer PBR texture with subtle gray grain and low-gloss veneer finish - ideal for furniture, interiors and props needing realistic flat wood surfaces.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "sponsors": [
+      "3237733"
+    ],
+    "img_version": "d9a95497",
+    "download_count": 1423,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/black_oak_veneer.png?width=256&height=256&format=webp&v=d9a95497"
+  }
+}

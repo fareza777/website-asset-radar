@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Carpet016",
+  "checkedAt": "2026-10-09T06:00:32.235Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Carpet016&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "e11c3bde4c934399187ac3bf21730abf7bfbd9af19a952c946e2539e4f6ddc39",
+  "apiMetadata": {
+    "assetId": "Carpet016",
+    "dataType": "Material",
+    "displayName": "Carpet 016",
+    "displayCategory": "Carpet",
+    "shortLink": "https://ambientcg.com/a/Carpet016",
+    "tags": [
+      "16",
+      "beige",
+      "carpet",
+      "fabric",
+      "floor",
+      "soft",
+      "white",
+      "wool"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Carpet016.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Carpet016.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Carpet016.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Carpet016.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Carpet016.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Carpet016.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Carpet016.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Carpet016.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Carpet016.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Carpet016.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Carpet016.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Carpet016.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Carpet016.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Carpet016.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Carpet016.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Carpet016.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Carpet016.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Carpet016.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Carpet016.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Carpet016.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Carpet016.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Carpet016.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Carpet016.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Carpet016.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_1K-JPG.zip",
+                "fileName": "Carpet016_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_1K-JPG.zip",
+                "size": 9371762,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_2K-JPG.zip",
+                "fileName": "Carpet016_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_2K-JPG.zip",
+                "size": 31205527,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_4K-JPG.zip",
+                "fileName": "Carpet016_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_4K-JPG.zip",
+                "size": 111252536,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_8K-JPG.zip",
+                "fileName": "Carpet016_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_8K-JPG.zip",
+                "size": 416968444,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_1K-PNG.zip",
+                "fileName": "Carpet016_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_1K-PNG.zip",
+                "size": 18012836,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_2K-PNG.zip",
+                "fileName": "Carpet016_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_2K-PNG.zip",
+                "size": 65696017,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_4K-PNG.zip",
+                "fileName": "Carpet016_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_4K-PNG.zip",
+                "size": 251396875,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Carpet016_8K-PNG.zip",
+                "fileName": "Carpet016_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Carpet016_8K-PNG.zip",
+                "size": 983334376,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-11-05 14:00:00",
+    "earlyReleaseDate": "2023-10-27 18:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 144933,
+    "downloadCountMonth": 12847,
+    "downloadCountWeek": 5021,
+    "popularityScore": 27.875323561148118,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 170,
+    "dimensionY": 170,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_Color.jpg?84903&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_Displacement.jpg?63071&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_NormalDX.jpg?39558&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_Roughness.jpg?68280&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_AmbientOcclusion.jpg?61752",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_Color.jpg?46736,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_Displacement.jpg?57507,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_NormalDX.jpg?50591,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_Roughness.jpg?15369,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Carpet016/Carpet016_SQ_AmbientOcclusion.jpg?73245&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Carpet016.webp",
+  "previewSha256": "8a948c2d5f39dadf14aecc25f881dcd7a6d201558d6adbd2a938cd74b8970573",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

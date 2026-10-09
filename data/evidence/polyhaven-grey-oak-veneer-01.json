@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grey_oak_veneer_01",
+  "checkedAt": "2026-10-09T05:56:55.801Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grey_oak_veneer_01",
+  "apiSha256": "c6e1a95091fe16805939c305edcf69f761991376e4c87caa58004e5106e016fc",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_oak_veneer_01/grey_oak_veneer_01_diff_1k.jpg",
+  "assetFileMd5": "44a105ee58d00b271ce3f11b6e1d298a",
+  "assetFileSha256": "e2c51941364cdbdcf86ac161b1f6fee35cc600978147f89a021dbded402f0138",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Grey Oak Veneer 01",
+    "tags": [
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "fine grain",
+      "veneer",
+      "veneer wood",
+      "natural veneer",
+      "natural wood",
+      "natural",
+      "light wood",
+      "raw wood",
+      "blonde"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "14a424edf4be5e4db25e765de36e97ed78baba8e",
+    "description": "Free 8K PBR texture of grey oak veneer with fine natural grain, subtle blonde-grey tone, smooth veneer finish - ideal for furniture, interiors, wood detailing.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "817a5ee0",
+    "download_count": 956,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_oak_veneer_01.png?width=256&height=256&format=webp&v=817a5ee0"
+  }
+}

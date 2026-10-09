@@ -62,7 +62,7 @@ export function freeScoreBreakdown(asset: FreeScoreInput): ScoreBreakdown {
     quality: 20, // Neutral quality: no marketplace ratings or engine testing.
     completeness: Math.round(usability * 1.5),
     license: Math.round(licenseFraction(asset) * 15),
-    reputation: proof && ["Kenney", "Poly Haven"].includes(asset.source) ? 12 : 0,
+    reputation: proof && ["Kenney", "Poly Haven", "ambientCG"].includes(asset.source) ? 12 : 0,
   };
 }
 function totalScore(scores: Record<string, number>): number {

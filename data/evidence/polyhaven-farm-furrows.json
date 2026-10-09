@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/farm_furrows",
+  "checkedAt": "2026-10-09T05:49:46.257Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/farm_furrows",
+  "apiSha256": "dcc052948220723d75fa85bc499e8ef84e779dcb58ff7d853d479981418a4f7a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/farm_furrows/farm_furrows_diff_1k.jpg",
+  "assetFileMd5": "758240d6d0c7608caf20507498c382b9",
+  "assetFileSha256": "991caba24cc555a968b98092bd0dd3a35da849e553012830062eab158c32bb22",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Farm Furrows",
+    "categories": [
+      "outdoor",
+      "floor"
+    ],
+    "category": "Ground & Terrain/Soil & Mud/Bare Dirt & Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "tags": [
+      "rough",
+      "uneven",
+      "dirt",
+      "dirty",
+      "dirt soil",
+      "soil",
+      "farm",
+      "sticks",
+      "twigs",
+      "small twigs",
+      "ploughed",
+      "furrows",
+      "rutted",
+      "earthy",
+      "cloddy",
+      "compacted earth"
+    ],
+    "description": "Free 8K texture of plowed farm soil with deep ridged furrows, damp brown earth, rough clods and scattered straw bits, rich micro detail and subtle sheen.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "category_id": "d9215ca1-f9af-578a-a269-6cd2338bdba6",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2097.8498458862305,
+      2097.850799560547
+    ],
+    "files_hash": "67fc60308bb4cd38a29529922eef395df64ef6f3",
+    "date_published": 1787011200,
+    "staging": null,
+    "img_version": "8be23643",
+    "download_count": 1232,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/farm_furrows.png?width=256&height=256&format=webp&v=8be23643"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/japanese_cedar_planks",
+  "checkedAt": "2026-10-09T05:57:25.791Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/japanese_cedar_planks",
+  "apiSha256": "3b66ff07a2fe55576b01c2d1aed84434524b130b3db78cac29d1a28ac319297d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/japanese_cedar_planks/japanese_cedar_planks_diff_1k.jpg",
+  "assetFileMd5": "a88e63ae003679e2d356807c57363eaf",
+  "assetFileSha256": "cce8e8c5e5e6ba7956a6edf9fa6121c57fa2bfab0ebd672951bede9e053cbec4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Japanese Cedar Planks",
+    "tags": [
+      "japanese",
+      "cedar",
+      "japanses cedar",
+      "natural wood grain",
+      "vertical planks",
+      "wood planks",
+      "wooden plank",
+      "paneling",
+      "roughhewn",
+      "sawn timber",
+      "hardwood",
+      "grain",
+      "wood grain"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "Scanning",
+      "Rico Cilliers": "Processing "
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1130.000114440918,
+      1130.000114440918
+    ],
+    "staging": null,
+    "files_hash": "d17c951498700491c89317926c02e59efcd5f34b",
+    "description": "Free 8K texture of Japanese cedar planks - warm hardwood grain, vertical paneling with rough-hewn detail and light wear; ideal for interiors, furniture, props.",
+    "sponsors": [
+      "20953239",
+      "121968951"
+    ],
+    "category_id": "b8439687-3b90-5f1b-89b6-653eb24b657a",
+    "category": "Wood/Boards & Planks/Raw Sawn Timber",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "1f523951",
+    "download_count": 8274,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/japanese_cedar_planks.png?width=256&height=256&format=webp&v=1f523951"
+  }
+}

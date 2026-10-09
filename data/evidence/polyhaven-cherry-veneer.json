@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/cherry_veneer",
+  "checkedAt": "2026-10-09T05:54:48.642Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/cherry_veneer",
+  "apiSha256": "fd2e118a85d23b0808c9d325e5ea52ac2a861942170362df160e3dcc2786ba51",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cherry_veneer/cherry_veneer_diff_1k.jpg",
+  "assetFileMd5": "830831a311de65af31d238be811aa46f",
+  "assetFileSha256": "d50fed9f9964721d6b18581cadb6d95717a714b85361b22078e7d913ba5ce4d2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Cherry Veneer",
+    "tags": [
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "natural wood",
+      "natural veneer",
+      "natural",
+      "veneer",
+      "veneer wood",
+      "blonde",
+      "light wood",
+      "cherry wood",
+      "cherry"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "34b7a58a2640897582b19cbad1539a54846614a9",
+    "description": "Free cherry veneer PBR texture with subtle natural grain, smooth satin surface and warm blonde tones - versatile for furniture, cabinetry and interior renders.",
+    "category_id": "696337cd-d4c7-5cc4-98f9-cddf9a6c4ee5",
+    "category": "Wood/Veneer/Light Hardwood Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "50807f1d",
+    "download_count": 3123,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cherry_veneer.png?width=256&height=256&format=webp&v=50807f1d"
+  }
+}

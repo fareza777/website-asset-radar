@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/old_wooden_floor_01",
+  "checkedAt": "2026-10-09T06:00:27.862Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/old_wooden_floor_01",
+  "apiSha256": "6ec87c74b2c7b7ad9f8c91233bc65d889de5ca2bcc3c600ff254fb5e0a099114",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/old_wooden_floor_01/old_wooden_floor_01_diff_1k.jpg",
+  "assetFileMd5": "624f0bef4c7edb616250e09f1d4831b8",
+  "assetFileSha256": "e7d18d40d5b75ce197578c9ba07de76b5e457ad53c66a662a3d913bf95cf48ef",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Old Wooden Floor 01",
+    "tags": [
+      "wood",
+      "hardwood",
+      "hardwood floors",
+      "wooden flooring ",
+      "wooden planks",
+      "wooden floor",
+      "grain",
+      "aged wood",
+      "scratches",
+      "interior",
+      "varnished surface"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "Scanning",
+      "Dario Barresi": "Processing"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "5641dcc6d7bce8b389801483cea06913cfce0f73",
+    "staging": null,
+    "description": "Free 8K texture of aged varnished hardwood planks with visible grain, subtle scratches and wear, ideal for interior floors, furniture and architectural scenes.",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "sponsors": [
+      "127083576"
+    ],
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "bd2acda0",
+    "download_count": 1879,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_wooden_floor_01.png?width=256&height=256&format=webp&v=bd2acda0"
+  }
+}

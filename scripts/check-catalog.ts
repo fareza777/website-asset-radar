@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 import { validateCatalog } from "../lib/catalog-schema";
 import { fetchPermitted } from "./source-policy";
 import { readKenneyEvidence, readPolyHavenLicense } from "./verification";
+import { ambientLicenseUrl, readAmbientLicense, readAmbientMetadata, ambientFormats } from "./ambientcg";
 
 async function main() {
   const assets = validateCatalog(
@@ -33,6 +34,7 @@ async function main() {
   const evidenceWrites: { file: string; content: string }[] = [];
   let polyLicense: boolean | undefined;
   let polyLicenseHash: string | undefined;
+  let ambientLicenseHash: string | undefined;
   for (const asset of selected) {
     try {
       const stored = JSON.parse(
@@ -53,6 +55,25 @@ async function main() {
         await fetchPermitted(current.archiveUrl, { method: "HEAD" });
         stored.archiveLinkCheckedAt = checkedAt;
         stored.pageSha256 = createHash("sha256").update(text).digest("hex");
+      } else if (asset.source === "ambientCG") {
+        if (!ambientLicenseHash) {
+          const html = await (await fetchPermitted(ambientLicenseUrl)).text();
+          if (!readAmbientLicense(html)) throw new Error("ambientCG asset/preview license changed or cannot be verified");
+          ambientLicenseHash = createHash("sha256").update(html).digest("hex");
+        }
+        await fetchPermitted(asset.sourceUrl, { method: "HEAD" });
+        text = await (await fetchPermitted(asset.verificationUrl)).text();
+        const response = JSON.parse(text);
+        if (response.foundAssets?.length !== 1) throw new Error("ambientCG product identity is ambiguous");
+        const info = readAmbientMetadata(response.foundAssets[0]);
+        if (info.shortLink !== asset.sourceUrl || info.displayName !== asset.title ||
+          JSON.stringify(ambientFormats(info)) !== JSON.stringify([...asset.formats].sort()) ||
+          !Object.values(info.previewImage).includes(asset.previewProvenance.url))
+          throw new Error("ambientCG identity, files or preview changed; inspect before re-verifying");
+        await fetchPermitted(asset.previewProvenance.url, { method: "HEAD" });
+        stored.apiSha256 = createHash("sha256").update(text).digest("hex");
+        stored.apiMetadata = info;
+        stored.licensePageSha256 = ambientLicenseHash;
       } else {
         await fetchPermitted(asset.sourceUrl, { method: "HEAD" });
         if (polyLicense === undefined) {

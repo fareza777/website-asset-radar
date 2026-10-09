@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/red_oak_veneer",
+  "checkedAt": "2026-10-09T06:02:05.512Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/red_oak_veneer",
+  "apiSha256": "86dac86e04041f7a5bd4e81b82e09ee39d519961328a721c651ae5b1f0778430",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_oak_veneer/red_oak_veneer_diff_1k.jpg",
+  "assetFileMd5": "7b1e5d04c8511ce69d540c53fcf56ead",
+  "assetFileSha256": "28fd7bcc1b8b3cc0531591353820ef143d4af27e8c5cf6170f78b223e39c34ad",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Red Oak Veneer",
+    "tags": [
+      "oak",
+      "raw wood",
+      "veneer",
+      "veneer wood",
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "wood",
+      "natural wood",
+      "light wood",
+      "red oak"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "041f6ae04932cb31a7811fd05b1ffd46414efe30",
+    "description": "Free 8K texture of red oak veneer, light natural wood grain with subtle pores and a smooth veneer finish, ideal for furniture, interiors, and prop textures.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "9000729e",
+    "download_count": 569,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_oak_veneer.png?width=256&height=256&format=webp&v=9000729e"
+  }
+}

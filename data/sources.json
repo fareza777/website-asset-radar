@@ -1,11 +1,13 @@
 {
-  "policyVersion": 1,
-  "checkedAt": "2026-10-08",
+  "policyVersion": 2,
+  "checkedAt": "2026-10-09",
   "executablePolicy": "scripts/source-policy.ts",
   "userAgent": "AssetRadar/1.0 (+https://github.com/fareza777/website-asset-radar)",
   "minimumRequestIntervalMs": 1400,
-  "maxAdditionsPerRun": 5,
-  "maxRechecksPerRun": 5,
+  "minimumNewItemsPerDay": 50,
+  "maxAdditionsPerRun": 100,
+  "importBatchSize": 5,
+  "maxRechecksPerRun": 20,
   "sources": [
     {
       "name": "Kenney",
@@ -26,6 +28,16 @@
       "verification": "Current published asset license, API identity/authors, source HEAD reachability, and checksum-verified licensed diffuse texture.",
       "permittedPreview": "Crop of an actual licensed diffuse texture from dl.polyhaven.org/file/ph-assets/Textures/.",
       "excluded": "Website discovery scraping, website thumbnails/example renders, logos, user portraits, unrelated content, and unverified downloads."
+    },
+    {
+      "name": "ambientCG",
+      "discovery": "https://ambientcg.com/api/v2/full_json?type=Material&sort=Popular&limit=250",
+      "guidance": "https://docs.ambientcg.com/api/v2/full_json/",
+      "licenseEvidence": "https://docs.ambientcg.com/license/",
+      "license": "CC0",
+      "verification": "Verify each product through its documented official API, explicit download-format attributes and reachable product page. Full archive contents and engine performance are not tested.",
+      "permittedPreview": "Exact API-listed material preview render: the source explicitly licenses these renders under CC0. Optimize locally and record the input hash.",
+      "excluded": "Logos, unrelated website images, private endpoints, unverified formats and non-material assets without a supported adapter."
     }
   ]
 }

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_17",
+  "checkedAt": "2026-10-09T05:48:18.542Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_17",
+  "apiSha256": "4b22d3b9b8127e125fe00471e192fdcea07866d3e39b62eefe94f31b5da8f95a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_17/rock_wall_17_diff_1k.jpg",
+  "assetFileMd5": "458fc020e14590f20f82e895125da09d",
+  "assetFileSha256": "d6f0febb9893487ed86859e4e8f92e57eac12b9feadc84f16126d5e7d243afe2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rock Wall 17",
+    "categories": [
+      "wall",
+      "rock",
+      "plaster-concrete"
+    ],
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "tags": [
+      "rough",
+      "uneven",
+      "rock",
+      "rocks",
+      "embedded rocks",
+      "coarse",
+      "stonework",
+      "fortress walls",
+      "dungeon",
+      "embedded rock"
+    ],
+    "description": "Free 8K rock wall texture featuring rounded cobbles in sandy mortar, dark brown to reddish tones, slightly wet sheen, strong relief and rough variation.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "files_hash": "cff0acad91bd0d3c110cbfe1185198dc32b7cb58",
+    "date_published": 1787702400,
+    "staging": null,
+    "img_version": "a471ba82",
+    "download_count": 4552,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_17.png?width=256&height=256&format=webp&v=a471ba82"
+  }
+}

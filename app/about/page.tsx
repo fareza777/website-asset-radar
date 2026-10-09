@@ -110,7 +110,7 @@ export default function About() {
           3), and an actual audio sample (2). SVG earns 3 format points; 3D
           FBX/OBJ/GLB interchange earns up to 3; EXR earns 2. The resulting
           completeness subtotal is multiplied by 1.5 and rounded. A checked
-          first-party Kenney or Poly Haven source earns 12 trust points. Large
+          first-party Kenney, Poly Haven or ambientCG source earns 12 trust points. Large
           file counts and featured placement never inflate quality. Missing
           ratings stay unknown; a lower score can reflect missing evidence
           rather than poor assets.

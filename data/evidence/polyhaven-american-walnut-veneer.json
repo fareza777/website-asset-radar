@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/american_walnut_veneer",
+  "checkedAt": "2026-10-09T05:51:13.403Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/american_walnut_veneer",
+  "apiSha256": "b625724fef84b199b1b72873a75a7213e87dd74124a6e1d40145faf8e594f965",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/american_walnut_veneer/american_walnut_veneer_diff_1k.jpg",
+  "assetFileMd5": "748b39ed2ba9dce314104055f18837f0",
+  "assetFileSha256": "10d983003bb686db4af3d35d91197fdb6144dcd15d3dcea2ef315600f51b1af5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "American Walnut Veneer",
+    "tags": [
+      "american walnut",
+      "natural grain",
+      "hardwood",
+      "grain",
+      "natural wood grain",
+      "natural wood",
+      "gray",
+      "wood grain",
+      "veneer",
+      "walnut",
+      "wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "807d85949308d6470af0a0beff79bf47b415ae95",
+    "description": "Free American walnut veneer PBR texture with subtle gray tone, fine natural grain and smooth hardwood finish - great for furniture, cabinetry and interiors.",
+    "category_id": "11f97979-30ff-513c-97e0-916d1b9f37ac",
+    "category": "Wood/Veneer/Walnut Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "b59918b0",
+    "download_count": 1251,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/american_walnut_veneer.png?width=256&height=256&format=webp&v=b59918b0"
+  }
+}

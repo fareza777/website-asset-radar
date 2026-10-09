@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bamboo_veneer",
+  "checkedAt": "2026-10-09T05:52:07.713Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bamboo_veneer",
+  "apiSha256": "474bf889861644aa6336defc389d13a51560279bbc3f4f7ba902996b38715960",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bamboo_veneer/bamboo_veneer_diff_1k.jpg",
+  "assetFileMd5": "8642edf2af80a6158585a97264d40419",
+  "assetFileSha256": "903a46f3414355c62a6dab09d0c01b1d54cbefac09d6de1996030bc90f406115",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Bamboo Veneer",
+    "tags": [
+      "bamboo",
+      "bamboo texture",
+      "veneer",
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "natural wood",
+      "veneer wood",
+      "flat wood surface",
+      "light wood",
+      "blonde"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "46dcc3c1d11485379d50dfd8d52b219cdc7e9e07",
+    "description": "Free bamboo veneer texture: smooth blonde wood with subtle natural grain, low roughness and thin veneer detail - versatile for furniture, interiors and props.",
+    "category_id": "cb58d5a7-ca17-5cb8-ab83-de0a9a6aa5a7",
+    "category": "Wood/Veneer/Bamboo Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "e79fad9a",
+    "download_count": 756,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bamboo_veneer.png?width=256&height=256&format=webp&v=e79fad9a"
+  }
+}

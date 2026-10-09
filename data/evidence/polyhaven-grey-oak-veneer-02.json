@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grey_oak_veneer_02",
+  "checkedAt": "2026-10-09T05:57:11.914Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grey_oak_veneer_02",
+  "apiSha256": "0520b12d18010ccd25c613f99501ace206e3376ce9dee1a36ccdf4576b99fff1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_oak_veneer_02/grey_oak_veneer_02_diff_1k.jpg",
+  "assetFileMd5": "154f4ac8bcf2ced7dd2598fcc751558d",
+  "assetFileSha256": "6ed82a59ab5d8579174b3b204d65bd9fc60fe2e39c7e5af109868d2d4652003a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Grey Oak Veneer 02",
+    "tags": [
+      "raw",
+      "wood",
+      "oak",
+      "natural wood grain",
+      "natural grain",
+      "grain",
+      "gray",
+      "wood grain",
+      "veneer",
+      "veneer wood",
+      "flat wood surface",
+      "grey oak"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "ac16c40f8eaa53bcbf8d25ca9b9301519188322b",
+    "description": "Free 8K texture of grey oak veneer - smooth, flat raw oak with subtle natural grain and fine veneer lines; ideal for furniture, interiors, and cabinetry.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "raw wood",
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "90f21721",
+    "download_count": 513,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_oak_veneer_02.png?width=256&height=256&format=webp&v=90f21721"
+  }
+}

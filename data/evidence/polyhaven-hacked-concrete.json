@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/hacked_concrete",
+  "checkedAt": "2026-10-09T05:50:38.654Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/hacked_concrete",
+  "apiSha256": "8c1801999e7b058a62f7ff528ef27e2c11a813db2713bbefc456a9a2406275d3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hacked_concrete/hacked_concrete_diff_1k.jpg",
+  "assetFileMd5": "513024b94d366f3fcccdbe878bb557f6",
+  "assetFileSha256": "02636270e77f3bc373e46e709878414a87de6c0193ad7cb2a3176c67888e74b2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Hacked Concrete",
+    "categories": [
+      "wall",
+      "plaster-concrete",
+      "man made"
+    ],
+    "category": "Concrete/Cast Walls & Floors/Bare Cast",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "damaged"
+      ]
+    },
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "chipped",
+      "concrete",
+      "cement",
+      "rough  ",
+      "pitted",
+      "plasterconcrete",
+      "damaged",
+      "scratched",
+      "scuffed"
+    ],
+    "description": "Free 8K texture of hacked concrete: light beige-gray cement with rough chisel marks, scattered dark patches and pores, subtle gloss, varied depth and grain.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1500.0001192092896,
+      1500.0001192092896
+    ],
+    "files_hash": "3e63535994ef1a2ddc9dea35faba0a6a5cb4ddb8",
+    "date_published": 1786665600,
+    "staging": null,
+    "img_version": "21908c56",
+    "download_count": 851,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hacked_concrete.png?width=256&height=256&format=webp&v=21908c56"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mocha_oak_veneer",
+  "checkedAt": "2026-10-09T05:57:55.979Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mocha_oak_veneer",
+  "apiSha256": "8af2d0c0c63c67289c6e38cce8d6613045c38c0dbe94570db8aa59f3dcbfb51b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mocha_oak_veneer/mocha_oak_veneer_diff_1k.jpg",
+  "assetFileMd5": "85068223fdbe9e4078796a67ff406f32",
+  "assetFileSha256": "8f3a54d470b917b5297cda1535f9ef4339b7b4c3a929dbd6cd8bbaa4d79ba9b6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Mocha Oak Veneer",
+    "tags": [
+      "oak",
+      "veneer",
+      "veneer wood",
+      "natural grain",
+      "natural wood",
+      "natural veneer",
+      "wood",
+      "hardwood",
+      "grain",
+      "natural wood grain",
+      "wood grain"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "be1073413294be3a897a5ec88de50d461f19ccce",
+    "description": "Free 8K texture: Mocha oak veneer with subtle horizontal grain and smooth satin finish; ideal for furniture, cabinetry, interiors and trim.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "32f34b1c",
+    "download_count": 593,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mocha_oak_veneer.png?width=256&height=256&format=webp&v=32f34b1c"
+  }
+}

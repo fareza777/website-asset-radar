@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/oak_veneer_05",
+  "checkedAt": "2026-10-09T05:59:32.131Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/oak_veneer_05",
+  "apiSha256": "b58cb2224eb1343c2caf20c198bcab65afbefbc2cbcee18271724d42328aab53",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oak_veneer_05/oak_veneer_05_diff_1k.jpg",
+  "assetFileMd5": "8034557e6a278f8d4a2e1649ffe6b309",
+  "assetFileSha256": "2c19382650f986c035b350a276c97c43687d83b0ba87c9fce4e73304b7027ffc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Oak Veneer 05",
+    "tags": [
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "natural wood",
+      "natural veneer",
+      "natural",
+      "veneer",
+      "veneer wood",
+      "brown",
+      "dark",
+      "oak",
+      "raw wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "48b7f6c0240716005409a1696e1adaa855d23806",
+    "description": "Free 8K texture: natural oak veneer with fine brown grain and subtle raw matte surface, versatile for furniture, interiors, and wood panels.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "3f74c98e",
+    "download_count": 6426,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/oak_veneer_05.png?width=256&height=256&format=webp&v=3f74c98e"
+  }
+}

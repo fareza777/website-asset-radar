@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/dark_paneled_wood",
+  "checkedAt": "2026-10-09T05:47:15.437Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/dark_paneled_wood",
+  "apiSha256": "713af62bcc11e9a51a04eddfb6d71efc94c94f13add3f017f9c95ee4e31de2a2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_paneled_wood/dark_paneled_wood_diff_1k.jpg",
+  "assetFileMd5": "a98bd0eafffbbb37439609b8f5bb0c65",
+  "assetFileSha256": "9f734757dfed58ab5f38fe83faefed0fa885db8c2abe3921eb2c5744bdd21574",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Dark Paneled Wood",
+    "categories": [
+      "wood"
+    ],
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "clean"
+      ]
+    },
+    "tags": [
+      "rough",
+      "wood",
+      "painted wood",
+      "lacquered",
+      "paneling",
+      "wood panel ",
+      "inlaid",
+      "door"
+    ],
+    "description": "Free 8K texture of dark paneled wood: deep brown with red undertones, recessed square panels with crisp bevels, fine grain and subtle sheen.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1400.0000953674316,
+      1400.0000953674316
+    ],
+    "files_hash": "d3c970a2009adb3906630cd4c71cf9b70e6758f8",
+    "date_published": 1788739200,
+    "staging": null,
+    "img_version": "4956ac3a",
+    "download_count": 2296,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dark_paneled_wood.png?width=256&height=256&format=webp&v=4956ac3a"
+  }
+}

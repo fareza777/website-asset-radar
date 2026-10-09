@@ -4,6 +4,17 @@ export const userAgent =
   "AssetRadar/1.0 (+https://github.com/fareza777/website-asset-radar)";
 const robotsCache = new Map<string, string>();
 const lastRequests = new Map<string, number>();
+let downloadAllowance = Infinity;
+let downloadedBytes = 0;
+
+/** Shared across in-process import batches; streamed responses stay bounded too. */
+export function setDownloadBudget(maxBytes: number) {
+  if (!Number.isSafeInteger(maxBytes) || maxBytes < 1)
+    throw new Error("Download budget must be a positive byte count");
+  downloadAllowance = maxBytes;
+  downloadedBytes = 0;
+}
+export function getDownloadedBytes() { return downloadedBytes; }
 
 export function isPermittedUrl(value: string): boolean {
   let url: URL;
@@ -34,6 +45,14 @@ export function isPermittedUrl(value: string): boolean {
       url.pathname.startsWith("/file/ph-assets/Textures/") ||
       url.pathname === "/robots.txt"
     );
+  if (url.hostname === "ambientcg.com")
+    return url.pathname === "/api/v2/full_json" ||
+      /^\/a\/[A-Za-z0-9]+$/.test(url.pathname) ||
+      (url.pathname === "/view" && /^[A-Za-z0-9]+$/.test(url.searchParams.get("id") ?? ""));
+  if (url.hostname === "docs.ambientcg.com")
+    return url.pathname === "/license/";
+  if (url.hostname === "acg-media.struffelproductions.com")
+    return /^\/file\/ambientCG-Web\/media\/thumbnail\/(512|1024)-(WEBP|PNG)\/[A-Za-z0-9]+\.(webp|png)$/.test(url.pathname);
   return false;
 }
 
@@ -49,6 +68,7 @@ export function robotsAllows(text: string, url: string): boolean {
 export async function readLimitedResponse(
   response: Response,
   maxBytes: number,
+  onBytes?: (size: number) => void,
 ): Promise<Response> {
   if (Number(response.headers.get("content-length")) > maxBytes) {
     await response.body?.cancel();
@@ -61,6 +81,7 @@ export async function readLimitedResponse(
   for (;;) {
     const { done, value } = await reader.read();
     if (done) break;
+    onBytes?.(value.byteLength);
     size += value.byteLength;
     if (size > maxBytes) {
       await reader.cancel();
@@ -127,6 +148,8 @@ export async function fetchPermitted(
     throw new Error(
       "Poly Haven asset pages may be link-checked with HEAD only; use the API for metadata",
     );
+  if (url.hostname === "ambientcg.com" && !url.pathname.startsWith("/api/") && options.method !== "HEAD")
+    throw new Error("ambientCG discovery uses its documented API, not website scraping");
   for (let attempt = 0; attempt < 4; attempt++) {
     await throttle(url.hostname);
     const response = await fetch(url, {
@@ -150,10 +173,15 @@ export async function fetchPermitted(
       continue;
     }
     if (!response.ok) throw new Error(`${response.status}: ${url}`);
-    const maxBytes = options.maxBytes ?? 8_000_000;
-    return options.method === "HEAD"
-      ? response
-      : readLimitedResponse(response, maxBytes);
+    if (options.method === "HEAD") return response;
+    const isDownload = url.hostname === "dl.polyhaven.org" ||
+      url.hostname === "acg-media.struffelproductions.com" ||
+      /\.zip$/i.test(url.pathname);
+    const maxBytes = Math.min(options.maxBytes ?? 8_000_000, isDownload ? downloadAllowance - downloadedBytes : Infinity);
+    if (maxBytes < 1) { await response.body?.cancel(); throw new Error("Download budget exhausted"); }
+    const limited = await readLimitedResponse(response, maxBytes,
+      isDownload ? (size) => { downloadedBytes += size; } : undefined);
+    return limited;
   }
   throw new Error("Too many source redirects");
 }

@@ -9,7 +9,9 @@
     "source": "Unity Asset Store",
     "discoveryUrl": "https://assetstore.unity.com/sale",
     "priority": 2,
-    "verification": "Check the product, publisher, live price, reviews, eligibility and applicable Unity Asset Store license. Do not infer free status from a campaign banner."
+    "automatedAccess": "permission_required",
+    "permissionEvidenceUrl": "https://unity.com/legal/as-terms",
+    "verification": "Section 3.3 prohibits automated access without a separate Unity agreement. Do not scrape the free catalog or Autumn Sale, use private APIs, or claim they were checked. Integrate a separately authorized official feed if the owner obtains one; then verify each product, currency, license and sale price."
   },
   {
     "source": "itch.io",

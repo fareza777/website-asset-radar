@@ -44,7 +44,7 @@ export const assetSchema = z
     categories: z.array(z.enum(categories)).min(1),
     dimension: z.enum(["2D", "3D", "Audio"]),
     assetType: z.enum(assetTypes),
-    source: z.enum(["Kenney", "Poly Haven"]),
+    source: z.enum(["Kenney", "Poly Haven", "ambientCG"]),
     sourceUrl: https,
     license: z.enum(["CC0", "CC-BY-4.0"]),
     licenseUrl: https,
@@ -103,6 +103,10 @@ export function validateCatalog(
       (sourceHost !== "polyhaven.com" || evidenceHost !== "api.polyhaven.com")
     )
       throw new Error(`Untrusted Poly Haven source: ${asset.id}`);
+    if (asset.source === "ambientCG" &&
+      (sourceHost !== "ambientcg.com" || evidenceHost !== "ambientcg.com" ||
+        new URL(asset.verificationUrl).pathname !== "/api/v2/full_json"))
+      throw new Error(`Untrusted ambientCG source: ${asset.id}`);
     if (
       asset.license === "CC0" &&
       canonicalUrl(asset.licenseUrl) !==

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/damp_beach_sand_02",
+  "checkedAt": "2026-10-09T05:47:43.192Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/damp_beach_sand_02",
+  "apiSha256": "bb2c518f8b793c00f0b46a302fff5fe368bf225e36e555c54b3b61e86cb81663",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/damp_beach_sand_02/damp_beach_sand_02_diff_1k.jpg",
+  "assetFileMd5": "b00c2c1d1c4bc9169ba0ec6bf6d8e2dd",
+  "assetFileSha256": "805e60b02106f73baeb0af15d593afe83a2e793d7c705d4c21df9ff68d980a5a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Damp Beach Sand 02",
+    "categories": [
+      "outdoor",
+      "sand"
+    ],
+    "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+    "tags": [
+      "sand",
+      "sandy",
+      "beach",
+      "sandy beach",
+      "damp",
+      "tidal",
+      "striated",
+      "pitted",
+      "impressions",
+      "imprinted",
+      "compact",
+      "shore"
+    ],
+    "description": "Free 8K damp beach sand texture with compacted, slightly glossy wet grit, subtle striations, small pits and dark speckling in a muted brown tone.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1870.0000047683716,
+      1870.0000047683716
+    ],
+    "files_hash": "16220c23e02c6787021d5dfa31399872845c70f4",
+    "date_published": 1788220800,
+    "staging": null,
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "1531f7ef",
+    "download_count": 406,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/damp_beach_sand_02.png?width=256&height=256&format=webp&v=1531f7ef"
+  }
+}

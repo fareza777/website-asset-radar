@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/flamed_black_veneer",
+  "checkedAt": "2026-10-09T05:56:26.699Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/flamed_black_veneer",
+  "apiSha256": "2cb7e14f0ac349247a7afbfd9df893d493ca8835dd5b49ebfdb21f04a3950639",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flamed_black_veneer/flamed_black_veneer_diff_1k.jpg",
+  "assetFileMd5": "87d1654e27842ac8a7c2f6659f842259",
+  "assetFileSha256": "b8e1c258e4a011b67999034e49061efd088b8f307c8f2167d760acb8625b768d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Flamed Black Veneer",
+    "tags": [
+      "smooth",
+      "grain",
+      "wood grain",
+      "raw",
+      "raw wood",
+      "veneer",
+      "veneer wood",
+      "timber",
+      "natural wood grain",
+      "natural grain",
+      "wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "9d0c1bc0933f519848dbe60feb1de40e54622e2f",
+    "description": "Free flamed black veneer PBR texture: smooth, low-sheen raw wood with subtle natural grain and charcoal tones, perfect for furniture, interiors, and timber props.",
+    "category_id": "3a571502-24b8-50a1-88b0-436a835089a4",
+    "category": "Wood/Veneer/Dark & Exotic Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "6867da09",
+    "download_count": 2339,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flamed_black_veneer.png?width=256&height=256&format=webp&v=6867da09"
+  }
+}

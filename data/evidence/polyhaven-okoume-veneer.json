@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/okoume_veneer",
+  "checkedAt": "2026-10-09T06:00:04.796Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/okoume_veneer",
+  "apiSha256": "8825278e31148a8afd2ac2d3087a65ef33d4cf670e4dd1edf1e9d757a811e8c7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/okoume_veneer/okoume_veneer_diff_1k.jpg",
+  "assetFileMd5": "1d861275b74c16a619e12a9f1ead82d7",
+  "assetFileSha256": "5241ff72a790c033bc1acfb6d7a9ae5a96e59c03cc2b4ca2270a2ad0308a735e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Okoume Veneer",
+    "tags": [
+      "natural grain",
+      "natural wood grain",
+      "grain",
+      "wood grain",
+      "light",
+      "blonde",
+      "veneer",
+      "smooth surface",
+      "raw",
+      "okoume"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "73a05ec52e54e949d1445f5d54de050ca09ecfeb",
+    "description": "Free 8K texture of okoume veneer - smooth, light blonde wood grain with subtle raw veneer detail; great for furniture, interiors, cabinetry and props.",
+    "category_id": "696337cd-d4c7-5cc4-98f9-cddf9a6c4ee5",
+    "category": "Wood/Veneer/Light Hardwood Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "16bd9236",
+    "download_count": 503,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/okoume_veneer.png?width=256&height=256&format=webp&v=16bd9236"
+  }
+}

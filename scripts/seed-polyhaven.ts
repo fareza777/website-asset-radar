@@ -8,6 +8,8 @@ import { fetchPermitted } from "./source-policy";
 import { readPolyHavenLicense } from "./verification";
 import policy from "../data/automation-policy.json";
 import { z } from "zod";
+import { pathToFileURL } from "node:url";
+import { resolve } from "node:path";
 
 const sha = (data: string | Uint8Array) =>
   createHash("sha256").update(data).digest("hex");
@@ -26,7 +28,7 @@ type FileMap = Record<
   string,
   Record<string, Record<string, { url: string; size: number; md5: string }>>
 >;
-async function main() {
+export async function seedPolyHaven(suppliedImports?: unknown) {
   const assets = JSON.parse(
     await readFile("data/assets.json", "utf8"),
   ) as Asset[];
@@ -45,18 +47,19 @@ async function main() {
     )
     .max(policy.importBatchSize)
     .parse(
-      input
+      suppliedImports ?? (input
         ? JSON.parse(await readFile(input, "utf8"))
         : Object.entries(summaries).map(([slug, summary]) => ({
             slug,
             summary,
-          })),
+          }))),
     );
   const licenseHtml = await (
     await fetchPermitted("https://polyhaven.com/license")
   ).text();
   if (!readPolyHavenLicense(licenseHtml))
     throw new Error("Asset license unavailable");
+  const added: string[] = [];
   for (const { slug, summary } of imports) {
     if (
       assets.some(
@@ -175,12 +178,14 @@ async function main() {
     console.log(
       `Verified ${item.title} (${item.author}) via permitted API; preview from CC0 diffuse texture.`,
     );
+    validateCatalog(assets);
+    await writeFile("data/assets.json", JSON.stringify(assets, null, 2) + "\n");
+    added.push(item.id);
   }
   validateCatalog(assets);
   await writeFile("data/assets.json", JSON.stringify(assets, null, 2) + "\n");
   console.log(`${assets.length} verified assets total.`);
+  return added;
 }
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (process.argv[1] && pathToFileURL(resolve(process.argv[1])).href === import.meta.url)
+  seedPolyHaven().catch((error) => { console.error(error); process.exitCode = 1; });

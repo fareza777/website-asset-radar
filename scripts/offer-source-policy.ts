@@ -22,9 +22,7 @@ export function isPermittedOfferUrl(value: string): boolean {
       ["/limited-time-free", "/eula"].includes(path)
     );
   if (host === "assetstore.unity.com")
-    return (
-      /^\/packages\/[^.]+$/.test(path) || ["/sale", "/sale/"].includes(path)
-    );
+    return false; // Unity Asset Store Terms §3.3 requires a separate agreement for automation.
   if (host === "unity.com") return path.startsWith("/legal/");
   if (/^[a-z0-9][a-z0-9-]*\.itch\.io$/.test(host))
     return (

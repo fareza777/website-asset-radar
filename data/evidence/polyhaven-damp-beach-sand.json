@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/damp_beach_sand",
+  "checkedAt": "2026-10-09T05:47:58.656Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/damp_beach_sand",
+  "apiSha256": "3d256c129d60bf605e00574067b6b6b890a15c894376891cf104cec0bff229e7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/damp_beach_sand/damp_beach_sand_diff_1k.jpg",
+  "assetFileMd5": "7914af7bb383c00889e0838edd85f1a0",
+  "assetFileSha256": "99420d879aa16e6f262a83048bca7cd022e2b41533916d21cb5ccb97b1d3ff0c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Damp Beach Sand",
+    "categories": [
+      "outdoor",
+      "natural"
+    ],
+    "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "tags": [
+      "wet",
+      "beach",
+      "sandy",
+      "sandy beach",
+      "compact soil",
+      "beach sediment",
+      "gritty",
+      "pitted",
+      "imprinted"
+    ],
+    "description": "Free 8K texture of damp beach sand: compacted fine grains with subtle ripples, tiny pits and dark speckling, soft sheen and gentle color variation.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "17f20cfa2e45b6ab840f615fd6bc9de75c125163",
+    "date_published": 1787875200,
+    "staging": null,
+    "img_version": "0cb6b880",
+    "download_count": 665,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/damp_beach_sand.png?width=256&height=256&format=webp&v=0cb6b880"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gowl-pixelwood-valley",
+  "sourceUrl": "https://gowldev.itch.io/pixelwood-valley",
+  "checkedAt": "2026-10-09T06:05:23.587Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 9,
+    "salePrice": 4.23,
+    "currency": "USD",
+    "licenseTier": "Premium",
+    "note": "Premium version, USD minimum purchase price before applicable tax. Free noncommercial demo is a separate tier."
+  },
+  "license": {
+    "name": "Creator commercial license",
+    "url": "https://gowldev.itch.io/pixelwood-valley",
+    "commercialUse": true,
+    "note": "Premium version permits personal/commercial projects and modification. No redistribution or resale as assets. Credit is appreciated. The free version is noncommercial and is excluded from this offer."
+  },
+  "expiresAt": "2026-10-13T16:03:00.000Z",
+  "expiryEvidenceUrl": "https://gowldev.itch.io/pixelwood-valley",
+  "expiryNote": "The exact first-party Product Offer.priceValidUntil has an explicit UTC timezone and matches the currently displayed sale price/currency.",
+  "rating": 4.9,
+  "reviewCount": 43,
+  "productNote": "Exact product identity, displayed purchase prices, rating count, publisher-listed contents and applicable commercial tier verified. Only the ZIP download is explicitly listed. Content image formats and engine packages are unverified; pixel-art screenshots alone do not establish engine compatibility. Paid files were not downloaded or tested."
+}

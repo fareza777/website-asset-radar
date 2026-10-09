@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/eucalyptus_bark",
+  "checkedAt": "2026-10-09T05:45:47.849Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/eucalyptus_bark",
+  "apiSha256": "e2289c53a3860df15a6e88e620c359ede3ae02c25075518e99ccf6b4f627ce27",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/eucalyptus_bark/eucalyptus_bark_diff_1k.jpg",
+  "assetFileMd5": "da262a341af2d32a93a24366feb6e884",
+  "assetFileSha256": "f7edbe3c523b59c027c41fd354e56bcacd52161aaeae09997146c459ff154964",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Eucalyptus Bark",
+    "categories": [
+      "bark",
+      "natural",
+      "outdoor"
+    ],
+    "category": "Wood/Bark/Smooth & Peeling Bark",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered",
+        "mossy"
+      ]
+    },
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "moss",
+      "lichen",
+      "bark",
+      "tree",
+      "tree bark",
+      "eucalyptus",
+      "trunk",
+      "mossy",
+      "flaky"
+    ],
+    "description": "Free 8K eucalyptus bark texture with rough, peeling strips, deep vertical ridges and mossy green patches. Warm brown tones, matte, high-detail normals.",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "category_id": "a965cbdc-272f-5c31-8e9d-fe415bf467fd",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1809.999942779541,
+      1809.999942779541
+    ],
+    "files_hash": "3d7af6da8faad9d83da41c07cf21313032e4c39c",
+    "date_published": 1789516800,
+    "staging": null,
+    "img_version": "1379514f",
+    "download_count": 2408,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/eucalyptus_bark.png?width=256&height=256&format=webp&v=1379514f"
+  }
+}

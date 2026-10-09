@@ -1,12 +1,12 @@
 # Catalog provenance
 
-The launch catalog was checked on **8 October 2026** with 21 Kenney packs and three Poly Haven texture materials. On **9 October 2026 (Asia/Jakarta)**, 58 more Kenney packs passed the same source-page and included-archive license checks. The free catalog now has 79 Kenney packs and three Poly Haven materials, with eight individual CC0 audio samples. Full packs remain at their original publishers.
+The launch catalog was checked on **8 October 2026** with 21 Kenney packs and three Poly Haven materials. On **9 October 2026 (Asia/Jakarta)**, more Kenney packs passed source-page and included-archive license checks, followed by additional permitted API imports. Current counts come from `npm run catalog:validate`; the supported free sources are Kenney, Poly Haven textures and ambientCG materials. Full packs remain at their original publishers.
 
 ## Kenney
 
 Each record was checked against the pack's own source-page License field, the first-party free ZIP download, and its included `License.txt`. The evidence file stores the source URL, UTC timestamp, HTTP status, page and archive SHA-256, included license text, media input filename, media input SHA-256, and observed formats/tags.
 
-Image previews come from `Sample.png`, `Preview.png`, or an actual controller graphic **inside the CC0 archive**. Preview footers containing creator branding were cropped where applicable; previews were optimized to 800 × 450 WebP. The hero uses the licensed Nature Kit sample. Audio previews contain one original OGG from each pack, and the gallery waveforms were measured from decoded samples. They do not represent the full audio collection.
+Image previews come from `Sample.png`, `Preview.png`, or an actual licensed image **inside the CC0 archive**. If there is no pack overview, provenance identifies the actual representative asset image and states that it is not a whole-pack preview. Creator branding footers are cropped where applicable; previews are optimized to 800 × 450 WebP. The hero uses the licensed Nature Kit sample. Audio previews contain one original OGG from each pack; waveforms are measured from decoded samples. They do not represent the whole collection.
 
 Kenney permits personal and commercial use of its CC0 game assets without mandatory credit; its logo is separate. See [Kenney's source guidance](https://kenney.nl/support) and the included license in each evidence record.
 
@@ -15,6 +15,12 @@ Kenney permits personal and commercial use of its CC0 game assets without mandat
 Metadata and file links were obtained through the permitted public API with an identifying User-Agent. Each record has the asset's API response hash, authors, asset type, current global asset-license evidence hash, a downloaded diffuse texture's MD5 checked against the API, and its SHA-256. Source-page reachability and actual texture-file links were also checked.
 
 Previews are crops of actual **CC0 diffuse texture maps** from the download endpoint. Website example renders, thumbnails, logos, and user portraits were not copied. AssetRadar's previews show the material's color map rather than claiming to be a complete PBR render. See [Poly Haven's asset and website permissions](https://polyhaven.com/license) and its [machine access guidance](https://polyhaven.com/llms.txt).
+
+## ambientCG
+
+The documented material API supplies each asset's ID, public product URL, explicit download-format attributes and exact preview URL. Current source/license reachability is checked; evidence stores the API response hash and metadata, license-page hash, UTC check time and actual preview-file hash. The [official license](https://docs.ambientcg.com/license/) explicitly covers downloadable assets **and material preview renders** under CC0, so these API-listed renders may be optimized and hosted locally. Unrelated images and logos are excluded.
+
+Content formats are publisher-listed through structured API attributes. Full archives and engine performance are not inspected; the record states this limitation and does not claim native engine integration. Existing-record checks stop on changed identity, formats, license or preview provenance.
 
 ## What verification means
 

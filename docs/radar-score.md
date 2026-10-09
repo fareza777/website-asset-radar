@@ -34,7 +34,7 @@ checked formats (4), hashed source evidence (4), licensed preview proof (4),
 known scope (1), useful editable/interchange formats (up to 3), and a playable
 original OGG sample (2). SVG earns 3 format points; 3D FBX/OBJ/GLB earns up to 3;
 EXR earns 2. More files beyond a known scope never improve the score. Verified
-Kenney/Poly Haven evidence earns 12/15 source trust. Multiply the completeness
+Kenney/Poly Haven/ambientCG evidence earns 12/15 source trust. Multiply the completeness
 subtotal by 1.5 and round. License points follow the
 same commercial-license rubric. Provisional scores do not mean poor quality.
 

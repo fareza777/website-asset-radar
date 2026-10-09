@@ -1,223 +1,117 @@
-# Panduan update harian Game Asset Radar di Cursor
+# Update harian Game Asset Radar
 
-Pemilik mengizinkan update katalog **langsung commit dan push ke `main` setelah
-semua pemeriksaan lulus**, tanpa PR atau menunggu review. Vercel otomatis deploy
-dari push tersebut. Aturan ini menggantikan alur review manual sebelumnya.
+## Instruksi singkat untuk Cursor
 
-**Maksimum yang disiapkan: 50 aset baru terverifikasi per hari**, gabungan free,
-limited free, dan deals. Ini batas kerja proyek yang dapat ditinjau manusia,
-bukan batas resmi Cursor atau jaminan ada 50 aset baru setiap hari. Setiap aset
-membentuk satu halaman SEO `/asset/<slug>/` secara otomatis. Tidak perlu menulis
-artikel generik atau membuat blog agar jumlah halaman bertambah.
+> Update Game Asset Radar setiap hari. Target minimal 50 aset baru terverifikasi,
+> gabungan gratis permanen, Free Today dan deals berkualitas. Cari rilis baru
+> sekaligus isi katalog dari aset lama yang belum masuk. Jika satu kandidat
+> gagal, cari pengganti; jangan berhenti setelah satu batch. Cek sumber, lisensi,
+> harga, diskon, preview, link dan duplikat. Arsipkan promo yang selesai.
+> Setelah semua pemeriksaan dan build lulus, langsung commit dan push ke main
+> tanpa PR atau review saya. Jangan mengarang data untuk memenuhi target.
 
-## Batas kerja
+Prompt lengkap: [daily-assets.md](../.cursor/automations/daily-assets.md).
+Jadwal tersimpan di akun Cursor perlu memakai prompt repo terbaru tersebut.
+File repo ini tidak mendaftarkan atau mengaktifkan jadwal akun secara otomatis.
 
-Angka utama disimpan di [`data/automation-policy.json`](../data/automation-policy.json).
-Prompt harian wajib membacanya; script discovery dan link checker juga memakai
-batas kandidat dan recheck dari file itu.
+## Target dan batas
 
-| Pekerjaan                                            |              Maksimum per hari/run |
-| ---------------------------------------------------- | ---------------------------------: |
-| Aset baru yang lolos verifikasi, semua tipe digabung |           50 per hari Asia/Jakarta |
-| Kandidat baru yang diperiksa, semua sumber digabung  |                                150 |
-| Status publisher yang ditinjau                     |               10 (cek atau skip) |
-| Promo lama yang diverifikasi ulang                   |                                 50 |
-| Aset free lama yang dicek ulang                      |                                 20 |
-| Descriptor per batch importer                        |                                  5 |
-| Halaman index Kenney yang diikuti discovery          |                                 20 |
-| Waktu kerja keseluruhan, termasuk validasi dan push  |                           60 menit |
-| Waktu terakhir untuk validasi dan publikasi          |                           10 menit |
-| Download archive baru secara kumulatif               |                             500 MB |
-| Publikasi                                           | 1 commit terverifikasi/run ke main |
+Angka berlaku dari [automation-policy.json](../data/automation-policy.json).
 
-Kualitas dan pengecekan promo lama didahulukan. Batas waktu, bandwidth, izin
-sumber, jumlah temuan, dan penggunaan cloud agent bisa menurunkan hasil harian.
-Nol penambahan boleh terjadi. Rerun manual harus menghitung penambahan yang sudah
-disiapkan/dipublikasikan hari itu; jangan membuat tambahan jatah 50. Batas waktu dan
-download adalah instruksi untuk agent, bukan timer/billing limiter pada Cursor.
-Importer tetap membatasi ukuran setiap response dan lima descriptor per batch.
+| Pekerjaan                                      |           Harian |
+| ---------------------------------------------- | ---------------: |
+| Target aset baru, semua tipe digabung          |   **Minimal 50** |
+| Batas penambahan reguler                       |              100 |
+| Pemeriksaan kandidat produk                    |              150 |
+| Publisher dipantau                             |               10 |
+| Recheck promo / free lama                      | Maksimal 50 / 20 |
+| Waktu keseluruhan / cadangan validasi dan push |    90 / 10 menit |
+| Download baru                                  |           500 MB |
 
-## Setup satu kali
+Recheck harga, tanggal baru, URL kandidat dan menghidupkan promo lama bukan aset
+baru. Hitung penambahan per hari Asia/Jakarta, termasuk yang sudah ada ketika
+agent mulai. Rerun tidak mereset jatah. Lima descriptor hanya ukuran satu batch;
+lanjutkan batch dan ganti kandidat gagal sampai target 50. Bila sumber/lisensi
+atau anggaran benar-benar menghalangi target, laporkan shortfall dan penyebabnya.
+Jangan mengklaim 50 ketika hanya 9 yang masuk.
 
-1. Buka [Cursor Automations](https://cursor.com/automations), buat automation,
-   pilih **Single repository**: `fareza777/website-asset-radar`, branch `main`.
-2. Nama: **Game Asset Radar — daily verified discovery**. Pilih scheduled trigger
-   setiap hari **08:00 Asia/Jakarta**. Jika UI menggunakan UTC, gunakan **01:00 UTC**
-   (`0 1 * * *`). Pastikan next-run yang ditampilkan sesuai.
-3. Tempel **seluruh isi** [prompt siap pakai](../.cursor/automations/daily-assets.md).
-   Gunakan Node.js 24 dan install command `npm ci`. Pilih model sesuai anggaran
-   akun; tidak perlu paket hosting/database baru.
-4. Gunakan akses Git yang tersedia untuk commit dan push langsung ke `main`
-   sesudah validasi. Jangan membuat PR atau menggunakan helper PR lama. Jika
-   akses/proteksi branch menolak push, laporkan; jangan mengubah izin/proteksi.
-5. Save dan Activate di akun Cursor, lalu jalankan satu kali untuk memeriksa hasil.
-   Setiap push yang berhasil ke `main` memicu deploy melalui integrasi Vercel existing.
+## Langkah harian
 
-File prompt dalam repo **belum mengaktifkan jadwal di akun Cursor**. Scheduled
-automations memakai cloud agents; penggunaan agent mengikuti biaya/limit akun.
-Atur spending limit akun jika tersedia dan periksa usage setelah run percobaan.
-Jadwal bisa mulai terlambat, sehingga jangan menganggapnya sebagai pengecekan
-harga real-time. Setup ini mengikuti [dokumentasi resmi Cursor](https://cursor.com/docs/cloud-agent/automations).
+1. Ambil main terbaru, install npm ci, arsipkan expired/stale dengan
+   npm run offers:update, lalu refresh snapshot kurs npm run prices:refresh.
+2. Pantau sepuluh publisher dengan workflow existing. Cari promo BARU dari sumber
+   yang mengizinkan akses, dengan npm run offers:discover -- --limit=30 --inspect.
+   Baca .cache/promotion-discovery-report.json. Ini hanya kandidat/observasi harga,
+   belum izin publish. Hitung inspeksinya dalam anggaran 150. Verifikasi produk, harga/currency/tier, lisensi, format
+   dan expiry absolut. Terapkan kandidat terverifikasi lewat updater existing.
+3. Isi kekurangan target harian dengan:
 
-## Urutan kerja setiap hari
+   ```sh
+   npm run catalog:grow -- --limit=50 --write
+   ```
 
-1. Mulai dari main terbaru di checkout automation. Tolak
-   perubahan di luar file katalog, bukti, dan media berizin. Install locked dependencies.
-2. Arsipkan promo kedaluwarsa/stale melalui `npm run offers:update`. Jangan
-   memperbarui tanggal verifikasi hanya karena menjalankan script.
-   Jalankan `npm run prices:refresh` sekali untuk snapshot kurs ECB. Jika gagal,
-   jangan mengganti kurs dengan tebakan atau memajukan `lastChecked` promo.
-3. Verifikasi promo tertua terlebih dahulu: produk persis sama, harga asli dan
-   promo, mata uang, tier, izin komersial, rating jika tersedia, dan expiry yang
-   benar-benar diketahui. HEAD hanya memeriksa link, bukan harga/lisensi.
-4. Jalankan `npm run publishers:watch -- --limit=50 --write` untuk 10 publisher.
-   Baca laporan index berhasil/berubah, blocked, dan permission review. Tanggal
-   ini hanya tanggal cek index, bukan verifikasi harga atau lisensi aset.
-   Temukan kandidat dari sumber yang diizinkan; pilih paling berguna dan hindari
-   duplicate URL/affiliate/versi. Utamakan free assets, limited free premium, lalu
-   deals yang memenuhi diskon 30%+, Radar Score 60+, Deal Score 70+, dan ambang kualitas.
-   Discovery free memakai `--limit=100` atau sisa jatah yang lebih kecil; total
-   kandidat yang benar-benar diperiksa dari semua sumber tetap maksimal 150.
-5. Verifikasi lisensi dan isi setiap kandidat. Import free assets dalam batch
-   **maksimal 5**, sampai sisa jatah harian, waktu, atau download habis. Maksimal
-   10 batch penuh hanya jika tidak ada promo baru yang memakai jatah 50 tersebut.
-6. Simpan evidence aktual. Untuk promo, masukkan kandidat ke queue lalu jalankan
-   updater; updater menghitung discount/Radar Score/Deal Score dan memakai waktu dari evidence.
-7. Recheck sampai 20 free assets lama jika masih dalam waktu. Jalankan semua
-   validasi. Hentikan import baru ketika sisa waktu 10 menit.
-8. Stage hanya file katalog/bukti/media berizin yang diperbolehkan, periksa diff,
-   lalu commit dan push langsung ke `main`. Fetch main lagi sebelum push dan
-   pastikan fast-forward; jika main maju, rebase commit katalog milik run ini
-   ke main terbaru lalu jalankan seluruh pemeriksaan lagi. Jangan force-push
-   atau memasukkan perubahan lain. Konflik/validasi gagal berarti publikasi dihentikan.
-   Vercel melakukan deploy otomatis. Tanpa perubahan bermakna, tidak perlu commit/push.
+   Command menghitung free/promo/archive yang sudah ditambahkan hari ini, lalu
+   melanjutkan antrean Kenney, Poly Haven dan ambientCG. Sumber dibagi bergantian;
+   duplikat/kandidat tanpa bukti ditolak. Setiap impor berhasil disimpan. Gunakan
+   --candidates=<sisa> dan --minutes=<sisa> untuk mengurangi anggaran yang sudah
+   dipakai langkah sebelumnya. Tanpa --write hanya discovery.
 
-## Perintah yang dipakai
+4. Baca .cache/growth-report.json: target, tambahan nyata, penolakan, sumber
+   terblokir, bytes download dan shortfall. Recheck aset lama jika waktu cukup.
+5. Jalankan semua pemeriksaan di bawah. Stage hanya katalog/bukti/media berizin,
+   commit dan push main. Jika main maju, rebase hanya commit katalog run ini dan
+   ulangi pemeriksaan. Jangan force-push atau mengubah izin/proteksi branch.
+   Vercel deploy otomatis; sebut berhasil hanya setelah commit itu live.
 
 ```sh
-npm ci
-npm run offers:update
-npm run prices:refresh
-npm run publishers:watch -- --limit=50 --write
-npm run catalog:discover -- --limit=100
-npm run offers:check-links -- --limit=50
-
-# Setelah descriptor ditinjau; tiap file berisi paling banyak 5 aset.
-npx tsx scripts/seed-catalog.ts --input=.cache/kenney-imports.json
-npx tsx scripts/seed-polyhaven.ts --input=.cache/polyhaven-imports.json
-
-# Setelah evidence promo dan data/offer-candidates.json diperbarui.
-npm run offers:update
-npm run catalog:check -- --limit=20 --write
-
 npm run offers:validate
 npm run catalog:validate
 npm run lint
 npm run typecheck
 npm test
 npm run build
-
-# Setelah semua pemeriksaan lulus, stage hanya file yang diizinkan dan commit.
-# Ikuti bagian publikasi langsung dalam docs/automation.md.
-git fetch origin main
-git merge-base --is-ancestor origin/main HEAD
-git push origin HEAD:main
 ```
 
-Discovery hanya menulis `.cache/discovery-report.json`; ia tidak menerbitkan
-hasil kandidat. Pemantau menulis `.cache/publisher-watch-report.json` dan, dengan
-`--write`, jurnal `data/publisher-monitor.json`. Kandidat dibagi antar publisher
-agar satu katalog besar tidak memakai seluruh slot. Laporan index tidak
-mengubah `lastChecked` aset, harga, lisensi, rating, atau compatibility. Jangan
-menjalankan semua batch setelah mencapai jatah 50 gabungan.
-Kegagalan robots, 403, CAPTCHA, rate limit, harga ambigu, atau lisensi tidak jelas
-berarti sumber/candidate dilewati dan dilaporkan. Jangan bypass proteksi atau
-menambah domain ke allowlist dari dalam automation.
+## Pengisian awal
 
-## Sumber, preview, dan konten
-
-### Sepuluh publisher yang dipantau
-
-| Publisher | Index resmi | Metode saat ini |
-| --- | --- | --- |
-| Synty | https://syntystore.com/ | Permission review; tidak di-fetch otomatis |
-| Kenney | https://kenney.nl/assets | Public index + importer CC0 yang sudah ada |
-| Quaternius | https://quaternius.com/ | Public index; lisensi QAL/CC0 diperiksa per produk |
-| NatureManufacture | https://naturemanufacture.com/ | Public index; cek produk/edisi engine yang sama |
-| polyperfect | https://www.polyperfect.com/products | Public index; kandidat, bukan listing terverifikasi |
-| KayKit | https://kaylousberg.com/game-assets | Public index; pisahkan tier gratis/upgrade berbayar |
-| Infinity PBR | https://infinitypbr.com/ | Public index; cek kredit publisher/edisi per produk |
-| CraftPix | https://craftpix.net/freebies/ | Permission review; tidak di-fetch otomatis |
-| Ansimuz | https://ansimuz.itch.io/ | Public index; produk/tier diperiksa terpisah |
-| Pixel Frog | https://pixelfrog-assets.itch.io/ | Public index; cek lisensi dan format produk |
-
-Konfigurasi yang direview ada di `data/publishers.json`. Public index tetap harus
-lolos robots, pacing, ukuran/timeouts, dan akses sumber; hentikan jika proteksi
-muncul. Status permission review tidak boleh diubah oleh agent harian. Index
-yang berubah hanya sinyal untuk memeriksa produk, bukan bukti perubahan harga.
-Jangan klaim semua 10 berhasil jika ada skip/blocked. Profil publisher yang
-belum memiliki listing terverifikasi tetap boleh kosong.
-
-Importer free saat ini mendukung **Kenney CC0** dan **Poly Haven texture API**.
-Marketplace prioritas promo adalah **Fab, Unity Asset Store, itch.io, dan GameDev
-Market**, hanya jika akses/metode pengumpulan diizinkan. Prioritas bukan izin
-scrape otomatis; sumber yang tidak bisa diverifikasi tidak diterbitkan. Sumber
-lain memerlukan implementasi dan review tersendiri.
-
-Pilih screenshot yang menjelaskan asset dari gallery publisher. `publisherPreview`
-menyimpan URL CDN yang benar-benar terlihat, source produk, kredit, alt, waktu
-cek gambar, dan catatan provenance. Pakai versi kecil yang sudah disediakan
-publisher jika teramati. Gambar tetap di CDN publisher; jangan download/rehost
-marketing art atau file premium. `preview` lokal memerlukan izin penggunaan gambar
-yang tercatat. Untuk audio tanpa screenshot yang berguna, pakai animasi original
-yang sudah tersedia. Pengecekan screenshot **tidak** memperbarui `lastChecked` harga.
-
-Summary setiap aset harus singkat, original, faktual, mudah dibaca, dan menyebut
-batasan isi yang penting. Jangan mengarang rating, review, harga asli, expiry,
-jumlah file, engine integration, atau tanggal rilis. Countdown hanya untuk expiry
-absolut dengan timezone yang diketahui. Harga/claim promo disembunyikan otomatis
-jika expired atau sudah 48 jam tanpa evidence baru, sekalipun deploy belum berubah.
-
-## Format laporan update harian
-
-### Skor dan compatibility yang wajib diperiksa
-
-Radar Score v3 menilai kualitas (40), kelengkapan/usability (30), lisensi (15),
-dan kepercayaan creator/source (15). Harga/diskon tidak menaikkan Radar Score.
-Deal Score terpisah: kualitas (35), value (35), diskon aktual (20), lisensi (10).
-Jangan memberi nilai 5 otomatis atau menaikkan grade agar lolos kurasi. Free
-tanpa rating tetap provisional; `dealScore` free harus `null`.
-
-Native memerlukan paket engine yang benar-benar tercatat. Importable memerlukan
-format isi yang terverifikasi dan didukung dokumentasi engine di
-`data/engine-formats.json`. ZIP/RAR, gambar preview, atau tag Unity/Unreal/Godot
-saja tetap Unverified. Cantumkan sumber dan kebutuhan setup manual di `engineNote`;
-jangan mengklaim performa, shader/material, atau animasi sudah diuji.
-
-Yang diperbarui harian: aset/promo baru, harga/currency/tier, expiry, status
-expired/stale, perubahan lisensi, rating/count jika tersedia, format/package
-engine, source link, publisher credit, provenance screenshot, kedua skor yang
-dihitung ulang, snapshot kurs, dan jurnal 10 publisher. Homepage, kategori,
-filter, profil publisher serta halaman SEO ikut berubah dari data tanpa edit UI.
-
-```text
-Tanggal/run: <Asia/Jakarta dan waktu UTC>
-Publisher: <10 status: checked / permission review / blocked; perubahan nyata>
-Kandidat diperiksa: <jumlah dari maksimal 150>
-Aset baru: <free> free + <limited free> limited free + <deal> deals = <total, maksimal 50/hari>
-Recheck: <promo> promo + <free> free
-Diarsipkan: <jumlah dan alasan>
-Dilewati/gagal: <jumlah dan alasan singkat>
-Pemakaian: <menit> menit, <MB> archive baru
-Sisa jatah hari ini: <jumlah>
-Validasi: <hasil sebenarnya>
-Evidence: <source/license/price/preview/compatibility untuk tiap record>
-Skor: <Radar Score kualitas dan Deal Score kesempatan beli, beserta alasan>
-Publikasi: <commit SHA, hasil push, remote main SHA, status deploy yang terverifikasi>
+```sh
+npm run catalog:grow -- --mode=backfill --limit=150 --write
 ```
 
-Pemeriksaan otomatis wajib: source/price/license setiap penambahan, isi preview,
-expiry, duplicate, serta lint, TypeScript, tests dan build. Tidak perlu menunggu
-review pemilik. Setelah push, pastikan remote main sesuai commit; jangan menyebut
-deploy berhasil sebelum commit tersebut benar-benar live. Site tetap static
-tanpa akun pengunjung atau paid backend.
+Mode terpisah untuk backlog awal: maksimal 500 penambahan, 1.000 pemeriksaan,
+120 menit dan 1.000 MB per run. Lanjutkan pada run berikutnya tanpa mengimpor URL
+lama. Jangan jalankan beberapa writer bersamaan atau melewati validasi.
+
+## Sumber dan kualitas
+
+Kenney memerlukan CC0 pada produk dan License.txt archive. Poly Haven memakai
+API texture, CC0 dan checksum file diffuse; jangan salin render situsnya.
+ambientCG memakai API material dan format yang dinyatakan publisher; lisensinya
+secara eksplisit mencakup render material CC0. Semua preview punya provenance.
+Fab, itch.io dan GameDev Market tetap perlu bukti harga/lisensi per promo serta
+izin akses. Publisher lain/OpenGameArt masih memerlukan adapter per produk.
+Synty/CraftPix tetap permission review dalam publisher monitor; jangan ambil
+otomatis atau mengubah izinnya. Index bukan bukti harga/lisensi produk.
+
+Unity Asset Store [section 3.3](https://unity.com/legal/as-terms) memerlukan
+perjanjian terpisah untuk akses otomatis. Jangan scrape free catalog/Autumn Sale
+atau private API, dan jangan mengaku Unity sudah dicek. Feed partner resmi yang
+disertai izin bisa diintegrasikan terpisah.
+
+Website tetap Inggris, harga tampil USD dengan aturan kurs existing. Evidence
+menyimpan currency/tier asli. Ikuti Radar Score v3 dan Deal Score terpisah;
+jangan default 90 atau menaikkan nilai agar lolos. Native memerlukan paket engine
+nyata; Importable memerlukan format isi yang tercatat; lainnya Unverified.
+Jangan menyalin pack berbayar/logo atau membuat harga/rating/expiry palsu.
+Jangan membuat artikel filler atau memecah pack untuk menambah jumlah.
+
+Laporan: free + limited free + deals baru; total harian versus target 50;
+shortfall/alasan; recheck/arsip; sumber berhasil/skip/blocked; evidence;
+waktu/download; hasil pemeriksaan; commit/push dan status deploy.
+
+## Jadwal Cursor
+
+Repo fareza777/website-asset-radar, branch main, harian 08:00 Asia/Jakarta
+(01:00 UTC), Node.js 24 dan npm ci. Tempel prompt lengkap terbaru, save/activate
+di akun Cursor, lalu coba satu run. Cloud agent mengikuti biaya/limit akun;
+website tetap static Vercel tanpa backend berbayar.

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/black_walnut_veneer_03",
+  "checkedAt": "2026-10-09T05:54:35.155Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/black_walnut_veneer_03",
+  "apiSha256": "0d6529bcc5895207afa509bb73e6f797f1699c2dfc0f3009d1c466bd5f83b1cf",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/black_walnut_veneer_03/black_walnut_veneer_03_diff_1k.jpg",
+  "assetFileMd5": "72bd7d839668c8024b7d51da86606bda",
+  "assetFileSha256": "6f5b70082a9c478ad4f74eedf9058abd04cf027e1868cd3d748d6e53d051674d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Black Walnut Veneer 03",
+    "tags": [
+      "walnut",
+      "walnut wood",
+      "natural grain",
+      "grain",
+      "wood",
+      "hardwood",
+      "veneer",
+      "natural veneer"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "e60d766a5f51e6a4a7edad2cb2291341b22b9859",
+    "description": "Free black walnut veneer PBR texture with fine natural grain, subtle gloss and hardwood warmth - ideal for furniture, cabinets, interiors and trim.",
+    "category_id": "11f97979-30ff-513c-97e0-916d1b9f37ac",
+    "category": "Wood/Veneer/Walnut Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "raw wood",
+      "wood"
+    ],
+    "vault": "wood",
+    "img_version": "7eb55a85",
+    "download_count": 608,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/black_walnut_veneer_03.png?width=256&height=256&format=webp&v=7eb55a85"
+  }
+}

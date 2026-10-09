@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/ash_veneer",
+  "checkedAt": "2026-10-09T05:51:49.392Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/ash_veneer",
+  "apiSha256": "10b9aaae332d808970949d68921d3dfbb3bfac8274362629d4bb4eb29d80e282",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ash_veneer/ash_veneer_diff_1k.jpg",
+  "assetFileMd5": "5be48b4be87620998cfaee5a4281169d",
+  "assetFileSha256": "13fd87c8b0a5cc1d4e408fb75b3eb629417ea6b1aaf1672b5adf993640486673",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Ash Veneer",
+    "tags": [
+      "ash wood",
+      "ash",
+      "wood",
+      "hardwood",
+      "veneer",
+      "veneer wood",
+      "natural grain",
+      "natural veneer",
+      "fine grain",
+      "natural wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "190feb85ae9a2599356c54da42fc9afc6b987a1e",
+    "description": "Free PBR ash veneer: fine-grain hardwood with subtle linear grain, low sheen and seamless tiling - ideal for furniture, interiors, cabinetry.",
+    "category_id": "696337cd-d4c7-5cc4-98f9-cddf9a6c4ee5",
+    "category": "Wood/Veneer/Light Hardwood Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "18014e14",
+    "download_count": 1041,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ash_veneer.png?width=256&height=256&format=webp&v=18014e14"
+  }
+}

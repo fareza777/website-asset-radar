@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_terracotta_tiling",
+  "checkedAt": "2026-10-09T05:50:57.918Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_terracotta_tiling",
+  "apiSha256": "9128a4f950c0a52f8c3a385d27ea25ba67efd0e87bcf3d4e81bfdbbca6d76b3b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_terracotta_tiling/patterned_terracotta_tiling_diff_1k.jpg",
+  "assetFileMd5": "e9061d7c3c8046d46cb6f93fdd6bf3a1",
+  "assetFileSha256": "b5f61a20b1eea8fdc940e3e9067c9b5884d4d897fab79750798a2a7077c10f6b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Patterned Terracotta Tiling",
+    "categories": [
+      "floor",
+      "man made",
+      "clean"
+    ],
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "worn"
+      ]
+    },
+    "tags": [
+      "terracotta",
+      "tiles",
+      "grout lines",
+      "grout",
+      "ceramic tiles",
+      "indoor flooring",
+      "indoor",
+      "geometric pattern",
+      "octagonal tiles",
+      "consistent"
+    ],
+    "description": "Free 8K terracotta tile texture with an octagon-and-dot pattern, warm red slabs with small black insets, slight sheen, worn edges and fine grout lines.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2151.7231464385986,
+      2151.724338531494
+    ],
+    "files_hash": "c689692c267564cb1cc62566ac35f7725f9da654",
+    "date_published": 1786492800,
+    "staging": null,
+    "img_version": "0c59321c",
+    "download_count": 2230,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_terracotta_tiling.png?width=256&height=256&format=webp&v=0c59321c"
+  }
+}

@@ -58,10 +58,17 @@ async function main() {
       evidence.licenseEvidenceUrl !== "https://polyhaven.com/license"
     )
       throw new Error(`Global source license missing: ${asset.id}`);
+    if (asset.source === "ambientCG" &&
+      (evidence.licenseEvidenceUrl !== "https://docs.ambientcg.com/license/" ||
+        !/^[a-f0-9]{64}$/.test(evidence.licensePageSha256 ?? "") ||
+        evidence.apiMetadata?.assetId !== new URL(asset.sourceUrl).pathname.split("/").at(-1)))
+      throw new Error(`ambientCG license or identity evidence missing: ${asset.id}`);
     if (
       asset.source === "Kenney" &&
       new URL(asset.previewProvenance.url).hostname !== "kenney.nl"
     )
+      throw new Error(`Preview origin mismatch: ${asset.id}`);
+    if (asset.source === "ambientCG" && new URL(asset.previewProvenance.url).hostname !== "acg-media.struffelproductions.com")
       throw new Error(`Preview origin mismatch: ${asset.id}`);
     if (
       asset.source === "Poly Haven" &&

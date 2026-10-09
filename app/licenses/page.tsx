@@ -63,7 +63,9 @@ export default function Licenses() {
           license evidence, and the day we checked it. For Kenney packs, we
           check the source page and the license included in the archive. For
           Poly Haven, we use its permitted public API and published asset
-          license.
+          license. For ambientCG materials, we verify its official API and
+          license covering the asset files and preview renders; full archives
+          and engine performance are not tested.
         </p>
         <p>
           Genre tags are editorial suggestions. Engine filters indicate
@@ -103,6 +105,11 @@ export default function Licenses() {
               previews come from asset files.
             </p>
             <span>Permitted API + public asset license</span>
+          </a>
+          <a href="https://docs.ambientcg.com/license/" target="_blank" rel="noreferrer">
+            <strong>ambientCG <ArrowUpRight size={18} /></strong>
+            <p>CC0 materials with publisher-listed texture formats and explicitly licensed material preview renders.</p>
+            <span>Official material API + asset and preview license</span>
           </a>
         </div>
       </section>

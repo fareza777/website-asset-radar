@@ -14,6 +14,8 @@ import { validateCatalog } from "../lib/catalog-schema";
 import { fetchPermitted } from "./source-policy";
 import { readKenneyEvidence } from "./verification";
 import policy from "../data/automation-policy.json";
+import { pathToFileURL } from "node:url";
+import { resolve } from "node:path";
 
 const sha = (data: string | Uint8Array) =>
   createHash("sha256").update(data).digest("hex");
@@ -27,7 +29,7 @@ async function get(url: string) {
   return fetchPermitted(url, { maxBytes: 50_000_000 });
 }
 
-async function seed() {
+export async function seedKenney(suppliedSeeds?: unknown) {
   await mkdir(".cache", { recursive: true });
   await mkdir("public/previews", { recursive: true });
   await mkdir("public/audio", { recursive: true });
@@ -47,8 +49,10 @@ async function seed() {
         })
         .strict(),
     )
-    .max(input ? policy.importBatchSize : 100)
-    .parse(input ? JSON.parse(await readFile(input, "utf8")) : defaultSeeds);
+    .max(input || suppliedSeeds ? policy.importBatchSize : 100)
+    .parse(suppliedSeeds ?? (input ? JSON.parse(await readFile(input, "utf8")) : defaultSeeds));
+  const added: string[] = [];
+  const failures: { slug: string; reason: string }[] = [];
   let catalog: Asset[] = [];
   try {
     catalog = validateCatalog(
@@ -104,7 +108,8 @@ async function seed() {
         ? Object.keys(files).find((n) => /^Audio\/.*\.ogg$/i.test(n))
         : sample ||
           preview ||
-          Object.keys(files).find((n) => /controller_switch\.png$/i.test(n));
+          Object.keys(files).find((n) => /controller_switch\.png$/i.test(n)) ||
+          Object.keys(files).find((n) => /\.(png|jpg)$/i.test(n) && !/(^|\/)(logo|license|readme|banner|cover)[^/]*\./i.test(n));
       if (!chosen) throw new Error("No licensed preview input");
       let previewNote =
         "Cropped and optimized from the preview included in the author's CC0 asset archive. Creator logos are not used as site branding.";
@@ -162,7 +167,7 @@ async function seed() {
             .toFile("public/previews/hero-nature.webp");
         if (!sample && !preview)
           previewNote =
-            "Preview of an actual CC0 controller graphic from the asset archive, optimized against an original background.";
+            "Preview of an actual CC0 asset image from the verified archive, optimized against an original background. This is a representative file, not a full pack overview.";
       }
       const ext = new Set(
         Object.keys(files).map((name) => name.split(".").pop()?.toUpperCase()),
@@ -263,19 +268,21 @@ async function seed() {
         "data/assets.json",
         JSON.stringify(catalog, null, 2) + "\n",
       );
+      added.push(item.id);
       console.log(
         `Verified ${title}: ${fileCount || "unknown"} files, ${formats.join(", ")}`,
       );
     } catch (err) {
       console.error(`SKIPPED ${seed.slug}: ${(err as Error).message}`);
-      process.exitCode = 1;
+      failures.push({ slug: seed.slug, reason: (err as Error).message });
     }
     await sleep(1400);
   }
   console.log(`Seed complete: ${catalog.length} verified assets.`);
+  return { added, failures };
 }
 
-seed().catch((err) => {
-  console.error(err);
-  process.exitCode = 1;
-});
+if (process.argv[1] && pathToFileURL(resolve(process.argv[1])).href === import.meta.url)
+  seedKenney().then((result) => { if (result.failures.length) process.exitCode = 1; }).catch((err) => {
+    console.error(err); process.exitCode = 1;
+  });

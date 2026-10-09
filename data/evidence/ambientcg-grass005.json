@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Grass005",
+  "checkedAt": "2026-10-09T05:49:51.313Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Grass005&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "67fdfda53fefe4f1bb246c7c9c1fd3748b84226417dd8d7e58a8b525e6db21d6",
+  "apiMetadata": {
+    "assetId": "Grass005",
+    "dataType": "Material",
+    "displayName": "Grass 005",
+    "displayCategory": "Grass",
+    "shortLink": "https://ambientcg.com/a/Grass005",
+    "tags": [
+      "5",
+      "clean",
+      "grass",
+      "green",
+      "lawn",
+      "short"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Grass005.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Grass005.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Grass005.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Grass005.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Grass005.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Grass005.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Grass005.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Grass005.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Grass005.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Grass005.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Grass005.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Grass005.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Grass005.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Grass005.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Grass005.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Grass005.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Grass005.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Grass005.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Grass005.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Grass005.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Grass005.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Grass005.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Grass005.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Grass005.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_1K-JPG.zip",
+                "fileName": "Grass005_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_1K-JPG.zip",
+                "size": 10442657,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_2K-JPG.zip",
+                "fileName": "Grass005_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_2K-JPG.zip",
+                "size": 39523019,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_4K-JPG.zip",
+                "fileName": "Grass005_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_4K-JPG.zip",
+                "size": 157029833,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_8K-JPG.zip",
+                "fileName": "Grass005_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_8K-JPG.zip",
+                "size": 650370891,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_1K-PNG.zip",
+                "fileName": "Grass005_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_1K-PNG.zip",
+                "size": 19315715,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_2K-PNG.zip",
+                "fileName": "Grass005_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_2K-PNG.zip",
+                "size": 73828852,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_4K-PNG.zip",
+                "fileName": "Grass005_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_4K-PNG.zip",
+                "size": 289746975,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Grass005_8K-PNG.zip",
+                "fileName": "Grass005_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Grass005_8K-PNG.zip",
+                "size": 1113527418,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2025-02-02 12:00:00",
+    "earlyReleaseDate": "2025-01-26 21:15:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 141156,
+    "downloadCountMonth": 13153,
+    "downloadCountWeek": 3786,
+    "popularityScore": 54.82666154562381,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_Color.jpg?25369&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_Displacement.jpg?14980&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_NormalDX.jpg?47189&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_Roughness.jpg?89302&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_AmbientOcclusion.jpg?19043",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_Color.jpg?45413,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_Displacement.jpg?48476,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_NormalDX.jpg?65837,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_Roughness.jpg?79063,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass005/Grass005_SQ_AmbientOcclusion.jpg?63949&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Grass005.webp",
+  "previewSha256": "0d5b2956ac561e4b34a652fd1942e55cbf5599d0092ce62227422154219afe4e",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

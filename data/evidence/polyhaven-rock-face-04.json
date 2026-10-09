@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_face_04",
+  "checkedAt": "2026-10-09T05:48:43.545Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_face_04",
+  "apiSha256": "7b12942e4fef58355b3b40915c40699a6fb8c8a36601fff1167f6060fe5521d2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_04/rock_face_04_diff_1k.jpg",
+  "assetFileMd5": "4f125d5914b417c740ad798a5803cb7f",
+  "assetFileSha256": "c6be671d52946f04a270ba721b0dc5b00a3cd0ad88bd812c205fadcf642b1a75",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Rock Face 04",
+    "categories": [
+      "outdoor",
+      "natural",
+      "rock"
+    ],
+    "category": "Stone/Rock & Cliffs/Rough Rock Faces",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered",
+        "dirty",
+        "cracked"
+      ]
+    },
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "cracked",
+      "chipped",
+      "rock face",
+      "rock",
+      "leaves",
+      "dry leaves",
+      "fallen leaves",
+      "cracks",
+      "striated",
+      "geological"
+    ],
+    "description": "Free 8K rock face texture with dark, weathered slabs, deep fractured seams, and leaf litter in crevices. Rough, earthy tones with subtle sheen.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "bf84369c-cc7c-5347-ad17-173353e859b8",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "files_hash": "cab69c8b2b5c5dc82a8d7a5ae9bd82889894a363",
+    "date_published": 1787529600,
+    "staging": null,
+    "img_version": "815aa0e0",
+    "download_count": 2134,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_face_04.png?width=256&height=256&format=webp&v=815aa0e0"
+  }
+}

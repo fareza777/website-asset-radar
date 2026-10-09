@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/fever_tree_bark",
+  "checkedAt": "2026-10-09T05:49:16.068Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/fever_tree_bark",
+  "apiSha256": "5caa12aa323db142e310cd5f9ec024f6c345f556962cb686d10ae57fcae459f5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fever_tree_bark/fever_tree_bark_diff_1k.jpg",
+  "assetFileMd5": "f8c5e1d27f688471e4e298fd963cb81e",
+  "assetFileSha256": "4d0bf583ab1d4ef79d70ffe29828913d604febbc4c15e6eb71f3b25eca4bb87e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Fever Tree Bark",
+    "categories": [
+      "outdoor",
+      "natural"
+    ],
+    "category": "Wood/Bark/Tropical Bark",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "tags": [
+      "rough",
+      "uneven",
+      "bark",
+      "tree",
+      "tree bark",
+      "grooved",
+      "wrinkled",
+      "nature",
+      "organic",
+      "forestry",
+      "bark texture",
+      "tree trunk",
+      "thin striations",
+      "striated"
+    ],
+    "description": "Free 8K texture of green fever tree bark: smooth, finely striated surface with peeled patches, small knots and scars, subtle satin sheen and tonal variation.",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "category_id": "d1a8ff1d-a6c5-5398-85d6-03f73a3a4896",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1360.0000143051147,
+      1360.0000143051147
+    ],
+    "files_hash": "cac7b3b53df3c8319b1f09601940fb0aeec32db8",
+    "date_published": 1787184000,
+    "staging": null,
+    "img_version": "e2462169",
+    "download_count": 1147,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fever_tree_bark.png?width=256&height=256&format=webp&v=e2462169"
+  }
+}

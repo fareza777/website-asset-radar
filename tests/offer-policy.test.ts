@@ -8,7 +8,6 @@ test("offer collection allows trusted public evidence, never private endpoints o
     "https://www.fab.com/limited-time-free",
     "https://www.fab.com/listings/95ff3c25-59f9-441d-aa43-93c3abd63680",
     "https://www.fab.com/eula",
-    "https://assetstore.unity.com/packages/2d/example-123",
     "https://unity.com/legal/as-terms",
     "https://creator.itch.io/example-pack",
     "https://itch.io/s/1234/example-sale",
@@ -19,6 +18,7 @@ test("offer collection allows trusted public evidence, never private endpoints o
   ])
     assert.equal(isPermittedOfferUrl(url), true, url);
   for (const url of [
+    "https://assetstore.unity.com/packages/2d/example-123",
     "http://creator.itch.io/example-pack",
     "https://creator.itch.io:444/example-pack",
     "https://secret@creator.itch.io/example-pack",

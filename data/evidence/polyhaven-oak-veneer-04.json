@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/oak_veneer_04",
+  "checkedAt": "2026-10-09T05:59:18.619Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/oak_veneer_04",
+  "apiSha256": "07bcb9f77d81e9654e87a8c146075b569f1d673622220d06d8f06ed3984e7b49",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oak_veneer_04/oak_veneer_04_diff_1k.jpg",
+  "assetFileMd5": "078aab0f0cc25ed1cb38c76f45a6a388",
+  "assetFileSha256": "6decfcf442c142b8437fe4e4649cbbb6691e401e760eccf9b1962638c992ca40",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Oak Veneer 04",
+    "tags": [
+      "oak",
+      "raw wood",
+      "veneer",
+      "veneer wood",
+      "natural grain",
+      "grain",
+      "natural wood grain",
+      "wood grain",
+      "wood",
+      "natural wood",
+      "light wood"
+    ],
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "staging": null,
+    "files_hash": "8409750eebb1ff4bbd577e903342a09632b82f4c",
+    "description": "Free 8K texture: oak veneer with subtle, raw light-grain surface - smooth, low-porosity look ideal for furniture, cabinetry, interiors and realistic props.",
+    "category_id": "a7545d0c-e237-514e-b4b4-63aa17dae153",
+    "category": "Wood/Veneer/Oak Veneer",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "date_published": 1786448942,
+    "categories": [
+      "wood",
+      "raw wood"
+    ],
+    "vault": "wood",
+    "img_version": "70b1e788",
+    "download_count": 651,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/oak_veneer_04.png?width=256&height=256&format=webp&v=70b1e788"
+  }
+}

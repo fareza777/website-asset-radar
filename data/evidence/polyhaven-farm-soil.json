@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/farm_soil",
+  "checkedAt": "2026-10-09T05:46:57.949Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/farm_soil",
+  "apiSha256": "06884a9265518570bda3a5c84843bc06b6dfc5a065ef043ea4026ac235d0558d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/farm_soil/farm_soil_diff_1k.jpg",
+  "assetFileMd5": "29fad1e29469e644759032c3ade249fa",
+  "assetFileSha256": "bfa2850109d1018ecb25342d9f17a5a81e826f7c67edfcaa7c878b60e62cc010",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Farm Soil",
+    "categories": [
+      "floor",
+      "natural",
+      "dirty"
+    ],
+    "category": "Ground & Terrain/Soil & Mud/Bare Dirt & Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "tags": [
+      "uneven",
+      "sand",
+      "sandy",
+      "dusty",
+      "ploughed",
+      "soil",
+      "earth",
+      "ground",
+      "granulated",
+      "cloddy"
+    ],
+    "description": "Free 8K farm soil texture with dark brown, slightly damp earth, crumbly clods, fine grit and stray roots; rough, matte surface with rich micro detail.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": "One of our nearby neighbors has a small farm in their yard and they had ploughed the soil recently. Was a good opportunity to scan it. Tried to scan it carefully because walking over it would compact the soil and leave footmarks.",
+    "category_id": "d9215ca1-f9af-578a-a269-6cd2338bdba6",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1999.9992847442627,
+      2000.000238418579
+    ],
+    "files_hash": "b93416f6e73ab09fc3d0c5d76e1721bda83177e8",
+    "date_published": 1788912000,
+    "staging": null,
+    "img_version": "a2aced0e",
+    "download_count": 3934,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/farm_soil.png?width=256&height=256&format=webp&v=a2aced0e"
+  }
+}

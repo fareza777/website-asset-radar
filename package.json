@@ -12,10 +12,12 @@
     "catalog:validate": "tsx scripts/validate-catalog.ts",
     "catalog:check": "tsx scripts/check-catalog.ts",
     "catalog:discover": "tsx scripts/discover-assets.ts",
+    "catalog:grow": "tsx scripts/grow-catalog.ts",
     "publishers:watch": "tsx scripts/publisher-watch.ts",
     "catalog:enrich": "tsx scripts/enrich-free-catalog.ts",
     "prices:refresh": "tsx scripts/update-exchange-rates.ts --write",
     "offers:validate": "tsx scripts/update-offers.ts",
+    "offers:discover": "tsx scripts/discover-offers.ts",
     "offers:update": "tsx scripts/update-offers.ts --write",
     "offers:check-links": "tsx scripts/check-offer-links.ts"
   },

@@ -2,18 +2,23 @@ import { load } from "cheerio";
 import policy from "../data/automation-policy.json";
 
 export function discoveryLimit(args: string[]): number {
+  const modes = args.filter((arg) => arg.startsWith("--mode="));
+  const mode = modes[0]?.slice(7) ?? "daily";
+  if (modes.length > 1 || !["daily", "backfill"].includes(mode))
+    throw new Error("Use --mode=daily or --mode=backfill");
+  const ceiling = mode === "backfill" ? policy.backfill.maxCandidates : policy.maxCandidatesPerDay;
   const flags = args.filter((arg) => arg.startsWith("--limit="));
   const limit = flags.length
     ? Number(flags[0].slice(8))
-    : policy.maxCandidatesPerDay;
+    : ceiling;
   if (
     flags.length > 1 ||
     !Number.isInteger(limit) ||
     limit < 1 ||
-    limit > policy.maxCandidatesPerDay
+    limit > ceiling
   )
     throw new Error(
-      `Use --limit=1 through --limit=${policy.maxCandidatesPerDay}`,
+      `Use --limit=1 through --limit=${ceiling}`,
     );
   return limit;
 }
@@ -31,6 +36,7 @@ export function readKenneyIndex(html: string, page: string) {
       return;
     }
     if (url.origin !== "https://kenney.nl" || url.search || url.hash) return;
+    url.hash = "";
     if (/^\/assets\/[a-z0-9-]+$/.test(url.pathname))
       products.add(url.toString());
     if (/^\/assets\/page:[1-9][0-9]*$/.test(url.pathname))
