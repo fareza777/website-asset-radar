@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
-import { AssetGallery } from "@/components/asset-gallery";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { assets } from "@/lib/catalog";
-import { Clock } from "@phosphor-icons/react/dist/ssr";
+import { Clock } from "@/lib/icons";
 
 export const metadata: Metadata = {
   title: "Latest free game assets",
@@ -27,6 +27,7 @@ export default function Latest() {
       </div>
       <AssetGallery
         assets={assets}
+        scope={{ type: "free" }}
         initialFilters={{ sort: "latest" }}
         heading="Latest assets"
       />

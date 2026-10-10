@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
+import { ArrowUpRight } from "@/lib/icons";
 import type { DirectoryAsset } from "@/lib/types";
 import {
   freeScoreBreakdown,

@@ -4,7 +4,7 @@ import {
   ArrowUpRight as ArrowUpRightIcon,
   ArrowRight as ArrowRightIcon,
   ShieldCheck as ShieldCheckIcon,
-} from "@phosphor-icons/react/dist/ssr";
+} from "@/lib/icons";
 
 export function Hero() {
   return (

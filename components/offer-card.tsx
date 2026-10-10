@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
-import { ArrowUpRight, Star, Clock } from "@phosphor-icons/react";
-import type { Promotion } from "@/lib/types";
+import { ArrowUpRight, Star, Clock } from "@/lib/icons";
+import type { CardPromotion } from "@/lib/catalog-card";
 import { formatCountdown, offerStatus } from "@/lib/offer-utils";
 import { usdPrice, usdRateLabel } from "@/lib/usd-prices";
 import { useOfferClock } from "@/lib/use-offer-clock";
@@ -17,7 +17,7 @@ export function OfferCard({
   view = "grid",
   preferredEngine,
 }: {
-  asset: Promotion;
+  asset: CardPromotion;
   view?: "grid" | "list";
   preferredEngine?: string;
 }) {
@@ -36,7 +36,7 @@ export function OfferCard({
         <Link href={`/asset/${asset.id}/`} tabIndex={-1} aria-hidden="true">
           <OfferPreview asset={asset} />
         </Link>
-        <FavoriteButton asset={asset} />
+        <FavoriteButton asset={{ id: asset.id, title: asset.title }} />
       </div>
       <div className="asset-card-body">
         <div className="offer-kind-row">

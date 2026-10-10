@@ -1,5 +1,5 @@
 "use client";
-import { ArrowUpRight, Clock } from "@phosphor-icons/react";
+import { ArrowUpRight, Clock } from "@/lib/icons";
 import type { Promotion } from "@/lib/types";
 import { formatCountdown, offerStatus } from "@/lib/offer-utils";
 import { usdPrice, usdRateLabel } from "@/lib/usd-prices";

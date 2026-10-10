@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { ArrowUpRight, Cube } from "@phosphor-icons/react/dist/ssr";
+import { ArrowUpRight, Cube } from "@/lib/icons";
 import { assetCompatibility } from "@/lib/engine-compatibility";
-import type { DirectoryAsset } from "@/lib/types";
+import type { CardAsset } from "@/lib/catalog-card";
 
-export function EngineChips({ asset, preferredEngine }: { asset: DirectoryAsset; preferredEngine?: string }) {
+export function EngineChips({ asset, preferredEngine }: { asset: CardAsset; preferredEngine?: string }) {
   const all = assetCompatibility(asset);
   const supported = all.filter((item) => item.status !== "Unverified").sort((a, b) => Number(b.engine === preferredEngine) - Number(a.engine === preferredEngine));
   const unverified = preferredEngine && preferredEngine !== "All" ? all.find((item) => item.engine === preferredEngine && item.status === "Unverified") : undefined;
@@ -17,7 +17,7 @@ export function EngineChips({ asset, preferredEngine }: { asset: DirectoryAsset;
   </div>;
 }
 
-export function EngineCompatibilityPanel({ asset }: { asset: DirectoryAsset }) {
+export function EngineCompatibilityPanel({ asset }: { asset: CardAsset }) {
   return <section className="engine-compatibility-panel" id="compatibility" aria-labelledby="compatibility-heading">
     <div className="compatibility-heading"><Cube size={23} weight="duotone" /><h2>Engine compatibility</h2></div>
     <p>Native describes publisher-listed engine packaging. Importable matches a documented file format. Neither is a claim of in-engine testing.</p>

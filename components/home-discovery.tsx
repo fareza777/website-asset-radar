@@ -5,11 +5,12 @@ import {
   Clock,
   MagnifyingGlass,
   SquaresFour,
-} from "@phosphor-icons/react/dist/ssr";
+} from "@/lib/icons";
 import type { Asset } from "@/lib/types";
 import { categories } from "@/lib/types";
 import { AssetCard } from "./asset-card";
 import { assets as catalogAssets } from "@/lib/catalog";
+import { toCardAsset } from "@/lib/catalog-card";
 
 export function HomeSearch() {
   return (
@@ -63,7 +64,7 @@ export function FreeDiscoverySection({
       </div>
       <div className="asset-grid discovery-grid free-discovery-grid">
         {assets.slice(0, 4).map((asset) => (
-          <AssetCard key={asset.id} asset={asset} />
+          <AssetCard key={asset.id} asset={toCardAsset(asset)} />
         ))}
       </div>
     </section>

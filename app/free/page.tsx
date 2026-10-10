@@ -1,4 +1,4 @@
-import { AssetGallery } from "@/components/asset-gallery";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { assets } from "@/lib/catalog";
 import { directoryMetadata, DirectorySchema } from "@/lib/discovery-seo";
 export const metadata = directoryMetadata(
@@ -18,7 +18,7 @@ export default function FreeAssets() {
           game.
         </p>
       </div>
-      <AssetGallery assets={assets} heading="Free assets" />
+      <AssetGallery assets={assets} scope={{ type: "free" }} heading="Free assets" />
     </>
   );
 }

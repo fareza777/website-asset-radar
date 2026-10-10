@@ -6,7 +6,7 @@ import {
   X as XIcon,
   Plus as PlusIcon,
   Check as CheckIcon,
-} from "@phosphor-icons/react";
+} from "@/lib/icons";
 import { useLibrary } from "./library-provider";
 
 export function CollectionPicker({ assetId }: { assetId: string }) {

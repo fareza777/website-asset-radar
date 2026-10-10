@@ -55,7 +55,7 @@ export function DirectorySchema({
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: assets.length,
-            itemListElement: assets.map((asset, index) => ({
+            itemListElement: assets.slice(0, 12).map((asset, index) => ({
               "@type": "ListItem",
               position: index + 1,
               name: asset.title,

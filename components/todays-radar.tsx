@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowUpRight, Broadcast } from "@phosphor-icons/react";
+import { ArrowUpRight, Broadcast } from "@/lib/icons";
 import type { Asset, DirectoryAsset, Promotion } from "@/lib/types";
 import { useOfferClock } from "@/lib/use-offer-clock";
 import { offerStatus } from "@/lib/offer-utils";

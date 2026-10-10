@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import CategoryPage, {
   generateMetadata as categoryMetadata,
-} from "@/app/categories/[category]/page";
+} from "@/components/category-page";
 import { categories } from "@/lib/types";
 export const dynamicParams = false;
 export function generateStaticParams() {

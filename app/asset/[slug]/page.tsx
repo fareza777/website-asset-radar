@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import FreeAssetPage, {
   generateMetadata as freeMetadata,
-} from "@/app/assets/[id]/page";
+} from "@/components/free-asset-detail";
 import { directoryAssets, getDirectoryAsset } from "@/lib/catalog";
 import { OfferDetail } from "@/components/offer-detail";
 import { directoryMetadata } from "@/lib/discovery-seo";

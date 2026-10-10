@@ -1,9 +1,9 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, ArrowUpRight, ShieldCheck } from "@phosphor-icons/react/dist/ssr";
+import { ArrowLeft, ArrowUpRight, ShieldCheck } from "@/lib/icons";
 import { publishers, getPublisher, matchesPublisher } from "@/lib/publishers";
 import { assets, offers } from "@/lib/catalog";
-import { AssetGallery } from "@/components/asset-gallery";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { directoryMetadata, DirectorySchema } from "@/lib/discovery-seo";
 import { jsonLd, siteUrl } from "@/lib/site";
 import { formatDate } from "@/lib/catalog-utils";
@@ -30,6 +30,6 @@ export default async function PublisherPage({ params }: { params: Promise<{ slug
     <Link className="back-link" href="/publishers/"><ArrowLeft size={17} /> All publishers</Link>
     <div className="publisher-profile-header"><PublisherEmblem publisherId={publisher.id} profile /><div><span className="section-kicker">FEATURED PUBLISHER · {publisher.specialty}</span><h1>{publisher.name}</h1><p>{publisher.summary}</p><a href={publisher.catalogUrl} target="_blank" rel="noopener noreferrer" className="button primary">Official catalog <ArrowUpRight size={18} /></a></div></div>
     <div className="publisher-license-note"><ShieldCheck size={23} /><div><strong>Check the exact pack.</strong><p>{publisher.licenseNote}</p><a className="text-link" href={publisher.evidenceUrl} target="_blank" rel="noopener noreferrer">Official profile evidence <ArrowUpRight size={15} /></a><span className="profile-check-date">Profile checked {formatDate(publisher.profileCheckedAt)} · Product checks are recorded separately.</span></div></div>
-    {items.length ? <AssetGallery assets={items} heading={`Verified ${publisher.name} assets`} /> : <section className="publisher-coverage-empty"><span className="section-kicker">CATALOG COVERAGE</span><h2>Individual listings are still being verified.</h2><p>No {publisher.name} assets have passed our catalog checks yet. Explore the official catalog now; verified free packs and qualifying promotions will appear here as they are added.</p><div><a href={publisher.catalogUrl} className="text-link" target="_blank" rel="noopener noreferrer">Visit {publisher.name} <ArrowUpRight size={17} /></a><Link href="/explore/" className="text-link">Browse verified discoveries <ArrowUpRight size={17} /></Link></div></section>}
+    {items.length ? <AssetGallery assets={items} scope={{ publisher: publisher.id }} heading={`Verified ${publisher.name} assets`} /> : <section className="publisher-coverage-empty"><span className="section-kicker">CATALOG COVERAGE</span><h2>Individual listings are still being verified.</h2><p>No {publisher.name} assets have passed our catalog checks yet. Explore the official catalog now; verified free packs and qualifying promotions will appear here as they are added.</p><div><a href={publisher.catalogUrl} className="text-link" target="_blank" rel="noopener noreferrer">Visit {publisher.name} <ArrowUpRight size={17} /></a><Link href="/explore/" className="text-link">Browse verified discoveries <ArrowUpRight size={17} /></Link></div></section>}
   </>;
 }

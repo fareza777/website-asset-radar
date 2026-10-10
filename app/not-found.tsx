@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { MagnifyingGlass, ArrowRight } from "@phosphor-icons/react/dist/ssr";
+import { MagnifyingGlass, ArrowRight } from "@/lib/icons";
 
 export default function NotFound() {
   return (

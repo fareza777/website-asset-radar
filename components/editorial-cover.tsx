@@ -1,7 +1,7 @@
 "use client";
 
 import { useId } from "react";
-import type { Promotion } from "@/lib/types";
+import type { CardPromotion } from "@/lib/catalog-card";
 
 function Pine({ x, y, scale = 1 }: { x: number; y: number; scale?: number }) {
   return (
@@ -513,7 +513,7 @@ function Pathfinding({ id }: { id: string }) {
   );
 }
 
-export function EditorialCover({ asset }: { asset: Promotion }) {
+export function EditorialCover({ asset }: { asset: CardPromotion }) {
   const id = useId().replaceAll(":", "");
   const tool = asset.assetType === "Tools & Plugins";
   const farm = asset.tags.includes("farm");

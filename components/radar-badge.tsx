@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Target } from "@phosphor-icons/react/dist/ssr";
+import { Target } from "@/lib/icons";
 
 export function RadarBadge({
   score,

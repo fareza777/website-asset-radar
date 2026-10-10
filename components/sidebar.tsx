@@ -23,7 +23,7 @@ import {
   Cube as CubeIcon,
   Fire as FireIcon,
   Tag as TagIcon,
-} from "@phosphor-icons/react";
+} from "@/lib/icons";
 import { useEffect, useRef, useState } from "react";
 import { Brand } from "./brand";
 import { useLibrary } from "./library-provider";

@@ -1,5 +1,5 @@
 "use client";
-import { Heart } from "@phosphor-icons/react";
+import { Heart } from "@/lib/icons";
 import { useLibrary } from "./library-provider";
 
 export function FavoriteButton({

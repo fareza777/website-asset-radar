@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import type { Promotion } from "@/lib/types";
+import type { CardPromotion } from "@/lib/catalog-card";
 import { EditorialCover } from "./editorial-cover";
 
 export function OfferPreview({
@@ -10,7 +10,7 @@ export function OfferPreview({
   priority = false,
   showCaption = false,
 }: {
-  asset: Promotion;
+  asset: CardPromotion;
   priority?: boolean;
   showCaption?: boolean;
 }) {

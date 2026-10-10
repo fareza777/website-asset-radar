@@ -1,5 +1,5 @@
-import { Fire } from "@phosphor-icons/react/dist/ssr";
-import { AssetGallery } from "@/components/asset-gallery";
+import { Fire } from "@/lib/icons";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { offers } from "@/lib/catalog";
 import { offerStatus } from "@/lib/offer-utils";
 import { directoryMetadata, DirectorySchema } from "@/lib/discovery-seo";
@@ -33,6 +33,7 @@ export default function FreeToday() {
       </div>
       <AssetGallery
         assets={offers.filter((a) => a.type === "limited_free")}
+        scope={{ type: "limited_free" }}
         offerMode="limited_free"
         heading="Free Today"
       />

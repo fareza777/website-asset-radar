@@ -1,8 +1,9 @@
 import type { DirectoryAsset, Filters, PersonalCollection } from "./types";
+import type { CardAsset } from "./catalog-card";
 import { assetCompatibility, compatibilityFor } from "./engine-compatibility";
 import { matchesPublisher } from "./publishers";
 
-export function filterAssets<T extends DirectoryAsset>(
+export function filterAssets<T extends CardAsset>(
   assets: T[],
   filters: Filters,
 ): T[] {

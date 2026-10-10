@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft } from "@phosphor-icons/react/dist/ssr";
+import { ArrowLeft } from "@/lib/icons";
 import { collections, getCollection, getAsset } from "@/lib/catalog";
 import { formatDate } from "@/lib/catalog-utils";
-import { AssetGallery } from "@/components/asset-gallery";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { jsonLd, siteUrl } from "@/lib/site";
 
 export const dynamicParams = false;

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
+import { ArrowRight, ArrowUpRight } from "@/lib/icons";
 import { publishers } from "@/lib/publishers";
 import { PublisherEmblem } from "./publisher-emblem";
 

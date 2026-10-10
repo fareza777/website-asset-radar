@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { ArrowRight, Fire, Tag } from "@phosphor-icons/react";
+import { ArrowRight, Fire, Tag } from "@/lib/icons";
 import type { Promotion } from "@/lib/types";
 import { offerStatus } from "@/lib/offer-utils";
 import { useOfferClock } from "@/lib/use-offer-clock";

@@ -1,14 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { AssetGallery } from "@/components/asset-gallery";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { assets } from "@/lib/catalog";
 import { categories } from "@/lib/types";
 import { jsonLd, siteUrl } from "@/lib/site";
 
-export const dynamicParams = false;
-export function generateStaticParams() {
-  return categories.map((category) => ({ category: category.toLowerCase() }));
-}
 const descriptions: Record<string, string> = {
   RPG: "Build your next quest with free dungeon tiles, fantasy models, characters, and RPG interfaces.",
   Idle: "Free assets for cozy towns, incremental adventures, and games that grow a little at a time.",
@@ -68,7 +64,8 @@ export default async function CategoryPage({
             url: `${siteUrl}/category/${category}/`,
             mainEntity: {
               "@type": "ItemList",
-              itemListElement: items.map((a, i) => ({
+              numberOfItems: items.length,
+              itemListElement: items.slice(0, 12).map((a, i) => ({
                 "@type": "ListItem",
                 position: i + 1,
                 url: `${siteUrl}/asset/${a.id}/`,
@@ -91,6 +88,7 @@ export default async function CategoryPage({
       </div>
       <AssetGallery
         assets={items}
+        scope={{ type: "free", category: name }}
         initialFilters={{ category: name }}
         heading={`${name} assets`}
         showCategories={false}

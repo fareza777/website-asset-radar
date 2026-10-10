@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowRight, Sparkle } from "@phosphor-icons/react/dist/ssr";
+import { ArrowRight, Sparkle } from "@/lib/icons";
 import {
   SCORE_FACTORS,
   DEAL_FACTORS,

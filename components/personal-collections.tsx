@@ -8,12 +8,12 @@ import {
   X as XIcon,
   Trash as TrashIcon,
   ArrowLeft as ArrowLeftIcon,
-} from "@phosphor-icons/react";
+} from "@/lib/icons";
 import { useLibrary } from "./library-provider";
 import { AssetGallery } from "./asset-gallery";
-import type { DirectoryAsset } from "@/lib/types";
+import { catalogIndexUrl } from "@/lib/generated/catalog";
 
-export function PersonalCollections({ assets }: { assets: DirectoryAsset[] }) {
+export function PersonalCollections() {
   const { collections, createCollection, deleteCollection, notify } =
     useLibrary();
   const [name, setName] = useState("");
@@ -55,7 +55,10 @@ export function PersonalCollections({ assets }: { assets: DirectoryAsset[] }) {
             </div>
           ) : (
             <AssetGallery
-              assets={assets.filter((a) => selected.assetIds.includes(a.id))}
+              assets={[]}
+              catalogUrl={catalogIndexUrl}
+              scope={{ ids: selected.assetIds, includeArchived: true }}
+              initialCount={selected.assetIds.length}
               heading={selected.name}
               showCategories={false}
             />

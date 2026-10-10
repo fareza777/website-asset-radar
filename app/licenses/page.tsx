@@ -5,7 +5,7 @@ import {
   ArrowUpRight,
   Check,
   ArrowRight,
-} from "@phosphor-icons/react/dist/ssr";
+} from "@/lib/icons";
 
 export const metadata: Metadata = {
   title: "Game asset licenses & verified sources",

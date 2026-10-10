@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { Tag } from "@phosphor-icons/react/dist/ssr";
-import { AssetGallery } from "@/components/asset-gallery";
+import { Tag } from "@/lib/icons";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { offers } from "@/lib/catalog";
 import { offerStatus } from "@/lib/offer-utils";
 import { directoryMetadata, DirectorySchema } from "@/lib/discovery-seo";
@@ -34,6 +34,7 @@ export default function Deals() {
       </div>
       <AssetGallery
         assets={offers.filter((a) => a.type === "deal")}
+        scope={{ type: "deal" }}
         offerMode="deal"
         heading="Deals Radar"
       />

@@ -1,9 +1,9 @@
-import type { Metadata } from "next";
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import { EngineCompatibilityPanel } from "@/components/engine-compatibility";
 import { PublisherCredit } from "@/components/publisher-credit";
-import { notFound } from "next/navigation";
 import {
   ArrowLeft,
   ArrowUpRight,
@@ -12,8 +12,7 @@ import {
   CalendarBlank,
   Info,
   FolderSimple,
-} from "@phosphor-icons/react/dist/ssr";
-import { assets, getAsset } from "@/lib/catalog";
+} from "@/lib/icons";
 import { formatDate } from "@/lib/catalog-utils";
 import { siteUrl, jsonLd } from "@/lib/site";
 import { FavoriteButton, AssetCard } from "@/components/asset-card";
@@ -21,56 +20,20 @@ import { CollectionPicker } from "@/components/collection-picker";
 import { RadarBadge } from "@/components/radar-badge";
 import { RadarScoreBreakdown } from "@/components/score-breakdown";
 import { AssetBreadcrumb } from "@/lib/discovery-seo";
+import type { CardFreeAsset } from "@/lib/catalog-card";
+import type { Asset } from "@/lib/types";
 
-export const dynamicParams = false;
-export function generateStaticParams() {
-  return assets.map((asset) => ({ id: asset.id }));
-}
-export async function generateMetadata({
-  params,
+// Prerendered HTML remains complete and indexable. A small per-asset record
+// hydrates this shared view instead of copying its entire element tree into
+// every static navigation payload. No full-catalog import belongs here.
+export function FreeAssetView({
+  asset,
+  related,
 }: {
-  params: Promise<{ id: string }>;
-}): Promise<Metadata> {
-  const { id } = await params;
-  const asset = getAsset(id);
-  if (!asset) return {};
-  return {
-    title: `${asset.title} by ${asset.author} | Free ${asset.assetType}`,
-    description: `${asset.summary} ${asset.license} license verified on ${formatDate(asset.verifiedAt)}.`,
-    alternates: { canonical: `/asset/${id}/` },
-    openGraph: {
-      title: `${asset.title} | Game Asset Radar`,
-      description: asset.summary,
-      url: `/asset/${id}/`,
-      images: [
-        { url: asset.preview, width: 800, height: 450, alt: asset.title },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: `${asset.title} | Game Asset Radar`,
-      description: asset.summary,
-      images: [asset.preview],
-    },
-  };
-}
-export default async function AssetPage({
-  params,
-}: {
-  params: Promise<{ id: string }>;
+  asset: Asset;
+  related: CardFreeAsset[];
 }) {
-  const { id } = await params;
-  const asset = getAsset(id);
-  if (!asset) notFound();
-  const related = assets
-    .filter(
-      (a) =>
-        a.id !== asset.id &&
-        a.dimension === asset.dimension &&
-        a.assetType === asset.assetType &&
-        a.categories.some((c) => asset.categories.includes(c)),
-    )
-    .slice(0, 3);
+  const id = asset.id;
   return (
     <>
       <script
@@ -146,8 +109,7 @@ export default async function AssetPage({
           </div>
           <h1>{asset.title}</h1>
           <p className="detail-author">
-            Created by{" "}
-            <PublisherCredit asset={asset} />
+            Created by <PublisherCredit asset={asset} />
           </p>
           <p className="detail-summary">{asset.summary}</p>
           <a
@@ -162,7 +124,10 @@ export default async function AssetPage({
             Download directly from {asset.source}. Support the original creator.
           </span>
           <div className="detail-save-actions">
-            <FavoriteButton asset={asset} large />
+            <FavoriteButton
+              asset={{ id: asset.id, title: asset.title }}
+              large
+            />
             <CollectionPicker assetId={asset.id} />
           </div>
           <div className="detail-verified">

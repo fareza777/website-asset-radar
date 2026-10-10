@@ -9,3 +9,6 @@ coverage/
 test-results/
 playwright-report/
 .cache/
+lib/generated/
+public/_catalog/
+public/_ui/

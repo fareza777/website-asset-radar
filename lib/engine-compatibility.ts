@@ -1,12 +1,12 @@
 import rules from "@/data/engine-formats.json";
-import type { DirectoryAsset } from "./types";
+import type { CardAsset } from "./catalog-card";
 
 export type CompatibilityStatus = "Native" | "Importable" | "Unverified";
 export type EngineCompatibility = { engine: string; status: CompatibilityStatus; formats: string[]; evidenceUrl: string; documentationUrl: string | null; note: string };
 export const mainEngines = ["Unity", "Unreal", "Godot", "GameMaker"];
 
 /** Package evidence takes priority. Publisher tags and a ZIP alone prove neither status. */
-export function compatibilityFor(asset: DirectoryAsset, engine: string): EngineCompatibility {
+export function compatibilityFor(asset: CardAsset, engine: string): EngineCompatibility {
   const formats = asset.formats.map((format) => format.toUpperCase());
   const evidenceUrl = asset.type === "free" ? asset.verificationUrl : asset.canonicalSourceUrl;
   const native = engine === "Unreal" && formats.includes("UNREAL ENGINE") && asset.engines.includes("Unreal") ||
@@ -21,6 +21,6 @@ export function compatibilityFor(asset: DirectoryAsset, engine: string): EngineC
   }
   return { engine, status: "Unverified", formats: [], evidenceUrl, documentationUrl: null, note: "No verified native package or documented supported content format for this engine. Publisher tags and archive extensions alone are insufficient evidence." };
 }
-export function assetCompatibility(asset: DirectoryAsset) {
+export function assetCompatibility(asset: CardAsset) {
   return [...new Set([...mainEngines, ...asset.engines])].map((engine) => compatibilityFor(asset, engine));
 }

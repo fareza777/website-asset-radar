@@ -1,10 +1,12 @@
+"use client";
+
 import Link from "next/link";
 import {
   ArrowLeft,
   ArrowUpRight,
   ShieldCheck,
   Info,
-} from "@phosphor-icons/react/dist/ssr";
+} from "@/lib/icons";
 import type { Promotion } from "@/lib/types";
 import { formatDate } from "@/lib/catalog-utils";
 import { jsonLd, siteUrl } from "@/lib/site";
@@ -75,7 +77,7 @@ export function OfferDetail({ asset }: { asset: Promotion }) {
           <p className="detail-summary">{asset.summary}</p>
           <OfferAvailability asset={asset} />
           <div className="detail-save-actions">
-            <FavoriteButton asset={asset} large />
+            <FavoriteButton asset={{ id: asset.id, title: asset.title }} large />
             <CollectionPicker assetId={asset.id} />
           </div>
           <div className="detail-verified">

@@ -4,7 +4,7 @@ import { Sidebar } from "@/components/sidebar";
 import { Footer } from "@/components/footer";
 import { LibraryProvider } from "@/components/library-provider";
 import { MotionProvider } from "@/components/motion-provider";
-import { assets, collections, directoryAssets } from "@/lib/catalog";
+import { assets, collections } from "@/lib/catalog";
 import { siteDescription, siteName, siteUrl } from "@/lib/site";
 import "./globals.css";
 import "./discovery.css";
@@ -67,7 +67,7 @@ export default function RootLayout({
         <a className="skip-link" href="#main-content">
           Skip to content
         </a>
-        <LibraryProvider ids={directoryAssets.map((asset) => asset.id)}>
+        <LibraryProvider>
           <MotionProvider>
             <Sidebar
               freeCount={assets.length}

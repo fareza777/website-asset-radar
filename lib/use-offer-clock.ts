@@ -22,7 +22,7 @@ function tick() {
 }
 const serverSnapshot = () => null;
 const getSnapshot = () => snapshot;
-export function useOfferClock(offers: Promotion[]) {
+export function useOfferClock(offers: Pick<Promotion, "expiresAt" | "lastChecked">[]) {
   const signature = offers.map(offerDeadline).join(",");
   const subscribe = useCallback(
     (listener: () => void) => {

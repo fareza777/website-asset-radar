@@ -8,8 +8,8 @@ import {
   Cube as CubeIcon,
   ImageSquare as ImageSquareIcon,
   Waveform as WaveformIcon,
-} from "@phosphor-icons/react";
-import type { DirectoryAsset } from "@/lib/types";
+} from "@/lib/icons";
+import type { CardAsset } from "@/lib/catalog-card";
 import { FavoriteButton } from "./favorite-button";
 import { RadarBadge } from "./radar-badge";
 import { OfferCard } from "./offer-card";
@@ -23,7 +23,7 @@ export function AssetCard({
   priority = false,
   preferredEngine,
 }: {
-  asset: DirectoryAsset;
+  asset: CardAsset;
   view?: "grid" | "list";
   priority?: boolean;
   preferredEngine?: string;
@@ -49,7 +49,7 @@ export function AssetCard({
             className="asset-image"
           />
         </Link>
-        <FavoriteButton asset={asset} />
+        <FavoriteButton asset={{ id: asset.id, title: asset.title }} />
         <div className="image-radar-badge">
           <RadarBadge score={asset.radarScore} provisional />
         </div>

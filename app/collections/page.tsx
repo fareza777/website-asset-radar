@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
-import { Stack } from "@phosphor-icons/react/dist/ssr";
+import { Stack } from "@/lib/icons";
 import { CollectionsPreview } from "@/components/collections-preview";
 import { PersonalCollections } from "@/components/personal-collections";
-import { directoryAssets } from "@/lib/catalog";
 
 export const metadata: Metadata = {
   title: "Game asset collections",
@@ -24,7 +23,7 @@ export default function Collections() {
         </p>
       </div>
       <CollectionsPreview all />
-      <PersonalCollections assets={directoryAssets} />
+      <PersonalCollections />
     </>
   );
 }

@@ -11,8 +11,9 @@ import {
   CheckCircle as CheckCircleIcon,
   X as XIcon,
   WarningCircle as WarningCircleIcon,
-} from "@phosphor-icons/react";
+} from "@/lib/icons";
 import { createLibraryStore } from "@/lib/library-store";
+import { catalogIds } from "@/lib/generated/catalog";
 
 type Store = ReturnType<typeof createLibraryStore>;
 type Context = ReturnType<Store["getSnapshot"]> &
@@ -22,13 +23,11 @@ type Context = ReturnType<Store["getSnapshot"]> &
 const LibraryContext = createContext<Context | null>(null);
 
 export function LibraryProvider({
-  ids,
   children,
 }: {
-  ids: string[];
   children: React.ReactNode;
 }) {
-  const [store] = useState(() => createLibraryStore(new Set(ids)));
+  const [store] = useState(() => createLibraryStore(new Set(catalogIds)));
   const snapshot = useSyncExternalStore(
     store.subscribe,
     store.getSnapshot,

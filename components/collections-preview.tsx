@@ -3,7 +3,7 @@ import Link from "next/link";
 import {
   ArrowUpRight as ArrowIcon,
   ArrowRight as ArrowRightIcon,
-} from "@phosphor-icons/react/dist/ssr";
+} from "@/lib/icons";
 import { collections, getAsset } from "@/lib/catalog";
 
 export function CollectionsPreview({ all = false }: { all?: boolean }) {

@@ -1,5 +1,7 @@
+"use client";
+
 import Link from "next/link";
-import { Target as RadarIcon } from "@phosphor-icons/react/dist/ssr";
+import { Target as RadarIcon } from "@/lib/icons";
 import { siteName } from "@/lib/site";
 
 export function Footer() {

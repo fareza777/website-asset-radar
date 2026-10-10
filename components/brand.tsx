@@ -1,4 +1,4 @@
-import { Target as RadarIcon } from "@phosphor-icons/react/dist/ssr";
+import { Target as RadarIcon } from "@/lib/icons";
 import Link from "next/link";
 
 export function Brand({ compact = false }: { compact?: boolean }) {

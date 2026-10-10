@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ShieldCheck, ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
-import { AssetGallery } from "@/components/asset-gallery";
+import { ShieldCheck, ArrowUpRight } from "@/lib/icons";
+import { AssetGallery } from "@/components/catalog-gallery";
 import { assets } from "@/lib/catalog";
 
 export const metadata: Metadata = {
@@ -28,6 +28,7 @@ export default function CC0() {
       </div>
       <AssetGallery
         assets={assets.filter((a) => a.license === "CC0")}
+        scope={{ type: "free", license: "CC0" }}
         initialFilters={{ license: "CC0" }}
         heading="CC0 assets"
       />
