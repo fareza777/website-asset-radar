@@ -44,6 +44,31 @@ for (const value of urls) {
       throw new Error(
         `A promotional price schema could outlive its expiry: ${url.pathname}`,
       );
+    // A compact directory schema must describe the actual prerendered cards,
+    // including their order, rather than a different slice of the source JSON.
+    const visibleAssets = $(".asset-grid article")
+      .toArray()
+      .map((element) =>
+        $(element).find('a[href^="/asset/"]').first().attr("href"),
+      );
+    for (const value of schemas) {
+      const schema = JSON.parse(value);
+      const list = schema.mainEntity;
+      if (
+        schema["@type"] === "CollectionPage" &&
+        list?.["@type"] === "ItemList" &&
+        list.numberOfItems > list.itemListElement.length &&
+        list.itemListElement.length === 12
+      ) {
+        const describedAssets = list.itemListElement.map(
+          (item) => new URL(item.url).pathname,
+        );
+        if (JSON.stringify(describedAssets) !== JSON.stringify(visibleAssets))
+          throw new Error(
+            `Directory structured data differs from visible cards: ${url.pathname}`,
+          );
+      }
+    }
   }
   if (url.pathname.startsWith("/asset/")) {
     const data = $("script[type='application/ld+json']")
@@ -60,12 +85,23 @@ for (const value of urls) {
     assetPages++;
   }
 }
-for (const route of ["/free/", "/free-today/", "/deals/", "/collections/", "/explore/", "/publishers/"])
+for (const route of [
+  "/free/",
+  "/free-today/",
+  "/deals/",
+  "/collections/",
+  "/explore/",
+  "/publishers/",
+])
   if (!urls.some((value) => new URL(value).pathname === route))
     throw new Error(`Missing discovery route: ${route}`);
 const publishers = JSON.parse(await readFile("data/publishers.json", "utf8"));
 for (const publisher of publishers) {
-  if (!urls.some((value) => new URL(value).pathname === `/publisher/${publisher.id}/`))
+  if (
+    !urls.some(
+      (value) => new URL(value).pathname === `/publisher/${publisher.id}/`,
+    )
+  )
     throw new Error(`Missing publisher profile: ${publisher.id}`);
 }
 const favorites = load(

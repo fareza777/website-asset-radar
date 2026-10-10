@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { AssetGallery } from "@/components/catalog-gallery";
 import { assets } from "@/lib/catalog";
 import { categories } from "@/lib/types";
-import { jsonLd, siteUrl } from "@/lib/site";
+import { DirectorySchema } from "@/lib/discovery-seo";
 
 const descriptions: Record<string, string> = {
   RPG: "Build your next quest with free dungeon tiles, fantasy models, characters, and RPG interfaces.",
@@ -54,26 +54,10 @@ export default async function CategoryPage({
   const items = assets.filter((a) => a.categories.includes(name));
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: jsonLd({
-            "@context": "https://schema.org",
-            "@type": "CollectionPage",
-            name: `Free ${name} game assets`,
-            url: `${siteUrl}/category/${category}/`,
-            mainEntity: {
-              "@type": "ItemList",
-              numberOfItems: items.length,
-              itemListElement: items.slice(0, 12).map((a, i) => ({
-                "@type": "ListItem",
-                position: i + 1,
-                url: `${siteUrl}/asset/${a.id}/`,
-                name: a.title,
-              })),
-            },
-          }),
-        }}
+      <DirectorySchema
+        title={`Free ${name} game assets`}
+        path={`/category/${category}/`}
+        assets={items}
       />
       <div className="page-intro">
         <span className="intro-category">EXPLORE {name.toUpperCase()}</span>

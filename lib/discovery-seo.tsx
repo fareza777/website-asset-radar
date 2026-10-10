@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
-import type { DirectoryAsset } from "./types";
+import { defaultFilters, type DirectoryAsset } from "./types";
+import { filterAssets } from "./catalog-utils";
+import { GALLERY_PAGE_SIZE } from "./catalog-discovery";
 import { jsonLd, siteName, siteUrl } from "./site";
 
 export function directoryMetadata(
@@ -55,12 +57,14 @@ export function DirectorySchema({
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: assets.length,
-            itemListElement: assets.slice(0, 12).map((asset, index) => ({
-              "@type": "ListItem",
-              position: index + 1,
-              name: asset.title,
-              url: `${siteUrl}/asset/${asset.id}/`,
-            })),
+            itemListElement: filterAssets(assets, defaultFilters)
+              .slice(0, GALLERY_PAGE_SIZE)
+              .map((asset, index) => ({
+                "@type": "ListItem",
+                position: index + 1,
+                name: asset.title,
+                url: `${siteUrl}/asset/${asset.id}/`,
+              })),
           },
         }),
       }}
