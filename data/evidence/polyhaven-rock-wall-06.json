@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_06",
+  "checkedAt": "2026-10-10T01:51:44.404Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_06",
+  "apiSha256": "280872598870d8e34faa369128f7fbe195a3e740c6fc51a46ceacd08de83d592",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_06/rock_wall_06_diff_1k.jpg",
+  "assetFileMd5": "66e5486d7b8f10471418462152de4319",
+  "assetFileSha256": "6ff65957b03151c25c7a525c78a80041426ed828ec7624c7eed7d832407da42a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rock Wall 06",
+    "categories": [
+      "wall",
+      "dirty",
+      "rock",
+      "outdoor"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "rough",
+      "uneven",
+      "stones",
+      "wall",
+      "rock",
+      "chipped",
+      "rocks",
+      "dry"
+    ],
+    "dimensions": [
+      1309.999942779541,
+      1309.999942779541
+    ],
+    "date_published": 1673481600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "e7530d4aa3803429943bb193c03f1e628161612b",
+    "description": "Free 8K texture of a dry, rough stone wall with uneven, chipped rocks, warm beige-brown tones and a gritty, high-detail surface.",
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "9270d992",
+    "download_count": 23219,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_06.png?width=256&height=256&format=webp&v=9270d992"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/coral_fort_wall_02",
+  "checkedAt": "2026-10-10T01:54:39.453Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/coral_fort_wall_02",
+  "apiSha256": "3113669168ded5826218e45280f1d6ed3ed2493efb3c0dd1130e1a4cd38ff0ae",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coral_fort_wall_02/coral_fort_wall_02_diff_1k.jpg",
+  "assetFileMd5": "faa203913ca4749e79ee05c5af5832dd",
+  "assetFileSha256": "4411870cd45ccf88ca26dda42e33b4aff4430c6f51be322c1a62788ab1fc3c5f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1670284800,
+    "name": "Coral Fort Wall 02",
+    "categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "dirty",
+      "plaster-concrete",
+      "concrete",
+      "plaster"
+    ],
+    "type": 1,
+    "staging": null,
+    "info": null,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      991.7500019073486,
+      991.7501211166382
+    ],
+    "tags": [
+      "ocean",
+      "coral",
+      "fort",
+      "wall",
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "stones",
+      "damaged",
+      "seaside",
+      "chipped",
+      "rock",
+      "coastal"
+    ],
+    "prepaid": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b279820778f1b159379f1ff72e31731dc6864084",
+    "description": "Free 8K texture of a weathered coastal fort wall, rough uneven plaster and coral-studded stone with chips, erosion, dirt and salt-stained detail.",
+    "category_id": "129d72a6-fe3d-5c05-9b24-cc75e89823bf",
+    "category": "Concrete/Plaster & Stucco/Plaster Over Brick & Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "sponsors": [
+      "20953239"
+    ],
+    "img_version": "fa6215de",
+    "download_count": 38799,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coral_fort_wall_02.png?width=256&height=256&format=webp&v=fa6215de"
+  }
+}

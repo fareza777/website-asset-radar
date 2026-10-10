@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/corrugated_iron",
+  "checkedAt": "2026-10-10T01:27:42.698Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/corrugated_iron",
+  "apiSha256": "e4659ad8888d8f79df2b366e08db7339bd02440a951d9ffa8b7563fe12419062",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/corrugated_iron/corrugated_iron_diff_1k.jpg",
+  "assetFileMd5": "fabb629c5ad6f427e6862bb4043564bd",
+  "assetFileSha256": "7f3649dd0d056a55a910146f09b1d5298370696a90f511a255fb4c5715bb4b58",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Corrugated Iron",
+    "categories": [
+      "man made",
+      "roofing",
+      "wall",
+      "metal"
+    ],
+    "type": 1,
+    "info": null,
+    "dimensions": [
+      1120.0000047683716,
+      1120.0000047683716
+    ],
+    "date_published": 1699488000,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "authors": {
+      "Jenelle van Heerden": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "metal",
+      "corrugated",
+      "roof",
+      "roofing",
+      "steel",
+      "metallic",
+      "sheet",
+      "metal sheet",
+      "weathered",
+      "rusty",
+      "iron",
+      "galvanized",
+      "corrugation",
+      "steel sheeting",
+      "rust",
+      "corrugated iron"
+    ],
+    "files_hash": "32412884f4522418b4598d9631610b2331e8ca58",
+    "description": "Free 16K corrugated iron texture - weathered galvanized steel roofing with deep ridges, subtle rust, gritty surface, metallic sheen for roofs/walls.",
+    "category_id": "c10ee76b-cb81-546f-bba9-095bf5a18a6d",
+    "category": "Metal/Sheet & Corrugated/Corrugated Iron",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "rusted"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "99c60d8c",
+    "download_count": 99976,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/corrugated_iron.png?width=256&height=256&format=webp&v=99c60d8c"
+  }
+}

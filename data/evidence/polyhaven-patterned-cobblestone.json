@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_cobblestone",
+  "checkedAt": "2026-10-10T01:33:15.724Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_cobblestone",
+  "apiSha256": "a1e84e75b3a029d56b9abe4df91e2a20da31d814a4d1b24e50bdaf565cad473c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_cobblestone/patterned_cobblestone_diff_1k.jpg",
+  "assetFileMd5": "fc5d962a414e82447b6d3f6e24f2ae1e",
+  "assetFileSha256": "755dd4224a6a901da31fe144c57a426f9aa92516fe72e2aa1617ca802fb25063",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Patterned Cobblestone",
+    "type": 1,
+    "tags": [
+      "uneven",
+      "weathered",
+      "cobblestone",
+      "walkway",
+      "bricks",
+      "pattern",
+      "pavement",
+      "ground",
+      "pathway",
+      "driveway stones",
+      "pavement patterned",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2499.999523162842,
+      2499.999523162842
+    ],
+    "date_published": 1691020800,
+    "staging": null,
+    "categories": [
+      "man made",
+      "outdoor",
+      "cobblestone",
+      "floor",
+      "brick"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b56fd1b5cd5581645f98f645305349d57f42239e",
+    "description": "Free 8K texture of patterned cobblestone: uneven, weathered stone blocks with rough, chipped surfaces, dark mossy joints and subtle dirt for outdoor pavement.",
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "8dac72aa",
+    "download_count": 33046,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_cobblestone.png?width=256&height=256&format=webp&v=8dac72aa"
+  }
+}

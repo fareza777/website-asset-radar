@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Wallpaper002B",
+  "checkedAt": "2026-10-10T01:58:25.959Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Wallpaper002B&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "10340f4d609416c3a27bea03a2454bdb7d3d27148a264f18b242e8be3bb13385",
+  "apiMetadata": {
+    "assetId": "Wallpaper002B",
+    "dataType": "Material",
+    "displayName": "Wallpaper 002 B",
+    "displayCategory": "Wallpaper",
+    "shortLink": "https://ambientcg.com/a/Wallpaper002B",
+    "tags": [
+      "2",
+      "mold",
+      "wallpaper",
+      "woodchip"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Wallpaper002B.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Wallpaper002B.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Wallpaper002B.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Wallpaper002B.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Wallpaper002B.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Wallpaper002B.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Wallpaper002B.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Wallpaper002B.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Wallpaper002B.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Wallpaper002B.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Wallpaper002B.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Wallpaper002B.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Wallpaper002B.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Wallpaper002B.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Wallpaper002B.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Wallpaper002B.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Wallpaper002B.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Wallpaper002B.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Wallpaper002B.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Wallpaper002B.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Wallpaper002B.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Wallpaper002B.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Wallpaper002B.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Wallpaper002B.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_1K-JPG.zip",
+                "fileName": "Wallpaper002B_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_1K-JPG.zip",
+                "size": 6740553,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_2K-JPG.zip",
+                "fileName": "Wallpaper002B_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_2K-JPG.zip",
+                "size": 20176197,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_4K-JPG.zip",
+                "fileName": "Wallpaper002B_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_4K-JPG.zip",
+                "size": 58736892,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_8K-JPG.zip",
+                "fileName": "Wallpaper002B_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_8K-JPG.zip",
+                "size": 191170791,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_1K-PNG.zip",
+                "fileName": "Wallpaper002B_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_1K-PNG.zip",
+                "size": 15553959,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_2K-PNG.zip",
+                "fileName": "Wallpaper002B_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_2K-PNG.zip",
+                "size": 55454311,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_4K-PNG.zip",
+                "fileName": "Wallpaper002B_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_4K-PNG.zip",
+                "size": 203232643,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wallpaper002B_8K-PNG.zip",
+                "fileName": "Wallpaper002B_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wallpaper002B_8K-PNG.zip",
+                "size": 751821948,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-12-18 16:00:00",
+    "earlyReleaseDate": "2022-11-27 18:47:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 15482,
+    "downloadCountMonth": 1361,
+    "downloadCountWeek": 431,
+    "popularityScore": 3.0372352447139375,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_Color.jpg?98690&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_Displacement.jpg?41389&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_NormalDX.jpg?75210&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_Roughness.jpg?73047",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_Color.jpg?83944,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_Displacement.jpg?58458,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_NormalDX.jpg?90728,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wallpaper002B/Wallpaper002B_SQ_Roughness.jpg?65695&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Wallpaper002B.webp",
+  "previewSha256": "e01d193ee578989d4ef44e3e3d8f4f0e5213e65bd6cfcec77796cca3ea4c9ef7",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

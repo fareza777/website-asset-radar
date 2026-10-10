@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mossy_sandstone",
+  "checkedAt": "2026-10-10T01:28:02.565Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mossy_sandstone",
+  "apiSha256": "c35bf5c84fa5183a47f40b8f9b70cfa0e9fda8cb0ca499442b5ebfc80ed7e09a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_sandstone/mossy_sandstone_diff_1k.jpg",
+  "assetFileMd5": "c5fecb142f49694839236182d2449deb",
+  "assetFileSha256": "61ccd3b5ec1f8d27ceee79bef9ced8064c7555570ea53d86ebac35fc337e2997",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Mossy Sandstone",
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "old",
+      "worn",
+      "wall",
+      "mosscovered",
+      "mossy",
+      "mossy ",
+      "outdoor",
+      "rock",
+      "timeworn",
+      "weatherbeaten",
+      "fortress walls",
+      "moss",
+      "rocks"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1889.9996280670166,
+      1889.9996280670166
+    ],
+    "date_published": 1698883200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "787b2e588f6dc6ec9fb0a33333189ddae5627e77",
+    "description": "Free 8K mossy sandstone texture: rough, weathered fortress wall blocks with uneven, timeworn stone and subtle green moss in crevices.",
+    "categories": [
+      "wall",
+      "man made",
+      "sandstone"
+    ],
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "31593055",
+    "download_count": 11491,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mossy_sandstone.png?width=256&height=256&format=webp&v=31593055"
+  }
+}

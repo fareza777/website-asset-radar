@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_05",
+  "checkedAt": "2026-10-10T01:26:42.998Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_05",
+  "apiSha256": "cd032f78c9a836349e25367b7fa283fcf745969c8ee25116312075e25eb61eae",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_05/asphalt_05_diff_1k.jpg",
+  "assetFileMd5": "063c41ec9ae12ba3e684d41971bd9476",
+  "assetFileSha256": "70a7dbe208f8872f6f38ae2e336823fe368688b2f63142584ef7805a3f29960c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Asphalt 05",
+    "categories": [
+      "floor",
+      "asphalt"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "floor",
+      "road",
+      "asphalt",
+      "coarse",
+      "brown",
+      "street",
+      "roadway"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "date_published": 1701129600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "469f692cdaa4323128466d4aa3d59531239e2e82",
+    "description": "Free 8K texture of coarse brown asphalt with a rough, grainy surface, subtle aggregate detail and a matte, weathered finish.",
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "18fc9775",
+    "download_count": 6434,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_05.png?width=256&height=256&format=webp&v=18fc9775"
+  }
+}

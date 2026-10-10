@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wooden_garage_door",
+  "checkedAt": "2026-10-10T01:31:45.440Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wooden_garage_door",
+  "apiSha256": "694da75bd01d411063f794a5dd82807f290daa9412bc4568b04075cceec910f5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wooden_garage_door/wooden_garage_door_diff_1k.jpg",
+  "assetFileMd5": "64682a3d56d94d5f6162ed7ac07be820",
+  "assetFileSha256": "818c0b6fcd0b2166cb2482388c5a469ee9c1650ce5d39598a553b3afac917874",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Wooden Garage Door",
+    "categories": [
+      "man made",
+      "outdoor",
+      "wood"
+    ],
+    "type": 1,
+    "tags": [
+      "worn",
+      "wood",
+      "wooden",
+      "outdoor",
+      "door",
+      "weathered",
+      "wood grain",
+      "stained",
+      "scratched",
+      "weatherbeaten",
+      "discolored"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1979.9997806549072,
+      1979.9997806549072
+    ],
+    "date_published": 1693440000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "adac27d2d94baad539d946706e7e16174cdf6242",
+    "description": "Free 8K wooden garage door texture, dark stained weathered panels with pronounced wood grain, surface scratches, discoloration, worn edges and aged, pyramidal metal studs.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "10ed7d45",
+    "download_count": 37219,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_garage_door.png?width=256&height=256&format=webp&v=10ed7d45"
+  }
+}

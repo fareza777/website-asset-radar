@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_embedded_concrete",
+  "checkedAt": "2026-10-10T01:36:36.376Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_embedded_concrete",
+  "apiSha256": "abd897f461613d6ad7d8762840bbad3b952f01db570ffeb929996a3cdf7622e0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_embedded_concrete/stone_embedded_concrete_diff_1k.jpg",
+  "assetFileMd5": "24ecceb11df669be2375db620fa414fa",
+  "assetFileSha256": "53f89838b79d14c96599f94983e7d33d77166675eb57625ca74de69485db7c8a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1687219200,
+    "name": "Stone Embedded Concrete",
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "rock",
+      "concrete",
+      "stone",
+      "stonework",
+      "dungeon",
+      "castle",
+      "stones",
+      "fortress walls",
+      "cement",
+      "fort",
+      "rocks",
+      "exterior",
+      "coarse"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2009.9999904632568,
+      2009.9999904632568
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "50402c66a708a15a07e5295106af5e0ddb411448",
+    "description": "Free 8K texture: rough, weathered brown concrete with dark, irregular stones embedded, coarse mortar, high-relief surface and worn edges.",
+    "categories": [
+      "outdoor",
+      "wall",
+      "man made",
+      "cobblestone"
+    ],
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "d3f9cbc7",
+    "download_count": 6792,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_embedded_concrete.png?width=256&height=256&format=webp&v=d3f9cbc7"
+  }
+}

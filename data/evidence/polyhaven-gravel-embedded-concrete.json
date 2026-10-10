@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/gravel_embedded_concrete",
+  "checkedAt": "2026-10-10T01:37:36.316Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/gravel_embedded_concrete",
+  "apiSha256": "f5ecac57f475f58334182af4de7f8e2dc89633a6a6c3dd3e182edb95d9ecb125",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_embedded_concrete/gravel_embedded_concrete_diff_1k.jpg",
+  "assetFileMd5": "d26c9bb1064422c3d9ab609582183c86",
+  "assetFileSha256": "3ea5b493379c4d30c02c04b93361d3e34f91ed04058ffb4ea915702f1cd17049",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Gravel Embedded Concrete",
+    "categories": [
+      "outdoor",
+      "man made",
+      "plaster-concrete",
+      "concrete",
+      "floor"
+    ],
+    "type": 1,
+    "tags": [
+      "pavement",
+      "rough",
+      "concrete",
+      "cement",
+      "gravel",
+      "coarse",
+      "stony",
+      "gravelly",
+      "cemented floor",
+      "floor",
+      "gravelly ground",
+      "gritty"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1686182400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "26820710"
+    ],
+    "files_hash": "6d9294be6494fc3fd1f4d685a3c47ac61a888f5b",
+    "description": "Free 8K texture of gravel-embedded concrete: coarse, gritty cement with scattered small stones, neutral gray-brown tones and pronounced rough surface.",
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "paving",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "caba892c",
+    "download_count": 108955,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_embedded_concrete.png?width=256&height=256&format=webp&v=caba892c"
+  }
+}

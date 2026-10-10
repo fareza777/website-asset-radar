@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/red_sandstone_pavement",
+  "checkedAt": "2026-10-10T01:43:56.495Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/red_sandstone_pavement",
+  "apiSha256": "d1a140d734d137896f557f17159e95e87fe9f01a5c5b5341425846896d8f1994",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_sandstone_pavement/red_sandstone_pavement_diff_1k.jpg",
+  "assetFileMd5": "c2de38e10d06a4576b820af8a474d2b5",
+  "assetFileSha256": "7dcb30ec2a5441232be39f24d701c641f1ed0fc62254c6d2e4f1e173ff755ea3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "weathered",
+      "plaster",
+      "rock",
+      "sandstone",
+      "concrete",
+      "pavement",
+      "floor",
+      "dirty",
+      "discolored",
+      "brown",
+      "red",
+      "rocks",
+      "pathway",
+      "grey"
+    ],
+    "date_published": 1679961600,
+    "name": "Red Sandstone Pavement",
+    "staging": null,
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "dimensions": [
+      2150.0000953674316,
+      2150.0000953674316
+    ],
+    "info": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "32d99d2030a56f578ae8d81e478856ed09a0f2d7",
+    "sponsors": [
+      "3237733"
+    ],
+    "description": "Free 8K texture of red sandstone pavement with weathered, discolored blocks, rough grain and eroded mortar joints, showing grit, dirt and muted red-brown-grey tones.",
+    "categories": [
+      "outdoor",
+      "floor",
+      "sandstone",
+      "man made",
+      "rock"
+    ],
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "05dad87e",
+    "download_count": 24416,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_sandstone_pavement.png?width=256&height=256&format=webp&v=05dad87e"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/clean_pebbles",
+  "checkedAt": "2026-10-10T02:04:31.803Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/clean_pebbles",
+  "apiSha256": "532f63ec255bf0eab70f05b67adde0bf9d0aebbcac0dcfea4db43f04923f1e3a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clean_pebbles/clean_pebbles_diff_1k.jpg",
+  "assetFileMd5": "01c641abeb4d2e1659e280f69a8e6cc7",
+  "assetFileSha256": "902b115c4c0ace069862368b751e4799f338164cee62b53b61df3b6994165d95",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Clean Pebbles",
+    "categories": [
+      "rock",
+      "natural",
+      "outdoor"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "tags": [
+      "rock",
+      "gravel",
+      "pebbles",
+      "stones",
+      "uneven",
+      "path"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1657756800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "7934315"
+    ],
+    "files_hash": "9acc8ceda2e81c3ec20ad6144d88d6c94fa7406d",
+    "description": "Free 8K texture of clean pebble gravel - small rounded stones in earthy brown-gray tones, uneven packed surface with subtle dry sheen and crisp surface detail.",
+    "category_id": "4276b1ed-fbfe-5689-abd6-a58335e780e9",
+    "category": "Ground & Terrain/Gravel & Pebbles/River Pebbles",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "71e43a3a",
+    "download_count": 50041,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clean_pebbles.png?width=256&height=256&format=webp&v=71e43a3a"
+  }
+}

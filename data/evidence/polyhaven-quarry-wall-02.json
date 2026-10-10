@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/quarry_wall_02",
+  "checkedAt": "2026-10-10T01:19:24.935Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/quarry_wall_02",
+  "apiSha256": "daeebbb78d8712b22282bfc15f2373ac72e4afdafdae2647ff8bf11cbfda5338",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/quarry_wall_02/quarry_wall_02_diff_1k.jpg",
+  "assetFileMd5": "a6cff3c95ccd02ebdd806fe01daa4ff4",
+  "assetFileSha256": "7dcaf9d3cb2246106c74e7388a8e4c21b9a44927634f1ad1708ba139af3fa906",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Quarry Wall 02",
+    "categories": [
+      "wall",
+      "outdoor",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "wall",
+      "rock",
+      "quarry",
+      "quarry stone",
+      "rock face",
+      "roughhewn",
+      "solid rock",
+      "mining",
+      "quarrying",
+      "mining site",
+      "stone wall",
+      "stone quarry"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "date_published": 1710201600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "de887111b06488463d4a3d22108d9f78ee295df2",
+    "description": "Free 8K material: rough, layered quarry stone with pronounced horizontal striations, coarse weathered rock surface and muted brown-gray tones.",
+    "category_id": "f2e3fa2c-5ddb-54b9-9e4a-9ba42c7233af",
+    "category": "Stone/Rock & Cliffs/Stratified & Layered Rock",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "4349b50e",
+    "download_count": 6457,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quarry_wall_02.png?width=256&height=256&format=webp&v=4349b50e"
+  }
+}

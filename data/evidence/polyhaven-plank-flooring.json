@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plank_flooring",
+  "checkedAt": "2026-10-10T01:57:47.055Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plank_flooring",
+  "apiSha256": "80b507cf284262b9fef8d96345ad503a10ac5cf3639d867b3d27e0a103e9290f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plank_flooring/plank_flooring_diff_1k.jpg",
+  "assetFileMd5": "cf793f9667740c58d9b882305ea8a9f8",
+  "assetFileSha256": "878c8c3f38ff06a34a59fb38141cedfe9e0b15541179fa1a8e86bec9bfd58209",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Plank Flooring",
+    "categories": [
+      "floor",
+      "wood",
+      "indoor"
+    ],
+    "type": 1,
+    "info": null,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Tiling"
+    },
+    "tags": [
+      "brown",
+      "worn",
+      "dirty",
+      "stained",
+      "damaged",
+      "smooth",
+      "scratched",
+      "floor",
+      "wood",
+      "chipped",
+      "varnished",
+      "flat"
+    ],
+    "dimensions": [
+      1339.9999141693115,
+      1340.0001525878906
+    ],
+    "date_published": 1666224000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d673bae3fc29ad2f41910b88920795221d47ecbd",
+    "description": "Free 8K texture of varnished brown plank flooring with worn, stained and scratched boards, chipped edges and a smooth glossy finish showing dirt and damage.",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "7eae4be9",
+    "download_count": 42246,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plank_flooring.png?width=256&height=256&format=webp&v=7eae4be9"
+  }
+}

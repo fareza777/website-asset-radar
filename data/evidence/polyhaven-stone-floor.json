@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_floor",
+  "checkedAt": "2026-10-10T01:46:11.362Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_floor",
+  "apiSha256": "2f87f3edb98551c1877dac786e5ad7e35b43be3de69140372e302138e9893cfc",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_floor/stone_floor_diff_1k.jpg",
+  "assetFileMd5": "6dff94d7c1da0fd034ba714c249ec72f",
+  "assetFileSha256": "e97eb20c1b7379a0326074991bdd3cb6a15a0af399bb6798a7f814051e0937e7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1678320000,
+    "name": "Stone Floor",
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      1849.9999046325684,
+      1849.9999046325684
+    ],
+    "info": null,
+    "tags": [
+      "rough",
+      "old",
+      "uneven",
+      "worn",
+      "brown",
+      "dirty",
+      "dry",
+      "rock",
+      "floor",
+      "pathway",
+      "paving",
+      "stone",
+      "cobblestone"
+    ],
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "rock",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "582d5abd87d939a6a15b53b816bd82027b04ad1e",
+    "description": "Free 8K texture of old brown cobblestone floor, rough uneven worn stones with dry dirt-filled joints and subtle grime for a weathered paved surface.",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "ae9298d4",
+    "download_count": 10047,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_floor.png?width=256&height=256&format=webp&v=ae9298d4"
+  }
+}

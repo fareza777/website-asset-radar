@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_01",
+  "checkedAt": "2026-10-10T01:59:21.025Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_01",
+  "apiSha256": "09e1e3075dd7437f812f7423b94704378b89e7f752fec7493a41c8de2d59547c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_01/asphalt_01_diff_1k.jpg",
+  "assetFileMd5": "43c88946c38109d77a24456686a376f9",
+  "assetFileSha256": "99b6f6bdfbd09279f3f550ac9593336df541aa2319537566eeb3e737d8512010",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Asphalt 01",
+    "categories": [
+      "asphalt",
+      "floor",
+      "outdoor",
+      "road"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "dirty",
+      "asphalt",
+      "road",
+      "worn"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "info": null,
+    "date_published": 1664841600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      2079.9994468688965,
+      2079.9996852874756
+    ],
+    "files_hash": "61bdb4dc064585ce3e749a4dcaf13216575ae794",
+    "description": "Free 8K asphalt texture: worn, dirty road surface with a coarse, rough aggregate, compacted bumps and subtle grime discoloration.",
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "da942cee",
+    "download_count": 71396,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_01.png?width=256&height=256&format=webp&v=da942cee"
+  }
+}

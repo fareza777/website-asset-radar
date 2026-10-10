@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_cobblestone",
+  "checkedAt": "2026-10-10T01:42:16.261Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_cobblestone",
+  "apiSha256": "c3203dd05f9200ab58ec78cf0c5125d9b78d86fc4da131099ac04e98fad5897c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_cobblestone/square_cobblestone_diff_1k.jpg",
+  "assetFileMd5": "6a20e9bb9389605984b85fa399ad3785",
+  "assetFileSha256": "5fc0d0ab027be077d7dea3b601ce168b4aa909f2f1f4f489dacbf4604049bfe5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1681516800,
+    "name": "Square Cobblestone",
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "weathered",
+      "worn",
+      "chipped",
+      "discolored",
+      "grey",
+      "concrete",
+      "cobblestone",
+      "cement",
+      "dry",
+      "dirty",
+      "pavement",
+      "street"
+    ],
+    "authors": {
+      "Sơn Nguyễn": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "e4ad8dad020e48b6d179024bd541f35f915d91dd",
+    "description": "Free 8K cobblestone texture showcasing grey, weathered concrete squares with chipped edges, dry dirt in joints, subtle discoloration and worn surface details.",
+    "categories": [
+      "outdoor",
+      "rock",
+      "floor",
+      "man made",
+      "cobblestone"
+    ],
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "a33bb853",
+    "download_count": 15913,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_cobblestone.png?width=256&height=256&format=webp&v=a33bb853"
+  }
+}

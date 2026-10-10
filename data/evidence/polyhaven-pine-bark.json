@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pine_bark",
+  "checkedAt": "2026-10-10T01:31:25.611Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pine_bark",
+  "apiSha256": "88689f331119b9f4aa21377eef170f51470e617fde3959ba6e3dfa35d9031471",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pine_bark/pine_bark_diff_1k.jpg",
+  "assetFileMd5": "7bb38cccfc647aeaf2f5b6488c815e75",
+  "assetFileSha256": "89ddfbff0388d30caff902ba600cdf75eb1e651ca71ece6594b5a9b27abb47ab",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Pine Bark",
+    "type": 1,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "date_published": 1693872000,
+    "staging": null,
+    "tags": [
+      "rough",
+      "weathered",
+      "bark",
+      "tree",
+      "tree bark",
+      "pine",
+      "organic"
+    ],
+    "categories": [
+      "natural",
+      "bark",
+      "collection: pine_forest",
+      "wood"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7ba41402f7e7c628e8c9a619dde40d97ba0eb2d4",
+    "description": "Free 8K pine bark texture with rough, weathered, flaky reddish-brown plates and deep dark fissures, offering a coarse, organic, highly detailed surface.",
+    "category_id": "4ae79c17-c41a-51b8-9313-0766fd7f56a3",
+    "category": "Wood/Bark/Conifer Bark",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "56f8a673",
+    "download_count": 62767,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_bark.png?width=256&height=256&format=webp&v=56f8a673"
+  }
+}

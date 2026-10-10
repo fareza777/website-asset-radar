@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/laminate_floor_02",
+  "checkedAt": "2026-10-10T01:55:11.904Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/laminate_floor_02",
+  "apiSha256": "30cf150092227e28ef65de7d781af30bcf47a6a7ad6b0218f3b489632b8b59ff",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/laminate_floor_02/laminate_floor_02_diff_1k.jpg",
+  "assetFileMd5": "34ab81c5882c1083028ffa71d40fe44d",
+  "assetFileSha256": "c112a8fb107d8600a2974af2f9fa9b595c491a33a59982e22706e9650990bf8f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1669680000,
+    "name": "Laminate Floor 02",
+    "categories": [
+      "floor",
+      "man made",
+      "indoor",
+      "clean",
+      "wood"
+    ],
+    "type": 1,
+    "staging": null,
+    "info": null,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "photography"
+    },
+    "tags": [
+      "even",
+      "flat",
+      "wooden",
+      "floor",
+      "laminate",
+      "smooth",
+      "tiles",
+      "brown",
+      "wood",
+      "planks"
+    ],
+    "dimensions": [
+      1699.9999284744263,
+      1700.0000476837158
+    ],
+    "sponsors": [
+      "78546118"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c5bf4f78e51905d1dc9c8b408abedc65b1933483",
+    "description": "Free 8K laminate floor texture. Smooth, even brown wood-plank material with subtle grain, light satin sheen and fine seams, clean indoor appearance.",
+    "category_id": "acb42532-cb6a-5b57-9270-286d028f3a4c",
+    "category": "Wood/Engineered Wood/Laminate",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "setting": "indoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "ac2f3a73",
+    "download_count": 504270,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/laminate_floor_02.png?width=256&height=256&format=webp&v=ac2f3a73"
+  }
+}

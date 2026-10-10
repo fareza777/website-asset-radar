@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/gravel_concrete_02",
+  "checkedAt": "2026-10-10T01:56:52.136Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/gravel_concrete_02",
+  "apiSha256": "b10f8ab795674dae837357304c2d6a27a591d242d39ca18486774229afd17b13",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_concrete_02/gravel_concrete_02_diff_1k.jpg",
+  "assetFileMd5": "e3584f1bb6ee4f2f560097726f8a238e",
+  "assetFileSha256": "33b2e975dee169d7c8e994415d3957d6c311698f72106ac664880d9e0b5021bf",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Gravel Concrete 02",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "rough",
+      "uneven",
+      "stones",
+      "ground",
+      "chipped",
+      "pavement",
+      "pebble",
+      "gravel"
+    ],
+    "dimensions": [
+      2099.9996662139893,
+      2099.9999046325684
+    ],
+    "date_published": 1667433600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "77f102b55e9c42b706da9a61cfd0e688a34fb08e",
+    "description": "Free 8K texture of rough, uneven concrete with exposed pebbles and chips - brown-gray gravel surface with coarse, matte grain.",
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1508ae38",
+    "download_count": 13303,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_concrete_02.png?width=256&height=256&format=webp&v=1508ae38"
+  }
+}

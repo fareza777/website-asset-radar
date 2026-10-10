@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_brick_floor",
+  "checkedAt": "2026-10-10T01:31:55.768Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_brick_floor",
+  "apiSha256": "7dc110c1262d4425ac7c06894f05c1f6d9b1a6e2d1e4600c26aa08fbfa8625b2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_brick_floor/patterned_brick_floor_diff_1k.jpg",
+  "assetFileMd5": "f07e46b0121c0be5be51ac8a66c88c52",
+  "assetFileSha256": "5825486c31cd54be219ce98280a614e9dfc7080a8cf0b39edab71e12272aa2d9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Patterned Brick Floor",
+    "categories": [
+      "man made",
+      "outdoor",
+      "floor"
+    ],
+    "type": 1,
+    "tags": [
+      "bricks",
+      "gray",
+      "grey",
+      "concrete",
+      "pattern",
+      "pavement patterned",
+      "walkway"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1810.9997510910034,
+      1810.9997510910034
+    ],
+    "date_published": 1693267200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "63494a0e4843398bd640beadfdd19d9745e37fad",
+    "description": "Free 8K texture: patterned gray concrete brick pavement with staggered rectangular blocks, fine gritty surface, subtle weathering and recessed grout lines.",
+    "category_id": "92b71894-91d3-5943-a35a-29645474eb3b",
+    "category": "Brick & Block/Concrete Block & Paver/Concrete Brick",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "c7e43138",
+    "download_count": 57179,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_brick_floor.png?width=256&height=256&format=webp&v=c7e43138"
+  }
+}

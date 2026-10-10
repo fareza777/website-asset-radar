@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pavement_04",
+  "checkedAt": "2026-10-10T01:41:46.172Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pavement_04",
+  "apiSha256": "f5a0f05af7afea1d19f93625f826b04ca4bf542d159be32113ee1f30fe064095",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_04/pavement_04_diff_1k.jpg",
+  "assetFileMd5": "bdc052ff6026805d68a43cc8cd8fe3fc",
+  "assetFileSha256": "b523617cd1add687f12caac776c29ef7bf943fa1b70bcc1adaab20e4277ca0da",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1681948800,
+    "name": "Pavement 04",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "brick"
+    ],
+    "type": 1,
+    "staging": null,
+    "info": null,
+    "dimensions": [
+      3099.9999046325684,
+      3099.9999046325684
+    ],
+    "tags": [
+      "grey",
+      "brick",
+      "bricks",
+      "pavement",
+      "floor",
+      "sidewalk",
+      "dry",
+      "synthetic"
+    ],
+    "authors": {
+      "Jan Burghardt": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "ec2841c9caa9dbd70bcbb6cd8103b449ff5ad2fa",
+    "description": "Free 8K texture of dark grey rectangular pavement bricks with tight mortar joints, subtle granular surface and low sheen, slightly rough and dry.",
+    "category_id": "92b71894-91d3-5943-a35a-29645474eb3b",
+    "category": "Brick & Block/Concrete Block & Paver/Concrete Brick",
+    "attributes": {
+      "surface_use": "paving",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "40b562a0",
+    "download_count": 44812,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_04.png?width=256&height=256&format=webp&v=40b562a0"
+  }
+}

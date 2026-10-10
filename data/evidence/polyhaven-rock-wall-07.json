@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_07",
+  "checkedAt": "2026-10-10T01:38:26.740Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_07",
+  "apiSha256": "c7f37594f95d6007b80f8d84ea94364226182bbd87755cbd963041f306929621",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_07/rock_wall_07_diff_1k.jpg",
+  "assetFileMd5": "5c979876b1674e889b77d81754852cca",
+  "assetFileSha256": "84403cd378424f04e3a9dbd77b6c00b8c70b7f245a24bb237151bd4dac73c624",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rock Wall 07",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "wall",
+      "worn",
+      "rock",
+      "concrete",
+      "exterior",
+      "stone",
+      "rocks",
+      "dungeon",
+      "castle",
+      "fortress walls"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1799.9999523162842,
+      1799.9999523162842
+    ],
+    "date_published": 1685404800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "74a59e262cb28acca647005a87442efcf7e84cef",
+    "description": "Free 8K texture of rough, weathered stone blocks with dark mortar, worn surfaces, gritty rock detail with a unique red and grey color pattern.",
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2b883f74",
+    "download_count": 8080,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_07.png?width=256&height=256&format=webp&v=2b883f74"
+  }
+}

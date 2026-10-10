@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/double_brick_floor",
+  "checkedAt": "2026-10-10T01:40:16.736Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/double_brick_floor",
+  "apiSha256": "631002b379a714fcf8a45d2bb385034b64819cbb52a1b5177cdc071ff8a94c33",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/double_brick_floor/double_brick_floor_diff_1k.jpg",
+  "assetFileMd5": "2c4c0cd73f0561fdbf4f26a9e09e27c1",
+  "assetFileSha256": "851bc9d8b540e4ae337e8fbe28fe166c4d96ebb63525ef07629eac0f106fc72d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Double Brick Floor",
+    "categories": [
+      "man made",
+      "plaster-concrete",
+      "brick"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "chipped",
+      "cracked",
+      "worn",
+      "brick",
+      "bricks",
+      "pattern",
+      "floor",
+      "red brick",
+      "damaged",
+      "scratched"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2159.9998474121094,
+      2159.9998474121094
+    ],
+    "date_published": 1683590400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "39195306149b9a990f366734dbbb8faf36635d17",
+    "description": "Free 8K texture of double-pattern red brick floor with rough, uneven, chipped and cracked surfaces, weathered scratches and worn mortar detail.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "cracked",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7dc5b64f",
+    "download_count": 14598,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/double_brick_floor.png?width=256&height=256&format=webp&v=7dc5b64f"
+  }
+}

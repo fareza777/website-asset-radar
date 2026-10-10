@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/weathered_planks",
+  "checkedAt": "2026-10-10T01:56:22.698Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/weathered_planks",
+  "apiSha256": "cf0846cb46616aee69fade018ebaa2146b6fe5e7c09508df4a3efc8d8dff1d4b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_diff_1k.jpg",
+  "assetFileMd5": "5d7c9e7088bfa54490ba03ba15b660d8",
+  "assetFileSha256": "01c9a372cfd7a7bf471b59c2458ed3ccecc93448aebf7ba0cc5b3b5b6ed24349",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Weathered Planks",
+    "categories": [
+      "outdoor",
+      "wood",
+      "man made",
+      "wall",
+      "floor"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "wood",
+      "wooden",
+      "bridge",
+      "planks",
+      "old",
+      "weathered",
+      "worn",
+      "damaged",
+      "discolored",
+      "chipped",
+      "stained",
+      "wall",
+      "brown",
+      "cracked",
+      "cabin"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1668470400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d1e9bc9a7a2bfc0d2bd642a7bc18519b539e6339",
+    "description": "Free 8K texture of weathered wooden planks. Dark brown, cracked and chipped boards with nail holes, stains, worn grain and a rough, matte surface.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4cc09f3a",
+    "download_count": 139950,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weathered_planks.png?width=256&height=256&format=webp&v=4cc09f3a"
+  }
+}

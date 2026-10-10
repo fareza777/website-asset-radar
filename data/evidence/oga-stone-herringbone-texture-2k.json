@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-stone-herringbone-texture-2k",
+  "sourceUrl": "https://opengameart.org/content/stone-herringbone-texture-2k",
+  "checkedAt": "2026-10-10T02:03:01.196Z",
+  "httpStatus": 200,
+  "pageSha256": "18a1cc4a205520e871ae2339fc4e5764e40523fc6e4b91d6c6b9a7294aa0a34a",
+  "title": "Stone Herringbone Texture (2K)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Stone Herringbone Texture (2K) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/stone-herringbone-texture-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/herringbone1_2.png",
+    "https://opengameart.org/sites/default/files/herringbone2_2.png",
+    "https://opengameart.org/sites/default/files/herringbone3_2.png",
+    "https://opengameart.org/sites/default/files/herringbone4_0.png",
+    "https://opengameart.org/sites/default/files/herringbone5_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/herringbone1_2.png",
+  "downloadSha256": "2f8bba73bc96e6caf190f6d250f23f836c301369f91ad85daf59a13fd8c1f779",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "herringbone1_2.png",
+  "previewSha256": "2f8bba73bc96e6caf190f6d250f23f836c301369f91ad85daf59a13fd8c1f779",
+  "sourceTags": [
+    "seamless",
+    "stone",
+    "handpainted"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

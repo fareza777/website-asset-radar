@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tileset-templates",
+  "sourceUrl": "https://opengameart.org/content/tileset-templates",
+  "checkedAt": "2026-10-10T01:59:37.979Z",
+  "httpStatus": 200,
+  "pageSha256": "1c9d793b26ee8387a38a812435ba4824d77b91e9dc6c5a5c34f4fca409930f89",
+  "title": "Tileset Templates",
+  "authors": [
+    "Wisp0468"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Tileset Templates by Wisp0468. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tileset-templates Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tileset_templates.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tileset_templates.zip",
+  "downloadSha256": "8a9dc34316a2c846c2c9575941976f28797b81cb34b891cda3eeeb7839b2a351",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 21,
+  "licenseFiles": [],
+  "previewFile": "Tileset Templates/connected.png",
+  "previewSha256": "c762c1e42c0222df24b6a627fd05289fbf677bff0f9a828c5e92e61aae964185",
+  "sourceTags": [
+    "tileset",
+    "tilemap",
+    "template",
+    "blob",
+    "Wang",
+    ".ase",
+    ".aseprite",
+    ".png",
+    "32x32"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

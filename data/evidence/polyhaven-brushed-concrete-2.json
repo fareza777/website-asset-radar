@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brushed_concrete_2",
+  "checkedAt": "2026-10-10T02:03:32.098Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brushed_concrete_2",
+  "apiSha256": "dc6dea1e16e4be21a9b48481fb364e008e8b61b62a8148e3f9df93c17a776151",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brushed_concrete_2/brushed_concrete_2_diff_1k.jpg",
+  "assetFileMd5": "a8dcaf190900eff56de4571eef76cb7d",
+  "assetFileSha256": "3c4b7acbf49294c93284df8448e77f388fce6cb647167a390e95f407d0692afd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1658966400,
+    "name": "Brushed Concrete 2",
+    "categories": [
+      "man made",
+      "dirty",
+      "concrete",
+      "floor",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "rough",
+      "weathered",
+      "dirty",
+      "discolored",
+      "ground",
+      "stained",
+      "floor"
+    ],
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "sponsors": [
+      "4047949",
+      "59361351",
+      "4714267"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1d00f56534971001f7f99d12209cd2685d7024c0",
+    "description": "Free 8K texture of rough, brushed concrete with weathered discoloration, dirt, stains and subtle tool marks - a matte, gritty plaster/concrete surface.",
+    "category_id": "8e19ddef-056e-5554-834d-2fd52f1c17f7",
+    "category": "Concrete/Cast Walls & Floors/Trowel & Brushed Finish",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "96eea2fc",
+    "download_count": 29674,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brushed_concrete_2.png?width=256&height=256&format=webp&v=96eea2fc"
+  }
+}

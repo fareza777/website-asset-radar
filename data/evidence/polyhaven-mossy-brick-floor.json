@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mossy_brick_floor",
+  "checkedAt": "2026-10-10T01:36:26.583Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mossy_brick_floor",
+  "apiSha256": "2bebb2e199c700e85d18b9df9f6539d7fec5d2e62f70d68d49e49d64745a9f48",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_brick_floor/mossy_brick_floor_diff_1k.jpg",
+  "assetFileMd5": "0e39c53e86aec269c3a670f998a50304",
+  "assetFileSha256": "f452d2e71989f7c997bc49a485ec3c84dc78f0b55d80598a98c5861a03cfcacd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "weathered",
+      "worn",
+      "brick",
+      "bricks",
+      "moss",
+      "pattern",
+      "outdoor",
+      "worndown",
+      "paving",
+      "herringbone",
+      "outdoor flooring",
+      "pavement patterned"
+    ],
+    "date_published": 1687392000,
+    "name": "Mossy Brick Floor",
+    "categories": [
+      "floor",
+      "brick",
+      "man made"
+    ],
+    "staging": null,
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1880.000114440918,
+      1879.9999952316284
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c7c735e00a2d6d3d45ee25040c9b5ee26189ace7",
+    "description": "Free 8K mossy brick floor texture: weathered herringbone red-brown bricks with worn edges, rough uneven surface, recessed joints and subtle patches of green moss.",
+    "category_id": "fd95b70a-91f7-556e-a9d5-e1d6fe6637be",
+    "category": "Brick & Block/Clay Brick/Herringbone",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "15dd7a04",
+    "download_count": 9235,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mossy_brick_floor.png?width=256&height=256&format=webp&v=15dd7a04"
+  }
+}

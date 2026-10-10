@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_03",
+  "checkedAt": "2026-10-10T01:48:31.510Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_03",
+  "apiSha256": "f2b024d265e9ae3f4a53e34bae1c9a1782984176be28c9c68424e6b12b6d1028",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_03/asphalt_03_diff_1k.jpg",
+  "assetFileMd5": "1dba74b167b3d8460717776b22ca42c5",
+  "assetFileSha256": "95ad02e2631c41cf9fdd6a37596cf75adb4fb8a8b6880567cc78ed1c41dc5681",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Asphalt 03",
+    "categories": [
+      "outdoor",
+      "man made",
+      "dirty",
+      "road",
+      "asphalt"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "worn",
+      "dirty",
+      "floor",
+      "road",
+      "asphalt",
+      "city",
+      "urban"
+    ],
+    "info": null,
+    "dimensions": [
+      2049.999713897705,
+      2049.999713897705
+    ],
+    "date_published": 1675900800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "43fb4f1e6c03b6cff2ae0783f403d5b9e52268be",
+    "description": "Free 8K worn asphalt texture with rough, matte surface, fine granular grit and subtle dirt staining across a dark brown-black urban road material.",
+    "authors": {
+      "Dario Barresi": "processing",
+      "Charlotte Baglioni": "photography"
+    },
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "277de809",
+    "download_count": 14249,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_03.png?width=256&height=256&format=webp&v=277de809"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bark_willow",
+  "checkedAt": "2026-10-10T01:56:32.011Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bark_willow",
+  "apiSha256": "4d53c8ecba570ef61a0b7a209be0ece7b7c67a57ca550d78863cf687e51f9767",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_diff_1k.jpg",
+  "assetFileMd5": "792d4f8467fe360092eee335ee60b698",
+  "assetFileSha256": "c7de3072c2320934a3d9f5bc6c9cb58819952c0b3bd04f4e71b24cf89dbb6ad6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Bark Willow",
+    "categories": [
+      "outdoor",
+      "natural",
+      "bark",
+      "wood"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "willow",
+      "bark",
+      "tree",
+      "forest",
+      "nature",
+      "brown",
+      "uneven",
+      "sallow",
+      "osier",
+      "old",
+      "wood",
+      "woodland"
+    ],
+    "info": null,
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "date_published": 1668038400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "787f334e5485184b67ffa509aeefed5a25f9be34",
+    "description": "Free 8K texture of willow bark, dark brown and sallow with deep fibrous furrows, rough uneven ridges and a coarse wooden surface.",
+    "category_id": "fc8dd00d-a670-5b83-af7f-2281cb9ca987",
+    "category": "Wood/Bark/Fissured Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "34bc8448",
+    "download_count": 120838,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_willow.png?width=256&height=256&format=webp&v=34bc8448"
+  }
+}

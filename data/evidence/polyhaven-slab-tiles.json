@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/slab_tiles",
+  "checkedAt": "2026-10-10T01:58:13.931Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/slab_tiles",
+  "apiSha256": "097ce6741730d5fa76593dfc6b7e4a93818d3e1e86fb7ff122ae0fdef3405647",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/slab_tiles/slab_tiles_diff_1k.jpg",
+  "assetFileMd5": "88b8678fc27d9faf1d25c7530ac19b48",
+  "assetFileSha256": "e92e60c242e6de1c758419ff04eae005524a09ca0ea4e574fd911586a35e796c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1666051200,
+    "name": "Slab Tiles",
+    "categories": [
+      "floor",
+      "man made",
+      "rock",
+      "indoor"
+    ],
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "info": null,
+    "dimensions": [
+      2369.999885559082,
+      2370.000123977661
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "tags": [
+      "flat",
+      "rocks",
+      "smooth",
+      "floor",
+      "stone",
+      "slates",
+      "tiles"
+    ],
+    "files_hash": "7ff1c0a5b9538fa9feaada26c38e88448de789d4",
+    "description": "Free 8K texture of dark slate slab tiles with brown mortar; smooth, slightly worn stone with a low-gloss, reflective finish.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "575c51ba",
+    "download_count": 59181,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slab_tiles.png?width=256&height=256&format=webp&v=575c51ba"
+  }
+}

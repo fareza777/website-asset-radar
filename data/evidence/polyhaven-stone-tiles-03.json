@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_tiles_03",
+  "checkedAt": "2026-10-10T01:41:26.110Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_tiles_03",
+  "apiSha256": "30d41429e22464185c01a7e29822cdfd4a2ad71656a866a29297c3440368e736",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tiles_03/stone_tiles_03_diff_1k.jpg",
+  "assetFileMd5": "4330082c84aca4a7717c78f6c5f74def",
+  "assetFileSha256": "e2fbb407d57182cdc50704659a0bc07e4d83677fed54b1c202018898d37a3509",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Stone Tiles 03",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "dirty",
+      "stones",
+      "dirt",
+      "leaves",
+      "pathway",
+      "rocks",
+      "worn",
+      "floor",
+      "walkway"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1919.9998378753662,
+      1919.9998378753662
+    ],
+    "date_published": 1682208000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5274d05ab272fbf81afe0cd0375dbe0210719068",
+    "description": "Free 8K texture of weathered stone tiles with rough, worn cobblestones, dirt and moss-filled joints, scattered leaf debris and gritty, aged surface detail.",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "0ab7f795",
+    "download_count": 24803,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_tiles_03.png?width=256&height=256&format=webp&v=0ab7f795"
+  }
+}

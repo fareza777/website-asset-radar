@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/laminate_floor_03",
+  "checkedAt": "2026-10-10T01:54:19.251Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/laminate_floor_03",
+  "apiSha256": "8d672510238059c1796ef2d1eb58e3437ee6fa43efe43665a1ce2a976a7890b0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/laminate_floor_03/laminate_floor_03_diff_1k.jpg",
+  "assetFileMd5": "9ad312ee93c5374713fcc14fa98e87e6",
+  "assetFileSha256": "ce2813cdc714fc5a2d816c9b79a0b4aece71c8d5bf56db52331cf413d950eae3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Laminate Floor 03",
+    "categories": [
+      "man made",
+      "floor",
+      "wood"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "flat",
+      "planks",
+      "wood",
+      "floor",
+      "even",
+      "lines",
+      "synthetic",
+      "varnished",
+      "wooden"
+    ],
+    "dimensions": [
+      2079.9996852874756,
+      2079.9996852874756
+    ],
+    "date_published": 1670889600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "60bb44415037f5874fd9294579d5709bd104d405",
+    "description": "Free 8K texture: varnished laminate planks with warm oak tones, subtle knots, tight seams and a smooth low-gloss synthetic finish.",
+    "category_id": "acb42532-cb6a-5b57-9270-286d028f3a4c",
+    "category": "Wood/Engineered Wood/Laminate",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "9a961a6b",
+    "download_count": 140849,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/laminate_floor_03.png?width=256&height=256&format=webp&v=9a961a6b"
+  }
+}

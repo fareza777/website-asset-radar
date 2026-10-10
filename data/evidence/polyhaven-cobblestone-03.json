@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/cobblestone_03",
+  "checkedAt": "2026-10-10T01:28:42.651Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/cobblestone_03",
+  "apiSha256": "35601b88426b40c97bcd516f5abb6a808e29b4c3a52040aaaaf8c4a7f97dbbe4",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_03/cobblestone_03_diff_1k.jpg",
+  "assetFileMd5": "b8628f730e819f80da9afdd88bebe2b8",
+  "assetFileSha256": "1536fe2ac9596d50ca77beb3a7528ecd120662dfac0fa4ea3134e25d7af8b6aa",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Cobblestone 03",
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "concrete",
+      "cobblestone",
+      "walkway",
+      "pavement",
+      "outdoor",
+      "floor",
+      "outdoor flooring",
+      "pavement patterned"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "date_published": 1697673600,
+    "staging": null,
+    "categories": [
+      "floor",
+      "man made",
+      "dirty",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "e792e3fc8796341f183821ee88cb5973886b71de",
+    "description": "Free 8K texture of weathered concrete cobblestone: rough square pavers with deep dark grout, dusty outdoor pavement showing worn, uneven surface detail.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "64883406",
+    "download_count": 20826,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_03.png?width=256&height=256&format=webp&v=64883406"
+  }
+}

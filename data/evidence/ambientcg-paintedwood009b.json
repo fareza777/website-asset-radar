@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/PaintedWood009B",
+  "checkedAt": "2026-10-10T01:30:58.889Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=PaintedWood009B&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "bc573d5edaedc7d26a1ee71f4a0db2c1ac64365ca9c5b75f66556b549d848652",
+  "apiMetadata": {
+    "assetId": "PaintedWood009B",
+    "dataType": "Material",
+    "displayName": "Painted Wood 009 B",
+    "displayCategory": "Painted Wood",
+    "shortLink": "https://ambientcg.com/a/PaintedWood009B",
+    "tags": [
+      "9",
+      "green",
+      "painted",
+      "scratched",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/PaintedWood009B.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/PaintedWood009B.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/PaintedWood009B.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/PaintedWood009B.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/PaintedWood009B.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/PaintedWood009B.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/PaintedWood009B.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/PaintedWood009B.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/PaintedWood009B.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/PaintedWood009B.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/PaintedWood009B.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/PaintedWood009B.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/PaintedWood009B.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/PaintedWood009B.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/PaintedWood009B.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/PaintedWood009B.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/PaintedWood009B.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/PaintedWood009B.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/PaintedWood009B.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/PaintedWood009B.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/PaintedWood009B.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PaintedWood009B.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/PaintedWood009B.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/PaintedWood009B.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_1K-JPG.zip",
+                "fileName": "PaintedWood009B_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_1K-JPG.zip",
+                "size": 7672920,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_2K-JPG.zip",
+                "fileName": "PaintedWood009B_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_2K-JPG.zip",
+                "size": 28088504,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_4K-JPG.zip",
+                "fileName": "PaintedWood009B_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_4K-JPG.zip",
+                "size": 108366511,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_8K-JPG.zip",
+                "fileName": "PaintedWood009B_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_8K-JPG.zip",
+                "size": 456765522,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_1K-PNG.zip",
+                "fileName": "PaintedWood009B_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_1K-PNG.zip",
+                "size": 17008593,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_2K-PNG.zip",
+                "fileName": "PaintedWood009B_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_2K-PNG.zip",
+                "size": 64836722,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_4K-PNG.zip",
+                "fileName": "PaintedWood009B_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_4K-PNG.zip",
+                "size": 252679680,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedWood009B_8K-PNG.zip",
+                "fileName": "PaintedWood009B_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedWood009B_8K-PNG.zip",
+                "size": 976252963,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-06-14 10:00:00",
+    "earlyReleaseDate": "2023-06-07 10:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 13978,
+    "downloadCountMonth": 1023,
+    "downloadCountWeek": 295,
+    "popularityScore": 3.1969581694763667,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_Color.jpg?92758&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_Displacement.jpg?27449&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_NormalDX.jpg?53831&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_Roughness.jpg?3113&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_AmbientOcclusion.jpg?1465",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_Color.jpg?52644,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_Displacement.jpg?33300,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_NormalDX.jpg?11524,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_Roughness.jpg?34785,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedWood009B/PaintedWood009B_SQ_AmbientOcclusion.jpg?27013&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PaintedWood009B.webp",
+  "previewSha256": "9408faace90bbbf1f65f11c2fd25e77ba05101c573a4f413e6eaabde5aa05d84",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

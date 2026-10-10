@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/cobblestone_embedded_asphalt",
+  "checkedAt": "2026-10-10T01:18:31.257Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/cobblestone_embedded_asphalt",
+  "apiSha256": "d276b49f61d472ea88e7bc3ecd44805e9f3a077a90989b7a15acbf1b32bfbd62",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_embedded_asphalt/cobblestone_embedded_asphalt_diff_1k.jpg",
+  "assetFileMd5": "1594fa367780bb31e00279304f38f4ac",
+  "assetFileSha256": "49d9a469c471798747e3d62efd65a806002c64bd91a196e2f04d9d1cb4c33212",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Cobblestone Embedded Asphalt",
+    "categories": [
+      "floor",
+      "man made",
+      "asphalt"
+    ],
+    "type": 1,
+    "tags": [
+      "rocks",
+      "asphalt",
+      "rocky",
+      "stone",
+      "coarse",
+      "gravelly",
+      "gravelly ground",
+      "gritty texture",
+      "rough",
+      "gravelly texture",
+      "rugged"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "staging": null,
+    "dimensions": [
+      1899.999976158142,
+      1899.999976158142
+    ],
+    "date_published": 1710969949,
+    "files_hash": "149d271ee8b5d3d09e518cec5ff37ed8c643fa12",
+    "description": "Free 16K texture of rough uneven cobblestones embedded in a grimy asphalt surface.",
+    "category_id": "e9a8aa14-832b-50b9-bda6-23df093c0caa",
+    "category": "Asphalt & Bitumen/Asphalt/Aggregate-Embedded Asphalt",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1313a5f7",
+    "download_count": 7466,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_embedded_asphalt.png?width=256&height=256&format=webp&v=1313a5f7"
+  }
+}

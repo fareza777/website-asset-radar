@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Bamboo002A",
+  "checkedAt": "2026-10-10T01:51:22.162Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Bamboo002A&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "bc2a5fec80722968445627592c00e0e949e7239c547508193f0d8b9eb22b3a94",
+  "apiMetadata": {
+    "assetId": "Bamboo002A",
+    "dataType": "Material",
+    "displayName": "Bamboo 002 A",
+    "displayCategory": "Bamboo",
+    "shortLink": "https://ambientcg.com/a/Bamboo002A",
+    "tags": [
+      "2",
+      "bamboo",
+      "green",
+      "wall",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Bamboo002A.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Bamboo002A.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Bamboo002A.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Bamboo002A.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Bamboo002A.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Bamboo002A.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Bamboo002A.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Bamboo002A.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Bamboo002A.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Bamboo002A.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Bamboo002A.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Bamboo002A.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Bamboo002A.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Bamboo002A.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Bamboo002A.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Bamboo002A.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Bamboo002A.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Bamboo002A.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Bamboo002A.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Bamboo002A.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Bamboo002A.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Bamboo002A.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Bamboo002A.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Bamboo002A.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_1K-JPG.zip",
+                "fileName": "Bamboo002A_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_1K-JPG.zip",
+                "size": 5375667,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_2K-JPG.zip",
+                "fileName": "Bamboo002A_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_2K-JPG.zip",
+                "size": 15615406,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_4K-JPG.zip",
+                "fileName": "Bamboo002A_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_4K-JPG.zip",
+                "size": 55865709,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_8K-JPG.zip",
+                "fileName": "Bamboo002A_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_8K-JPG.zip",
+                "size": 229711451,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_1K-PNG.zip",
+                "fileName": "Bamboo002A_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_1K-PNG.zip",
+                "size": 13235125,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_2K-PNG.zip",
+                "fileName": "Bamboo002A_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_2K-PNG.zip",
+                "size": 47098165,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_4K-PNG.zip",
+                "fileName": "Bamboo002A_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_4K-PNG.zip",
+                "size": 181391716,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Bamboo002A_8K-PNG.zip",
+                "fileName": "Bamboo002A_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Bamboo002A_8K-PNG.zip",
+                "size": 740902163,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-01-27 08:30:00",
+    "earlyReleaseDate": "2023-01-14 11:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 10283,
+    "downloadCountMonth": 944,
+    "downloadCountWeek": 305,
+    "popularityScore": 2.4049553657470724,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 260,
+    "dimensionY": 260,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Color.jpg?71532&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Displacement.jpg?46121&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_NormalDX.jpg?99455&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Roughness.jpg?27771&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Opacity.jpg?71172&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_AmbientOcclusion.jpg?22147",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Color.jpg?34128,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Displacement.jpg?42315,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_NormalDX.jpg?9414,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Roughness.jpg?40332,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_Opacity.jpg?10101,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bamboo002A/Bamboo002A_SQ_AmbientOcclusion.jpg?52725&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Bamboo002A.webp",
+  "previewSha256": "7aab4a03d7da40399349341c22047d31d3c39cba2951c37cfd2fc05f7b914a77",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

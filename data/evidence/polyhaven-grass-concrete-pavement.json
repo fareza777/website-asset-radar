@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grass_concrete_pavement",
+  "checkedAt": "2026-10-10T01:34:35.815Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grass_concrete_pavement",
+  "apiSha256": "b7f748ee1668f5eca14b9cf106bb445e7b9baaf9d9de789ff15a6f59250554e5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_concrete_pavement/grass_concrete_pavement_diff_1k.jpg",
+  "assetFileMd5": "946e79a9df8c6f379bdee2bbd5c8f60f",
+  "assetFileSha256": "cd9011cc59056d088bbaa5d23f78f0b7b348d873d69312d954d5e0d9a5a75483",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Grass Concrete Pavement",
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "discolored",
+      "grass",
+      "dead grass",
+      "dry",
+      "grey",
+      "pavement",
+      "concrete",
+      "blocks",
+      "worn"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1970.0000286102295,
+      1970.0000286102295
+    ],
+    "staging": null,
+    "date_published": 1689379200,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "4245fbdce5c13b847dff4639b60207f92e6e2e1d",
+    "description": "Free 8K texture of rough, weathered concrete blocks set in dry, discolored grass - uneven, worn grey pavers with fibrous dead turf and subtle green moss.",
+    "categories": [
+      "man made",
+      "outdoor",
+      "cobblestone"
+    ],
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4ece8d4c",
+    "download_count": 3317,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_concrete_pavement.png?width=256&height=256&format=webp&v=4ece8d4c"
+  }
+}

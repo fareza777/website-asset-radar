@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roots",
+  "checkedAt": "2026-10-10T01:58:21.519Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roots",
+  "apiSha256": "3712fed67521fdaedcfa776859becb510a0a0395942cd5dc962ec801db77f793",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roots/roots_diff_1k.jpg",
+  "assetFileMd5": "3715e98ec20991f2f194f07b41ba2f18",
+  "assetFileSha256": "0093e1ffafc90d1013cf3f28b40e295171e9d7e0e00da59ba3d9e94fb7569e58",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1665619200,
+    "name": "Roots",
+    "categories": [
+      "outdoor",
+      "natural",
+      "floor"
+    ],
+    "type": 1,
+    "staging": null,
+    "info": null,
+    "tags": [
+      "uneven",
+      "old",
+      "weathered",
+      "brown",
+      "dirty",
+      "ground",
+      "dry",
+      "nature",
+      "dirt",
+      "tree",
+      "forest"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Dimitrios Savva": "Photography"
+    },
+    "dimensions": [
+      1670.0000762939453,
+      1670.0000762939453
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "dc49cea59048ed6511811d95505a37e17112fee1",
+    "description": "Free 8K texture of weathered, dry brown forest ground with exposed roots, uneven dirty surface, rough compacted soil and cracked root ridges.",
+    "category_id": "93c0f1cc-a7e0-5627-a35c-a89e8cf00fd9",
+    "category": "Ground & Terrain/Forest Floor/Exposed Roots",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "40669fe0",
+    "download_count": 8146,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roots.png?width=256&height=256&format=webp&v=40669fe0"
+  }
+}

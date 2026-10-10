@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plank_flooring_02",
+  "checkedAt": "2026-10-10T01:53:51.590Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plank_flooring_02",
+  "apiSha256": "f95b93c78b8cf024ab4c1fc4643eadb21e324d2b018a2422cd1134733ff9f998",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plank_flooring_02/plank_flooring_02_diff_1k.jpg",
+  "assetFileMd5": "caa0fb52ef5820cf7fe124716c77910b",
+  "assetFileSha256": "5337067d6ed23987659cf5d8be151660b3170a7b0bf5ab5f599fff8c3879d8a6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "flat",
+      "planks",
+      "scratched",
+      "yellow",
+      "wood",
+      "floor",
+      "varnished"
+    ],
+    "date_published": 1671494400,
+    "name": "Plank Flooring 02",
+    "categories": [
+      "floor",
+      "wood",
+      "indoor"
+    ],
+    "staging": null,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "info": null,
+    "dimensions": [
+      1980.0000190734863,
+      1980.0000190734863
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5d09ec4a0a11e9090690b79a6b746f77c2bf7374",
+    "description": "Free 8K texture of yellow varnished wooden planks with knots, scratches, plank seams and a subtle glossy finish.",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "676cf1eb",
+    "download_count": 18383,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plank_flooring_02.png?width=256&height=256&format=webp&v=676cf1eb"
+  }
+}

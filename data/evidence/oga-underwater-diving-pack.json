@@ -1,0 +1,46 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-underwater-diving-pack",
+  "sourceUrl": "https://opengameart.org/content/underwater-diving-pack",
+  "checkedAt": "2026-10-10T01:35:35.140Z",
+  "httpStatus": 200,
+  "pageSha256": "1e922f96061b4fcccb2d8e85187063fd3d9d394301ee41071a717bf3c0be1b07",
+  "title": "Underwater Diving Pack",
+  "authors": [
+    "ansimuz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Artwork created by Luis Zuno @ansimuz License for Everyone. Public domain and free to use on whatever you want, personal or commercial. Credit is not required but appreciated. Feeling Grateful? You can support my work at https://www.patreon.com/ansimuz Get more Free Assetslike these at: http://www.pixelgameart.org Music by Pascal Belisle www.patreon.com/thetoadz www.soundcloud.com/thetoadz Music License You are free to use the music in your projects as long as you give appropriate credit. Underwater Diving Pack by ansimuz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/underwater-diving-pack Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/underwater-diving-files.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/underwater-diving-files.zip",
+  "downloadSha256": "c260acdff6c72ae4f181b962265db65009a3132d59782cfaee6e4e83b6e7f897",
+  "formats": [
+    "MP3",
+    "OGG",
+    "PNG"
+  ],
+  "inspectedFiles": 48,
+  "licenseFiles": [
+    "underwater-diving-files/public-license.txt",
+    "underwater-diving-files/code/LICENSE.TXT"
+  ],
+  "previewFile": "underwater-diving-files/PNG/environment/midground.png",
+  "previewSha256": "e356947c4d349a44438dec230fb8dafada79702561b23685fa58bca1510bfc5f",
+  "sourceTags": [
+    "pixelart",
+    "tileset",
+    "Sprite",
+    "spritesheet",
+    "diving",
+    "swim",
+    "water",
+    "classic"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

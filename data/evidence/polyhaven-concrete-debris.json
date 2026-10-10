@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_debris",
+  "checkedAt": "2026-10-10T01:44:26.208Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_debris",
+  "apiSha256": "9a24e78aec683b6a02b2577f82e0c8719eed3399164d8c90bae85e55ee30a8e7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_debris/concrete_debris_diff_1k.jpg",
+  "assetFileMd5": "fcad77ded806a6eda1921457cf7e2abe",
+  "assetFileSha256": "5d30b24d4e01a784f521f0f78486e41e94bd2397a2743dacec543494852954f9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "stones",
+      "dry",
+      "debris",
+      "crumbling",
+      "concrete",
+      "broken",
+      "grey",
+      "plaster",
+      "cement",
+      "damaged"
+    ],
+    "date_published": 1679529600,
+    "name": "Concrete Debris",
+    "categories": [
+      "man made",
+      "plaster-concrete",
+      "concrete",
+      "plaster"
+    ],
+    "staging": null,
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5d84bb0ab4e9ed647dbcbb1d12a44a8db6ca32e2",
+    "description": "Free 8K texture of crumbling grey concrete debris with mixed broken aggregate, plaster and red brick chips; rough, dry, high-relief cement surface.",
+    "category_id": "574ade3f-643e-5747-8b8b-f507b37d0ec6",
+    "category": "Concrete/Cast Walls & Floors/Rubble & Debris",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "damaged",
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "c92f26b4",
+    "download_count": 16360,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_debris.png?width=256&height=256&format=webp&v=c92f26b4"
+  }
+}

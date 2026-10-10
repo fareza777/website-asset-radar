@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pavement_05",
+  "checkedAt": "2026-10-10T01:44:46.524Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pavement_05",
+  "apiSha256": "d8135b98b224d1cf72e5ffa6639319b8d8f28c48d474926623271715ff6b6c8c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_05/pavement_05_diff_1k.jpg",
+  "assetFileMd5": "99a9b08798a718475655eb97e5e055fe",
+  "assetFileSha256": "f0ded52f419cdba4381766db395df9a1821be6de7628fe66398d2883929efc40",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1679184000,
+    "name": "Pavement 05",
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      3449.9998092651367,
+      3449.9998092651367
+    ],
+    "info": null,
+    "tags": [
+      "stones",
+      "path",
+      "floor",
+      "pavement",
+      "sidewalk",
+      "pathway",
+      "cobblestone",
+      "stone",
+      "paving",
+      "brick",
+      "bricks",
+      "walkway"
+    ],
+    "authors": {
+      "Jan Burghardt": "All"
+    },
+    "sponsors": [
+      "42579608"
+    ],
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "brick",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6d22d37ab955ac5c07f47dbe0fe0dd8d4c4e00ac",
+    "description": "Free 8K texture of compact cobblestone pavement with uniform square stones, rounded edges, shallow mortar joints and a slightly gritty, matte stone surface.",
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "e4bff07a",
+    "download_count": 18958,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_05.png?width=256&height=256&format=webp&v=e4bff07a"
+  }
+}

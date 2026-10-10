@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_concrete_pavers",
+  "checkedAt": "2026-10-10T01:34:15.859Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_concrete_pavers",
+  "apiSha256": "4feaa97c0e04d60a9f2369a62b4bb0272d6ea8558afb7b0b5043007f86b60c0b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_concrete_pavers/patterned_concrete_pavers_diff_1k.jpg",
+  "assetFileMd5": "4f3481c82dd3502fc1079b335de0a5a8",
+  "assetFileSha256": "0738df63d1f4825ee718dd4cc1ee443dd6d7a0015ea8fb9e89304f5447b94027",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1689811200,
+    "name": "Patterned Concrete Pavers",
+    "categories": [
+      "man made",
+      "outdoor",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "interlocking",
+      "pavement",
+      "pavers",
+      "city",
+      "concrete",
+      "sidewalk",
+      "cement",
+      "paving",
+      "cemented floor",
+      "pavement patterned",
+      "floor",
+      "urban",
+      "outdoor",
+      "synthetic",
+      "stamped concrete",
+      "walkway",
+      "pattern"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1799.9999523162842,
+      1799.9999523162842
+    ],
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "sponsors": [
+      "7934315"
+    ],
+    "files_hash": "286393379d79d1a8d9ad0cb5c488aa1fb6d76af2",
+    "description": "Free 16K texture: interlocking concrete pavers with a weathered, slightly rough surface, shallow grout lines and subtle dirt and wear.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "290b95f1",
+    "download_count": 13214,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_concrete_pavers.png?width=256&height=256&format=webp&v=290b95f1"
+  }
+}

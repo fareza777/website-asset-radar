@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/CorrugatedSteel007C",
+  "checkedAt": "2026-10-10T01:43:20.063Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=CorrugatedSteel007C&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "35b7243a3afdaf6fbd1fd285bcd70491acc875ed5ea8be39fa4b12f2c63327b2",
+  "apiMetadata": {
+    "assetId": "CorrugatedSteel007C",
+    "dataType": "Material",
+    "displayName": "Corrugated Steel 007 C",
+    "displayCategory": "Corrugated Steel",
+    "shortLink": "https://ambientcg.com/a/CorrugatedSteel007C",
+    "tags": [
+      "7",
+      "blue",
+      "corrugated",
+      "light",
+      "metal",
+      "paint",
+      "rust",
+      "steel"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/CorrugatedSteel007C.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/CorrugatedSteel007C.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/CorrugatedSteel007C.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/CorrugatedSteel007C.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/CorrugatedSteel007C.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/CorrugatedSteel007C.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/CorrugatedSteel007C.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/CorrugatedSteel007C.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/CorrugatedSteel007C.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/CorrugatedSteel007C.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/CorrugatedSteel007C.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/CorrugatedSteel007C.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/CorrugatedSteel007C.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/CorrugatedSteel007C.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/CorrugatedSteel007C.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/CorrugatedSteel007C.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/CorrugatedSteel007C.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/CorrugatedSteel007C.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/CorrugatedSteel007C.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/CorrugatedSteel007C.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/CorrugatedSteel007C.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/CorrugatedSteel007C.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/CorrugatedSteel007C.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/CorrugatedSteel007C.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_1K-JPG.zip",
+                "fileName": "CorrugatedSteel007C_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_1K-JPG.zip",
+                "size": 7553941,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_2K-JPG.zip",
+                "fileName": "CorrugatedSteel007C_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_2K-JPG.zip",
+                "size": 25649567,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_4K-JPG.zip",
+                "fileName": "CorrugatedSteel007C_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_4K-JPG.zip",
+                "size": 102016826,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_8K-JPG.zip",
+                "fileName": "CorrugatedSteel007C_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_8K-JPG.zip",
+                "size": 464921548,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_1K-PNG.zip",
+                "fileName": "CorrugatedSteel007C_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_1K-PNG.zip",
+                "size": 16454616,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_2K-PNG.zip",
+                "fileName": "CorrugatedSteel007C_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_2K-PNG.zip",
+                "size": 61669992,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_4K-PNG.zip",
+                "fileName": "CorrugatedSteel007C_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_4K-PNG.zip",
+                "size": 246063266,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=CorrugatedSteel007C_8K-PNG.zip",
+                "fileName": "CorrugatedSteel007C_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=CorrugatedSteel007C_8K-PNG.zip",
+                "size": 1004495727,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-03-01 16:00:00",
+    "earlyReleaseDate": "2023-02-14 16:54:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 16968,
+    "downloadCountMonth": 1109,
+    "downloadCountWeek": 347,
+    "popularityScore": 3.3948025333804828,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Color.jpg?77221&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Displacement.jpg?37563&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_NormalDX.jpg?34019&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Roughness.jpg?47703&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_AmbientOcclusion.jpg?2571&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Metalness.jpg?9123",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Color.jpg?60460,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Displacement.jpg?63677,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_NormalDX.jpg?44559,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Roughness.jpg?18664,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_AmbientOcclusion.jpg?49539,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/CorrugatedSteel007C/CorrugatedSteel007C_SQ_Metalness.jpg?40315&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/CorrugatedSteel007C.webp",
+  "previewSha256": "6ae6f1ef0e51f37c899e6a64423c7b086f52fe2e787fc49d8721029947fc2a16",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

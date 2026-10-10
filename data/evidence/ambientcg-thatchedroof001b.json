@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/ThatchedRoof001B",
+  "checkedAt": "2026-10-10T01:41:40.166Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=ThatchedRoof001B&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "fa9d71a7ddad901e89ae1b1e91bea52f4f8eedb1aac0c0f97ce22c076464cf7c",
+  "apiMetadata": {
+    "assetId": "ThatchedRoof001B",
+    "dataType": "Material",
+    "displayName": "Thatched Roof 001 B",
+    "displayCategory": "Thatched Roof",
+    "shortLink": "https://ambientcg.com/a/ThatchedRoof001B",
+    "tags": [
+      "1",
+      "brown",
+      "medieval",
+      "roof",
+      "roofing",
+      "straw",
+      "thatched"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/ThatchedRoof001B.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/ThatchedRoof001B.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/ThatchedRoof001B.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/ThatchedRoof001B.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/ThatchedRoof001B.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/ThatchedRoof001B.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/ThatchedRoof001B.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/ThatchedRoof001B.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/ThatchedRoof001B.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/ThatchedRoof001B.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/ThatchedRoof001B.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/ThatchedRoof001B.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/ThatchedRoof001B.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/ThatchedRoof001B.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/ThatchedRoof001B.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/ThatchedRoof001B.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/ThatchedRoof001B.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/ThatchedRoof001B.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/ThatchedRoof001B.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/ThatchedRoof001B.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/ThatchedRoof001B.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/ThatchedRoof001B.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/ThatchedRoof001B.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/ThatchedRoof001B.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_1K-JPG.zip",
+                "fileName": "ThatchedRoof001B_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_1K-JPG.zip",
+                "size": 9294172,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_2K-JPG.zip",
+                "fileName": "ThatchedRoof001B_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_2K-JPG.zip",
+                "size": 33537015,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_4K-JPG.zip",
+                "fileName": "ThatchedRoof001B_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_4K-JPG.zip",
+                "size": 127909150,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_8K-JPG.zip",
+                "fileName": "ThatchedRoof001B_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_8K-JPG.zip",
+                "size": 524247627,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_1K-PNG.zip",
+                "fileName": "ThatchedRoof001B_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_1K-PNG.zip",
+                "size": 17778430,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_2K-PNG.zip",
+                "fileName": "ThatchedRoof001B_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_2K-PNG.zip",
+                "size": 66442435,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_4K-PNG.zip",
+                "fileName": "ThatchedRoof001B_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_4K-PNG.zip",
+                "size": 258670841,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=ThatchedRoof001B_8K-PNG.zip",
+                "fileName": "ThatchedRoof001B_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=ThatchedRoof001B_8K-PNG.zip",
+                "size": 1036568632,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-03-23 10:00:00",
+    "earlyReleaseDate": "2023-03-09 10:45:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 13164,
+    "downloadCountMonth": 885,
+    "downloadCountWeek": 233,
+    "popularityScore": 2.8985335097202647,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_Color.jpg?61309&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_Displacement.jpg?28906&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_NormalDX.jpg?33420&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_Roughness.jpg?44193&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_AmbientOcclusion.jpg?69021",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_Color.jpg?17719,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_Displacement.jpg?98589,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_NormalDX.jpg?63396,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_Roughness.jpg?42390,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ThatchedRoof001B/ThatchedRoof001B_SQ_AmbientOcclusion.jpg?40863&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/ThatchedRoof001B.webp",
+  "previewSha256": "d493f832c1f8d51ff83ef9e757a095e8520e1fc39a2635e30b382864cca2038c",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

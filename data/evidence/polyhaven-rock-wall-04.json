@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_04",
+  "checkedAt": "2026-10-10T01:56:42.034Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_04",
+  "apiSha256": "612ac48102ea207c0c3d1dd81b42ec17ac5fb1a94ab1c32de12e0ba2bfff3495",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_04/rock_wall_04_diff_1k.jpg",
+  "assetFileMd5": "fa689bbff3fbc253997280ec884b7cff",
+  "assetFileSha256": "deff57889595af497892ab6a8dabfac5ff62373e5cda7e7c39a8045b22800c3e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rock Wall 04",
+    "categories": [
+      "outdoor",
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "old",
+      "rough",
+      "wall",
+      "stones",
+      "worn",
+      "rocks",
+      "dirty",
+      "weathered",
+      "stone",
+      "brown",
+      "rock"
+    ],
+    "info": null,
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "dimensions": [
+      2269.9999809265137,
+      2269.9999809265137
+    ],
+    "date_published": 1667865600,
+    "staging": null,
+    "sponsors": [
+      "26820710"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7e171d8cd57b28a670a9670cafcab133cf6e129f",
+    "description": "Free 8K texture of an old, weathered brown stone wall with rough, worn rocks and gritty mortar, showing dirt, chipped edges, and varied stone tones.",
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "418066f1",
+    "download_count": 43976,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_04.png?width=256&height=256&format=webp&v=418066f1"
+  }
+}

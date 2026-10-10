@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forest_floor",
+  "checkedAt": "2026-10-10T01:49:11.126Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forest_floor",
+  "apiSha256": "7ba593ece8c434f911b9ce3646b591f38c3bf0b44d4fa690748b18419d85ec36",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_floor/forest_floor_diff_1k.jpg",
+  "assetFileMd5": "d67f308e4b8be6a65989e8dc76ec40fe",
+  "assetFileSha256": "f12e5adea1741f9eb7a528bfc621f8267885b9530b74c3a8afdb823899bdbf0b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1675296000,
+    "name": "Forest Floor",
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      2139.9996280670166,
+      2139.9996280670166
+    ],
+    "tags": [
+      "sand",
+      "leaves",
+      "autumn",
+      "forest",
+      "dirt",
+      "nature",
+      "dry",
+      "mud",
+      "debris",
+      "pathway",
+      "twigs",
+      "yellow",
+      "ground"
+    ],
+    "info": null,
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "prepaid": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7723fe51fafe4f43d1242eff1dd06f34560ec921",
+    "description": "Free 8K texture of a dry forest floor: sandy dirt and mud with rough granular surface, scattered yellow and brown autumn leaves, twigs and debris.",
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "img_version": "b704a656",
+    "download_count": 36411,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_floor.png?width=256&height=256&format=webp&v=b704a656"
+  }
+}

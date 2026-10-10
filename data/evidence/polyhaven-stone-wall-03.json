@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_wall_03",
+  "checkedAt": "2026-10-10T01:40:56.484Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_wall_03",
+  "apiSha256": "da3299ef454063d3baa07aa0d8fb940e20f5266d7c0b95c87ab0a58b97d9f47e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_03/stone_wall_03_diff_1k.jpg",
+  "assetFileMd5": "893c6460b40af126daaa206bc48a6034",
+  "assetFileSha256": "ec9c3f4674a01d135e9d0c4a0cc844d6c03c52984a8dd20e2629201fb3c5b4c6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Stone Wall 03",
+    "categories": [
+      "outdoor",
+      "man made",
+      "plaster-concrete",
+      "concrete",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "wall",
+      "chipped",
+      "cracked",
+      "worn",
+      "discolored",
+      "brown",
+      "stones",
+      "rocks",
+      "concrete",
+      "stone"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2170.0000762939453,
+      2170.0000762939453
+    ],
+    "date_published": 1682812800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "14274f322ccbaaa7e46934790d2b571446054342",
+    "description": "Free 8K texture of a weathered brown stone wall, rough and uneven concrete with chipped, cracked stones, granular aggregate and worn discoloration.",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "img_version": "70b9e22a",
+    "download_count": 10480,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_wall_03.png?width=256&height=256&format=webp&v=70b9e22a"
+  }
+}

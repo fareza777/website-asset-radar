@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_tiles",
+  "checkedAt": "2026-10-10T01:52:36.474Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_tiles",
+  "apiSha256": "010d6aa213fd4b943a38660e99424cb1cee2215a1124d726dfaa1a4655c13184",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tiles/stone_tiles_diff_1k.jpg",
+  "assetFileMd5": "2ee931a368a415f5cc2e916171e19bdf",
+  "assetFileSha256": "4eec49c2e56010e32bd9cdeedeb0de941982b28877473f822b11b102da8357f3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "prepaid": true,
+    "type": 1,
+    "date_published": 1672704000,
+    "name": "Stone Tiles",
+    "categories": [
+      "man made",
+      "wall",
+      "floor",
+      "indoor",
+      "outdoor"
+    ],
+    "staging": null,
+    "dimensions": [
+      3170.0000762939453,
+      3169.999837875366
+    ],
+    "info": null,
+    "authors": {
+      "Christopher Melani": "All"
+    },
+    "sponsors": [
+      "44302755"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "tags": [
+      "tiles",
+      "stones",
+      "flat",
+      "rocks",
+      "shiny",
+      "reflective",
+      "uneven",
+      "rock",
+      "floor",
+      "smooth",
+      "wall",
+      "pavement",
+      "pathway"
+    ],
+    "files_hash": "f637ef5613db2299a5f43aabb932ae8e310670e7",
+    "description": "Free 8K texture of dark irregular stone tiles with subtle shine, smooth worn faces, uneven edges and narrow mortar joints, slightly reflective surface.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "2a16a7d0",
+    "download_count": 58414,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_tiles.png?width=256&height=256&format=webp&v=2a16a7d0"
+  }
+}

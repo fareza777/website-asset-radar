@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/leafy_grass",
+  "checkedAt": "2026-10-10T01:38:36.598Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/leafy_grass",
+  "apiSha256": "513914aaef6fd3c12ade425faf8660fd9e18584952c2160ee13ebf6e5bc42112",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg",
+  "assetFileMd5": "0dbc071e91d6905edfcfbe8eb785a1ab",
+  "assetFileSha256": "cfa40bc9d9417d1852db8753a8d5917f110c40101179f63543c382e39bc05e4a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1685145600,
+    "name": "Leafy Grass",
+    "categories": [
+      "outdoor",
+      "floor"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "grass",
+      "green",
+      "nature",
+      "ground",
+      "foliage",
+      "leaves",
+      "plants",
+      "outdoors",
+      "twigs",
+      "sticks",
+      "trampled"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "90fd49a21ddface404d32d9956c3a9f3ca8e0679",
+    "description": "Free 8K leafy grass texture: trampled green blades with scattered brown leaves and twigs, low-relief rough soil surface with a natural matte finish.",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "category_id": "21e06d88-2ab6-5bdd-ad11-869b7ff0b573",
+    "category": "Ground & Terrain/Grass & Vegetation/Lush & Green Grass",
+    "img_version": "8866acdc",
+    "download_count": 94030,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leafy_grass.png?width=256&height=256&format=webp&v=8866acdc"
+  }
+}

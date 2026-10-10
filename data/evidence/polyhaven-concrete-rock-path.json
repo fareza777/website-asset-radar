@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_rock_path",
+  "checkedAt": "2026-10-10T01:46:40.681Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_rock_path",
+  "apiSha256": "cf30c5804dc63a37a12b8cd8628b6a8c6a1e06fbbb3b55eb9fde444bcd042b00",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_rock_path/concrete_rock_path_diff_1k.jpg",
+  "assetFileMd5": "b6476676a21608cad4be661848909564",
+  "assetFileSha256": "ea45bc98cf931ae5bdfd8bcb698e717607eea3ecdbb789a2b24eed2913b33c38",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Rock Path",
+    "type": 1,
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "tags": [
+      "rough",
+      "uneven",
+      "old",
+      "weathered",
+      "brown",
+      "rock",
+      "dirty",
+      "ground",
+      "concrete",
+      "pathway",
+      "path",
+      "dry",
+      "cement"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1677715200,
+    "staging": null,
+    "sponsors": [
+      "3237733"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6058e2ae50dd5f075fd693aa6ce8f6a604463261",
+    "description": "Free 8K texture of an old, weathered rock path - rough, uneven brown stones set in dry, dirty cement with worn edges and subtle mossy grime.",
+    "categories": [
+      "outdoor",
+      "man made",
+      "dirty",
+      "floor",
+      "concrete",
+      "rock",
+      "plaster-concrete"
+    ],
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "dd06ef8e-5807-534b-b7ac-19fb07264599",
+    "category": "Ground & Terrain/Rocky Ground/Rocky Paths & Trails",
+    "img_version": "a8250b94",
+    "download_count": 26384,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_rock_path.png?width=256&height=256&format=webp&v=a8250b94"
+  }
+}

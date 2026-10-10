@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_wall_008",
+  "checkedAt": "2026-10-10T01:49:31.794Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_wall_008",
+  "apiSha256": "ba90bad19b4db4b67a899948823923a585ac09dd54f05ef0b56c06667f18ea1a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_008/concrete_wall_008_diff_1k.jpg",
+  "assetFileMd5": "6a0f87fbfea261d797661c47e05b25ad",
+  "assetFileSha256": "a203166d280d3cfc6a91bbc9ffdae406eb9555b4a4f658cd92619063eb17c147",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Wall 008",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "plaster-concrete",
+      "concrete",
+      "plaster"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "chipped",
+      "wall",
+      "damaged",
+      "cracked",
+      "stained",
+      "dry",
+      "plaster",
+      "concrete",
+      "scratched",
+      "cement"
+    ],
+    "info": null,
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "dimensions": [
+      2710.0000381469727,
+      2710.0000381469727
+    ],
+    "date_published": 1675123200,
+    "staging": null,
+    "sponsors": [
+      "44302755"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d77307121f21d7ce51b194dcc7456117afe03dd4",
+    "description": "Free 8K texture of a weathered concrete wall with chipped plaster, hairline cracks, bolt holes and subtle stains - rough, dry cement surface with light scratches.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "d34de1d2",
+    "download_count": 79232,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_008.png?width=256&height=256&format=webp&v=d34de1d2"
+  }
+}

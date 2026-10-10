@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/lichen_rock",
+  "checkedAt": "2026-10-10T01:22:43.012Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/lichen_rock",
+  "apiSha256": "36b4dd6275d82cfeba36c0c5388dfcbd187a38310b6a42b20f0b0c9662a00f3f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/lichen_rock/lichen_rock_diff_1k.jpg",
+  "assetFileMd5": "453cc496091c1be83d0151249c97cecd",
+  "assetFileSha256": "780128a5757920a7e30c50042e8975e8333ef4ae5809b30bb5be6a2f9fec3ec5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Lichen Rock",
+    "categories": [
+      "collection: verdant_trail",
+      "rock",
+      "terrain",
+      "natural"
+    ],
+    "type": 1,
+    "tags": [
+      "rock",
+      "cliff",
+      "lichen",
+      "moss",
+      "rock face",
+      "boulder",
+      "mossy",
+      "stone",
+      "nature",
+      "rugged"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1707177600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3f77b26ff52da2807965072c56cbf18b8fcf3af5",
+    "description": "Free 8K texture of rugged, weathered rock with pale-green lichen patches, layered stone grain, rough microdetail and a subtle damp sheen.",
+    "category_id": "e8121dc9-96d3-59b8-b8ee-83104e60ba82",
+    "category": "Stone/Rock & Cliffs/Mossy & Lichened Rock",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "eefe40e1",
+    "download_count": 61708,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lichen_rock.png?width=256&height=256&format=webp&v=eefe40e1"
+  }
+}

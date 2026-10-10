@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_layers_02",
+  "checkedAt": "2026-10-10T01:45:52.803Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_layers_02",
+  "apiSha256": "65ad81669980865daad1d27b4e81dce12b3bbf1121f15d1eb39caa7a907ae89d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_layers_02/concrete_layers_02_diff_1k.jpg",
+  "assetFileMd5": "d308cd7bb23bcf1208d37d4ba670c2e6",
+  "assetFileSha256": "cca314fbb793e3928111912f1d6d4d79edf4420402e56019d70fec0bdc2efca5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Layers 02",
+    "categories": [
+      "man made",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "tags": [
+      "worn",
+      "chipped",
+      "rough",
+      "weathered",
+      "cracked",
+      "damaged",
+      "wall",
+      "discolored",
+      "dirty",
+      "dry",
+      "concrete",
+      "grey",
+      "plastered",
+      "plaster"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1678579200,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "bc64b57462d7f4ada82bcda31d30209ea56af2e2",
+    "description": "Free 16K concrete texture showing rough, weathered grey plaster with chipped layers, cracks, stains and dry dirt streaks; board lines and surface pitting.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "cracked",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f6393652",
+    "download_count": 135889,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_layers_02.png?width=256&height=256&format=webp&v=f6393652"
+  }
+}

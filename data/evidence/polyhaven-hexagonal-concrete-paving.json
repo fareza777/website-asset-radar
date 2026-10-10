@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/hexagonal_concrete_paving",
+  "checkedAt": "2026-10-10T01:59:41.426Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/hexagonal_concrete_paving",
+  "apiSha256": "d339f8488d4ccc8a4da651ae17ab73750d33b3cb417c20dc4d3d75e4d0800c1c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hexagonal_concrete_paving/hexagonal_concrete_paving_diff_1k.jpg",
+  "assetFileMd5": "0b7615a440c026ae5ed24f9e3acaec48",
+  "assetFileSha256": "1d89b35e8effa4485158984a3981d4e7d8997ff06539dee48aa43f00974c247a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "donated": true,
+    "name": "Hexagonal Concrete Paving",
+    "type": 1,
+    "tags": [
+      "hexagon",
+      "tiles",
+      "bricks",
+      "pavement",
+      "paving",
+      "courtyard"
+    ],
+    "authors": {
+      "Stephan Seeliger": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1600.0003814697266,
+      1600.0001430511475
+    ],
+    "date_published": 1664236800,
+    "staging": null,
+    "sponsors": [
+      "3267566"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "81ec540e255e21dc14cffafdf0189939adbd2b40",
+    "description": "Free 8K concrete texture of hexagonal paving tiles: matte, slightly rough surface with fine aggregate, worn edges, dark grout lines and subtle depth.",
+    "categories": [
+      "outdoor",
+      "floor",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "18320c0d",
+    "download_count": 57750,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hexagonal_concrete_paving.png?width=256&height=256&format=webp&v=18320c0d"
+  }
+}

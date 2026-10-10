@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grassy_cobblestone",
+  "checkedAt": "2026-10-10T02:04:22.256Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grassy_cobblestone",
+  "apiSha256": "2af6f0426b160fdda8aa3eb357a680e6b2eef447d5cd55e00ade55a9ea936d44",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grassy_cobblestone/grassy_cobblestone_diff_1k.jpg",
+  "assetFileMd5": "c0f0002775d2a64d02fdbcfb2e06ac25",
+  "assetFileSha256": "9e7ba40919fd1bb4b98397b9522de0e6e537be8ea4121344772238d63fe50fcc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1658188800,
+    "name": "Grassy Cobblestone",
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "categories": [
+      "natural",
+      "sand",
+      "outdoor",
+      "floor",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "tags": [
+      "ground",
+      "dirt",
+      "rock",
+      "grass",
+      "dirty",
+      "path",
+      "trampled",
+      "pathway"
+    ],
+    "files_hash": "6093a2264b43e4fe5a7b6ab741894ae3e7b9163c",
+    "description": "Free 8K texture of grassy cobblestone: weathered stone pavers with dirt-filled seams, scattered moss and trampled grass, with pronounced height and roughness.",
+    "category_id": "99762fb0-f134-5cd9-93f7-5b876875f7c9",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Rough & Irregular Setts",
+    "img_version": "74e599ff",
+    "download_count": 54366,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grassy_cobblestone.png?width=256&height=256&format=webp&v=74e599ff"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-mine-game-graphics",
+  "sourceUrl": "https://opengameart.org/content/mine-game-graphics",
+  "checkedAt": "2026-10-10T01:55:58.800Z",
+  "httpStatus": 200,
+  "pageSha256": "c1b1be41fc928024f0f0b02fff7ff82399f85464fb4cc154af82414ca938a779",
+  "title": "Mine Game Graphics",
+  "authors": [
+    "howeverice"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "howeverice, Rinky Dink Electronics (Original Unmodified Font) Mine Game Graphics by howeverice. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/mine-game-graphics Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/face_6.png",
+    "https://opengameart.org/sites/default/files/font_26.png",
+    "https://opengameart.org/sites/default/files/font_love2d.png",
+    "https://opengameart.org/sites/default/files/tiles_90.png",
+    "https://opengameart.org/sites/default/files/icon_22.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tiles_90.png",
+  "downloadSha256": "5b3ffabf654f74ff5a30a253bc7beaa7c3419a435d4eee191d00dad513a193ae",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tiles_90.png",
+  "previewSha256": "5b3ffabf654f74ff5a30a253bc7beaa7c3419a435d4eee191d00dad513a193ae",
+  "sourceTags": [
+    "pixelart",
+    "retro",
+    "mine",
+    "tiles",
+    "smiley face"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

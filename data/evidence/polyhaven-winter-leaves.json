@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/winter_leaves",
+  "checkedAt": "2026-10-10T01:32:35.954Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/winter_leaves",
+  "apiSha256": "de7061365d31afba18f6ee66792e5f832bd9851010e048a8f0557869a6fc0440",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/winter_leaves/winter_leaves_diff_1k.jpg",
+  "assetFileMd5": "041b2979ae615eea8e74085bbbcd9b35",
+  "assetFileSha256": "6ec82a98d942a95868b77a4f8b3e737d77042a65f8681e9b7e7f19c35dc713d1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Winter Leaves",
+    "categories": [
+      "outdoor",
+      "floor",
+      "natural"
+    ],
+    "type": 1,
+    "tags": [
+      "leaves",
+      "forest",
+      "dry",
+      "sticks",
+      "winter",
+      "dead grass",
+      "twigs",
+      "nature",
+      "leaf litter"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "date_published": 1692057600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1b1b601581664680e4111483b26cb36d7096ab8c",
+    "description": "Free 8K texture of winter leaf litter - dry brown leaves, twigs and dead grass with layered, rough, low-sheen surface and fine organic bump detail.",
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "b093c95a",
+    "download_count": 7778,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_leaves.png?width=256&height=256&format=webp&v=b093c95a"
+  }
+}

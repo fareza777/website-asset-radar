@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_pathway",
+  "checkedAt": "2026-10-10T01:41:56.160Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_pathway",
+  "apiSha256": "ec77af543d20e6285f939108e91c905a34cbcf37de9980b7be695f618030454d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_pathway/stone_pathway_diff_1k.jpg",
+  "assetFileMd5": "9191791a4fbcccbba548ca6d8f470cd1",
+  "assetFileSha256": "d348dfd4a8c2c16b753618e2787fd4b165b398739f60efbf18a320d0816982b7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1681776000,
+    "name": "Stone Pathway",
+    "categories": [
+      "outdoor",
+      "man made",
+      "rock"
+    ],
+    "staging": null,
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "info": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "tags": [
+      "weathered",
+      "rock",
+      "pathway",
+      "path",
+      "uneven",
+      "rocks",
+      "discolored",
+      "dry",
+      "brown",
+      "chipped",
+      "worn",
+      "floor",
+      "walkway",
+      "slates",
+      "cracked",
+      "stones"
+    ],
+    "files_hash": "96e0ca07085952b6b8af45c5ec807c83b31e90a9",
+    "sponsors": [
+      "128081732",
+      "4714267",
+      "26820710"
+    ],
+    "description": "Free 8K texture: weathered brown stone pathway with irregular cracked slates, chipped edges, random discoloration and a rough, worn surface.",
+    "category_id": "ed387a11-4ceb-5ff1-ab45-46a821ddbd0e",
+    "category": "Stone/Slabs & Tiles/Flagstones",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "b9e4aec6",
+    "download_count": 34558,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_pathway.png?width=256&height=256&format=webp&v=b9e4aec6"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/scuffed_cement",
+  "checkedAt": "2026-10-10T01:47:40.551Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/scuffed_cement",
+  "apiSha256": "ec8f50c7a305ec0bfeda5569c03d5e57b9ec912d61995a2175df91ed4a0b6499",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/scuffed_cement/scuffed_cement_diff_1k.jpg",
+  "assetFileMd5": "ef49e3d3193c2fc515786cac6e0c60a4",
+  "assetFileSha256": "45ef8951432f0b692dc461178a898fb83b2e5a873ba53fb19041e9356e118e4a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Scuffed Cement",
+    "categories": [
+      "man made",
+      "floor",
+      "indoor",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "weathered",
+      "worn",
+      "chipped",
+      "plaster",
+      "concrete",
+      "paving",
+      "scratched",
+      "grey",
+      "floor",
+      "cracked",
+      "flat"
+    ],
+    "dimensions": [
+      1619.999885559082,
+      1619.999885559082
+    ],
+    "date_published": 1676937600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b4c01780bae3bf70dfe5a622e29e60d1ddc9a663",
+    "description": "Free 8K scuffed cement texture: weathered grey concrete with worn, scratched and chipped surface, subtle cracks and plaster-like roughness.",
+    "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+    "category": "Concrete/Cast Walls & Floors/Bare Cast",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "12b2764f",
+    "download_count": 47037,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scuffed_cement.png?width=256&height=256&format=webp&v=12b2764f"
+  }
+}

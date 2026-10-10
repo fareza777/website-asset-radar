@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/old_sandstone_02",
+  "checkedAt": "2026-10-10T01:39:06.201Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/old_sandstone_02",
+  "apiSha256": "91c4c5e4ae0353b38dd1bf7e690831628ca25e3ccb0b417a42832b3f7f4af2e5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/old_sandstone_02/old_sandstone_02_diff_1k.jpg",
+  "assetFileMd5": "45235f7669057df7cdbb24cac89beede",
+  "assetFileSha256": "a58111224570bb33eba3c348bc7e3207255b5efb07f9cf274209c56b71d6825c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Old Sandstone 02",
+    "categories": [
+      "outdoor",
+      "man made",
+      "sandstone",
+      "wall"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "stone",
+      "sandstone",
+      "old",
+      "worn",
+      "chipped",
+      "aged",
+      "stonework",
+      "brown",
+      "timeworn"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1529.9999713897705,
+      1529.9999713897705
+    ],
+    "date_published": 1684800000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "a336dea63c883feba28f6b0ca94a8795b6b8ed80",
+    "description": "Free 8K sandstone texture. Rough, weathered brown stonework with chipped, timeworn block joints and aged, granular surface for outdoor walls.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "345a993c",
+    "download_count": 9599,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_sandstone_02.png?width=256&height=256&format=webp&v=345a993c"
+  }
+}

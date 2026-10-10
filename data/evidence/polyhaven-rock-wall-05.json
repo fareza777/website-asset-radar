@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_05",
+  "checkedAt": "2026-10-10T01:54:29.131Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_05",
+  "apiSha256": "dcb6994ce9b3da8928f32c252b2bf0e0e6052f3c1f9f027d5cdb61a05fc5626e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_05/rock_wall_05_diff_1k.jpg",
+  "assetFileMd5": "0688cec9aaba029d6d30048894c94972",
+  "assetFileSha256": "22b5382c0eaff22aa46688fa65d1efe9bd564574f31d02105d81ebab25ed4e6a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rock Wall 05",
+    "categories": [
+      "wall",
+      "rock",
+      "outdoor"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "uneven",
+      "rough",
+      "weathered",
+      "stones",
+      "worn",
+      "discolored",
+      "rocks",
+      "wall",
+      "moss"
+    ],
+    "dimensions": [
+      2259.9997520446777,
+      2259.9997520446777
+    ],
+    "date_published": 1670457600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "11167855",
+      "7934315"
+    ],
+    "files_hash": "c0dd5c42ed687e77b72dbbfe735051e4404ddedf",
+    "description": "Free 8K texture of a rough, uneven, weathered stone wall with worn, discolored rocks and subtle moss in the crevices.",
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "ce2c84b3",
+    "download_count": 14358,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_05.png?width=256&height=256&format=webp&v=ce2c84b3"
+  }
+}

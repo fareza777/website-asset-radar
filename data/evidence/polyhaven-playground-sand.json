@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/playground_sand",
+  "checkedAt": "2026-10-10T01:40:26.363Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/playground_sand",
+  "apiSha256": "9bd7390450179820e9e04f9ee71a81525fb3f7ec4b6a8bf152f6d895aae3bf42",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/playground_sand/playground_sand_diff_1k.jpg",
+  "assetFileMd5": "5acafe6d05eebb3882be3a3590b41461",
+  "assetFileSha256": "088d1ec47d0caec5c66dc84354ab5ed7cc8ae65d864529d020591f9a62993e2f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "brown",
+      "sand",
+      "floor",
+      "rough",
+      "ground",
+      "playground",
+      "dirty",
+      "wet",
+      "footprints"
+    ],
+    "date_published": 1683331200,
+    "name": "Playground Sand",
+    "categories": [
+      "outdoor",
+      "floor",
+      "sand"
+    ],
+    "staging": null,
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2069.9996948242188,
+      2069.9996948242188
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "59df1160d371b20a22b705a3ccc4cd67eb622128",
+    "description": "Free 8K texture of damp playground sand: brown, rough-grained surface with footprints, wet patches, compacted ridges and scattered leaves.",
+    "category_id": "2262e1f2-20db-5ba4-9915-764041ba9c4c",
+    "category": "Ground & Terrain/Sand/Compacted & Trampled Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "f66589e0",
+    "download_count": 9510,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/playground_sand.png?width=256&height=256&format=webp&v=f66589e0"
+  }
+}

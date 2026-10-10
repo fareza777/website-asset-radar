@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/park_sand",
+  "checkedAt": "2026-10-10T01:48:51.793Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/park_sand",
+  "apiSha256": "888163a1a4dbbb338ac53ec9469e382034a8a5fe6065cd40c80d859e172063f5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/park_sand/park_sand_diff_1k.jpg",
+  "assetFileMd5": "d10b547d20ca6391728044c9015531cf",
+  "assetFileSha256": "b53bd5dd3060602d6923fba28ff9bcd6f428ed4335f3a38a4ff2e31695a99afe",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Park Sand",
+    "categories": [
+      "outdoor",
+      "natural",
+      "sand"
+    ],
+    "type": 1,
+    "tags": [
+      "brown",
+      "ground",
+      "sand",
+      "trampled",
+      "tracks",
+      "park"
+    ],
+    "info": null,
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1675728000,
+    "staging": null,
+    "prepaid": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "52de27019b5176de2093c6a8f0745afa511ed907",
+    "description": "Free 8K texture of brown park sand - trampled, chaotic surface with footprints, tracks, shallow ruts and granular, dry matte finish.",
+    "sponsors": [
+      "101447488"
+    ],
+    "category_id": "2262e1f2-20db-5ba4-9915-764041ba9c4c",
+    "category": "Ground & Terrain/Sand/Compacted & Trampled Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "18b5e3cf",
+    "download_count": 19275,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/park_sand.png?width=256&height=256&format=webp&v=18b5e3cf"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mud_forest",
+  "checkedAt": "2026-10-10T01:43:36.185Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mud_forest",
+  "apiSha256": "95b2cc36167673dfa7db7dbb36c7b8d0fc321f90e4d8e94c968ce5c5c9e60692",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mud_forest/mud_forest_diff_1k.jpg",
+  "assetFileMd5": "d3ea8fc962bbf54d66fc5723cd0096c1",
+  "assetFileSha256": "6b874ef298dd06671624032311e0dd1456251a92e396883852bf5ec75cd099eb",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1680307200,
+    "name": "Mud Forest",
+    "categories": [
+      "outdoor",
+      "floor",
+      "natural",
+      "dirty"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "brown",
+      "ground",
+      "dirty",
+      "leaves",
+      "mud",
+      "forest",
+      "sticks"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2349.9999046325684,
+      2349.9999046325684
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c09133c4536ecd3111be89c1d7122d8b96e36e60",
+    "description": "Free 8K Mud Forest texture of dark, wet forest mud with compacted soil, scattered brown leaves and sticks, subtle wet sheen and fine, rough organic debris.",
+    "category_id": "12aa7954-48be-5855-812b-7dc4aca856fd",
+    "category": "Ground & Terrain/Soil & Mud/Wet Mud",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "a2ab72f0",
+    "download_count": 36797,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mud_forest.png?width=256&height=256&format=webp&v=a2ab72f0"
+  }
+}

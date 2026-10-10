@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mossy_cobblestone",
+  "checkedAt": "2026-10-10T01:36:16.476Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mossy_cobblestone",
+  "apiSha256": "005ab2e4bafefaeae9752ccaee9e6944ee996eca8cedf7cce7fa1690c2019e63",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_cobblestone/mossy_cobblestone_diff_1k.jpg",
+  "assetFileMd5": "e400e051cac040e67d759dbd9a51ca3d",
+  "assetFileSha256": "105d6209ff99952ca316e814eebf06c1c3cb244da62184137a97e29aee74b7d7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "weathered",
+      "stone",
+      "earthy",
+      "moss",
+      "cobblestone",
+      "walkway",
+      "stonework",
+      "outdoor flooring",
+      "pathway"
+    ],
+    "date_published": 1687564800,
+    "name": "Mossy Cobblestone",
+    "staging": null,
+    "authors": {
+      "Sơn Nguyễn": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "categories": [
+      "floor",
+      "outdoor",
+      "man made",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "2653c16e98cf832106d334c38812cd8387844aae",
+    "description": "Free 8K texture of weathered cobblestone: irregular, worn stone blocks with earthy tones, rough surfaces and vivid green moss filling the joints and crevices.",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "mossy",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "e93cd626",
+    "download_count": 33178,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mossy_cobblestone.png?width=256&height=256&format=webp&v=e93cd626"
+  }
+}

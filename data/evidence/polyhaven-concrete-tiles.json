@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_tiles",
+  "checkedAt": "2026-10-10T01:23:20.955Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_tiles",
+  "apiSha256": "457061a467431c1b67891a4ef428d549c143989321c37d8b7eddbb57fd307b4b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_tiles/concrete_tiles_diff_1k.jpg",
+  "assetFileMd5": "e1036bb4366e86873c886952dd09e756",
+  "assetFileSha256": "9a27af696bf55f65dca0c99c1add9c6c785b7d74fa9e6ec81013218776edef9d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Tiles",
+    "type": 1,
+    "tags": [
+      "rough",
+      "old",
+      "weathered",
+      "concrete",
+      "pattern",
+      "pavement patterned",
+      "coarse",
+      "outdoor flooring",
+      "urban",
+      "outdoor",
+      "exterior",
+      "cement",
+      "pavers",
+      "stamped concrete",
+      "patterned",
+      "worndown"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1850.0001430511475,
+      1850.0001430511475
+    ],
+    "date_published": 1706572800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "107113426"
+    ],
+    "files_hash": "ea0a57db6962307678fae92f42563e81214c18dd",
+    "description": "Free 8K texture: weathered stamped concrete tiles with a coarse, worn surface, repeating square basketweave pattern and visible grout lines.",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "category_id": "3d66fbeb-75a0-5a98-97b4-d2630544da3f",
+    "category": "Brick & Block/Concrete Block & Paver",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2e5d1e8d",
+    "download_count": 7483,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_tiles.png?width=256&height=256&format=webp&v=2e5d1e8d"
+  }
+}

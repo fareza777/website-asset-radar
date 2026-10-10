@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/dirt_floor",
+  "checkedAt": "2026-10-10T01:51:18.135Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/dirt_floor",
+  "apiSha256": "1821c53c5333bd6f9f782aef6a17a9ea0735569fad8eccaafe06da10874e2e29",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dirt_floor/dirt_floor_diff_1k.jpg",
+  "assetFileMd5": "8cc8bfdfb74fd7761c6d518d13dc4e45",
+  "assetFileSha256": "6c2e7f1c5eab8239fec561f255c607d0e3a86046925ba3a8b9340805efc1ab62",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1673827200,
+    "name": "Dirt Floor",
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "dirt",
+      "ground",
+      "brown",
+      "nature",
+      "uneven",
+      "mud",
+      "debris",
+      "forest",
+      "pathway",
+      "woodland"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2069.9996948242188,
+      2069.9996948242188
+    ],
+    "prepaid": true,
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "77433244",
+      "128081732"
+    ],
+    "files_hash": "5786a04233bc38e09aea24ac369f43f71a0aa728",
+    "description": "Free 8K texture of uneven brown dirt with compacted, slightly muddy surface, scattered twig and leaf debris, fine granular detail and subtle roughness.",
+    "category_id": "2b016db1-a760-53aa-89ac-54c30f13214a",
+    "category": "Ground & Terrain/Forest Floor/Forest Soil",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "01ad0711",
+    "download_count": 51747,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirt_floor.png?width=256&height=256&format=webp&v=01ad0711"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pavement_02",
+  "checkedAt": "2026-10-10T01:48:11.346Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pavement_02",
+  "apiSha256": "83dd2045262adb2a8e65133dbf1ffed70c68648c944cbf2d727fd9fd8f2a4667",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_02/pavement_02_diff_1k.jpg",
+  "assetFileMd5": "aa8b6d83c9005d001db57cd76646981a",
+  "assetFileSha256": "791d39aadbd48b483468d2ed68d21efce5be197c1d91cf7f3fad7e561c8e7675",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1676332800,
+    "name": "Pavement 02",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "plaster-concrete",
+      "plaster"
+    ],
+    "type": 1,
+    "staging": null,
+    "info": null,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "Photography"
+    },
+    "dimensions": [
+      2119.999647140503,
+      2119.999885559082
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "tags": [
+      "worn",
+      "floor",
+      "sidewalk",
+      "pavement",
+      "flat",
+      "dirty",
+      "city",
+      "textured",
+      "paving",
+      "ground"
+    ],
+    "files_hash": "118276f4f44c24ffcff3c88664b905160bf0c243",
+    "description": "Free 8K texture of worn concrete paving stones with coarse, weathered surfaces in warm gray and terracotta tones, defined grout lines and light dirt.",
+    "category_id": "095573e6-25a6-59a5-b88e-6911bbfbc472",
+    "category": "Brick & Block/Concrete Block & Paver/Cast-Stone Block",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "9247a600",
+    "download_count": 61920,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_02.png?width=256&height=256&format=webp&v=9247a600"
+  }
+}

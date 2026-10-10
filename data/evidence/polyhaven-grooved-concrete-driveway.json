@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grooved_concrete_driveway",
+  "checkedAt": "2026-10-10T01:34:25.562Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grooved_concrete_driveway",
+  "apiSha256": "631d53b845abcecdd59a647b939be4d38f8e9b60b08b76a067ff6b5e108b93b2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grooved_concrete_driveway/grooved_concrete_driveway_diff_1k.jpg",
+  "assetFileMd5": "6c28dc53e2c2af987f0e03f9de01986d",
+  "assetFileSha256": "2e52caff11e0e1fe6eb50355baa383ff0d003a678f0887317b7c9684e8b90e09",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Grooved Concrete Driveway",
+    "type": 1,
+    "tags": [
+      "driveway",
+      "concrete",
+      "rough",
+      "gritty",
+      "driveway texture",
+      "cement",
+      "grooved",
+      "coarse",
+      "cemented floor"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1799.9999523162842,
+      1799.9999523162842
+    ],
+    "date_published": 1689638400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7f68cb1ebbcea63f7b0d3f34d2f5997f82186447",
+    "description": "Free 8K grooved concrete texture with coarse, gritty surface, pronounced horizontal cut lines and warm reddish-brown cement tones.",
+    "categories": [
+      "man made",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "category_id": "8e19ddef-056e-5554-834d-2fd52f1c17f7",
+    "category": "Concrete/Cast Walls & Floors/Trowel & Brushed Finish",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "545a17bf",
+    "download_count": 2494,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grooved_concrete_driveway.png?width=256&height=256&format=webp&v=545a17bf"
+  }
+}

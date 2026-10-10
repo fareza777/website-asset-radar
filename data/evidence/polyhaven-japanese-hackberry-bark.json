@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/japanese_hackberry_bark",
+  "checkedAt": "2026-10-10T01:37:06.542Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/japanese_hackberry_bark",
+  "apiSha256": "0f2bb6fde58a626e27739453251f13096bdc74ec9920340a97ff9ce0551b4289",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/japanese_hackberry_bark/japanese_hackberry_bark_diff_1k.jpg",
+  "assetFileMd5": "b222a5bf76a3b3d907dcf33ae72fa657",
+  "assetFileSha256": "7fe83e97d403417c736af39f5b7713d0d887d2f985ec9078054579b402040540",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Japanese Hackberry Bark",
+    "type": 1,
+    "tags": [
+      "tree",
+      "bark",
+      "forest",
+      "natural",
+      "tree bark",
+      "tree trunk",
+      "organic",
+      "moss",
+      "nature"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1888.9999389648438,
+      1888.9999389648438
+    ],
+    "date_published": 1686614400,
+    "staging": null,
+    "categories": [
+      "outdoor",
+      "bark",
+      "natural",
+      "wood"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1d37a73f261496b6cabe3ea1bc90b3350cabc16c",
+    "description": "Free 8K texture of Japanese hackberry bark: rough, furrowed brown surface with yellow-green moss and lichen, knobbly nodules and fine cracks.",
+    "category_id": "8d2e6acd-922e-5774-89f1-3988e37758c3",
+    "category": "Wood/Bark/Furrowed Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "3a128c04",
+    "download_count": 13515,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/japanese_hackberry_bark.png?width=256&height=256&format=webp&v=3a128c04"
+  }
+}

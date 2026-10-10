@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/worn_corrugated_iron",
+  "checkedAt": "2026-10-10T01:25:02.080Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/worn_corrugated_iron",
+  "apiSha256": "3445c647b750fbbd09b8d23e7f89962414f27ea87c8ca1234b55c16ce0cf0941",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/worn_corrugated_iron/worn_corrugated_iron_diff_1k.jpg",
+  "assetFileMd5": "dee4306e2c337afcb3a815eb3345c7bd",
+  "assetFileSha256": "8980bec97815510c828cb6b3d840c05345eb44212e34c212c39ec54c0abecaa3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Worn Corrugated Iron",
+    "categories": [
+      "outdoor",
+      "man made",
+      "metal"
+    ],
+    "type": 1,
+    "info": null,
+    "dimensions": [
+      1799.9995946884155,
+      1799.9995946884155
+    ],
+    "date_published": 1702944000,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "authors": {
+      "Jenelle van Heerden": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "rough",
+      "weathered",
+      "worn",
+      "chipped",
+      "corrugated",
+      "corrugation",
+      "metal",
+      "metal sheet",
+      "iron",
+      "steel sheeting",
+      "roof",
+      "sheet",
+      "steel",
+      "galvanized",
+      "paint",
+      "cracking paint",
+      "peeling paint",
+      "deteriorated",
+      "weatherbeaten",
+      "roofing",
+      "metallic",
+      "corrugated iron"
+    ],
+    "files_hash": "37704a467103c27e83e12d9f5b81bb8e73ad9473",
+    "description": "Free 16K material: worn corrugated iron with rough, weathered surface, peeling and cracked paint, chipped galvanized steel and realistic metallic roofing corrugation.",
+    "category_id": "c10ee76b-cb81-546f-bba9-095bf5a18a6d",
+    "category": "Metal/Sheet & Corrugated/Corrugated Iron",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn",
+        "painted"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "e9db6470",
+    "download_count": 32407,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/worn_corrugated_iron.png?width=256&height=256&format=webp&v=e9db6470"
+  }
+}

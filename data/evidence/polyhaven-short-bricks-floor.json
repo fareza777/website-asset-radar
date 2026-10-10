@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/short_bricks_floor",
+  "checkedAt": "2026-10-10T01:34:05.975Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/short_bricks_floor",
+  "apiSha256": "649e96702202a5fbb7a3666b1eef9eb19096d1da28bc0c4e6e9a8c662e42f9cf",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/short_bricks_floor/short_bricks_floor_diff_1k.jpg",
+  "assetFileMd5": "abf2baa52547054e2c4dcff97d1dc647",
+  "assetFileSha256": "7e84153290ce100c8e720c2f394011898bcf8d2b6b891a7894519e4f7522ef61",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Short Bricks Floor",
+    "categories": [
+      "man made",
+      "outdoor",
+      "floor",
+      "brick"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "brick",
+      "bricks",
+      "red brick",
+      "paving",
+      "sidewalk",
+      "weathered",
+      "worn",
+      "pavement"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1940.000057220459,
+      1939.9999380111694
+    ],
+    "date_published": 1689984000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6c8807fd8098ef5e14b70e7cc304888921b9c254",
+    "description": "Free 8K texture of short red brick paving with weathered, rough surfaces, worn mortar lines, small debris and subtle color variation.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "eff94041",
+    "download_count": 18272,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/short_bricks_floor.png?width=256&height=256&format=webp&v=eff94041"
+  }
+}

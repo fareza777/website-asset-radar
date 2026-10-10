@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/gray_rocks",
+  "checkedAt": "2026-10-10T01:29:46.020Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/gray_rocks",
+  "apiSha256": "b5d9f8abdd784bd6b0c85dc4602c92e607b8fb858e3957518a0cb34fe6a18c61",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gray_rocks/gray_rocks_diff_1k.jpg",
+  "assetFileMd5": "bf2b62bc5eaa54c34231f0c378c1e5ca",
+  "assetFileSha256": "4c3b6fada26a9b564ca110ad47bca5921eceefc611d970159ce559c3c50728a0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Gray Rocks",
+    "categories": [
+      "outdoor",
+      "terrain",
+      "natural",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "uneven",
+      "rocks",
+      "rocky",
+      "rock",
+      "gray",
+      "rough"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1799.9995946884155,
+      1799.9995946884155
+    ],
+    "date_published": 1696291200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "85e11fb6423b057327317b25bd4cc631d3d6d292",
+    "description": "Free 8K texture of uneven, angular gray rocks with rough, coarse faces, packed gravel gaps and scattered dirt and leaf debris - a natural rocky surface.",
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "2521daf8",
+    "download_count": 128080,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gray_rocks.png?width=256&height=256&format=webp&v=2521daf8"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Asphalt028C",
+  "checkedAt": "2026-10-10T01:44:50.979Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Asphalt028C&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "231cc5a370affdc082af93551954c20a7814c0649aee289fab5f0a1a4dfbcc5c",
+  "apiMetadata": {
+    "assetId": "Asphalt028C",
+    "dataType": "Material",
+    "displayName": "Asphalt 028 C",
+    "displayCategory": "Asphalt",
+    "shortLink": "https://ambientcg.com/a/Asphalt028C",
+    "tags": [
+      "28",
+      "asphalt",
+      "cracked",
+      "damaged"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Asphalt028C.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Asphalt028C.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Asphalt028C.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Asphalt028C.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Asphalt028C.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Asphalt028C.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Asphalt028C.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Asphalt028C.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Asphalt028C.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Asphalt028C.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Asphalt028C.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Asphalt028C.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Asphalt028C.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Asphalt028C.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Asphalt028C.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Asphalt028C.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Asphalt028C.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Asphalt028C.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Asphalt028C.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Asphalt028C.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Asphalt028C.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Asphalt028C.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Asphalt028C.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Asphalt028C.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_1K-JPG.zip",
+                "fileName": "Asphalt028C_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_1K-JPG.zip",
+                "size": 7564078,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_2K-JPG.zip",
+                "fileName": "Asphalt028C_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_2K-JPG.zip",
+                "size": 29677427,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_4K-JPG.zip",
+                "fileName": "Asphalt028C_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_4K-JPG.zip",
+                "size": 123299406,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_8K-JPG.zip",
+                "fileName": "Asphalt028C_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_8K-JPG.zip",
+                "size": 515747567,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_1K-PNG.zip",
+                "fileName": "Asphalt028C_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_1K-PNG.zip",
+                "size": 17161697,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_2K-PNG.zip",
+                "fileName": "Asphalt028C_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_2K-PNG.zip",
+                "size": 66658287,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_4K-PNG.zip",
+                "fileName": "Asphalt028C_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_4K-PNG.zip",
+                "size": 266808556,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt028C_8K-PNG.zip",
+                "fileName": "Asphalt028C_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt028C_8K-PNG.zip",
+                "size": 1055284440,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-02-17 09:00:00",
+    "earlyReleaseDate": "2023-01-20 21:30:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 10652,
+    "downloadCountMonth": 783,
+    "downloadCountWeek": 216,
+    "popularityScore": 2.4853579541909867,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_Color.jpg?33257&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_Displacement.jpg?48675&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_NormalDX.jpg?58803&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_Roughness.jpg?444&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_AmbientOcclusion.jpg?83258",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_Color.jpg?6287,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_Displacement.jpg?60154,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_NormalDX.jpg?91670,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_Roughness.jpg?53392,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt028C/Asphalt028C_SQ_AmbientOcclusion.jpg?24943&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Asphalt028C.webp",
+  "previewSha256": "52d92b91302165b61ae23cc441a3d3a7e7848e579ac13253b2f6e7519ba92a3a",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/yellow_plaster_02",
+  "checkedAt": "2026-10-10T01:55:42.070Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/yellow_plaster_02",
+  "apiSha256": "7a87391b30fa70347672ed493db8f38ebd75385b814d7392eef52c8688e06ab9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/yellow_plaster_02/yellow_plaster_02_diff_1k.jpg",
+  "assetFileMd5": "633b0c9fb1c6511fb20444278c9a4666",
+  "assetFileSha256": "b8ba1c2a8d73c610371e6ff66e9e2c2385b85fee4073fffb3fd6ffe254e9a370",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1669075200,
+    "name": "Yellow Plaster 02",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "plaster-concrete",
+      "wood",
+      "concrete",
+      "plaster"
+    ],
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "tags": [
+      "rough",
+      "old",
+      "yellow",
+      "wall",
+      "wood",
+      "plastered",
+      "cracks",
+      "weathered",
+      "uneven",
+      "brown",
+      "tan",
+      "planks",
+      "mud",
+      "cabin",
+      "wooden"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "info": null,
+    "sponsors": [
+      "3237733"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "655315d7184c6529e406afdf264e12c3cb6300ac",
+    "description": "Free 8K texture of weathered yellow plaster over wooden planks with deep cracks, rough uneven mud-like surface and tan-brown tones.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "cracked",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "ac394e86",
+    "download_count": 11661,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_plaster_02.png?width=256&height=256&format=webp&v=ac394e86"
+  }
+}

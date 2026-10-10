@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/gravel_floor_02",
+  "checkedAt": "2026-10-10T01:20:24.260Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/gravel_floor_02",
+  "apiSha256": "82a291e1c0cd88ad9a13b1db6366c7a10075e8881a24363087d994beeedf190c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_floor_02/gravel_floor_02_diff_1k.jpg",
+  "assetFileMd5": "9e420814367b8ee7a25bcfea10ff4b08",
+  "assetFileSha256": "ac9874264762a9e8d337e684259d51dac41a012933f0d8013033fee7076383f3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Gravel Floor 02",
+    "categories": [
+      "floor",
+      "gravel"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "rocks",
+      "gravel",
+      "gravelly",
+      "gravelly ground",
+      "driveway gravel",
+      "driveway",
+      "stones",
+      "coarse",
+      "gray",
+      "driveway stones",
+      "stony",
+      "outdoors"
+    ],
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1709164800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "authors": {
+      "Jenelle van Heerden": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "files_hash": "410a3bd10ee2eb1b23f599b4be1b5a30034a7859",
+    "description": "Free 8K texture of coarse gray driveway gravel, a rough, stony floor material with dense small rocks ideal for outdoor driveways, paths, and gravelly ground.",
+    "category_id": "a97bb631-d60c-54fb-ba1b-2121cbed91c6",
+    "category": "Ground & Terrain/Gravel & Pebbles/Driveway Gravel",
+    "sponsors": [
+      "101447488"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "6f38e842",
+    "download_count": 29979,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_floor_02.png?width=256&height=256&format=webp&v=6f38e842"
+  }
+}

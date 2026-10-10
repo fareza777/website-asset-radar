@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pavement_03",
+  "checkedAt": "2026-10-10T01:48:02.949Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pavement_03",
+  "apiSha256": "7f22d134fb9934ab665e09cc827ca49dde320dcb086e7d8647b6b4cdeeb07e94",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_03/pavement_03_diff_1k.jpg",
+  "assetFileMd5": "0d9a1252685f9ecc2fca7b4d2ea5a9da",
+  "assetFileSha256": "27cb62f96c03ac300aed5d1a67a10fe57eed7c58904a31da9d2f45a851d19e90",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Pavement 03",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "brick"
+    ],
+    "type": 1,
+    "info": null,
+    "tags": [
+      "rough",
+      "weathered",
+      "sidewalk",
+      "brick",
+      "bricks",
+      "cement",
+      "pavement"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "Photography"
+    },
+    "date_published": 1676505600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "description": "Free 8K texture: weathered brick pavement with rough, gritty cement surface, subtle color variation, worn edges and detailed micro-roughness.",
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "files_hash": "fa92de6f161ec360cacda4518d75dbdd250ee8d2",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2b1dc9e7",
+    "download_count": 60580,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_03.png?width=256&height=256&format=webp&v=2b1dc9e7"
+  }
+}

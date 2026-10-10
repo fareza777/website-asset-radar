@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brushed_concrete",
+  "checkedAt": "2026-10-10T02:03:41.782Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brushed_concrete",
+  "apiSha256": "0c04b3c034b33841b1c3ebf4593c023992cbee30711d184eca0e615730cf1f2e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brushed_concrete/brushed_concrete_diff_1k.jpg",
+  "assetFileMd5": "731d450cd11906e926adeb2d5caa29f9",
+  "assetFileSha256": "4054ed6eb65cd063356ffb4a88706b7d7b78c5435051c48bf0ee64290f04bc8c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1658793600,
+    "name": "Brushed Concrete ",
+    "categories": [
+      "man made",
+      "dirty",
+      "floor",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "rough",
+      "weathered",
+      "dirty",
+      "floor",
+      "ground",
+      "discolored",
+      "stained"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "2274ffd02c42d765d335c85e9067398253d6b45e",
+    "description": "Free 8K texture of rough brushed concrete with circular trowel marks, weathered discoloration, stains and subtle surface pitting.",
+    "category_id": "8e19ddef-056e-5554-834d-2fd52f1c17f7",
+    "category": "Concrete/Cast Walls & Floors/Trowel & Brushed Finish",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "33e6ea95",
+    "download_count": 75341,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brushed_concrete.png?width=256&height=256&format=webp&v=33e6ea95"
+  }
+}

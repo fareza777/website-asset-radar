@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rabdentse_ruins_wall",
+  "checkedAt": "2026-10-10T01:36:46.659Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rabdentse_ruins_wall",
+  "apiSha256": "4a32665fb16de3fa91bad3262dda4728308ebb1e648c11e1d8248258b29bc0c3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rabdentse_ruins_wall/rabdentse_ruins_wall_diff_1k.jpg",
+  "assetFileMd5": "83a1f4618c7d1769792ab88ad112ce49",
+  "assetFileSha256": "bb9ac11cae8661e9c69dc4760ba8132d1dbf3cb8031439ac7c7a473113b8b354",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "chipped",
+      "wall",
+      "weathered",
+      "damaged",
+      "worn",
+      "rocks",
+      "rock",
+      "dilapidated",
+      "fortress walls",
+      "rugged",
+      "abandoned",
+      "historic",
+      "stone",
+      "crumbling",
+      "weatherbeaten",
+      "stonework",
+      "timeworn",
+      "exterior"
+    ],
+    "date_published": 1686960000,
+    "name": "Rabdentse Ruins Wall",
+    "categories": [
+      "outdoor",
+      "man made",
+      "rock"
+    ],
+    "staging": null,
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "d7b4bdc89f83e384c5b6a77ba373b683ba8f4e8d",
+    "description": "Free 16K texture of weathered, crumbling stone fortress walls with chipped, rugged rock layers, deep mortar crevices and a dark, timeworn surface.",
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "cd7050b1",
+    "download_count": 20885,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rabdentse_ruins_wall.png?width=256&height=256&format=webp&v=cd7050b1"
+  }
+}

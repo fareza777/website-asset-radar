@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocky_trail_02",
+  "checkedAt": "2026-10-10T01:40:06.479Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocky_trail_02",
+  "apiSha256": "f5bfaa887073a35824068db3e22740acc63c58872f17fee29bfcfcb351ad5773",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_trail_02/rocky_trail_02_diff_1k.jpg",
+  "assetFileMd5": "45b85f90c5ae0eb9ee0c4789d48974c5",
+  "assetFileSha256": "0e4ecfdde26be06d79356e883e69267fe757f24be0f94af932e53a4b583bded1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1683763200,
+    "name": "Rocky Trail 02",
+    "categories": [
+      "outdoor",
+      "natural",
+      "dirty",
+      "sand",
+      "floor"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "stones",
+      "earthy",
+      "rugged",
+      "rough",
+      "terrain",
+      "gravelly",
+      "pathway",
+      "gritty",
+      "dusty",
+      "rocky",
+      "outdoors",
+      "dirt",
+      "rocks",
+      "ground",
+      "sand",
+      "gravel",
+      "footprints",
+      "dusty",
+      "dry",
+      "stony",
+      "rocky"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "7b9394e3bb60d9c0cfed2631b813c3f37678c62a",
+    "description": "Free 16K texture: rugged, dusty rocky trail with mixed gravel and compacted dirt - gritty stones, fine sand and scattered pebbles on a dry, uneven surface.",
+    "category_id": "dd06ef8e-5807-534b-b7ac-19fb07264599",
+    "category": "Ground & Terrain/Rocky Ground/Rocky Paths & Trails",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "b7f4e08b",
+    "download_count": 106916,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_trail_02.png?width=256&height=256&format=webp&v=b7f4e08b"
+  }
+}

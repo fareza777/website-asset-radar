@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T10:03:14.293Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Bark015&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "1134e892c985ce01ade735d4ba7a73a7ef3e8977c1541ea0b976fa60460adc83",
+  "apiSha256": "e1579b4d23b6e91f62e893719c1e95d50fb13bb6c0741704eb46d4bcc843f627",
   "apiMetadata": {
     "assetId": "Bark015",
     "dataType": "Material",
@@ -150,10 +150,10 @@
     "earlyReleaseDate": "2025-09-23 15:00:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 11685,
-    "downloadCountMonth": 2134,
-    "downloadCountWeek": 670,
-    "popularityScore": 9.544989266293214,
+    "downloadCount": 11751,
+    "downloadCountMonth": 2162,
+    "downloadCountWeek": 673,
+    "popularityScore": 9.573272467775418,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -172,7 +172,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Color.jpg?1448&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Displacement.jpg?17296&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_NormalDX.jpg?6310&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Roughness.jpg?23914&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_AmbientOcclusion.jpg?88502",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Color.jpg?48859&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Displacement.jpg?36339&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_NormalDX.jpg?42589&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Roughness.jpg?93613&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_AmbientOcclusion.jpg?93468",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -183,7 +183,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Color.jpg?22224,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Displacement.jpg?7990,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_NormalDX.jpg?43903,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Roughness.jpg?23814,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_AmbientOcclusion.jpg?67464&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Color.jpg?9475,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Displacement.jpg?84091,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_NormalDX.jpg?14530,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_Roughness.jpg?45864,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Bark015/Bark015_SQ_AmbientOcclusion.jpg?38068&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -201,5 +201,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Bark015.webp",
   "previewSha256": "024cd08355fa450630ae0af62835c170c808ebdae938e0b7860929a82108ea28",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-10T02:23:38.572Z"
 }

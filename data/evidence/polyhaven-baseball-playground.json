@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/baseball_playground",
+  "checkedAt": "2026-10-10T01:52:44.288Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/baseball_playground",
+  "apiSha256": "45b6cd0d37737784257b429f6c2944cec0eeea5d1dac61c4ddc63e169a7b5414",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/baseball_playground/baseball_playground_diff_1k.jpg",
+  "assetFileMd5": "032c577d7c54de5e8e7909765e43581d",
+  "assetFileSha256": "eaf182b4f4b5925e9752addfb66358cd64b6c7d0dc0f9152d2bfed7e89fb87f8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1672272000,
+    "name": "Baseball Playground",
+    "categories": [
+      "outdoor",
+      "terrain",
+      "sand"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "dirt",
+      "playground",
+      "sand",
+      "baseball",
+      "ground",
+      "brown",
+      "dry",
+      "trampled",
+      "footprints"
+    ],
+    "authors": {
+      "Guillaume Monsergent": "All"
+    },
+    "info": null,
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "prepaid": true,
+    "sponsors": [
+      "4714267"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c083ac67214c3ffa08830da1a06f14f0f1ea2594",
+    "description": "Free 8K texture of dry brown playground sand - compacted, trampled surface with footprints, granular detail, shallow ruts and matte, dusty roughness.",
+    "category_id": "2262e1f2-20db-5ba4-9915-764041ba9c4c",
+    "category": "Ground & Terrain/Sand/Compacted & Trampled Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "b8c9c3e2",
+    "download_count": 12290,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/baseball_playground.png?width=256&height=256&format=webp&v=b8c9c3e2"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/container_side",
+  "checkedAt": "2026-10-10T01:33:26.056Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/container_side",
+  "apiSha256": "879047462de6caa6f37290bcb0da35e9c0c8c60444192d913f5b733afb58b71d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/container_side/container_side_diff_1k.jpg",
+  "assetFileMd5": "af4c3140ca86cfba8bbe4d8bf85c5064",
+  "assetFileSha256": "9d6a8a9a243b6111f9d13af12d90325f0f1d52e45c2e1731f2d496702f024452",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Container Side",
+    "categories": [
+      "man made",
+      "metal"
+    ],
+    "type": 1,
+    "tags": [
+      "damaged",
+      "worn",
+      "metal",
+      "container",
+      "shipping container",
+      "battered",
+      "green",
+      "industrial",
+      "transport container",
+      "freight container",
+      "corrugated"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1940.000057220459,
+      1939.9999380111694
+    ],
+    "staging": null,
+    "date_published": 1690848000,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "709515aa6952ffabfdf1d2238d89607f72378af7",
+    "description": "Free 8K texture of green corrugated metal container side, worn, chipped paint with subtle dents, scratches and light grime on an industrial, battered surface.",
+    "category_id": "19c3f4e9-03df-528c-981a-4e9f779596b2",
+    "category": "Metal/Cladding & Shutters/Container Panels",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "c6ae785d",
+    "download_count": 20026,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/container_side.png?width=256&height=256&format=webp&v=c6ae785d"
+  }
+}

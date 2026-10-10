@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/ceiling_interior",
+  "checkedAt": "2026-10-10T01:37:56.367Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/ceiling_interior",
+  "apiSha256": "e26f0b0d64ef24f64ffbce3958890c8280a4c4a46efddde726d5bccf288427ca",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ceiling_interior/ceiling_interior_diff_1k.jpg",
+  "assetFileMd5": "e8c22111dbd2c4b643feac2cb1a56981",
+  "assetFileSha256": "c1244254ba65f3a570dfc88bad740dffffb62c02eb4ff5cd9a981546d0d6f653",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Ceiling Interior",
+    "categories": [
+      "indoor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "paint",
+      "spikey",
+      "wavy",
+      "ceiling",
+      "dry paint",
+      "dripping paint",
+      "dry",
+      "faded"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1686009600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "18974966e2359ad4706dd098cfb28427e1682083",
+    "description": "Free 8K texture of faded interior ceiling paint with dry, wavy, spiky flaky ridges and dripping, cracked layers; matte, rough painted surface.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "ceiling",
+      "condition": [
+        "painted",
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "c9a9fd70",
+    "download_count": 10497,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ceiling_interior.png?width=256&height=256&format=webp&v=c9a9fd70"
+  }
+}

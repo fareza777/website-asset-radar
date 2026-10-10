@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pico-8-overworld-tileset",
+  "sourceUrl": "https://opengameart.org/content/pico-8-overworld-tileset",
+  "checkedAt": "2026-10-10T01:44:13.200Z",
+  "httpStatus": 200,
+  "pageSha256": "a378bbf3611c218956a82ab870f6d1bf1ab8f61a7b60808a99fded5aff348cbc",
+  "title": "Pico-8 Overworld Tileset",
+  "authors": [
+    "ManticoreRO"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "No need but all right if you do :) Pico-8 Overworld Tileset by ManticoreRO. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/pico-8-overworld-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/overworld_2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/overworld_2.png",
+  "downloadSha256": "88fa8c4627a73b9d6f8af1d0693c001a002b8fed83a6ba6bc67eea23f11bef52",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "overworld_2.png",
+  "previewSha256": "88fa8c4627a73b9d6f8af1d0693c001a002b8fed83a6ba6bc67eea23f11bef52",
+  "sourceTags": [
+    "pico-8",
+    "pico 8",
+    "tileset",
+    "overworld"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

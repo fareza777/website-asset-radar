@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_snow",
+  "checkedAt": "2026-10-10T01:42:46.345Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_snow",
+  "apiSha256": "bd2b515739193c39689f95a44213a87ea587c8b48a4b9731c2da22a3c598f540",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_snow/asphalt_snow_diff_1k.jpg",
+  "assetFileMd5": "8da1c527776a6f348e0d12ddeb369b94",
+  "assetFileSha256": "07ca86302150f68f3cf72735fb3d0eb5657d180cc53cfaf48aae9c36305def84",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Asphalt Snow",
+    "categories": [
+      "outdoor",
+      "man made",
+      "asphalt",
+      "snow"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "asphalt",
+      "road",
+      "snow",
+      "urban",
+      "floor"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1680998400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "7934315"
+    ],
+    "files_hash": "bb9360a62044085ed02e48e6e31ca25ac36ca6dc",
+    "description": "Free 8K texture of rough urban asphalt dusted with patchy snow: gritty grey aggregate, scattered white flakes, uneven, slightly porous surface.",
+    "category_id": "8871debe-40cf-5e4d-a5e5-1ddfe979f14f",
+    "category": "Asphalt & Bitumen/Asphalt/Worn Road Surface",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "204b0c54",
+    "download_count": 12007,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_snow.png?width=256&height=256&format=webp&v=204b0c54"
+  }
+}

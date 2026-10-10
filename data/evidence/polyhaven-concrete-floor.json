@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_floor",
+  "checkedAt": "2026-10-10T01:49:54.955Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_floor",
+  "apiSha256": "d79c4d45ef8c1be518ac832d29b9e2a7f9686c62d21cf68040cdc6379ca42f25",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor/concrete_floor_diff_1k.jpg",
+  "assetFileMd5": "99b94da291a4f038fa6af93c3993cbec",
+  "assetFileSha256": "5e06d0fb226f671470f59bf7798954b6965c9ed56dd45084dfd012e15737e444",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1675036800,
+    "name": "Concrete Floor",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "tags": [
+      "rough",
+      "concrete",
+      "floor",
+      "old",
+      "brown",
+      "wall",
+      "dirty",
+      "cement",
+      "worn"
+    ],
+    "info": null,
+    "dimensions": [
+      2079.9996852874756,
+      2079.9996852874756
+    ],
+    "prepaid": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "128081732",
+      "42579608"
+    ],
+    "files_hash": "3e24caf1e8e1de5b0cb430b92215d9809422c9be",
+    "description": "Free 8K texture of an old brown concrete floor with rough, worn cement surface, subtle dirt, pores and granular surface detail.",
+    "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+    "category": "Concrete/Cast Walls & Floors/Bare Cast",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "5a11a4a2",
+    "download_count": 27652,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor.png?width=256&height=256&format=webp&v=5a11a4a2"
+  }
+}

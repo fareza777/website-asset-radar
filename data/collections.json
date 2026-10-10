@@ -190,7 +190,7 @@
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds. Select the pieces that suit your interface.",
+    "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds, plus a bone-hand cursor and basic RPG icons. Select the pieces that suit your interface.",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -201,16 +201,18 @@
       "kenney-digital-audio",
       "kenney-fantasy-ui-borders",
       "kenney-medals",
-      "kenney-board-game-icons"
+      "kenney-board-game-icons",
+      "oga-animated-bone-hand-cursor",
+      "oga-basic-rpg-icons"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
     "color": "mint",
-    "updatedAt": "2026-10-09T07:39:17.000Z"
+    "updatedAt": "2026-10-10T02:22:00.000Z"
   },
   {
     "id": "an-underground-world",
     "name": "An underground world",
-    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, and RPG sounds. Art direction differs by pack; assemble materials and layouts in your engine.",
+    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, and RPG sounds, plus separate 2D mine and block tiles. Art direction differs by pack; assemble layouts in your engine.",
     "assetIds": [
       "kenney-modular-dungeon-kit",
       "kenney-modular-cave-kit",
@@ -221,11 +223,13 @@
       "kenney-rpg-audio",
       "polyhaven-rock-wall-17",
       "ambientcg-rock063",
-      "kenney-retro-textures-fantasy"
+      "kenney-retro-textures-fantasy",
+      "oga-mine-game-graphics",
+      "oga-more-blocks"
     ],
     "cover": "kenney-modular-dungeon-kit",
     "color": "blue",
-    "updatedAt": "2026-10-09T07:39:17.000Z"
+    "updatedAt": "2026-10-10T02:22:00.000Z"
   },
   {
     "id": "the-outside-world",
@@ -265,10 +269,31 @@
       "polyhaven-brick-floor-04",
       "polyhaven-coated-pine",
       "polyhaven-patterned-terracotta-tiling",
-      "polyhaven-plaster-stone-wall-02"
+      "polyhaven-plaster-stone-wall-02",
+      "polyhaven-rectangular-parquet",
+      "polyhaven-cobblestone-floor-06",
+      "ambientcg-diamondplate008b"
     ],
     "cover": "ambientcg-bricks105",
     "color": "mint",
-    "updatedAt": "2026-10-09T10:19:11.863Z"
+    "updatedAt": "2026-10-10T02:22:00.000Z"
+  },
+  {
+    "id": "snow-on-the-ground",
+    "name": "Snow on the ground",
+    "description": "CC0 snow, slush, and snowy asphalt textures from Poly Haven and ambientCG for winter ground. These are separate materials, not one tileset. Import the maps in your engine.",
+    "assetIds": [
+      "polyhaven-snow-floor",
+      "polyhaven-asphalt-snow",
+      "ambientcg-snow015",
+      "ambientcg-snow014",
+      "ambientcg-snow013",
+      "ambientcg-snow012",
+      "ambientcg-snow011",
+      "ambientcg-snow010a"
+    ],
+    "cover": "polyhaven-snow-floor",
+    "color": "blue",
+    "updatedAt": "2026-10-10T02:22:00.000Z"
   }
 ]

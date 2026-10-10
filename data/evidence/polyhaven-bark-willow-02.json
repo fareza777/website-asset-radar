@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bark_willow_02",
+  "checkedAt": "2026-10-10T01:44:36.235Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bark_willow_02",
+  "apiSha256": "a45258514cad6fafd4aab8626846db502e4de3bbb6e6e84215425fabe9fe2cef",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow_02/bark_willow_02_diff_1k.jpg",
+  "assetFileMd5": "384e25dd87b6b606458c9aa5f84735aa",
+  "assetFileSha256": "95e1380566834aab220bd8ea9a5287f3bfff46910c18017fcb46ebbbe832024f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1679356800,
+    "name": "Bark Willow 02",
+    "categories": [
+      "outdoor",
+      "natural",
+      "wood",
+      "raw wood",
+      "bark"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "rough",
+      "dry",
+      "nature",
+      "tree",
+      "bark",
+      "wood",
+      "forest"
+    ],
+    "info": null,
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "dimensions": [
+      2150.0000953674316,
+      2150.0000953674316
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "cf8e6e6f070a79e58fb6e9607b6a230f5e93db4d",
+    "description": "Free 8K bark texture showing rough, dry willow bark with deep vertical fissures, layered flaky plates and muted brown-gray tones.",
+    "category_id": "fc8dd00d-a670-5b83-af7f-2281cb9ca987",
+    "category": "Wood/Bark/Fissured Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "65165905",
+    "download_count": 119623,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_willow_02.png?width=256&height=256&format=webp&v=65165905"
+  }
+}

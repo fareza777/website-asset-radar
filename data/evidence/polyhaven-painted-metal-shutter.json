@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/painted_metal_shutter",
+  "checkedAt": "2026-10-10T02:02:01.440Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/painted_metal_shutter",
+  "apiSha256": "9c1014667bd42cfe16e0becd42b5d25ad3efc5cabb35de1528d2cb4c09463ef7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/painted_metal_shutter/painted_metal_shutter_diff_1k.jpg",
+  "assetFileMd5": "b2b648a56ca737d51999525e857f499a",
+  "assetFileSha256": "278394aabcb5a5bd560d9904358682acc5af23666b22bd1f12558789da4aa4d2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1660608000,
+    "name": "Painted Metal Shutter",
+    "categories": [
+      "man made",
+      "metal"
+    ],
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Dario Barresi": "Baking",
+      "Rico Cilliers": "Processing ",
+      "Charlotte Baglioni": "Photography"
+    },
+    "tags": [
+      "weathered",
+      "worn",
+      "dirty",
+      "stained",
+      "scratched",
+      "discolored",
+      "painted",
+      "metal",
+      "corrugated"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "10d2f71789c8dc02a4a0e6cbb20d021a6c032d42",
+    "description": "Free 8K texture of a painted corrugated metal shutter, weathered and worn with scratches, dirt, stains and subtle discoloration across ridged painted metal.",
+    "category_id": "da0d83ea-5e82-5d71-a933-ae328356e9d8",
+    "category": "Metal/Cladding & Shutters/Shutters & Doors",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "6d7d385a",
+    "download_count": 55297,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/painted_metal_shutter.png?width=256&height=256&format=webp&v=6d7d385a"
+  }
+}

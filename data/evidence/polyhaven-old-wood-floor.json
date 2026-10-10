@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/old_wood_floor",
+  "checkedAt": "2026-10-10T01:52:04.862Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/old_wood_floor",
+  "apiSha256": "8194fe081ac623f806aaec51d155283cb918f37b979ff91aa07ef1ff2905b5fe",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/old_wood_floor/old_wood_floor_diff_1k.jpg",
+  "assetFileMd5": "ffaa68add0544811b30459e58cc9b4fd",
+  "assetFileSha256": "e6952149cd1bb02e485a183f526e9dbe8d90d2a22bfac564cc3874cfb8eddd03",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1673308800,
+    "name": "Old Wood Floor",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "wood",
+      "dirty"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "tags": [
+      "wood",
+      "wooden",
+      "deck",
+      "planks",
+      "old",
+      "uneven",
+      "weathered",
+      "worn",
+      "brown",
+      "floor"
+    ],
+    "authors": {
+      "Guillaume Monsergent": "All"
+    },
+    "info": null,
+    "prepaid": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "fd59ad577af8185aa6702142c57265b3bfff8aa4",
+    "description": "Free 8K texture of old, weathered brown wooden floor planks with uneven, worn boards, deep grain, cracks and dirt-filled gaps.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "630dd57b",
+    "download_count": 37198,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_wood_floor.png?width=256&height=256&format=webp&v=630dd57b"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_floor",
+  "checkedAt": "2026-10-10T01:28:32.490Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_floor",
+  "apiSha256": "af23b51d5e810f6a7772cc66fa729f10fd8cd41f49eb23e3b5b3545a5276155e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_diff_1k.jpg",
+  "assetFileMd5": "b7e927d2bf2f8f103820ff3890c8407c",
+  "assetFileSha256": "2a1c07687b6dbb214c4b9213739c6d92d425f1f0fc8ab3ac157f105d78240789",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Wood Floor",
+    "categories": [
+      "floor",
+      "wood",
+      "man made",
+      "clean"
+    ],
+    "type": 1,
+    "tags": [
+      "wood",
+      "floor",
+      "wooden",
+      "wooden flooring ",
+      "grain",
+      "wood grain",
+      "interior design",
+      "interior",
+      "flooring"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1699.9996900558472,
+      1699.9996900558472
+    ],
+    "date_published": 1698105600,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "description": "Free 8K material: warm medium-brown wood floor texture with narrow planks, visible oak grain, subtle seams and a smooth satin finish.",
+    "files_hash": "a44e6375a09ab98780b876e709f2629e7ed30409",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "4c14fcdb",
+    "download_count": 293244,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_floor.png?width=256&height=256&format=webp&v=4c14fcdb"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/laminate_floor",
+  "checkedAt": "2026-10-10T02:01:51.535Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/laminate_floor",
+  "apiSha256": "a1a53d112eafc6af92ca7581d97cdba6f0d0119a171034305f41be2a19b633b3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/laminate_floor/laminate_floor_diff_1k.jpg",
+  "assetFileMd5": "ba4f15850733919b98d24b4256724046",
+  "assetFileSha256": "c3dcfb3ead57674031fbbe9a351fd9737d200afa72ab04047ed7658f0696ec29",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Laminate Floor",
+    "categories": [
+      "floor",
+      "man made",
+      "wood"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "damaged",
+      "wood",
+      "wooden",
+      "dirty",
+      "scratched",
+      "stained",
+      "flat",
+      "floor",
+      "grain"
+    ],
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1660780800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b22ed6cf5a73e9bed7c80e57d5eae76e357f8c4a",
+    "description": "Free 8K laminate floor texture showing light oak planks with soft grain, worn scratches, stains and scuffs, slightly glossy finish and subtle dirt.",
+    "category_id": "acb42532-cb6a-5b57-9270-286d028f3a4c",
+    "category": "Wood/Engineered Wood/Laminate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "d700a871",
+    "download_count": 113587,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/laminate_floor.png?width=256&height=256&format=webp&v=d700a871"
+  }
+}

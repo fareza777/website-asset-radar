@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/snow_floor",
+  "checkedAt": "2026-10-10T01:42:06.160Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/snow_floor",
+  "apiSha256": "99e7e08ac53e3fa1370a04d4a6cfac658fca5f8c4eee9772f5428511442d2448",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_floor/snow_floor_diff_1k.jpg",
+  "assetFileMd5": "47e32b0128c41d3c8f7bffbc32377a47",
+  "assetFileSha256": "8d016825951e84d03417e8e8cf563144539ecc4588a30a0c35b0134d508b58b8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Snow Floor",
+    "categories": [
+      "outdoor",
+      "man made",
+      "floor",
+      "snow",
+      "asphalt"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "snow",
+      "floor",
+      "asphalt"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1681603200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "8cd3f01d185502c61c288a02dd5d6b1d70ba38ef",
+    "description": "Free 8K snow floor texture with rough, compacted snow over gritty asphalt, fine grain, dirt speckles and a low-reflective, matte finish.",
+    "category_id": "41640037-7e94-5a3e-bd1c-e77bd5605abe",
+    "category": "Ground & Terrain/Snow/Dirty & Muddy Snow",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "206010a4",
+    "download_count": 15789,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_floor.png?width=256&height=256&format=webp&v=206010a4"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sandy_gravel",
+  "checkedAt": "2026-10-10T01:30:54.559Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sandy_gravel",
+  "apiSha256": "f254c937b05edb2995d5016a36dba90f2786769caf66f1d26d8439179df68924",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandy_gravel/sandy_gravel_diff_1k.jpg",
+  "assetFileMd5": "9808ac7c155cff11314a4fe200255c50",
+  "assetFileSha256": "38829e669dc246e86b7ce94c4141485709988450b13f82cfc4bc6067dd69ed48",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Sandy Gravel",
+    "categories": [
+      "outdoor",
+      "sand",
+      "gravel"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "stones",
+      "sand",
+      "sandy",
+      "gravel",
+      "gravelly ground",
+      "gravelly texture",
+      "gravelly",
+      "gritty",
+      "coarse"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2099.99942779541,
+      2099.99942779541
+    ],
+    "date_published": 1694476800,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1894a5e023f0213e3ec037d22633960cde00176a",
+    "description": "Free 8K sandy gravel texture with coarse, gritty surface - weathered tan stones and compacted sand showing subtle roughness and fine stone detail.",
+    "category_id": "e4c482d4-5f4d-57db-a79b-0f90d1f6f961",
+    "category": "Ground & Terrain/Gravel & Pebbles/Sandy Gravel",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "7ade17e2",
+    "download_count": 38745,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandy_gravel.png?width=256&height=256&format=webp&v=7ade17e2"
+  }
+}

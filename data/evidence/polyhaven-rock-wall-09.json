@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_09",
+  "checkedAt": "2026-10-10T01:33:55.664Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_09",
+  "apiSha256": "f107ad9a1516869958c3c6f9a8503d40c2b1cb39141c3189d4207f2e9b0f8fa0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_09/rock_wall_09_diff_1k.jpg",
+  "assetFileMd5": "e1c0c7697a6fbf17c09f247ac90da7bf",
+  "assetFileSha256": "8bee4bff4a982d7c7cdb0aaba6156586a2d2fbf0f2654dc0ae964e0aab04b218",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "wall",
+      "rock",
+      "rocks",
+      "fort",
+      "dry",
+      "weathered",
+      "fortress walls"
+    ],
+    "date_published": 1690243200,
+    "name": "Rock Wall 09",
+    "staging": null,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1220.0000286102295,
+      1220.0000286102295
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1442f637aa5a70911414224dfe2498bd556f16cf",
+    "description": "Free 8K texture of weathered fortress rock wall: rough, uneven stones with mortar, dry, dark brown-gray surfaces, heavy weathering and mineral detail.",
+    "categories": [
+      "wall",
+      "rock",
+      "man made",
+      "dirty"
+    ],
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7aae2c64",
+    "download_count": 21099,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_09.png?width=256&height=256&format=webp&v=7aae2c64"
+  }
+}

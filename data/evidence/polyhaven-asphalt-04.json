@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_04",
+  "checkedAt": "2026-10-10T01:27:22.691Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_04",
+  "apiSha256": "c2f4ed45fa89c689507536f162803ac9c11fae9390915ce2a29a40513defca4b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_04/asphalt_04_diff_1k.jpg",
+  "assetFileMd5": "729a3299145b25982a48f2f9e05e7f21",
+  "assetFileSha256": "837a78bb1e94864c221f847c85480484e953a9ee958772481dd2c501e18def2e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Asphalt 04",
+    "categories": [
+      "man made",
+      "outdoor",
+      "road"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "dry",
+      "cracked",
+      "discolored",
+      "asphalt",
+      "road",
+      "street"
+    ],
+    "info": null,
+    "dimensions": [
+      4039.9999618530273,
+      4039.9999618530273
+    ],
+    "date_published": 1700092800,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "26e1e0e364666ffa6d5c90795fb911eefa08ea57",
+    "description": "Free 16K texture: weathered, rough asphalt with dry, discolored tones, fine aggregate and subtle cracks - ideal for worn roads and urban outdoor scenes.",
+    "authors": {
+      "Jenelle van Heerden": "Processing",
+      "Sergej Majboroda": "Photography"
+    },
+    "sponsors": [
+      "7934315"
+    ],
+    "category_id": "ae6df066-2cbf-5772-9092-3cd86ed6394e",
+    "category": "Asphalt & Bitumen/Asphalt/Cracked Asphalt",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "d7452987",
+    "download_count": 55725,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_04.png?width=256&height=256&format=webp&v=d7452987"
+  }
+}

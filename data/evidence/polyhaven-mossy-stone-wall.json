@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mossy_stone_wall",
+  "checkedAt": "2026-10-10T01:29:02.757Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mossy_stone_wall",
+  "apiSha256": "5df4a47e8b5470ce1e620b87cc96d0b8d11a87bca11a276747fc06194e36f3d2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_stone_wall/mossy_stone_wall_diff_1k.jpg",
+  "assetFileMd5": "ae70425d2aec4b8f454dc1762c1ec881",
+  "assetFileSha256": "7240e55cfc662ea403600fc7d5143f72983fbe8098d55fc6ccae75d21421dce4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Mossy Stone Wall",
+    "type": 1,
+    "tags": [
+      "discolored",
+      "weathered",
+      "uneven",
+      "exterior",
+      "moss",
+      "concrete",
+      "weatherbeaten",
+      "aged",
+      "worn",
+      "wall",
+      "outdoor",
+      "mosscovered",
+      "dungeon",
+      "stonework",
+      "dilapidated"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "date_published": 1697068800,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "cfb705d7739fa2ab286a75e9a94372b04eda8a36",
+    "description": "Free 16K texture of a moss-covered, weathered stone wall with uneven, discolored blocks, rough mortar, and damp, aged surfaces.",
+    "categories": [
+      "wall",
+      "man made",
+      "rock"
+    ],
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f2092aa5",
+    "download_count": 7846,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mossy_stone_wall.png?width=256&height=256&format=webp&v=f2092aa5"
+  }
+}

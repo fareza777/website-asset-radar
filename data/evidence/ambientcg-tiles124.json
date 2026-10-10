@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Tiles124",
+  "checkedAt": "2026-10-10T01:28:36.437Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Tiles124&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "7e26b36f395be85ad8d67cc4069f85bc2c0b4d96a5bb079fc3e8694405478324",
+  "apiMetadata": {
+    "assetId": "Tiles124",
+    "dataType": "Material",
+    "displayName": "Tiles 124",
+    "displayCategory": "Tiles",
+    "shortLink": "https://ambientcg.com/a/Tiles124",
+    "tags": [
+      "124",
+      "bathroom",
+      "penny",
+      "round",
+      "tiles"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Tiles124.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Tiles124.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Tiles124.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Tiles124.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Tiles124.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Tiles124.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Tiles124.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Tiles124.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Tiles124.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Tiles124.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Tiles124.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Tiles124.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Tiles124.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Tiles124.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Tiles124.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Tiles124.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Tiles124.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Tiles124.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Tiles124.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Tiles124.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Tiles124.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Tiles124.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Tiles124.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Tiles124.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_1K-JPG.zip",
+                "fileName": "Tiles124_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_1K-JPG.zip",
+                "size": 5751767,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_2K-JPG.zip",
+                "fileName": "Tiles124_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_2K-JPG.zip",
+                "size": 15778692,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_4K-JPG.zip",
+                "fileName": "Tiles124_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_4K-JPG.zip",
+                "size": 51579787,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_8K-JPG.zip",
+                "fileName": "Tiles124_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_8K-JPG.zip",
+                "size": 201321826,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_1K-PNG.zip",
+                "fileName": "Tiles124_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_1K-PNG.zip",
+                "size": 13195120,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_2K-PNG.zip",
+                "fileName": "Tiles124_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_2K-PNG.zip",
+                "size": 44750729,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_4K-PNG.zip",
+                "fileName": "Tiles124_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_4K-PNG.zip",
+                "size": 168961886,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Tiles124_8K-PNG.zip",
+                "fileName": "Tiles124_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Tiles124_8K-PNG.zip",
+                "size": 555924069,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2023-07-03 18:00:00",
+    "earlyReleaseDate": "2023-06-17 22:37:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 16264,
+    "downloadCountMonth": 932,
+    "downloadCountWeek": 264,
+    "popularityScore": 3.6101762619044235,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_Color.jpg?53466&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_Displacement.jpg?44173&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_NormalDX.jpg?74190&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_Roughness.jpg?75045&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_AmbientOcclusion.jpg?19364",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_Color.jpg?4299,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_Displacement.jpg?18187,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_NormalDX.jpg?78710,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_Roughness.jpg?38872,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles124/Tiles124_SQ_AmbientOcclusion.jpg?4221&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Tiles124.webp",
+  "previewSha256": "5ced097662b3c2e189f5fdde74e5c62d3a2c14a463e1a6094ecdab906e9199fe",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

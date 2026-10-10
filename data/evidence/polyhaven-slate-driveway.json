@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/slate_driveway",
+  "checkedAt": "2026-10-10T01:34:45.735Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/slate_driveway",
+  "apiSha256": "00aca89a0e92e2d0453d98efe8254f78d8c6bf332f7004ff8de951024c91f20d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/slate_driveway/slate_driveway_diff_1k.jpg",
+  "assetFileMd5": "a379a25cce699226280dd36c804c3b5b",
+  "assetFileSha256": "5b445d09ff5847dd939b878b7151067fe87d71798d0979a859fe2dd614b60387",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Slate Driveway",
+    "type": 1,
+    "tags": [
+      "rough",
+      "old",
+      "worn",
+      "concrete",
+      "slate",
+      "slates",
+      "rock",
+      "exterior",
+      "driveway",
+      "stone",
+      "stonework",
+      "cracked cement"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2090.0001525878906,
+      2090.0001525878906
+    ],
+    "date_published": 1689206400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "77614f52692fd140d58e0ac13d47c062b0b01709",
+    "description": "Free 8K texture of a worn slate driveway: dark irregular slate slabs set in rough, cracked cement mortar with weathered edges and soil-filled joints.",
+    "categories": [
+      "man made",
+      "outdoor",
+      "floor"
+    ],
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "821d2f9b",
+    "download_count": 17773,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slate_driveway.png?width=256&height=256&format=webp&v=821d2f9b"
+  }
+}

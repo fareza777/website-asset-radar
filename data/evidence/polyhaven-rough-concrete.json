@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_concrete",
+  "checkedAt": "2026-10-10T01:45:32.183Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_concrete",
+  "apiSha256": "d9b670b26e185a1f2a79b3cd5a23735237f05d027a50d6cc5d8c30c328fa608d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_concrete/rough_concrete_diff_1k.jpg",
+  "assetFileMd5": "82909f2db1e0453500703ae54e806f5c",
+  "assetFileSha256": "dd7fc03e152eb8c2fd511248aa2e9bf7428a645bd0e0b74ac1d887ad136cb0bc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1678752000,
+    "name": "Rough Concrete",
+    "categories": [
+      "man made",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "info": null,
+    "tags": [
+      "rough",
+      "concrete",
+      "dry",
+      "plaster",
+      "coarse",
+      "white",
+      "grey"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "dimensions": [
+      1230.0000190734863,
+      1230.0000190734863
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "38d884db7ce867ff2e6445a31abfe70aa5adc7b5",
+    "description": "Free 8K rough concrete texture with a coarse, dry plaster surface - whitish-grey tones, granular pits and pronounced matte micro-roughness.",
+    "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+    "category": "Concrete/Cast Walls & Floors/Bare Cast",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "65cd378c",
+    "download_count": 63607,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_concrete.png?width=256&height=256&format=webp&v=65cd378c"
+  }
+}

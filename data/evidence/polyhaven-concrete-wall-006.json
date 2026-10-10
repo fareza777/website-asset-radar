@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_wall_006",
+  "checkedAt": "2026-10-10T02:00:41.314Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_wall_006",
+  "apiSha256": "7fe6a17380df9fe55840fff299a4f976487fc480d00a9774a05a10ebc8cbf1f9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_006/concrete_wall_006_diff_1k.jpg",
+  "assetFileMd5": "62ac61307a3321ecec26e1abd045f2ab",
+  "assetFileSha256": "fea247dd085cd05d8deb335234c834764d622029da351f8bcc8913935316bacd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Concrete Wall 006",
+    "categories": [
+      "man made",
+      "wall",
+      "dirty",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "damaged",
+      "chipped",
+      "wall",
+      "stained",
+      "dirty",
+      "scratched",
+      "plaster",
+      "concrete"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "Photography"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1663027200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "a385d018de460aaa340cf2dff49b1651c69273b8",
+    "description": "Free 8K texture of weathered concrete wall: rough, chipped plaster with pitted holes, scratches and stains, coarse gritty surface and horizontal form marks.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "cracked",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "a2b03031",
+    "download_count": 44780,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_006.png?width=256&height=256&format=webp&v=a2b03031"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/dirty_carpet",
+  "checkedAt": "2026-10-10T01:27:52.696Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/dirty_carpet",
+  "apiSha256": "302b4fe1c962ece6935fd209767a4290418e9f70081d33a0c1b33f73d6ce466d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dirty_carpet/dirty_carpet_diff_1k.jpg",
+  "assetFileMd5": "97c0a4b94e5660c117cc511b240aa3b3",
+  "assetFileSha256": "b0ef2b248cb7dfa1d33f1b2215fb3b83e815527d4091a2c3a423bdcd63bef60a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Dirty Carpet",
+    "type": 1,
+    "tags": [
+      "carpet",
+      "dirty",
+      "floor",
+      "textile ",
+      "rug",
+      "discolored",
+      "faded"
+    ],
+    "authors": {
+      "Rohit Seervi": "All"
+    },
+    "info": null,
+    "dimensions": [
+      599.9999046325684,
+      599.9999046325684
+    ],
+    "date_published": 1699315200,
+    "staging": null,
+    "donated": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "categories": [
+      "floor",
+      "fabric",
+      "carpet"
+    ],
+    "files_hash": "5a10cbdb900933c85bebdd7abc6efe94bf5caa36",
+    "description": "Free 8K texture of a dirty, faded carpet with coarse, flattened pile, discolored olive-brown tones, subtle stripe detail, worn fibers and surface grime.",
+    "category_id": "745bbd34-5a32-52b8-8899-f9ebe482797a",
+    "category": "Textiles & Leather/Carpet & Matting/Carpet",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "c2afaeb5",
+    "download_count": 85666,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirty_carpet.png?width=256&height=256&format=webp&v=c2afaeb5"
+  }
+}

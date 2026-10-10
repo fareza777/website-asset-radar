@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/herringbone_parquet",
+  "checkedAt": "2026-10-10T01:35:38.445Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/herringbone_parquet",
+  "apiSha256": "4c3dc73a95bf7936db602bd4524a24faa87ed1cbd5f533dd65b1612b727974e5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/herringbone_parquet/herringbone_parquet_diff_1k.jpg",
+  "assetFileMd5": "dae9d3dd6d8a2c2e387da22fd8228265",
+  "assetFileSha256": "d6c66492a6c4cfd4e8ed18c9cdd4e0303f3de4e04613d2adca8bc2b8f2dd2350",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Herringbone Parquet",
+    "categories": [
+      "man made",
+      "floor",
+      "wood"
+    ],
+    "type": 1,
+    "tags": [
+      "smooth",
+      "wood",
+      "coated",
+      "shiny",
+      "plank",
+      "herringbone",
+      "wooden planks",
+      "parquet flooring",
+      "flooring",
+      "polished",
+      "pattern",
+      "interior design"
+    ],
+    "info": null,
+    "dimensions": [
+      3400.0000953674316,
+      3400.0000953674316
+    ],
+    "date_published": 1688428800,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "files_hash": "4bdcf23af4b65d7983d801dc3b2ba4e7c4c387ca",
+    "description": "Free 16K texture of glossy herringbone parquet - smooth, coated wooden planks with polished shine and subtle grain, ideal for interior flooring materials.",
+    "authors": {
+      "Jenelle van Heerden": "Processing",
+      "Sergej Majboroda": "Photography"
+    },
+    "category_id": "54423151-f808-5819-a54c-665c5838d52e",
+    "category": "Wood/Boards & Planks/Parquet",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "b5cd2d3a",
+    "download_count": 85543,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_parquet.png?width=256&height=256&format=webp&v=b5cd2d3a"
+  }
+}

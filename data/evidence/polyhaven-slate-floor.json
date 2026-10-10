@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/slate_floor",
+  "checkedAt": "2026-10-10T01:33:45.621Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/slate_floor",
+  "apiSha256": "83712ca1ec94ea108ed1b253058ad9868d3724e281742fb6ab3f5de9a0907b04",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/slate_floor/slate_floor_diff_1k.jpg",
+  "assetFileMd5": "33760bd0e0668f1ff92086a6cd9c38af",
+  "assetFileSha256": "ca47f5ba941cca29af7c7c16f7c6e7a8ba9dbdeb440e26c7a166d2f3bae9ace5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "slates",
+      "slate",
+      "shiny",
+      "coated",
+      "polished",
+      "reflective",
+      "stone",
+      "flooring",
+      "interior design",
+      "stone tile"
+    ],
+    "date_published": 1690416000,
+    "name": "Slate Floor",
+    "categories": [
+      "floor",
+      "man made"
+    ],
+    "staging": null,
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2289.9999618530273,
+      2290.0002002716064
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "a32f79680e8da88837ab9b12e1bc76dcc38ceb64",
+    "description": "Free 8K texture of polished dark slate flooring with a coated, glossy finish, visible grout and subtle scratches, rich stone grain and reflective highlights.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "7e58c77d",
+    "download_count": 16634,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slate_floor.png?width=256&height=256&format=webp&v=7e58c77d"
+  }
+}

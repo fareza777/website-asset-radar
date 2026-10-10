@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocky_gravel",
+  "checkedAt": "2026-10-10T01:47:21.981Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocky_gravel",
+  "apiSha256": "716cbf53d9f64172148c04c0d450bdacd129e43675bb1a372548577693e28595",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_gravel/rocky_gravel_diff_1k.jpg",
+  "assetFileMd5": "a1d5a23e5df0f2a43ec69d9a1b1c3f92",
+  "assetFileSha256": "96ca2e89a5b5d9413217dddaf6b217afccd2cc5ef39a1dbc2a2939aac4cac38e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rocky Gravel",
+    "categories": [
+      "outdoor",
+      "floor",
+      "gravel",
+      "dirty"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "info": null,
+    "tags": [
+      "rough",
+      "stones",
+      "rocks",
+      "gravel",
+      "dirt",
+      "path",
+      "nature",
+      "leaves",
+      "ground",
+      "uneven"
+    ],
+    "dimensions": [
+      1809.999942779541,
+      1809.999942779541
+    ],
+    "date_published": 1677110400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6de5125467421ae9f6dfee884c11f83e7cbdc9fb",
+    "description": "Free 8K texture of rough reddish-brown rocky gravel - dense small stones, dirt and leaf fragments creating a gritty, uneven ground surface.",
+    "category_id": "a97bb631-d60c-54fb-ba1b-2121cbed91c6",
+    "category": "Ground & Terrain/Gravel & Pebbles/Driveway Gravel",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "3a617d9f",
+    "download_count": 8212,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_gravel.png?width=256&height=256&format=webp&v=3a617d9f"
+  }
+}

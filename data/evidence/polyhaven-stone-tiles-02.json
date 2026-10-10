@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stone_tiles_02",
+  "checkedAt": "2026-10-10T01:44:16.313Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stone_tiles_02",
+  "apiSha256": "d370cd98850e9e9f7d0ce3ff3238b42428fa8e088928f750267ba912539c08f5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tiles_02/stone_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "8d2ebfc3505efbb610aa5010d38d2df8",
+  "assetFileSha256": "687ef4a6cc07fb680352cf26b0a2a6256d4c18d8084dcd59ac739bc509296e18",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1679788800,
+    "name": "Stone Tiles 02",
+    "categories": [
+      "floor",
+      "rock",
+      "outdoor",
+      "wall"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "info": null,
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "tags": [
+      "uneven",
+      "rock",
+      "stones",
+      "stone",
+      "floor",
+      "tiles",
+      "rocks",
+      "slates"
+    ],
+    "sponsors": [
+      "4714267"
+    ],
+    "files_hash": "746cd3c7d37b94201ed0cb4e9a407e0c7b013caf",
+    "description": "Free 8K stone tile texture featuring uneven slate slabs, rough chiseled surfaces, defined grout joints and subtle weathering, with natural color variation.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "fbbcd60a",
+    "download_count": 133011,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_tiles_02.png?width=256&height=256&format=webp&v=fbbcd60a"
+  }
+}

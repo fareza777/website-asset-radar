@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-valley-city-topographic-map",
+  "sourceUrl": "https://opengameart.org/content/valley-city-topographic-map",
+  "checkedAt": "2026-10-10T02:06:51.701Z",
+  "httpStatus": 200,
+  "pageSha256": "21d0b32b4a4ac5e4aba1fc845f487eda2fc8c186c588ece67935776388688517",
+  "title": "Valley City Topographic Map",
+  "authors": [
+    "knekko"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Released as CC0 - no attribution required unless you like to Valley City Topographic Map by knekko. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/valley-city-topographic-map Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/fragment-city-map-overlay_0.png",
+    "https://opengameart.org/sites/default/files/fragment-city-map_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/fragment-city-map-overlay_0.png",
+  "downloadSha256": "3adac236c3f951f9eabb7b7733c2cb5ff763d12569033a803ee2d555dbc64c7a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "fragment-city-map-overlay_0.png",
+  "previewSha256": "3adac236c3f951f9eabb7b7733c2cb5ff763d12569033a803ee2d555dbc64c7a",
+  "sourceTags": [
+    "Map",
+    "cyberpunk",
+    "Pixel Art",
+    "topography",
+    "city"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

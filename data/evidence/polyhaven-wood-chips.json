@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_chips",
+  "checkedAt": "2026-10-10T01:39:56.824Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_chips",
+  "apiSha256": "c42edd8f2d3eb6f179d2be93ae216766b23da0f90e975ff2eaf9ae3e6f017ad2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_chips/wood_chips_diff_1k.jpg",
+  "assetFileMd5": "6e2f357759bf532e8e89dcb6441b2e3f",
+  "assetFileSha256": "7788c5d14db682fe7ee0b52e76bdf1ffac1346c25a5284ceaf51175a62c114a9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "weathered",
+      "wood",
+      "ground",
+      "brown",
+      "nature",
+      "leaves"
+    ],
+    "date_published": 1683936000,
+    "name": "Wood Chips",
+    "categories": [
+      "outdoor",
+      "natural",
+      "raw wood",
+      "wood"
+    ],
+    "staging": null,
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1772ad0fb8c2185c641433c2ddffa88cb001eaf0",
+    "description": "Free 8K wood chips texture: weathered brown ground of shredded wood and leaf debris, coarse rough matte surface with varied chip sizes and subtle moisture.",
+    "category_id": "f5a6cc7b-b773-5091-a757-09cbd29ee323",
+    "category": "Ground & Terrain/Forest Floor/Mulch & Wood Chips",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "896a03c5",
+    "download_count": 9945,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_chips.png?width=256&height=256&format=webp&v=896a03c5"
+  }
+}

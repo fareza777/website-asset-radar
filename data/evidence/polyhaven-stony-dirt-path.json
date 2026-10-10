@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/stony_dirt_path",
+  "checkedAt": "2026-10-10T01:39:16.379Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/stony_dirt_path",
+  "apiSha256": "e2de4052929562ef0827929e9b8f0959e444c8d5b5e6d159dcf6491d2d84b002",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stony_dirt_path/stony_dirt_path_diff_1k.jpg",
+  "assetFileMd5": "8fd2cfd0f6498288510429bd5a0bf0a1",
+  "assetFileSha256": "a662000ff3f7f64e23c25d2b8cd5947b9c8fd893510c5ed49c0daa2847004758",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1684540800,
+    "name": "Stony Dirt Path",
+    "categories": [
+      "dirty",
+      "floor",
+      "outdoor",
+      "natural"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "brown",
+      "ground",
+      "leaves",
+      "rocks",
+      "stones",
+      "dirt",
+      "pathway",
+      "path",
+      "forest",
+      "nature",
+      "autumn",
+      "twigs",
+      "rock"
+    ],
+    "authors": {
+      "eye-candy.xyz": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2170.0000762939453,
+      2170.0000762939453
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d5d34dc3d02e4ba2432b4bd300561cc2402e817a",
+    "description": "Free 8K texture of a stony dirt path: compacted brown soil with scattered pebbles, small rocks, autumn leaf litter and twigs, coarse rough surface.",
+    "category_id": "dd06ef8e-5807-534b-b7ac-19fb07264599",
+    "category": "Ground & Terrain/Rocky Ground/Rocky Paths & Trails",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "dirty"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "9771acc0",
+    "download_count": 16587,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stony_dirt_path.png?width=256&height=256&format=webp&v=9771acc0"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/patterned_brick_wall_02",
+  "checkedAt": "2026-10-10T01:53:07.450Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/patterned_brick_wall_02",
+  "apiSha256": "29318945573d9cbd3354eb8fad47374e766fb54b9fcc9ce7d29c52c2902c979c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_brick_wall_02/patterned_brick_wall_02_diff_1k.jpg",
+  "assetFileMd5": "14b6df65f08d06b02b275d89bc08a895",
+  "assetFileSha256": "f15de74f786db03840f3f6a7454b129b2e51fd2ff8f9587680b5cad833b77ac5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Patterned Brick Wall 02",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Charlotte Baglioni": "Photography"
+    },
+    "tags": [
+      "stones",
+      "wall",
+      "chipped",
+      "rocks",
+      "pattern",
+      "weathered",
+      "concrete",
+      "bricks",
+      "brick",
+      "plastered",
+      "plaster",
+      "consistent"
+    ],
+    "info": null,
+    "dimensions": [
+      2210.0000381469727,
+      2210.0000381469727
+    ],
+    "date_published": 1672099200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "efd4d29a13ee1e64584c3744083afaf711207b65",
+    "description": "Free 8K texture: weathered patterned brick wall with horizontal red brick bands, pebble-filled plaster, chipped edges and a rough surface with a subtle sheen.",
+    "category_id": "72bbe1d9-6f16-54bf-b6f9-e7a68eddf145",
+    "category": "Brick & Block/Clay Brick/Decorative Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "80f0c782",
+    "download_count": 11026,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_brick_wall_02.png?width=256&height=256&format=webp&v=80f0c782"
+  }
+}

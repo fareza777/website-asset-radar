@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_11",
+  "checkedAt": "2026-10-10T01:30:04.827Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_11",
+  "apiSha256": "7a04f5897930e2f7451f6cfa8de772ce1d81949f1d6b15bde63d8b247777f154",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_11/rock_wall_11_diff_1k.jpg",
+  "assetFileMd5": "c5fa88ab542e0e308f8a18ec45227da6",
+  "assetFileSha256": "850f45c4ea8692c4ea990a2bb8b673cb1a94a2240c4a5dedab5d8a3d695256f6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Rock Wall 11",
+    "categories": [
+      "man made",
+      "wall",
+      "rock"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "wall",
+      "discolored",
+      "worn",
+      "stonework",
+      "fortress walls",
+      "rocks",
+      "rock",
+      "outdoor",
+      "exterior",
+      "weatherbeaten"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1909.9996089935303,
+      1909.9996089935303
+    ],
+    "date_published": 1695686400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "74f00fb2cf1c61a34858ef28ea087bd912992295",
+    "description": "Free 8K texture of weathered stone wall: rough, chiseled blocks with sand-yellow discoloration, deep mortar joints and worn, weatherbeaten surface detail.",
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "a0dbf05f",
+    "download_count": 46112,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_11.png?width=256&height=256&format=webp&v=a0dbf05f"
+  }
+}

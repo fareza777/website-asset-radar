@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/marble_tiles",
+  "checkedAt": "2026-10-10T01:20:48.841Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/marble_tiles",
+  "apiSha256": "b7c5b77f7a37d495ec27fd1ae4d3cb67cb06b837ac4d44ec06bffae838a0375c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_tiles/marble_tiles_diff_1k.jpg",
+  "assetFileMd5": "8a023d7399c685ab7b539b05a433bc89",
+  "assetFileSha256": "679a968691429536b9f39622472380b5b9ced855f6423c4bb51774f4d7818963",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Marble Tiles",
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "type": 1,
+    "tags": [
+      "floor",
+      "tiles",
+      "marble",
+      "dirty",
+      "ceramic",
+      "decorative",
+      "consistent",
+      "square",
+      "waterproof tiles"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1708992000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "afe8821c16c3590d9767693b9dda47be410849bf",
+    "description": "Free 8K texture: beige square marble tiles in a consistent grid with dark grout, weathered dirt speckles and chips, waterproof ceramic-like finish with a subtle sheen.",
+    "category_id": "332a7c92-1556-5937-b7a9-8a0f52d20df4",
+    "category": "Stone/Slabs & Tiles/Marble",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "b1cfb966",
+    "download_count": 15339,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_tiles.png?width=256&height=256&format=webp&v=b1cfb966"
+  }
+}

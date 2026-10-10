@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_stone_pathway",
+  "checkedAt": "2026-10-10T01:38:06.537Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_stone_pathway",
+  "apiSha256": "154c571e22738650b8944959c5785de2e51921f3afda1f8ec0638ea02e2fc2ed",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_stone_pathway/wood_stone_pathway_diff_1k.jpg",
+  "assetFileMd5": "87be796fadb1f46f1a09226a6f36cbf0",
+  "assetFileSha256": "89c6e4dbb59f7113c89ac26da029d8059b5e3e94662eb621df18172a0b904509",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Wood Stone Pathway",
+    "categories": [
+      "outdoor",
+      "man made",
+      "rock",
+      "raw wood"
+    ],
+    "type": 1,
+    "tags": [
+      "dirt",
+      "path",
+      "pathway",
+      "rocks",
+      "rock",
+      "wood",
+      "dusty",
+      "worn",
+      "exterior",
+      "walkway",
+      "weatherbeaten",
+      "lumber",
+      "dry",
+      "stones",
+      "dirty",
+      "sandy"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1850.0001430511475,
+      1850.0001430511475
+    ],
+    "date_published": 1685750400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b616bbc2b188624f972d5d839a5833aefd6c8860",
+    "description": "Free 8K texture of a weatherbeaten wood-and-stone pathway: worn timber planks and dusty, sandy cobbles with rough, dry surfaces and dirt-filled seams.",
+    "category_id": "4ef5ff3b-29d1-556c-9c39-f384e0652af1",
+    "category": "Stone/Walls & Rubble/Decorative Stonework",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "5302ebe2",
+    "download_count": 5688,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_stone_pathway.png?width=256&height=256&format=webp&v=5302ebe2"
+  }
+}

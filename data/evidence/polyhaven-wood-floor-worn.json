@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_floor_worn",
+  "checkedAt": "2026-10-10T01:26:02.005Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_floor_worn",
+  "apiSha256": "8159f6b4aecc9251541e130518d742e1a6e3e1151c66dc319f73e2940e89c27c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor_worn/wood_floor_worn_diff_1k.jpg",
+  "assetFileMd5": "160b2c683907f592dee214a23d8dfa1e",
+  "assetFileSha256": "db386853009b92b9edd7255b35c9f7b0d4b7de16837a7a9da8422148754bc758",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Wood Floor Worn",
+    "categories": [
+      "floor",
+      "wood",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "old",
+      "weathered",
+      "rough",
+      "worn",
+      "discolored",
+      "flat",
+      "pine",
+      "wood",
+      "planks",
+      "wooden flooring ",
+      "wooden planks",
+      "aged",
+      "antique",
+      "timber",
+      "rustic"
+    ],
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "info": null,
+    "dimensions": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "date_published": 1701734400,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "275a525261d4c4d1f488b870ee610448a96201cc",
+    "description": "Free 8K texture of worn pine floor planks - aged, weathered surface with knots, nail holes, discoloration, scratches and a subtle varnish sheen.",
+    "sponsors": [
+      "3237733",
+      "7934315"
+    ],
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "6f2a13b1",
+    "download_count": 118738,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_floor_worn.png?width=256&height=256&format=webp&v=6f2a13b1"
+  }
+}

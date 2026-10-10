@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plastered_wall_02",
+  "checkedAt": "2026-10-10T01:24:12.056Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plastered_wall_02",
+  "apiSha256": "9715b2c8f8060ce2f06a4670f00ca7574248fbf4a0f201369296e7224328f938",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_diff_1k.jpg",
+  "assetFileMd5": "3ca0d02e87ad5c6eb21efa4b05b7748e",
+  "assetFileSha256": "0a316ffd3f953a902325c06afb5a5863bbf71d13a353f9d85378562adca79603",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Plastered Wall 02",
+    "type": 1,
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "discolored",
+      "flat",
+      "plastered",
+      "plaster",
+      "urban",
+      "exterior",
+      "concrete"
+    ],
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "info": null,
+    "dimensions": [
+      2229.999542236328,
+      2229.999542236328
+    ],
+    "date_published": 1705536000,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "plaster",
+      "plaster-concrete"
+    ],
+    "files_hash": "7c1a4852bf45172f3e4299cee1c645076bef1f39",
+    "description": "Free 8K plastered wall texture with rough, weathered surface, subtle discoloration and a flat exterior concrete plaster finish.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4679179d",
+    "download_count": 44470,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plastered_wall_02.png?width=256&height=256&format=webp&v=4679179d"
+  }
+}
