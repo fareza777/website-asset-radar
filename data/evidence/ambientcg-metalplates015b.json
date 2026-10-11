@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/MetalPlates015B",
+  "checkedAt": "2026-10-11T01:15:22.837Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=MetalPlates015B&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "5b29f61ea3eb8b0a9b655c7ebdedb1b100df20478640b7cfc59a62a98c9656f0",
+  "apiMetadata": {
+    "assetId": "MetalPlates015B",
+    "dataType": "Material",
+    "displayName": "Metal Plates 015 B",
+    "displayCategory": "Metal Plates",
+    "shortLink": "https://ambientcg.com/a/MetalPlates015B",
+    "tags": [
+      "15",
+      "metal",
+      "panels",
+      "plates",
+      "scifi"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/MetalPlates015B.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/MetalPlates015B.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/MetalPlates015B.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/MetalPlates015B.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/MetalPlates015B.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/MetalPlates015B.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/MetalPlates015B.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/MetalPlates015B.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/MetalPlates015B.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/MetalPlates015B.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/MetalPlates015B.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/MetalPlates015B.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/MetalPlates015B.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/MetalPlates015B.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/MetalPlates015B.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/MetalPlates015B.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/MetalPlates015B.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/MetalPlates015B.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/MetalPlates015B.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/MetalPlates015B.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/MetalPlates015B.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/MetalPlates015B.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/MetalPlates015B.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/MetalPlates015B.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_1K-JPG.zip",
+                "fileName": "MetalPlates015B_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_1K-JPG.zip",
+                "size": 5818502,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_2K-JPG.zip",
+                "fileName": "MetalPlates015B_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_2K-JPG.zip",
+                "size": 14695072,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_4K-JPG.zip",
+                "fileName": "MetalPlates015B_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_4K-JPG.zip",
+                "size": 46290513,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_8K-JPG.zip",
+                "fileName": "MetalPlates015B_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_8K-JPG.zip",
+                "size": 199359816,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_1K-PNG.zip",
+                "fileName": "MetalPlates015B_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_1K-PNG.zip",
+                "size": 12200349,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_2K-PNG.zip",
+                "fileName": "MetalPlates015B_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_2K-PNG.zip",
+                "size": 42933601,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_4K-PNG.zip",
+                "fileName": "MetalPlates015B_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_4K-PNG.zip",
+                "size": 166969264,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalPlates015B_8K-PNG.zip",
+                "fileName": "MetalPlates015B_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalPlates015B_8K-PNG.zip",
+                "size": 553501170,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-10-25 00:00:00",
+    "earlyReleaseDate": "2022-09-24 22:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 14637,
+    "downloadCountMonth": 1232,
+    "downloadCountWeek": 266,
+    "popularityScore": 2.8302886999315624,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Color.jpg?16076&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Displacement.jpg?22035&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_NormalDX.jpg?70993&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Roughness.jpg?26901&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_AmbientOcclusion.jpg?49427&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Metalness.jpg?61460",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Color.jpg?66428,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Displacement.jpg?59022,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_NormalDX.jpg?48782,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Roughness.jpg?43567,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_AmbientOcclusion.jpg?38979,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalPlates015B/MetalPlates015B_SQ_Metalness.jpg?46880&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/MetalPlates015B.webp",
+  "previewSha256": "1c1fd276d3e9613656e962302e8bbb4da5e3d692d0ab077b705557d43bb7c044",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

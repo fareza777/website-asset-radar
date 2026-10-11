@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_3",
+  "checkedAt": "2026-10-11T01:55:00.635Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_3",
+  "apiSha256": "e9e32b79b5ded17c5a27195e161835eedec7ebbe0edb1f439992c50a9d27c1b9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_3/rock_3_diff_1k.jpg",
+  "assetFileMd5": "815bcc10e00c2abc43acc997b7d65361",
+  "assetFileSha256": "e68a81e113a4173c0e19f58bedda41b3b13adcfdeb2f8ae4808f63ec5de10225",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1534667113,
+    "name": "Rock 3",
+    "old_id": 155,
+    "categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "e042e7c4e75a05d2da221914b6c0739a1f8bfd0a",
+    "tags": [
+      "grey",
+      "seaside",
+      "rough",
+      "rock face",
+      "rock",
+      "uneven",
+      "boulder",
+      "mossy",
+      "mossy patches",
+      "eroded",
+      "grunge"
+    ],
+    "description": "Free 8K texture of a grey seaside rock face: rough, uneven boulder surface with eroded pits, mossy patches and grungy mineral stains.",
+    "category_id": "6f927474-95dd-5ec5-b756-e9299996aeee",
+    "category": "Stone/Rock & Cliffs/Coastal Rock",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "e3054ecb",
+    "download_count": 29885,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_3.png?width=256&height=256&format=webp&v=e3054ecb"
+  }
+}

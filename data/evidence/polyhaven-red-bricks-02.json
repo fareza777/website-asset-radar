@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/red_bricks_02",
+  "checkedAt": "2026-10-11T01:41:44.530Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/red_bricks_02",
+  "apiSha256": "d0082febbf66117477075eac9b94b7a2ea69c46411100194b3e0ed6c569357c5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_02/red_bricks_02_diff_1k.jpg",
+  "assetFileMd5": "e80e7487918aab386870e3d27d481ea6",
+  "assetFileSha256": "f345db5a50cbbc122d3377079ee8cb9f85fe4191680189c9b53ac19b4ad803d8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2.5M x 2.5M",
+    "type": 1,
+    "date_published": 1560041436,
+    "name": "Red Bricks 02",
+    "old_id": 206,
+    "categories": [
+      "outdoor",
+      "wall",
+      "dirty",
+      "man made",
+      "brick"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c4a11c6b176cb8debf19e3c08fa6209c7bb1594b",
+    "tags": [
+      "rough",
+      "broken",
+      "red",
+      "bricks",
+      "brick wall",
+      "old brick",
+      "brick",
+      "exposed brick",
+      "crumbling",
+      "deteriorating",
+      "deteriorated",
+      "plaster",
+      "exterior wall"
+    ],
+    "description": "Free 8K texture of rough, crumbling red brick wall with exposed bricks, weathered mortar and flaking plaster, heavily worn and dirty exterior surface.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "cfc136de",
+    "download_count": 24023,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_bricks_02.png?width=256&height=256&format=webp&v=cfc136de"
+  }
+}

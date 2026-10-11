@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Shells001",
+  "checkedAt": "2026-10-11T01:26:03.878Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Shells001&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "e6ca477850e298964f70b90c167d39b165e85db9b4a10cf2821ac1af49b84e6a",
+  "apiMetadata": {
+    "assetId": "Shells001",
+    "dataType": "Material",
+    "displayName": "Shells 001",
+    "displayCategory": "Shells",
+    "shortLink": "https://ambientcg.com/a/Shells001",
+    "tags": [
+      "1",
+      "beach",
+      "shells"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Shells001.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Shells001.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Shells001.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Shells001.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Shells001.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Shells001.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Shells001.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Shells001.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Shells001.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Shells001.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Shells001.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Shells001.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Shells001.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Shells001.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Shells001.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Shells001.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Shells001.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Shells001.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Shells001.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Shells001.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Shells001.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Shells001.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Shells001.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Shells001.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_1K-JPG.zip",
+                "fileName": "Shells001_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_1K-JPG.zip",
+                "size": 10575870,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_2K-JPG.zip",
+                "fileName": "Shells001_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_2K-JPG.zip",
+                "size": 35336870,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_4K-JPG.zip",
+                "fileName": "Shells001_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_4K-JPG.zip",
+                "size": 124311586,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_8K-JPG.zip",
+                "fileName": "Shells001_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_8K-JPG.zip",
+                "size": 439424044,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_1K-PNG.zip",
+                "fileName": "Shells001_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_1K-PNG.zip",
+                "size": 19188968,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_2K-PNG.zip",
+                "fileName": "Shells001_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_2K-PNG.zip",
+                "size": 70193818,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_4K-PNG.zip",
+                "fileName": "Shells001_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_4K-PNG.zip",
+                "size": 265832555,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Shells001_8K-PNG.zip",
+                "fileName": "Shells001_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Shells001_8K-PNG.zip",
+                "size": 1002098165,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-07-17 00:00:00",
+    "earlyReleaseDate": "2022-06-20 22:11:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 9979,
+    "downloadCountMonth": 795,
+    "downloadCountWeek": 280,
+    "popularityScore": 2.1440088476664076,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_Color.jpg?31033&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_Displacement.jpg?25922&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_NormalDX.jpg?3758&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_Roughness.jpg?58920&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_AmbientOcclusion.jpg?79419",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_Color.jpg?80576,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_Displacement.jpg?66201,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_NormalDX.jpg?92879,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_Roughness.jpg?20378,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Shells001/Shells001_SQ_AmbientOcclusion.jpg?40430&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Shells001.webp",
+  "previewSha256": "f9688b3ce01792b232bdf683ddc77f092b015ff538f634e5ca91bf3f9e487c6d",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

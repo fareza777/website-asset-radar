@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_ground_rock",
+  "checkedAt": "2026-10-11T01:32:18.501Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_ground_rock",
+  "apiSha256": "5aa4c1088c6b9d2450ac26393a573e7ce8061023983a0c22b039cc7b296b0a35",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_ground_rock/aerial_ground_rock_diff_1k.jpg",
+  "assetFileMd5": "bf5dca7bdd00de98f6a18ed10ec74b42",
+  "assetFileSha256": "c14761998b32630dd193b0fbfd31c8c6f5a144a701b84f87f9d7c33596cc554f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "20M x20M",
+    "type": 1,
+    "tags": [
+      "mud",
+      "rocks",
+      "stones",
+      "dirt",
+      "dry"
+    ],
+    "date_published": 1581826348,
+    "name": "Aerial Ground Rock",
+    "old_id": 241,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "aerial"
+    ],
+    "dimensions": [
+      19999.950408935547,
+      20000
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "7934315"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "dfc637c0aca2c8bf1864528b9d586681cbcf8c88",
+    "description": "Free 8K texture of dry aerial ground: compacted brown dirt with exposed rocks, scattered stones, dust and subtle moss on a rough, cracked surface.",
+    "category_id": "c650da98-1200-549c-ade9-c3756c2f327c",
+    "category": "Ground & Terrain/Rocky Ground/Stony Dirt",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "93cf8cab",
+    "download_count": 32518,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_ground_rock.png?width=256&height=256&format=webp&v=93cf8cab"
+  }
+}

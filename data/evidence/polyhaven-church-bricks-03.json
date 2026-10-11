@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/church_bricks_03",
+  "checkedAt": "2026-10-11T01:29:49.782Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/church_bricks_03",
+  "apiSha256": "a9767011778e13cdc66106055471ab0909f001977931b4b63bf1f8a90173e54b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/church_bricks_03/church_bricks_03_diff_1k.jpg",
+  "assetFileMd5": "d2bbd6bd7b1938e7732fee18dadf1c13",
+  "assetFileSha256": "6dd01c50cdebe604b855cc6fae9edd952be2c742f5c39d41f5ab13e7be49fbd6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1586662754,
+    "name": "Church Bricks 03",
+    "old_id": 251,
+    "categories": [
+      "brick",
+      "man made",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1200.0000476837158,
+      1200.0000476837158
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c09fc4bcee715c8158a5e8abf9d56a53e1b7dd82",
+    "tags": [
+      "rough",
+      "red",
+      "uneven",
+      "industrial",
+      "factory",
+      "brick",
+      "bricks",
+      "red brick",
+      "mortar lines",
+      "weathered",
+      "aged",
+      "deteriorating",
+      "crumbling",
+      "brick wall",
+      "old brick",
+      "worn down"
+    ],
+    "description": "Free 8K material: weathered red brick texture with rough, uneven bricks, deep mortar lines and crumbling, aged surface detail.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "5787fc62",
+    "download_count": 29159,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/church_bricks_03.png?width=256&height=256&format=webp&v=5787fc62"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/river_small_rocks",
+  "checkedAt": "2026-10-11T01:12:38.574Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/river_small_rocks",
+  "apiSha256": "7646793ae75bad83abdfea1ca858a8d1283ef6afc851bc76cbbb295b85336c54",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_diff_1k.jpg",
+  "assetFileMd5": "723ee7172c9d0e98d286473ef443033c",
+  "assetFileSha256": "adbcaae1f1445d5b49797c71ea2c3f43ccaf7b109f933a427f0d0993d1dbbc51",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1648684800,
+    "name": "River Small Rocks",
+    "categories": [
+      "terrain",
+      "rock",
+      "natural",
+      "outdoor"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "rough",
+      "uneven",
+      "stones",
+      "rock",
+      "pebbles",
+      "river",
+      "pathway",
+      "debris",
+      "scattered",
+      "ground",
+      "broken",
+      "costal"
+    ],
+    "authors": {
+      "Rob Tuytel": "Photography, Processing",
+      "Rico Cilliers": "Minor adjustment"
+    },
+    "dimensions": [
+      2900.0000953674316,
+      2900.0003337860107
+    ],
+    "max_resolution": [
+      16384,
+      16384
+    ],
+    "sponsors": [
+      "3237733"
+    ],
+    "files_hash": "76bdbc02ea9f100547b193105e747970702b148d",
+    "description": "Free 16K texture of rough, uneven river pebbles and broken rocks - scattered stones in compacted soil with weathered, muted tones and high micro-detail.",
+    "category_id": "4276b1ed-fbfe-5689-abd6-a58335e780e9",
+    "category": "Ground & Terrain/Gravel & Pebbles/River Pebbles",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "cf51a283",
+    "download_count": 30109,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/river_small_rocks.png?width=256&height=256&format=webp&v=cf51a283"
+  }
+}

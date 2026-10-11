@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_brick_wall_001",
+  "checkedAt": "2026-10-11T01:21:18.794Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_brick_wall_001",
+  "apiSha256": "79643c6180e4fa4f63292b1f66fbb411782bd1b743a4320e1b72d1174948eb53",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_brick_wall_001/concrete_brick_wall_001_diffuse_1k.jpg",
+  "assetFileMd5": "983ae9710e731f287e9971b19a6998ec",
+  "assetFileSha256": "088c6d45b9a485f850639578299b15e2e0060f21cfa19c18161f2931f220157b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5Mx1.5M",
+    "type": 1,
+    "tags": [
+      "wall",
+      "blocks",
+      "modern",
+      "slab"
+    ],
+    "date_published": 1613724640,
+    "name": "Concrete Brick Wall 001",
+    "old_id": 302,
+    "categories": [
+      "sandstone",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "brick"
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "e12dbe903acfbf75e736e60c75b874b4f4dc2ca0",
+    "description": "Free 8K texture of a tan concrete brick wall featuring rectangular chiseled blocks, rough carved surfaces, crisp mortar joints and subtle weathering.",
+    "category_id": "92b71894-91d3-5943-a35a-29645474eb3b",
+    "category": "Brick & Block/Concrete Block & Paver/Concrete Brick",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "ee61e984",
+    "download_count": 56689,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_brick_wall_001.png?width=256&height=256&format=webp&v=ee61e984"
+  }
+}

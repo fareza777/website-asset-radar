@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roof_slates_02",
+  "checkedAt": "2026-10-11T01:40:19.488Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roof_slates_02",
+  "apiSha256": "6edda2672eca32198b2746d8102a7eb65717931f7b41bde8a4c1991ef3b6d001",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_slates_02/roof_slates_02_diff_1k.jpg",
+  "assetFileMd5": "d7683ac63f6d46159790186f2e19919f",
+  "assetFileSha256": "de3d2729ab385c5f7dd7106d3b435c737f6d2c3ea8883cea37de53cec2a34867",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3M x 3M",
+    "type": 1,
+    "date_published": 1563492542,
+    "name": "Roof Slates 02",
+    "old_id": 214,
+    "categories": [
+      "roofing",
+      "man made",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "747e15373011aa8372cdd7524f5da06130839f8f",
+    "tags": [
+      "slates",
+      "uneven",
+      "old",
+      "tiles",
+      "weathered",
+      "discolored",
+      "slate roofing",
+      "slate",
+      "roofing material",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "housing material",
+      "flat tiles"
+    ],
+    "description": "Free 8K texture of a weathered slate roof: uneven overlapping flat tiles, rough chipped edges, subtle discoloration and moss staining across gray-brown surfaces.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7c21979b",
+    "download_count": 50491,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_slates_02.png?width=256&height=256&format=webp&v=7c21979b"
+  }
+}

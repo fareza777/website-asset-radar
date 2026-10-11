@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/coast_sand_rocks_02",
+  "checkedAt": "2026-10-11T01:13:27.695Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/coast_sand_rocks_02",
+  "apiSha256": "8502dc74b92864a3776c634b8757f664ec644305b37f833c013f9aea5fd9b80c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coast_sand_rocks_02/coast_sand_rocks_02_diff_1k.jpg",
+  "assetFileMd5": "6fa7bee516a8c01a383a782d802b6a3b",
+  "assetFileSha256": "78eae8ce6209f79417a15ba863fe828f983c22f7e63a9ee3ef504a0062a05ea9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1646352000,
+    "name": "Coast Sand Rocks 02",
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      15000,
+      15000
+    ],
+    "sponsors": [
+      "540619",
+      "7937391",
+      "7934315",
+      "77433244"
+    ],
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "aerial",
+      "rock",
+      "collection: smugglers_cove"
+    ],
+    "tags": [
+      "grass",
+      "rock face",
+      "rock",
+      "moss",
+      "rough",
+      "uneven",
+      "weathered",
+      "stones",
+      "cliff",
+      "ground",
+      "seaside",
+      "coastal"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "579892253d0d73a45eaee485135c35666bceb237",
+    "description": "Free 8K texture of weathered coastal sand-rock: rough, uneven rock faces with scattered stones, brown sandy soil and patchy green moss coverage.",
+    "category_id": "6f927474-95dd-5ec5-b756-e9299996aeee",
+    "category": "Stone/Rock & Cliffs/Coastal Rock",
+    "collections": [
+      "smugglers_cove"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "63f92b86",
+    "download_count": 546271,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_sand_rocks_02.png?width=256&height=256&format=webp&v=63f92b86"
+  }
+}

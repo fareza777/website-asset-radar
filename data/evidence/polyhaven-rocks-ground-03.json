@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocks_ground_03",
+  "checkedAt": "2026-10-11T01:25:09.009Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocks_ground_03",
+  "apiSha256": "ac57a6726b9eb4794577ffe0139296499bb8478e4cbdce5d75ef5e9b828c3bff",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocks_ground_03/rocks_ground_03_diff_1k.jpg",
+  "assetFileMd5": "7aff72e4961fc7101abb2f9924357391",
+  "assetFileSha256": "9f46c9792ad7152d27877fce81f581876d3978d8118798f669115729d7979de1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3x3M",
+    "type": 1,
+    "date_published": 1600108504,
+    "name": "Rocks Ground 03",
+    "old_id": 282,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "rock"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "4dc835c1d33fe74cbceb1e934db8beacbe9ecb67",
+    "tags": [
+      "rocks",
+      "rough",
+      "stones",
+      "uneven",
+      "pebbles",
+      "pebbly",
+      "scattered pebbles",
+      "scattered rocks",
+      "gravel",
+      "gravelly",
+      "plant debris"
+    ],
+    "description": "Free 8K texture of rough, gravelly ground with scattered pebbles, stones, soil and plant debris; uneven, coarse surface with varied tones.",
+    "category_id": "79110887-aea0-548a-8676-712d176b8050",
+    "category": "Ground & Terrain/Gravel & Pebbles",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "a013f65f",
+    "download_count": 44771,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_03.png?width=256&height=256&format=webp&v=a013f65f"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_peeling_paint_weathered",
+  "checkedAt": "2026-10-11T01:11:50.860Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_peeling_paint_weathered",
+  "apiSha256": "5873a82b52f2b2cb536a95aa90c42df2ae5dcb784cd74b45411dc5b588ec2bda",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_peeling_paint_weathered/wood_peeling_paint_weathered_diff_1k.jpg",
+  "assetFileMd5": "aefb69e623845126ade66707a6893fc2",
+  "assetFileSha256": "7311e60ec0ca3de10383dd5f2d398819e2198ea78244cf4f6627d1cb26cf4b53",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "old",
+      "weathered",
+      "wood",
+      "planks",
+      "painted",
+      "chipped",
+      "flaked",
+      "paint",
+      "worn",
+      "faded",
+      "dry",
+      "damaged",
+      "peeling",
+      "discolored",
+      "cracked",
+      "stained",
+      "wall"
+    ],
+    "name": "Wood Peeling Paint Weathered",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "wood",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "date_published": 1649894400,
+    "staging": null,
+    "dimensions": [
+      761.9999647140503,
+      762.0000243186951
+    ],
+    "sponsors": [
+      "540619",
+      "3237733"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "477efc13ced9f70916939064f880c9a610979f80",
+    "description": "Free 8K texture of weathered painted wood: rough, cracked planks with chipped, flaking dark paint exposing warm, stained wood grain.",
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "painted",
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "b08bff7c",
+    "download_count": 103817,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_peeling_paint_weathered.png?width=256&height=256&format=webp&v=b08bff7c"
+  }
+}

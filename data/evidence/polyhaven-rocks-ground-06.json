@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocks_ground_06",
+  "checkedAt": "2026-10-11T01:24:39.056Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocks_ground_06",
+  "apiSha256": "718921418decbbaec5bb9e9df0d4ae6a0dcd3026899570040f6322e01a10c057",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocks_ground_06/rocks_ground_06_diff_1k.jpg",
+  "assetFileMd5": "b89544671704574021cb106b4f1901d5",
+  "assetFileSha256": "ea41cf6eef931346e43071a2ec7c1fced87e1e42eee565fe5600484fdcfe2b06",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3M x 3M",
+    "type": 1,
+    "date_published": 1601461624,
+    "name": "Rocks Ground 06",
+    "old_id": 285,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "rock",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "785f48b4c1c6275867bd078675a7708fc34c828c",
+    "tags": [
+      "rocks",
+      "rough",
+      "broken",
+      "rock",
+      "uneven",
+      "gravel",
+      "scattered pebbles",
+      "scattered rocks",
+      "coastal",
+      "layered rock"
+    ],
+    "description": "Free 8K texture of rough, layered coastal rock and broken slabs with scattered pebbles, gravel and sandy, weathered surfaces, uneven, coarse, earthy tones.",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "img_version": "e5068954",
+    "download_count": 67089,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_06.png?width=256&height=256&format=webp&v=e5068954"
+  }
+}

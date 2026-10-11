@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_table_worn",
+  "checkedAt": "2026-10-11T01:09:05.726Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_table_worn",
+  "apiSha256": "761b650d11d42663fa4977a6d2148a395ebbdea5a1224dfc5bc6516b277374d3",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_table_worn/wood_table_worn_diff_1k.jpg",
+  "assetFileMd5": "8c71f701f70fef34b87fb7c8742ad0a5",
+  "assetFileSha256": "092ab3465a6a24b24d092ea86865f332c3bd239b8eb2fd664b70357082031a3f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Wood Table Worn",
+    "categories": [
+      "man made",
+      "wood",
+      "dirty",
+      "raw wood"
+    ],
+    "type": 1,
+    "tags": [
+      "rough",
+      "planks",
+      "table",
+      "worn",
+      "old",
+      "damaged",
+      "discolored",
+      "stained",
+      "brown",
+      "dry",
+      "furniture",
+      "grain",
+      "scratched"
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "dimensions": [
+      549.9999523162842,
+      550.0000715255737
+    ],
+    "staging": null,
+    "date_published": 1657238400,
+    "prepaid": true,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "4047949",
+      "77433244",
+      "4714267"
+    ],
+    "files_hash": "92fde8d58df92dd57a0a2854a6a6aeb79317b750",
+    "description": "Free 8K texture of a worn, stained brown wooden table: dry, scratched planks with visible grain, discoloration, rough and damaged surface.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "worn",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "ba59696d",
+    "download_count": 415541,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_table_worn.png?width=256&height=256&format=webp&v=ba59696d"
+  }
+}

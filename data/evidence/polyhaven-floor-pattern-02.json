@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_pattern_02",
+  "checkedAt": "2026-10-11T01:41:13.031Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_pattern_02",
+  "apiSha256": "cff11f37906b4a339ffc2b7131fa285f79be5880187471d400e8e9544b546df5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_pattern_02/floor_pattern_02_diff_1k.jpg",
+  "assetFileMd5": "77b93937a278006c767aa4ff789a2f43",
+  "assetFileSha256": "84952d2445a6be14961840efc7cb5f206b0d9da18dcec6e68ba769a4cc92d64e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2M x 2M",
+    "type": 1,
+    "date_published": 1560723479,
+    "name": "Floor Pattern 02",
+    "old_id": 210,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1200.0000476837158,
+      1200.0000476837158
+    ],
+    "sponsors": [
+      "4714267"
+    ],
+    "categories": [
+      "floor",
+      "road",
+      "outdoor",
+      "man made",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "52c0752a275ed966b3f6d4fcd64e034f9c00d45e",
+    "tags": [
+      "pavement",
+      "cobblestone",
+      "patterned stone",
+      "pavement patterned",
+      "pavers",
+      "decorative paving",
+      "historical style",
+      "sidewalk"
+    ],
+    "description": "Free 8K texture of aged cobblestone pavers with irregular square stones, worn edges, dirt-filled joints and moss; rough, weathered stone surface.",
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "4efd3ee7",
+    "download_count": 45503,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_pattern_02.png?width=256&height=256&format=webp&v=4efd3ee7"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_grey_tiles",
+  "checkedAt": "2026-10-11T01:41:23.745Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_grey_tiles",
+  "apiSha256": "3aa11a9f1b2e84c24dd4a7e4cc527ce86bf51861bd45f51f56be45f9c81024da",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_grey_tiles/large_grey_tiles_diff_1k.jpg",
+  "assetFileMd5": "33a074b6f6d9b306eabd905fcf111fc6",
+  "assetFileSha256": "2cd00e2ddd516fdc165169252c194bf67b3ee483f2925442dc428cbae5fd04c8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "tags": [
+      "grey",
+      "tiles",
+      "large",
+      "uneven",
+      "weathered",
+      "damaged"
+    ],
+    "date_published": 1560299295,
+    "name": "Large Grey Tiles",
+    "old_id": 209,
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "cf5b8c253bf79d105a16fc0ab4285a6dcda67783",
+    "description": "Free 8K texture of large grey stone tiles with uneven, weathered surfaces, chipped edges, cracked joints and dirty, mossy crevices.",
+    "category_id": "ed387a11-4ceb-5ff1-ab45-46a821ddbd0e",
+    "category": "Stone/Slabs & Tiles/Flagstones",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "damaged",
+        "mossy",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "69017dd3",
+    "download_count": 115977,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_grey_tiles.png?width=256&height=256&format=webp&v=69017dd3"
+  }
+}

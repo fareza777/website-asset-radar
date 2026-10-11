@@ -40,7 +40,7 @@
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Outdoor models, boats, fish art, and skies, plus 2D forest scenery and a cicada loop. Art direction differs by pack; set materials up in your engine.",
+    "description": "Outdoor models, boats, fish art, and skies, plus 2D forest scenery, a cicada loop, and a separate credited 32×32 nature tileset. Art direction differs by pack; set materials up in your engine.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
@@ -52,16 +52,17 @@
       "kenney-fish-pack",
       "oga-forest-background",
       "oga-trees-bushes",
-      "oga-cicada-sounds"
+      "oga-cicada-sounds",
+      "oga-32x32-tileset"
     ],
     "cover": "kenney-nature-kit",
     "color": "mint",
-    "updatedAt": "2026-10-09T15:58:30.077Z"
+    "updatedAt": "2026-10-11T02:23:30.000Z"
   },
   {
     "id": "the-finishing-touches",
     "name": "The finishing touches",
-    "description": "Kenney UI kits, prompts, medals, cursors, and interface audio, plus CC0 Golden UI, keyboard prompts, and extra UI pieces. Styles differ, so choose one interface direction.",
+    "description": "Kenney UI kits, prompts, medals, cursors, and interface audio, plus CC0 Golden UI, keyboard prompts, a vampire-hand cursor, and a CC-BY cozy space icon set. Styles differ, so choose one interface direction and credit the CC-BY set.",
     "assetIds": [
       "kenney-ui-pack",
       "kenney-ui-pack-rpg-expansion",
@@ -75,11 +76,13 @@
       "kenney-input-prompts-pixel-1-bit",
       "oga-golden-ui",
       "oga-free-keyboard-and-controllers-prompts-pack",
-      "oga-ui-pieces"
+      "oga-ui-pieces",
+      "oga-vampire-hand-cursor",
+      "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars"
     ],
     "cover": "kenney-ui-pack",
     "color": "lime",
-    "updatedAt": "2026-10-09T15:58:30.077Z"
+    "updatedAt": "2026-10-11T02:23:30.000Z"
   },
   {
     "id": "a-town-of-your-own",
@@ -143,7 +146,7 @@
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, plus castle and generic platformer tiles. Match palette and tile size before combining packs.",
+    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, castle and generic tiles, plus a separate 1-bit 16×16 pack. Match palette and tile size before combining packs.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -158,11 +161,12 @@
       "kenney-platformer-art-extended-tileset",
       "oga-a-platformer-in-the-forest",
       "oga-castle-platformer",
-      "oga-generic-platformer-tiles"
+      "oga-generic-platformer-tiles",
+      "oga-1-bit-platformer-pack-0"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
     "color": "peach",
-    "updatedAt": "2026-10-09T15:58:30.077Z"
+    "updatedAt": "2026-10-11T02:23:30.000Z"
   },
   {
     "id": "small-pixels-big-quests",
@@ -295,5 +299,25 @@
     "cover": "polyhaven-snow-floor",
     "color": "blue",
     "updatedAt": "2026-10-10T02:22:00.000Z"
+  },
+  {
+    "id": "a-few-heroes",
+    "name": "A few heroes",
+    "description": "CC0 toon and modular figures with separate pixel sheets: a miner, a charset, a rogue, and small RPG heroes and enemies. Perspectives and licenses differ. Credit each CC-BY author, then import the sheets yourself.",
+    "assetIds": [
+      "kenney-toon-characters",
+      "kenney-modular-characters",
+      "oga-dwarf-miner-run",
+      "oga-fumiko-complete-charset",
+      "oga-animated-rogue",
+      "oga-10-basic-rpg-enemies",
+      "oga-puck-overland",
+      "oga-sara-overland",
+      "oga-tiny-16-expanded-character-sprites",
+      "oga-twelve-16x18-rpg-sprites-plus-base"
+    ],
+    "cover": "kenney-toon-characters",
+    "color": "lime",
+    "updatedAt": "2026-10-11T02:23:30.000Z"
   }
 ]

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_tiles_04",
+  "checkedAt": "2026-10-11T01:48:47.067Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_tiles_04",
+  "apiSha256": "d482ab725eeca3f343ed61d25a8a9b7ee377294bdf6bfaeebb10264d8dda4448",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_tiles_04/floor_tiles_04_diff_1k.jpg",
+  "assetFileMd5": "0d7ce812a7183fea21d39d5c169eefdf",
+  "assetFileSha256": "064fafb57de6f00d3d8f3b643a6a342c681a53949120b67608d31a54eceac88e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1543303121,
+    "name": "Floor Tiles 04",
+    "old_id": 177,
+    "categories": [
+      "floor",
+      "wall",
+      "outdoor",
+      "indoor",
+      "clean",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "sponsors": [
+      "44302755",
+      "4714267"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3745e85cec15b817918aa915a36dbfcea236e86c",
+    "tags": [
+      "tiles",
+      "floor",
+      "stone blocks",
+      "uneven",
+      "smooth finish",
+      "square",
+      "marble",
+      "masonry",
+      "cracked",
+      "grout lines"
+    ],
+    "description": "Free 8K texture of smooth-finish pale marble floor tiles: square stone blocks with subtle cracks, uneven edges and thin grout lines, slightly worn.",
+    "category_id": "332a7c92-1556-5937-b7a9-8a0f52d20df4",
+    "category": "Stone/Slabs & Tiles/Marble",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "6a11cc9d",
+    "download_count": 65475,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_04.png?width=256&height=256&format=webp&v=6a11cc9d"
+  }
+}

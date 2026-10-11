@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-wooden-floors-2k",
+  "sourceUrl": "https://opengameart.org/content/wooden-floors-2k",
+  "checkedAt": "2026-10-11T01:50:10.145Z",
+  "httpStatus": 200,
+  "pageSha256": "62801e3a82bd07e22576ab1fbf62cd893fc0a0f8817f17aa24f3b0b8fd75de79",
+  "title": "Wooden Floors (2K)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Wooden Floors (2K) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/wooden-floors-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/woodenfloor_2.png",
+    "https://opengameart.org/sites/default/files/woodenfloor2_0.png",
+    "https://opengameart.org/sites/default/files/woodenfloor3_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/woodenfloor_2.png",
+  "downloadSha256": "6f8d01588e0362ffee5c42ce42ff032f03d320a76110c993586195717c5f575e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "woodenfloor_2.png",
+  "previewSha256": "6f8d01588e0362ffee5c42ce42ff032f03d320a76110c993586195717c5f575e",
+  "sourceTags": [
+    "handpainted",
+    "seamless",
+    "Wood"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

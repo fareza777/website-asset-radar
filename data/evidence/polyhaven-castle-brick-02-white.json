@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/castle_brick_02_white",
+  "checkedAt": "2026-10-11T01:36:31.335Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/castle_brick_02_white",
+  "apiSha256": "f76962bfc193f2ab6dfbd72f89523a666bec0cf2424226a09cc4cac0e45659c5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/castle_brick_02_white/castle_brick_02_white_diff_1k.jpg",
+  "assetFileMd5": "e58153f13a4f1e0b256625105fbcd050",
+  "assetFileSha256": "e7d91c459ad18fcf3fc15f8157707300af4ca0cd399157f8d202cca756457c9f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2.5M x 2.5M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "painted",
+      "uneven"
+    ],
+    "date_published": 1570062326,
+    "name": "Castle Brick 02 White",
+    "old_id": 226,
+    "categories": [
+      "brick",
+      "outdoor",
+      "indoor",
+      "wall",
+      "dirty",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "sponsors": [
+      "77433244"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "db6074806ccfbe83174abd51bc3861d6e19b1993",
+    "description": "Free 8K texture of rough, painted castle bricks with uneven, chipped whitewash, exposed red bricks, weathered mortar and dirt.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "92bb070d",
+    "download_count": 24247,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_02_white.png?width=256&height=256&format=webp&v=92bb070d"
+  }
+}

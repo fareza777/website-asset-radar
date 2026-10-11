@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/reed_roof_03",
+  "checkedAt": "2026-10-11T01:33:28.714Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/reed_roof_03",
+  "apiSha256": "47b4c3f5873fb6f023546080d17a5f6f6b6eb0c04e67384f1928b77caa4f4c8a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_03/reed_roof_03_diff_1k.jpg",
+  "assetFileMd5": "04a976b9cce671035a35f74d5c24bdf4",
+  "assetFileSha256": "be5e3d941b4c46215a2198f8b641df820b198afc6790149394299ec3c5e8d98d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2.5M x 2.5M",
+    "type": 1,
+    "tags": [
+      "reed",
+      "rough",
+      "village",
+      "thatch",
+      "hay",
+      "straw",
+      "hut",
+      "medieval"
+    ],
+    "date_published": 1579148562,
+    "name": "Reed Roof 03",
+    "old_id": 237,
+    "categories": [
+      "roofing",
+      "outdoor",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c9d3085a4f2194f7996a65b2211fa5280319427e",
+    "description": "Free 8K texture of weathered reed thatch: coarse, fibrous straw with compacted layers, muted brown tones and patches of moss and dirt, rough matte finish.",
+    "category_id": "bcbf4ed7-38ce-5284-bedf-ccb701b9ceb0",
+    "category": "Organic/Thatch & Reed/Thatched Roofing",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2ee592e5",
+    "download_count": 27602,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/reed_roof_03.png?width=256&height=256&format=webp&v=2ee592e5"
+  }
+}

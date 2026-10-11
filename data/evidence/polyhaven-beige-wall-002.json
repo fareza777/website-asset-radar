@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/beige_wall_002",
+  "checkedAt": "2026-10-11T01:19:09.342Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/beige_wall_002",
+  "apiSha256": "5d2533f1de8c8e2cb822c8bdfe7008253279384279027ff6d169424da33244ca",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/beige_wall_002/beige_wall_002_diff_1k.jpg",
+  "assetFileMd5": "67237dad18f795a43fb8a82d1b3aa227",
+  "assetFileSha256": "03d91dba9aa743c19effefa0d21ba76709d4a899662495dea84762fcf452e8b9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "beige",
+      "painted",
+      "suburb",
+      "house",
+      "spikey",
+      "textured",
+      "home"
+    ],
+    "date_published": 1626344163,
+    "name": "Beige Wall 002",
+    "categories": [
+      "man made",
+      "wall",
+      "plaster",
+      "outdoor",
+      "indoor",
+      "plaster-concrete"
+    ],
+    "staging": null,
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "dimensions": [
+      3000,
+      3000.000238418579
+    ],
+    "max_resolution": [
+      32767,
+      8192
+    ],
+    "files_hash": "d904663c1d86c6cb623e77391ca04fba433a0923",
+    "description": "Free 32K beige painted plaster texture. Rough, urban wall with fine granular bumps, subtle paint variation, matte and slightly porous surface.",
+    "category_id": "9d3c7da3-4959-5d42-8abc-5c31017a2fd4",
+    "category": "Concrete/Plaster & Stucco/Painted Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "d77fe530",
+    "download_count": 83691,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/beige_wall_002.png?width=256&height=256&format=webp&v=d77fe530"
+  }
+}

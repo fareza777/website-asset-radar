@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocks_ground_02",
+  "checkedAt": "2026-10-11T01:21:40.918Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocks_ground_02",
+  "apiSha256": "bbe7175f78d90cfa05e3334327f46cda01eaaa06910a3ce6288f9d4f5ac725bb",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocks_ground_02/rocks_ground_02_col_1k.jpg",
+  "assetFileMd5": "e13bff613fb440add6d9502b2be35901",
+  "assetFileSha256": "729e26281b28b9c05a53e755658da184ccd673ac291e6ec0532229743c06bf66",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2x2M",
+    "type": 1,
+    "date_published": 1613471775,
+    "name": "Rocks Ground 02",
+    "old_id": 301,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "rock"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "sponsors": [
+      "9295917"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "46c727637c50e9fb161f39ecab7a36e35a106131",
+    "tags": [
+      "rough",
+      "mud",
+      "rock",
+      "stones",
+      "uneven",
+      "rocks",
+      "scattered rocks",
+      "gravel",
+      "dirt",
+      "exposed rock",
+      "earthy",
+      "soil"
+    ],
+    "description": "Free 8K texture of rocky ground: earthy packed soil with exposed rock, scattered stones, gravel and mud, featuring uneven, highly detailed rough surface.",
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "d51fafd1",
+    "download_count": 149185,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_02.png?width=256&height=256&format=webp&v=d51fafd1"
+  }
+}

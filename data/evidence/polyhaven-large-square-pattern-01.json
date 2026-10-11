@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_square_pattern_01",
+  "checkedAt": "2026-10-11T01:34:28.732Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_square_pattern_01",
+  "apiSha256": "dd342811e66a06f0af244845f4063ea535402d8114b230eeb53d872d93996221",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_square_pattern_01/large_square_pattern_01_diff_1k.jpg",
+  "assetFileMd5": "59595d940a8fbfa1bf9b727b1e2ebd97",
+  "assetFileSha256": "a66708a5f098d2663811e8b16b17092ac68bbaa040ef198b47ddb595ca535cf7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "date_published": 1575108926,
+    "name": "Large Square Pattern 01",
+    "old_id": 234,
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "07a7f3033688eedafd7c86b6917afa7b2c8ef187",
+    "tags": [
+      "tiles",
+      "concrete",
+      "large",
+      "even",
+      "concrete pavers",
+      "concrete blocks",
+      "urban",
+      "urban design",
+      "grid pattern",
+      "grid",
+      "moss"
+    ],
+    "description": "Free 8K concrete texture of large square pavers, even gray blocks with subtle surface roughness, narrow moss-filled joints and a clean urban grid pattern.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "e4035840",
+    "download_count": 118045,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_square_pattern_01.png?width=256&height=256&format=webp&v=e4035840"
+  }
+}

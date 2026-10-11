@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sandstone_brick_wall_01",
+  "checkedAt": "2026-10-11T01:16:08.758Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sandstone_brick_wall_01",
+  "apiSha256": "aaf8e6b30c5cc60619e3fe1eea555ee524d17d93c8eca3d78dee2c76dfe3c1ee",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_brick_wall_01/sandstone_brick_wall_01_diff_1k.jpg",
+  "assetFileMd5": "b455d0cac83224ad41be76cf9a5f4813",
+  "assetFileSha256": "cfce6a385d1098273edfc1fb8ac78bec2f8e0dfd0846b2b59461d1ab03f23998",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "red",
+      "rough",
+      "uneven",
+      "industrial",
+      "baked",
+      "urban",
+      "weathered"
+    ],
+    "name": "Sandstone Brick Wall 01",
+    "categories": [
+      "wall",
+      "brick",
+      "man made",
+      "outdoor",
+      "sandstone"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "date_published": 1634169600,
+    "staging": null,
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d07198d3b906fd46ec1b358d73a9ed14f23ebf57",
+    "description": "Free 8K texture of weathered red sandstone brick wall, rough uneven bricks with chipped edges, gritty mortar and worn concrete bands, baked urban surface.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "abd20079",
+    "download_count": 21190,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_brick_wall_01.png?width=256&height=256&format=webp&v=abd20079"
+  }
+}

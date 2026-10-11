@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/castle_wall_varriation",
+  "checkedAt": "2026-10-11T01:36:22.918Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/castle_wall_varriation",
+  "apiSha256": "9a8ab3919420c541f6362c6c763f2c4ab40d9625c149406c85e61815e23f7de7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/castle_wall_varriation/castle_wall_varriation_diff_1k.jpg",
+  "assetFileMd5": "1c02942823ee45f6fe7fd030f52ecde2",
+  "assetFileSha256": "30e573c0240ee63e8c4eb6ad5d58247e501938664639888169211d96ab11c2bb",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2M x 2M",
+    "type": 1,
+    "tags": [
+      "wall",
+      "rough",
+      "blocks",
+      "old",
+      "castle"
+    ],
+    "date_published": 1570676861,
+    "old_id": 227,
+    "categories": [
+      "rock",
+      "wall",
+      "outdoor",
+      "clean",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "name": "Castle Wall Variation",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "4047949",
+      "4714267"
+    ],
+    "files_hash": "ee6d2ac06b3ffeddcc317661897db55d28b040fd",
+    "description": "Free 8K texture of weathered castle wall: rough, irregular stone blocks with deep mortar joints, varied warm greys and rusty browns, strong surface relief.",
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "3d6e26b0",
+    "download_count": 45933,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_wall_varriation.png?width=256&height=256&format=webp&v=3d6e26b0"
+  }
+}

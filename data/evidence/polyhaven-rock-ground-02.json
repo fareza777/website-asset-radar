@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_ground_02",
+  "checkedAt": "2026-10-11T01:31:42.421Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_ground_02",
+  "apiSha256": "369b12fe9913c1a6ef4a069b41628035519b04b4426b86c4660e75f94c5ab38b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_ground_02/rock_ground_02_diff_1k.jpg",
+  "assetFileMd5": "3820a229d3cb7a625f8e31a5b41c26df",
+  "assetFileSha256": "b3ea55a57b73f89de3ee43cc37f074b3a9fb8bca7301776139be0c5469564a11",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3M x 3M",
+    "type": 1,
+    "date_published": 1581998232,
+    "name": "Rock Ground 02",
+    "old_id": 243,
+    "categories": [
+      "terrain",
+      "natural",
+      "rock",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "12ff18faea8c0684f5cd04521c5d93cdc117490d",
+    "tags": [
+      "rough",
+      "broken",
+      "gravel",
+      "ground",
+      "scattered plants ",
+      "stones",
+      "loose stones",
+      "dirt",
+      "sand",
+      "rocks",
+      "scattered rocks"
+    ],
+    "description": "Free 8K texture of rough rocky ground with gravel, loose stones, compacted dirt and sandy tones, scattered mossy plant patches and high surface detail.",
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "1e787219",
+    "download_count": 52092,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_ground_02.png?width=256&height=256&format=webp&v=1e787219"
+  }
+}

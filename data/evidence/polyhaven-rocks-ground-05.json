@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocks_ground_05",
+  "checkedAt": "2026-10-11T01:25:19.019Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocks_ground_05",
+  "apiSha256": "eb35616cc365ff604cf703686d4f2813e7683340fccbd6e986785a7499d1882c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocks_ground_05/rocks_ground_05_diff_1k.jpg",
+  "assetFileMd5": "76bd7cba49ee86cdd1ad0b95f864a69a",
+  "assetFileSha256": "7dc4eb1e511588238368c5af73cd38bba528f02f4dff941da8282963c15b325d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3M x 3M",
+    "type": 1,
+    "date_published": 1598012992,
+    "name": "Rocks Ground 05",
+    "old_id": 281,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "rock",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "621c0286196bb195534d809d7dbdae0ddcfcb069",
+    "tags": [
+      "rough",
+      "rock",
+      "gravel",
+      "dirt",
+      "rocky",
+      "soil",
+      "uneven",
+      "stony",
+      "dry",
+      "pebbles",
+      "stones"
+    ],
+    "description": "Free 8K rocky ground texture with dry, uneven soil, coarse gravel and scattered pebbles atop exposed stony surfaces.",
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "b591d4a2",
+    "download_count": 70909,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_05.png?width=256&height=256&format=webp&v=b591d4a2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_beach_01",
+  "checkedAt": "2026-10-11T01:24:28.738Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_beach_01",
+  "apiSha256": "c12569d785947817031bbe951d92d480b95249ac00f99eb4f7734cafd967c728",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_01/aerial_beach_01_diff_1k.jpg",
+  "assetFileMd5": "0ec8483b18d960f2152dae2a64806b3d",
+  "assetFileSha256": "5b849983d08fda1c6d28b95b55851c2227697598721b25ff2b85e57cf8b04fc4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "30x30M",
+    "type": 1,
+    "tags": [
+      "beach",
+      "wavy",
+      "costal",
+      "ocean",
+      "seaside"
+    ],
+    "date_published": 1601489165,
+    "name": "Aerial Beach 01",
+    "old_id": 286,
+    "categories": [
+      "terrain",
+      "sand",
+      "outdoor",
+      "natural",
+      "aerial"
+    ],
+    "dimensions": [
+      30000,
+      30000
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b25ab01641da8f9b025dabf1f057e0ab8d2124de",
+    "description": "Free 8K texture of aerial beach sand with wavy, wind-sculpted ripples - fine-grained, low-gloss sandy surface ideal for coastal terrain and outdoor scenes.",
+    "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+    "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true,
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "55c081c4",
+    "download_count": 159710,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_beach_01.png?width=256&height=256&format=webp&v=55c081c4"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_leather",
+  "checkedAt": "2026-10-11T01:28:39.364Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_leather",
+  "apiSha256": "b882127487fe94e4111b73424710e0a6222719b37e22612b5b5850a78a7faac7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_leather/brown_leather_albedo_1k.jpg",
+  "assetFileMd5": "080b3bf1372766ff2c7ff121ed07b5e8",
+  "assetFileSha256": "7e9e1d6566d1fd91d4ceb4966c4820361e85d53a7a828b6bab3b2a093a876cd1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "40CM X 40CM",
+    "type": 1,
+    "date_published": 1590367769,
+    "name": "Brown Leather",
+    "old_id": 258,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      400.0000059604645,
+      400.00003576278687
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "categories": [
+      "fabric",
+      "leather"
+    ],
+    "tags": [
+      "leather",
+      "brown",
+      "chair",
+      "seat",
+      "upholstery",
+      "vintage",
+      "matte",
+      "wrinkled",
+      "textile ",
+      "creased"
+    ],
+    "files_hash": "b9a9a4129b9cec6e01f3ba38eee9bd342e1bac19",
+    "description": "Free 8K texture of vintage matte brown leather - fine grain with soft wrinkles, creases and subtle wear for upholstery and seat surfaces.",
+    "category_id": "36329517-0f82-5b1e-bf68-aca8b4d1db92",
+    "category": "Textiles & Leather/Leather/Upholstery Leather",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "12e0f851",
+    "download_count": 210630,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_leather.png?width=256&height=256&format=webp&v=12e0f851"
+  }
+}

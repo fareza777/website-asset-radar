@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Fence008C",
+  "checkedAt": "2026-10-11T01:33:23.828Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Fence008C&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "8a3da2edf7b95fc9ca83423366328390662f4d5e983f92debc2e8637280eb4bf",
+  "apiMetadata": {
+    "assetId": "Fence008C",
+    "dataType": "Material",
+    "displayName": "Fence 008 C",
+    "displayCategory": "Fence",
+    "shortLink": "https://ambientcg.com/a/Fence008C",
+    "tags": [
+      "8",
+      "fence",
+      "grate",
+      "metal"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Fence008C.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Fence008C.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Fence008C.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Fence008C.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Fence008C.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Fence008C.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Fence008C.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Fence008C.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Fence008C.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Fence008C.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Fence008C.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Fence008C.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Fence008C.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Fence008C.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Fence008C.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Fence008C.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Fence008C.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Fence008C.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Fence008C.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Fence008C.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Fence008C.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Fence008C.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Fence008C.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Fence008C.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_1K-JPG.zip",
+                "fileName": "Fence008C_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_1K-JPG.zip",
+                "size": 7497754,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_2K-JPG.zip",
+                "fileName": "Fence008C_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_2K-JPG.zip",
+                "size": 19622613,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_4K-JPG.zip",
+                "fileName": "Fence008C_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_4K-JPG.zip",
+                "size": 60654759,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_8K-JPG.zip",
+                "fileName": "Fence008C_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_8K-JPG.zip",
+                "size": 223277771,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_1K-PNG.zip",
+                "fileName": "Fence008C_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_1K-PNG.zip",
+                "size": 10162112,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_2K-PNG.zip",
+                "fileName": "Fence008C_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_2K-PNG.zip",
+                "size": 29069064,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_4K-PNG.zip",
+                "fileName": "Fence008C_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_4K-PNG.zip",
+                "size": 97534057,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fence008C_8K-PNG.zip",
+                "fileName": "Fence008C_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fence008C_8K-PNG.zip",
+                "size": 352767541,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-05-22 00:00:00",
+    "earlyReleaseDate": "2022-04-25 19:27:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 12574,
+    "downloadCountMonth": 859,
+    "downloadCountWeek": 253,
+    "popularityScore": 2.376389145299161,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 190,
+    "dimensionY": 190,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Color.jpg?39930&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Displacement.jpg?59838&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_NormalDX.jpg?33075&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Roughness.jpg?91622&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Opacity.jpg?3750&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Metalness.jpg?22093",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Color.jpg?74594,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Displacement.jpg?28668,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_NormalDX.jpg?69782,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Roughness.jpg?59052,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Opacity.jpg?98152,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fence008C/Fence008C_SQ_Metalness.jpg?95259&texture_name=Color,Displacement,Normal,Roughness,Opacity,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Fence008C.webp",
+  "previewSha256": "bf721c75c5bf54c6763c5bc6124c261ed3b0ec74317beb81dabfebf98aab9b17",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

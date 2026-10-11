@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forest_leaves_04",
+  "checkedAt": "2026-10-11T01:17:29.030Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forest_leaves_04",
+  "apiSha256": "2bb5d951c00d90d35c8a6ad707da3431dc99b860166d81a803fbef37b961df33",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_04/forest_leaves_04_diff_1k.jpg",
+  "assetFileMd5": "4ab1368d2d0d7fee652caa5f71f706bf",
+  "assetFileSha256": "a898e6ef0668a40faaf1bcbc6b024f6ef437ec424a10fa47aa6d35d013c9dade",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Forest Leaves 04",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "date_published": 1631750400,
+    "staging": null,
+    "dimensions": [
+      1500,
+      1500.0001192092896
+    ],
+    "tags": [
+      "leaves",
+      "nature",
+      "ground",
+      "dirt",
+      "debris",
+      "dry",
+      "autumn",
+      "sticks",
+      "twigs",
+      "brown"
+    ],
+    "categories": [
+      "outdoor",
+      "terrain",
+      "natural",
+      "collection: pine_forest",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "0a489c440765f05a7630001e299873f20775ea35",
+    "description": "Free 8K texture of dry autumn forest floor: brown leaves, sticks and twigs over dirt with detailed surface relief, roughness and subtle mossy debris.",
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "collections": [
+      "pine_forest",
+      "verdant_trail"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "img_version": "462b57b0",
+    "download_count": 70054,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_leaves_04.png?width=256&height=256&format=webp&v=462b57b0"
+  }
+}

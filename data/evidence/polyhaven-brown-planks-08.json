@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_planks_08",
+  "checkedAt": "2026-10-11T01:38:10.865Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_planks_08",
+  "apiSha256": "357faf99a5c9f82a62b0d3e3ad76306f3d558cc5235ccc61831ccb37ffa429f2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_08/brown_planks_08_diff_1k.jpg",
+  "assetFileMd5": "8058aff407352a72a6c2504514511558",
+  "assetFileSha256": "27dda6ed0d22e441524f6e1a617f473a62173e493ed2b31a9bc1279dc5888d4c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "tags": [
+      "planks",
+      "rough",
+      "shed",
+      "untreated"
+    ],
+    "date_published": 1566950852,
+    "name": "Brown Planks 08",
+    "old_id": 221,
+    "categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "815560354f3c580552226b91a08c65508f38df72",
+    "description": "Free 8K brown planks texture showing rough, untreated wooden boards with subtle weathering, horizontal lap seams, knots and coarse grain.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "e7e18d12",
+    "download_count": 34759,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_08.png?width=256&height=256&format=webp&v=e7e18d12"
+  }
+}

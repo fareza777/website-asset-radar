@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_block_wall",
+  "checkedAt": "2026-10-11T01:40:37.452Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_block_wall",
+  "apiSha256": "097af1d474934420c82d1dd397211ea7817de9747b1650964cbe656f687fc15c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_block_wall/rough_block_wall_diff_1k.jpg",
+  "assetFileMd5": "c25f40a19ba91fe0f50a9f4fc5eb5dbf",
+  "assetFileSha256": "a906c5d3cf22d4b8da0bd11c91c27327181e30337995437b1fc58eb18c1667d5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "date_published": 1560892113,
+    "name": "Rough Block Wall",
+    "old_id": 212,
+    "categories": [
+      "man made",
+      "outdoor",
+      "brick",
+      "wall"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3039.9999618530273,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "736417e028bef4127e8f3cfd0577a79424097f65",
+    "tags": [
+      "rough",
+      "uneven",
+      "stone",
+      "blocks",
+      "patterned",
+      "weathered",
+      "jagged",
+      "precast",
+      "cast stone blocks",
+      "exterior",
+      "dungeon",
+      "fortress walls",
+      "stonework",
+      "masonry",
+      "cladding",
+      "rock facade"
+    ],
+    "description": "Free 8K texture: rough, uneven cast-stone block wall with jagged faces, pronounced chisel marks, deep mortar joints and warm gray-brown weathered tones.",
+    "category_id": "095573e6-25a6-59a5-b88e-6911bbfbc472",
+    "category": "Brick & Block/Concrete Block & Paver/Cast-Stone Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "17563b0c",
+    "download_count": 86103,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_block_wall.png?width=256&height=256&format=webp&v=17563b0c"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/dry_ground_01",
+  "checkedAt": "2026-10-11T01:31:21.748Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/dry_ground_01",
+  "apiSha256": "2961819e577c573e5be5a455a3d341beff53b520c5c6c385af81f088542ebf78",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dry_ground_01/dry_ground_01_diff_1k.jpg",
+  "assetFileMd5": "f928726e24cf06765877ae77b9a04b4a",
+  "assetFileSha256": "75222fc97a82b635a09cf8f2891dd58bc42e49599b9fda920b2c50193fe85e9f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "4M x 4M",
+    "type": 1,
+    "date_published": 1582100095,
+    "name": "Dry Ground 01",
+    "old_id": 244,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1ab2b8b9d6e1f7a8c82d90e327f0e2e3ff47e4f9",
+    "tags": [
+      "dry",
+      "sand",
+      "mud",
+      "cracked",
+      "desert",
+      "baked",
+      "rough",
+      "fissured",
+      "baked earth",
+      "compact",
+      "brittle",
+      "parched"
+    ],
+    "description": "Free 8K texture of dry, cracked ground - compact, brittle baked earth with rough fissures, sandy-brown tones and fine-grain surface detail.",
+    "category_id": "804988d5-eb1b-5364-afc9-ce19b3edc12d",
+    "category": "Ground & Terrain/Soil & Mud/Cracked Dry Mud & Clay",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "b04d6d12",
+    "download_count": 27337,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_ground_01.png?width=256&height=256&format=webp&v=b04d6d12"
+  }
+}

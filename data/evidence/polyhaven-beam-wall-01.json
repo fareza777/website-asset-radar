@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/beam_wall_01",
+  "checkedAt": "2026-10-11T01:43:03.741Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/beam_wall_01",
+  "apiSha256": "e3b3b950dfe198613e866d97539c1ce98fc2dc81e70dd4a26131b1836764a745",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/beam_wall_01/beam_wall_01_diff_1k.jpg",
+  "assetFileMd5": "cfcff8c82ea99b49a405a4fe721f1b37",
+  "assetFileSha256": "fab43f5027460a750ba82d1abc8e714f1c6eb9b55259bd6385fc233fdb12fd30",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1555286294,
+    "name": "Beam Wall 01",
+    "old_id": 199,
+    "categories": [
+      "wood",
+      "outdoor",
+      "man made",
+      "wall"
+    ],
+    "type": 1,
+    "tags": [
+      "wall",
+      "stacked",
+      "cabin",
+      "house",
+      "hut",
+      "forest"
+    ],
+    "dimensions": [
+      999.9990463256836,
+      999.998927116394
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3c55885d54f5724eb13cd7528a880a73b46d90ca",
+    "description": "Free 8K texture of stacked rounded wooden beams with weathered gray-brown grain, surface cracks, knots and light green moss staining.",
+    "category_id": "e3ca7852-7bc1-59cb-8278-1680c5da0557",
+    "category": "Wood/Boards & Planks/Log & Timber Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "6d81b893",
+    "download_count": 34178,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/beam_wall_01.png?width=256&height=256&format=webp&v=6d81b893"
+  }
+}

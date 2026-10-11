@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mossy_rock",
+  "checkedAt": "2026-10-11T01:23:49.142Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mossy_rock",
+  "apiSha256": "072161efcf34d94922ab56fda57fb91ddd61258b2508b48869c48941b833f355",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_diff_1k.jpg",
+  "assetFileMd5": "a57fbbf55269eb64f8d40708fe3af26c",
+  "assetFileSha256": "4dbf37f1b0465c9c8914213163923be159716f5b97fb6946437b6c5e143ef540",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3x3M",
+    "type": 1,
+    "date_published": 1603908102,
+    "name": "Mossy Rock",
+    "old_id": 290,
+    "categories": [
+      "rock",
+      "natural",
+      "outdoor",
+      "terrain"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "75980c1e8b690dab1cad640407c18eac16307869",
+    "tags": [
+      "rough",
+      "moss",
+      "rock face",
+      "cracked",
+      "lichen",
+      "striations",
+      "striated",
+      "mosscovered",
+      "mossy",
+      "uneven",
+      "rock"
+    ],
+    "description": "Free 8K texture of weathered, striated rock with uneven, cracked surfaces, mottled lichen and green moss patches, and detailed rough stone grain.",
+    "category_id": "e8121dc9-96d3-59b8-b8ee-83104e60ba82",
+    "category": "Stone/Rock & Cliffs/Mossy & Lichened Rock",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "mossy",
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "df74987e",
+    "download_count": 116243,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mossy_rock.png?width=256&height=256&format=webp&v=df74987e"
+  }
+}

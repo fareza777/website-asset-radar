@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_sandstone_blocks_01",
+  "checkedAt": "2026-10-11T01:33:49.539Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_sandstone_blocks_01",
+  "apiSha256": "6a40f199e65c83424cd58f2f690fc605361c6f36f596ddedcf06ac07e5475d1a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_sandstone_blocks_01/large_sandstone_blocks_01_diff_1k.jpg",
+  "assetFileMd5": "78dd6175efd141c63bf19cc40f97cb9a",
+  "assetFileSha256": "2607cbd22d9f34aa13febe348cd9eb8f952fbcba3997b9393b1bc5ae19e7c5f3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "tags": [
+      "wall",
+      "stones",
+      "rough",
+      "uneven",
+      "old",
+      "large"
+    ],
+    "date_published": 1577943321,
+    "name": "Large Sandstone Blocks 01",
+    "old_id": 236,
+    "categories": [
+      "wall",
+      "floor",
+      "man made",
+      "dirty",
+      "brick"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "116a735bff792dcdc5d5fe9c4542e10f3495afa8",
+    "description": "Free 8K texture of large weathered sandstone blocks with rough, uneven faces, worn edges, dirty/mossy staining and deep grout in warm beige and ochre tones.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "e34e046a",
+    "download_count": 50952,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_sandstone_blocks_01.png?width=256&height=256&format=webp&v=e34e046a"
+  }
+}

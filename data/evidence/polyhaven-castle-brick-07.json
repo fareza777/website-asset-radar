@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/castle_brick_07",
+  "checkedAt": "2026-10-11T01:37:48.831Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/castle_brick_07",
+  "apiSha256": "04fcb7d34b98d58a5943f79e03cd09278b40a0ca2821d8eee0fd7dacf84f4337",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/castle_brick_07/castle_brick_07_diff_1k.jpg",
+  "assetFileMd5": "8e7b58e4c19c6ff30e38ce10a473b2d0",
+  "assetFileSha256": "86c90b92c19922e8f051f1130e45dbf1adc72aa0f51d7cb8aafa275dbec63937",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2.5M x 2.5M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "loose",
+      "gaps",
+      "old",
+      "castle"
+    ],
+    "date_published": 1567308640,
+    "name": "Castle Brick 07",
+    "old_id": 222,
+    "categories": [
+      "brick",
+      "outdoor",
+      "man made",
+      "indoor",
+      "wall",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5195b81cb1001f8d87ff0406198012a31c10dff7",
+    "description": "Free 8K texture of weathered castle bricks - rough, uneven surfaces with loose mortar, gaps and dirt; deep red-brown tones and worn, chipped edges.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "adeac9be",
+    "download_count": 64716,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_07.png?width=256&height=256&format=webp&v=adeac9be"
+  }
+}

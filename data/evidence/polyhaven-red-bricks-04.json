@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/red_bricks_04",
+  "checkedAt": "2026-10-11T01:16:29.147Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/red_bricks_04",
+  "apiSha256": "6ed1c2bd82fd34922ccde2eed449fb74c8329d6daa3caee95895e4d957dae661",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_diff_1k.jpg",
+  "assetFileMd5": "c372b17ae66518decc602b7f5c98da5f",
+  "assetFileSha256": "c3a51662fd3e859242d949843e88e8ca7ae50dd3bb57c4cad5b544d0a16111cd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "textured",
+      "bricks",
+      "baked",
+      "rough",
+      "uneven",
+      "urban",
+      "clean",
+      "red"
+    ],
+    "name": "Red Bricks 04",
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "date_published": 1633392000,
+    "staging": null,
+    "sponsors": [
+      "3267566",
+      "20953239"
+    ],
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d014230a431d9cd4cb59000dc50e6da35144054c",
+    "description": "Free 8K texture of red, uneven baked bricks with rough surface, weathered edges and clean mortar; urban, detailed wall material.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "dc99f93b",
+    "download_count": 103012,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_bricks_04.png?width=256&height=256&format=webp&v=dc99f93b"
+  }
+}

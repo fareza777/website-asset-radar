@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rusty_metal",
+  "checkedAt": "2026-10-11T01:51:01.739Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rusty_metal",
+  "apiSha256": "25d80d27f9a1afe7959a08f86e7b5bc6dfc8c6ba1f2edb1266f38e40c75741d7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal/rusty_metal_diff_1k.jpg",
+  "assetFileMd5": "ba829f953270d3ad87d8e86d840f71d6",
+  "assetFileSha256": "b532f22a08a9c36b5adf785373e213cd635a2d3769cb61196bbf5404cce7cd43",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1539576398,
+    "name": "Rusty Metal",
+    "old_id": 168,
+    "categories": [
+      "metal",
+      "man made",
+      "wall",
+      "dirty",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "7934315"
+    ],
+    "files_hash": "ab21e23da2cbaaad84636c4a2fffac04dc4e72e7",
+    "tags": [
+      "rust",
+      "old",
+      "rusty",
+      "shutter",
+      "metal shutter",
+      "corrosion",
+      "weathered",
+      "dented",
+      "metal"
+    ],
+    "description": "Free 8K rusty metal shutter texture - weathered, dented corrugated metal with brown-orange corrosion, roughened paint and dirt.",
+    "category_id": "da0d83ea-5e82-5d71-a933-ae328356e9d8",
+    "category": "Metal/Cladding & Shutters/Shutters & Doors",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "rusted",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "4feb9035",
+    "download_count": 53837,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusty_metal.png?width=256&height=256&format=webp&v=4feb9035"
+  }
+}

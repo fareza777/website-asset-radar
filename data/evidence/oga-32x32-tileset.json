@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-32x32-tileset",
+  "sourceUrl": "https://opengameart.org/content/32x32-tileset",
+  "checkedAt": "2026-10-11T01:30:36.283Z",
+  "httpStatus": 200,
+  "pageSha256": "cba28fe4e41590f1f91bf53ccf6553f4a53c8af1c5978ce2976f5e907a4a276d",
+  "title": "32x32 tileset",
+  "authors": [
+    "trexman1234"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "just credit me ;) 32x32 tileset by trexman1234. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/32x32-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/RedheimTiles.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/RedheimTiles.png",
+  "downloadSha256": "9816e54db3cc1041df01c799c8885d64ad50ad13aa0d8c1d76ce4e17331ea071",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "RedheimTiles.png",
+  "previewSha256": "9816e54db3cc1041df01c799c8885d64ad50ad13aa0d8c1d76ce4e17331ea071",
+  "sourceTags": [
+    "redwood",
+    "tree",
+    "tileset",
+    "pixelart",
+    "nature"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

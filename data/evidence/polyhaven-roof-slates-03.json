@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roof_slates_03",
+  "checkedAt": "2026-10-11T01:37:28.387Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roof_slates_03",
+  "apiSha256": "27bf6b90a301f9381df880b092809dd279760e907fbea15e927bb93a5e3f050f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_slates_03/roof_slates_03_diff_1k.jpg",
+  "assetFileMd5": "b416c53d9720ff8b057631ccc6331bf3",
+  "assetFileSha256": "ad7caff0fae22a67c2429021129840d3d9247ec4370bafadc2c031e1693fe8a9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3M x 3M",
+    "type": 1,
+    "date_published": 1568080540,
+    "name": "Roof Slates 03",
+    "old_id": 223,
+    "categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6204617ef742eae58702d256650233ef5629d4ef",
+    "tags": [
+      "slates",
+      "even",
+      "tiles",
+      "slate",
+      "roof tiles",
+      "overlapping",
+      "roofing material",
+      "aged",
+      "durable roofing",
+      "slate roofing",
+      "traditional roof tiles"
+    ],
+    "description": "Free 8K texture of traditional overlapping slate roof tiles, even aged gray slates with chipped edges, subtle dirt and a rough stone surface with low sheen.",
+    "category_id": "0dc6c67b-4dfa-5355-ad12-9918fc376459",
+    "category": "Stone/Slabs & Tiles/Slate",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2e9176ac",
+    "download_count": 81926,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_slates_03.png?width=256&height=256&format=webp&v=2e9176ac"
+  }
+}

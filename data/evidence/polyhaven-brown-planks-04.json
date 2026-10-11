@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_planks_04",
+  "checkedAt": "2026-10-11T01:44:47.276Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_planks_04",
+  "apiSha256": "6b5c30f3e8abab8038f070fa467c888da9eccf92ac96a721d723d4de60b7b487",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_04/brown_planks_04_diff_1k.jpg",
+  "assetFileMd5": "e24c398b26c8adbe9f11cdc7adc0f8a5",
+  "assetFileSha256": "24f2b4163a90c80fe2a0b124a4d92d0eafe64a68eb5298a9b46161cc5aa64c03",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "old",
+      "untreated",
+      "shed",
+      "cabin",
+      "cottage",
+      "rough"
+    ],
+    "date_published": 1551780054,
+    "name": "Brown Planks 04",
+    "old_id": 193,
+    "categories": [
+      "wood",
+      "man made",
+      "indoor",
+      "outdoor",
+      "clean",
+      "wall"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "08a09050e5a08135fe1ed0478d437f34f5890f1b",
+    "description": "Free 8K texture of old untreated brown wooden planks; rough grain, overlapping clapboard boards, visible nail heads and subtle weathering, matte finish.",
+    "category_id": "04edc771-9ea5-5eb3-903f-94d1a6aa5641",
+    "category": "Wood/Boards & Planks/Clapboard & Siding",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "c29a2c23",
+    "sponsors": [
+      "3237733",
+      "20953239",
+      "101447488"
+    ],
+    "download_count": 49293,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_04.png?width=256&height=256&format=webp&v=c29a2c23"
+  }
+}

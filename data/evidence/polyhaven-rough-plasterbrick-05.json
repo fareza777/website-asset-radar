@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_plasterbrick_05",
+  "checkedAt": "2026-10-11T01:26:49.504Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_plasterbrick_05",
+  "apiSha256": "b756803bd5b28ef700eb00c5097051115637ed89bdcedec5ec1bb879211f3e1e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_plasterbrick_05/rough_plasterbrick_05_diff_1k.jpg",
+  "assetFileMd5": "da5035dbd98fa80b8317ec7752986097",
+  "assetFileSha256": "a9af4f340092ac9f8f08fa9a905807ba1d7d6963af6fb2687d380e1effacb500",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5Mx1.5M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "grey",
+      "flat",
+      "even"
+    ],
+    "date_published": 1594640790,
+    "name": "Rough Plasterbrick 05",
+    "old_id": 269,
+    "categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "floor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "19e3e7b7f128bb6eb40f670f5f0262eb28cad414",
+    "description": "Free 8K texture of rough, weathered grey plaster with flaking patches, small pits and subtle brown staining, an uneven, low-sheen concrete-like surface.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "87971c0e",
+    "download_count": 70732,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_plasterbrick_05.png?width=256&height=256&format=webp&v=87971c0e"
+  }
+}

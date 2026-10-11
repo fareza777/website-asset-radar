@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forrest_sand_01",
+  "checkedAt": "2026-10-11T01:54:30.867Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forrest_sand_01",
+  "apiSha256": "7006410bd2ef10d5191774afb81149988b243bdfc618fdcb29988789ec4a629c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_sand_01/forrest_sand_01_diff_1k.jpg",
+  "assetFileMd5": "8686262d6b67c32ad7f78c1cb9e1e7a2",
+  "assetFileSha256": "88948b0a5d929b418dc12258e13f56279d52fe193bb65db87c610044013f18b1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1535593670,
+    "sponsors": [
+      "20953239"
+    ],
+    "old_id": 157,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "sand"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "name": "Forest Sand 01",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "9d47a0e0b1ce4e53d58432d3e9417de821a5472b",
+    "tags": [
+      "sand",
+      "pine",
+      "needles",
+      "forest",
+      "plant debris",
+      "plant litter",
+      "soil",
+      "organic matter",
+      "granular",
+      "twigs",
+      "sticks"
+    ],
+    "description": "Free 8K texture showing forest sand: granular sandy soil with compacted patches, scattered pine needles, twigs and organic litter, low sheen, earthy browns.",
+    "category_id": "2b016db1-a760-53aa-89ac-54c30f13214a",
+    "category": "Ground & Terrain/Forest Floor/Forest Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "img_version": "72bc4df6",
+    "download_count": 29275,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forrest_sand_01.png?width=256&height=256&format=webp&v=72bc4df6"
+  }
+}

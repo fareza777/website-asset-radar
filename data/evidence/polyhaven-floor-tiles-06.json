@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_tiles_06",
+  "checkedAt": "2026-10-11T01:52:15.907Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_tiles_06",
+  "apiSha256": "be914373549f74383ba2902588a1450a3936ad8f709cbcdc7f96fdb311daf3a7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_tiles_06/floor_tiles_06_diff_1k.jpg",
+  "assetFileMd5": "a911ad8dc31e4f49a7cf782a114f7aa6",
+  "assetFileSha256": "ac159ca6072e30dd9d5c65e2d6eae7bb55a7dc9f06e6d141e9119390563511c2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1538356638,
+    "name": "Floor Tiles 06",
+    "old_id": 164,
+    "categories": [
+      "floor",
+      "indoor",
+      "clean",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "22b151bef1f180591e0d306e551fb15e4bdf2990",
+    "tags": [
+      "marble",
+      "tiles",
+      "checkerboard",
+      "checkered",
+      "floor",
+      "tiled",
+      "square tiles",
+      "dirty"
+    ],
+    "description": "Free 8K texture of checkered marble floor tiles - alternating brown and beige squares with subtle veining, thin grout lines, light wear, scuffs and low gloss.",
+    "category_id": "332a7c92-1556-5937-b7a9-8a0f52d20df4",
+    "category": "Stone/Slabs & Tiles/Marble",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "indoor"
+    },
+    "img_version": "ae4a445d",
+    "download_count": 173605,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_06.png?width=256&height=256&format=webp&v=ae4a445d"
+  }
+}

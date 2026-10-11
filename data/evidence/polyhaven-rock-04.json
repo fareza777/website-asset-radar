@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_04",
+  "checkedAt": "2026-10-11T01:46:48.962Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_04",
+  "apiSha256": "964ee13c820d8f53daaeb67e28d04827870432799bb95e92eb8f3c197566e867",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_04/rock_04_diff_1k.jpg",
+  "assetFileMd5": "cf0ec6db74559af9204840dbe1e30a37",
+  "assetFileSha256": "0c7e1d0a014d141dc5ba13b55657922ae8de045f509a3a8eefeb5de445a839ed",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1546731812,
+    "name": "Rock 04",
+    "old_id": 184,
+    "categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "f0e05b3fa4965aeca08d979a898e82a21e49be2c",
+    "tags": [
+      "rough",
+      "uneven",
+      "stone",
+      "bumpy",
+      "rock",
+      "rock formation",
+      "weathered",
+      "dirty",
+      "coarse",
+      "mossy"
+    ],
+    "description": "Free 8K texture of a rough, weathered stone: coarse, uneven, bumpy surface with dirt and subtle moss patches in warm brown-gray tones.",
+    "category_id": "bf84369c-cc7c-5347-ad17-173353e859b8",
+    "category": "Stone/Rock & Cliffs/Rough Rock Faces",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "57fc7a29",
+    "download_count": 81555,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_04.png?width=256&height=256&format=webp&v=57fc7a29"
+  }
+}

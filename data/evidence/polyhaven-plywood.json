@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/plywood",
+  "checkedAt": "2026-10-11T01:27:09.499Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/plywood",
+  "apiSha256": "75791899a7fe314337d1536804fe33e105f013e69c41f5a6ac1ed878ffc6a432",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plywood/plywood_diff_1k.jpg",
+  "assetFileMd5": "8032b768029adffbbfb223dd890102de",
+  "assetFileSha256": "800905650fc6cab2fe7c77c41851f8ea89669f1287ad5ce67c48f435654c0af8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "30x30 cm",
+    "type": 1,
+    "tags": [
+      "clean",
+      "even",
+      "smooth",
+      "flat",
+      "continuous",
+      "consistent"
+    ],
+    "date_published": 1592792935,
+    "name": "Plywood",
+    "old_id": 267,
+    "categories": [
+      "wood",
+      "clean",
+      "man made",
+      "natural",
+      "raw wood"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      499.999940395355,
+      499.999940395355
+    ],
+    "sponsors": [
+      "42579608",
+      "128081732"
+    ],
+    "files_hash": "71277f7973f476845a1464810f133500691c2e43",
+    "description": "Free 8K plywood texture, light warm-brown with smooth, even, continuous linear grain and a flat, low-sheen raw wood surface.",
+    "category_id": "58eac6a9-624e-51cc-a1f1-91a5cd4f56af",
+    "category": "Wood/Engineered Wood/Plywood",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "clean"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "4fd30a5c",
+    "download_count": 731938,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plywood.png?width=256&height=256&format=webp&v=4fd30a5c"
+  }
+}

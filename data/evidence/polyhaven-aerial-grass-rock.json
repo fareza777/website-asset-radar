@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_grass_rock",
+  "checkedAt": "2026-10-11T01:30:39.439Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_grass_rock",
+  "apiSha256": "231ac9536fa89266cd4bbf2492c4f126e674196ee26de3a454f09c712aa06a5e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_diff_1k.jpg",
+  "assetFileMd5": "e920ce36afd0abff000b8366d3d768d3",
+  "assetFileSha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "15M x 15M",
+    "type": 1,
+    "tags": [
+      "moss",
+      "grass",
+      "cliff",
+      "cave",
+      "rock face"
+    ],
+    "date_published": 1582514587,
+    "name": "Aerial Grass Rock",
+    "old_id": 247,
+    "categories": [
+      "terrain",
+      "rock",
+      "outdoor",
+      "natural",
+      "aerial"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      15000,
+      15000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "76058381"
+    ],
+    "files_hash": "d610669c24e20d7c2effc4c116c718176f5b044a",
+    "description": "Free 8K aerial rock texture with moss and grass, rough weathered stone with fine gravel and earthy green-brown tones.",
+    "category_id": "e8121dc9-96d3-59b8-b8ee-83104e60ba82",
+    "category": "Stone/Rock & Cliffs/Mossy & Lichened Rock",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "mossy",
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "da74fb8a",
+    "download_count": 365300,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_grass_rock.png?width=256&height=256&format=webp&v=da74fb8a"
+  }
+}

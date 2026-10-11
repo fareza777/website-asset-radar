@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_red_bricks",
+  "checkedAt": "2026-10-11T01:42:43.792Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_red_bricks",
+  "apiSha256": "6bab6df3f4a4345ba9133465d5f15a82fb9bceabdc84b3739a4a446ca1cb5ea7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_red_bricks/large_red_bricks_diff_1k.jpg",
+  "assetFileMd5": "d3fd2c63cd49fa3be86e0dd5d4b67b7b",
+  "assetFileSha256": "f9f1f0f2c0302c13741b92e2382c5c0e34beee32628fb1d6853a27a3071e05a9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "red",
+      "large",
+      "rough"
+    ],
+    "date_published": 1556939354,
+    "name": "Large Red Bricks",
+    "old_id": 201,
+    "categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "49976d482481c4ce8d25705e5801c7b7fe118721",
+    "description": "Free 8K texture: large red brick material with rough, chiseled faces, deep mortar joints and warm color variation; clean, well-preserved surface.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "60d8f148",
+    "download_count": 68304,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_red_bricks.png?width=256&height=256&format=webp&v=60d8f148"
+  }
+}

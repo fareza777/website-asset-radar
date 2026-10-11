@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forest_leaves_03",
+  "checkedAt": "2026-10-11T01:15:28.795Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forest_leaves_03",
+  "apiSha256": "e178281b04b64872e683ae59429059a5228d60877f538a2d8838a582293e6fe9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_03/forest_leaves_03_diff_1k.jpg",
+  "assetFileMd5": "d407c7adebb2d943107eb91a30a9f909",
+  "assetFileSha256": "9e6604b5958dfa46a6353a8358774e0d35dc0b8dd4c926570eef3134d7d9d92c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "leaves",
+      "autumn",
+      "dry",
+      "nature",
+      "forest",
+      "ground",
+      "cover",
+      "dirt",
+      "debris",
+      "brown",
+      "yellow",
+      "green"
+    ],
+    "name": "Forest Leaves 03",
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain"
+    ],
+    "authors": {
+      "Rob Tuytel": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "date_published": 1636588800,
+    "staging": null,
+    "dimensions": [
+      2299.999952316284,
+      2300.0001907348633
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "253f3191fdc71b9bb20e4e4e1d96130ae95222f8",
+    "description": "Free 8K texture of dense dry forest leaf litter - brown, yellow and green curled leaves with dirt and debris, rough matte surface and pronounced depth.",
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "img_version": "e50be952",
+    "download_count": 43890,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_leaves_03.png?width=256&height=256&format=webp&v=e50be952"
+  }
+}

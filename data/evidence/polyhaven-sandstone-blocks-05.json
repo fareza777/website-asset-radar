@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sandstone_blocks_05",
+  "checkedAt": "2026-10-11T01:49:13.733Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sandstone_blocks_05",
+  "apiSha256": "4d54a9dedcdadab66d5406589e5a191f4357175f9b3e64b3b1e4a185a028b9dd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_blocks_05/sandstone_blocks_05_diff_1k.jpg",
+  "assetFileMd5": "2c3651fdf1071d7b60d82f0e86953968",
+  "assetFileSha256": "d17c322d9e793ab9fc198948a34f2632595560471ff8714f2b0e052bc75c9ee3",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "blocks",
+      "old",
+      "rough",
+      "uneven",
+      "large",
+      "sandstone"
+    ],
+    "date_published": 1542935874,
+    "name": "Sandstone Blocks 05",
+    "old_id": 175,
+    "categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "brick"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "sponsors": [
+      "59361351"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b163839c0b009d5faf11ee21603873c4bff5ef7b",
+    "description": "Free 8K texture - weathered sandstone block wall with large, uneven, rough-hewn stones in warm beige tones, pronounced surface relief and porous, eroded edges.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "519ac374",
+    "download_count": 101803,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_blocks_05.png?width=256&height=256&format=webp&v=519ac374"
+  }
+}

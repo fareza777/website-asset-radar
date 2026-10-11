@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:41:26.539Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Concrete046&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "03b2859085581df9cae04b35f1ee9aa6a46fc1ce6efd6cfe66626622d7b80097",
+  "apiSha256": "0bae72807812ea0c08b108798be5793e44e4f8e5cd94e778231dd39c97b79229",
   "apiMetadata": {
     "assetId": "Concrete046",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2024-04-21 10:20:00",
     "creationMethod": "PBRApproximated",
     "category": null,
-    "downloadCount": 104137,
-    "downloadCountMonth": 5630,
-    "downloadCountWeek": 1872,
-    "popularityScore": 25.242039791540947,
+    "downloadCount": 104502,
+    "downloadCountMonth": 5742,
+    "downloadCountWeek": 1815,
+    "popularityScore": 25.275700172584884,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Color.jpg?71230&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Displacement.jpg?7675&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_NormalDX.jpg?78378&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Roughness.jpg?93865",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Color.jpg?2018&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Displacement.jpg?33335&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_NormalDX.jpg?70216&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Roughness.jpg?68214",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Color.jpg?57531,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Displacement.jpg?65731,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_NormalDX.jpg?29671,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Roughness.jpg?18466&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Color.jpg?88954,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Displacement.jpg?4402,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_NormalDX.jpg?56413,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Concrete046/Concrete046_SQ_Roughness.jpg?81244&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -191,5 +191,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Concrete046.webp",
   "previewSha256": "4edb8301838d7d2eb01d9b03f4ddf0b0ef07e251db918fabc5542463adbd82b0",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-11T02:24:03.896Z"
 }

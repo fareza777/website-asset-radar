@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/leaves_forest_ground",
+  "checkedAt": "2026-10-11T01:09:35.000Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/leaves_forest_ground",
+  "apiSha256": "bfe6fa703f90e84425f35bda28278747240f61938e5b97fcc631d542a841584d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leaves_forest_ground/leaves_forest_ground_diff_1k.jpg",
+  "assetFileMd5": "6e9cd579b50046182663e3ab33681fc8",
+  "assetFileSha256": "e4aa2be8f80192378bc8aca363fc01b1f01639ebea5a87a3973c549861a01b7a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain"
+    ],
+    "type": 1,
+    "tags": [
+      "dirt",
+      "forest",
+      "leaves",
+      "twigs",
+      "yellow",
+      "green",
+      "sticks",
+      "autumn",
+      "nature",
+      "brown"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "dimensions": [
+      1259.9999904632568,
+      1260.0001096725464
+    ],
+    "date_published": 1655942400,
+    "staging": null,
+    "name": "Leaves Forest Ground",
+    "sponsors": [
+      "540619"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "97ad42596a73dd3dcf0f7dc6fdf9070a382a1f9c",
+    "description": "Free 8K texture of dense autumn leaf litter: layered brown, yellow and green leaves, twigs and soil with rough, highly detailed surface and natural depth.",
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "67c17fce",
+    "download_count": 40480,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leaves_forest_ground.png?width=256&height=256&format=webp&v=67c17fce"
+  }
+}

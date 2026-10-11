@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_planks_05",
+  "checkedAt": "2026-10-11T01:44:39.138Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_planks_05",
+  "apiSha256": "73759731e0cf93abd96bc0002eb1f65d14f5d6fc465de2acc1abdd22d259628f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_05/brown_planks_05_diff_1k.jpg",
+  "assetFileMd5": "58cef42a08ff51b46311f3557ec329fa",
+  "assetFileSha256": "2638ddb4b4ea9c3e7835a81cec9d2b41df30187aed6cf0cddee2e5042a39724a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "painted",
+      "shed",
+      "house",
+      "suburb"
+    ],
+    "date_published": 1552381009,
+    "name": "Brown Planks 05",
+    "old_id": 194,
+    "categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3a384bc4db4ae58dd9c60105ae4b88adfac270af",
+    "description": "Free 8K texture of brown painted horizontal wooden planks, smooth matte paint with subtle grain, knots and light weathering in grooves, clean suburban walls.",
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "09e3d5b3",
+    "download_count": 112504,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_05.png?width=256&height=256&format=webp&v=09e3d5b3"
+  }
+}

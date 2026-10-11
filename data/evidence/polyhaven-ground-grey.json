@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/ground_grey",
+  "checkedAt": "2026-10-11T01:30:19.704Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/ground_grey",
+  "apiSha256": "6cb7ae931742fd614baa40e028a3c1f01f0c54bd482ebe86806e49b3fb978a9f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ground_grey/ground_grey_diff_1k.jpg",
+  "assetFileMd5": "4589fdd1d32c15a81e10810bf6ef0de0",
+  "assetFileSha256": "b42595a50d91bcec0945e04993b100899f6c24410237a0f6e17cb9d752531958",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1586233113,
+    "name": "Ground Grey",
+    "old_id": 248,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "road"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5ca79a7c6f645e8ed392a7adc3bbdaa07e016e40",
+    "tags": [
+      "gravel",
+      "grey",
+      "gravelly",
+      "rough",
+      "uneven",
+      "coarse",
+      "concrete"
+    ],
+    "description": "Free 8K texture: coarse grey gravelly concrete with rough, uneven surface, compacted dirt patches and strong low-sheen surface detail.",
+    "category_id": "ff767449-ea44-5527-96f0-d74aa52df2d0",
+    "category": "Ground & Terrain/Gravel & Pebbles/Crushed Aggregate",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "d6fa3eed",
+    "download_count": 49673,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ground_grey.png?width=256&height=256&format=webp&v=d6fa3eed"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sandstone_blocks_04",
+  "checkedAt": "2026-10-11T01:46:39.076Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sandstone_blocks_04",
+  "apiSha256": "ce9ab7ab8193d8db97c0dc7c502f90e77dbf5270636380c7f1e61ef25a32ad8c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_blocks_04/sandstone_blocks_04_diff_1k.jpg",
+  "assetFileMd5": "77d432c47fa77c827fb06a2f6986d054",
+  "assetFileSha256": "a1399a26a60b5024a832c8dd0f1a27bc7ad6c4d06fd60143d803ff6d93b778ed",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "sandstone",
+      "flat",
+      "uneven",
+      "old"
+    ],
+    "date_published": 1547368261,
+    "name": "Sandstone Blocks 04",
+    "old_id": 185,
+    "categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "clean",
+      "brick"
+    ],
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "20953239"
+    ],
+    "files_hash": "9f7a07ce2305d23e0773f9fd18b66e2a9c1279db",
+    "description": "Free 8K texture of weathered sandstone blocks with rough, uneven faces, soft beige tones, thin block joints and subtle erosion on a flat wall surface.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "e2f2a20a",
+    "download_count": 41778,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_blocks_04.png?width=256&height=256&format=webp&v=e2f2a20a"
+  }
+}

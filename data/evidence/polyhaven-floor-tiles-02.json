@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_tiles_02",
+  "checkedAt": "2026-10-11T01:29:29.698Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_tiles_02",
+  "apiSha256": "b230c398ce6b79fc2e47bdafb7e63813003359ca84ce496b0c164eee3236a555",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_tiles_02/floor_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "32de1779b8ddba55ad62df8d014264cd",
+  "assetFileSha256": "05988d474ecb1f9cd48e65d978db88212252ef8b5af8ed3833395c1f86b2b469",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2Mx2M",
+    "type": 1,
+    "date_published": 1587699360,
+    "name": "Floor Tiles 02",
+    "old_id": 253,
+    "categories": [
+      "floor",
+      "wall",
+      "outdoor",
+      "indoor",
+      "clean",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "df8145d800a603e035f6ba995fd991c5e6ddc4ab",
+    "tags": [
+      "marble",
+      "floor",
+      "square tiles",
+      "smooth surface",
+      "stone",
+      "wall",
+      "dirty",
+      "uneven",
+      "marble blocks"
+    ],
+    "description": "Free 8K texture: warm beige marble floor tiles with smooth yet slightly uneven square blocks, subtle veining, dirt speckles and worn grout lines.",
+    "category_id": "332a7c92-1556-5937-b7a9-8a0f52d20df4",
+    "category": "Stone/Slabs & Tiles/Marble",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "10f8727c",
+    "download_count": 122267,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_02.png?width=256&height=256&format=webp&v=10f8727c"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forrest_ground_03",
+  "checkedAt": "2026-10-11T01:48:08.909Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forrest_ground_03",
+  "apiSha256": "ca92dfebb1194fdd635c1ad33cf2bae1201f26f0a62de8d271e79421620d6e80",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_diff_1k.jpg",
+  "assetFileMd5": "0a63f012ae0e3663451b5a0e5049975a",
+  "assetFileSha256": "69c3ae8a40c70eecbb312c2ca1044b5dea4f48d37f2a6f84ca7ed56b95f04a7b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1544764483,
+    "old_id": 180,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "name": "Forest Ground 03",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c49b32586b5ba1abda47c1180d540d91aa18102d",
+    "tags": [
+      "pine",
+      "needles",
+      "forest",
+      "plant debris",
+      "dirt soil",
+      "leaf litter",
+      "twigs",
+      "fallen leaves",
+      "ground cover",
+      "fallen pine needles",
+      "dry grass"
+    ],
+    "description": "Free 8K texture of a dry forest floor with compact soil, fallen pine needles, leaf litter and twigs; rough, fibrous surface and muted brown tones.",
+    "category_id": "8f7b5218-24b6-53f1-9298-0d51d2d0764e",
+    "category": "Ground & Terrain/Forest Floor/Pine Needle Litter",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "af1d852b",
+    "download_count": 40707,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forrest_ground_03.png?width=256&height=256&format=webp&v=af1d852b"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/defense_wall_02",
+  "checkedAt": "2026-10-11T01:23:19.175Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/defense_wall_02",
+  "apiSha256": "d68ef2afbb6bd1f7502b000a182f0ec61e3091e75554e545fbe33a92c5fe3df2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/defense_wall_02/defense_wall_02_diff_1k.jpg",
+  "assetFileMd5": "0d6c7e00cb4466e79a1f4648eb02c2f3",
+  "assetFileSha256": "7d08b6c62d724b2776e3f1ff8c12eded326c5303dc56aa07eea63b611a8166f8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "12x12 M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "wall",
+      "bricks",
+      "castle",
+      "fort"
+    ],
+    "date_published": 1606897008,
+    "name": "Defense Wall 02",
+    "old_id": 293,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      12000.000953674316,
+      12000.000953674316
+    ],
+    "sponsors": [
+      "11167855"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1644479946541b2fb2f08d980f80214affffcd17",
+    "description": "Free 8K texture of a weathered castle defense wall, rough layered stone bricks with eroded mortar, jagged edges and subtle mossy, earthy tones.",
+    "categories": [
+      "outdoor",
+      "wall",
+      "rock",
+      "man made",
+      "aerial"
+    ],
+    "category_id": "7b0fe897-0a1b-5b8b-9d28-7c5928b4b614",
+    "category": "Stone/Walls & Rubble/Fortress & Castle Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "402401b3",
+    "download_count": 16290,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/defense_wall_02.png?width=256&height=256&format=webp&v=402401b3"
+  }
+}

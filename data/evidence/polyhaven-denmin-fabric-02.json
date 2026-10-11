@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/denmin_fabric_02",
+  "checkedAt": "2026-10-11T01:26:59.629Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/denmin_fabric_02",
+  "apiSha256": "a81c6f42cead8480ccf2826d6184abd30036f99b58019a471cc8cad3379783f5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denmin_fabric_02/denmin_fabric_02_diff_1k.jpg",
+  "assetFileMd5": "4f2d1e96f967a32c93fe1d853c71bfa8",
+  "assetFileSha256": "fba56bdb36b4a68cd5b01e8afa69c59f52970508e0042d4189562a08c77021cc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1592866700,
+    "sponsors": [
+      "44302755"
+    ],
+    "name": "Denim Fabric 02",
+    "scale": "30x30 cm",
+    "old_id": 268,
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      100.00000149011612,
+      99.99999403953552
+    ],
+    "categories": [
+      "fabric",
+      "denim"
+    ],
+    "files_hash": "414e6d5d95efbd5f4215418985a6a0c63c1bf3ad",
+    "tags": [
+      "jeans",
+      "pants",
+      "cloth",
+      "clothing",
+      "denim",
+      "textile ",
+      "creased",
+      "folds"
+    ],
+    "description": "Free 8K denim texture with fine woven grain, subtle faded highlights and soft worn surface, showing realistic creases and folds.",
+    "category_id": "14f36823-af15-5f03-824e-e31a2eadaedc",
+    "category": "Textiles & Leather/Denim",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "877de5b6",
+    "download_count": 194491,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/denmin_fabric_02.png?width=256&height=256&format=webp&v=877de5b6"
+  }
+}

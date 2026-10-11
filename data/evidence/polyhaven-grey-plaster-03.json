@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grey_plaster_03",
+  "checkedAt": "2026-10-11T01:34:09.794Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grey_plaster_03",
+  "apiSha256": "aeba1de56a70d1c1815ec5b4e7b3a00943633c404535d00ea6b765cffc7b6813",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster_03/grey_plaster_03_diff_1k.jpg",
+  "assetFileMd5": "9c46bc51a016ff7e58769a7fdea0c0c9",
+  "assetFileSha256": "b0952ccabee3f68a1962684a8bc2fe64101b92e569cfd13cf1d8c11b65f395d9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1575595854,
+    "sponsors": [
+      "20953239"
+    ],
+    "name": "Grey Plaster 03",
+    "scale": "1.5M x 1.5M",
+    "old_id": 235,
+    "categories": [
+      "plaster",
+      "outdoor",
+      "indoor",
+      "man made",
+      "dirty",
+      "wall",
+      "floor",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "tags": [
+      "rough",
+      "grey",
+      "uneven"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "20506e1b1e1659b487f4790b0cb76522683c40a4",
+    "description": "Free 8K texture of rough, uneven grey plaster with a matte, porous surface, subtle dirt, small chips and soft trowel marks across the surface.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "cc8aaa60",
+    "download_count": 41186,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_plaster_03.png?width=256&height=256&format=webp&v=cc8aaa60"
+  }
+}

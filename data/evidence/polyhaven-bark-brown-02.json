@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/bark_brown_02",
+  "checkedAt": "2026-10-11T01:47:29.851Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/bark_brown_02",
+  "apiSha256": "4976dda2e6305a87694a45385de03c0aa38a6be7f0a1baf835598e6414c68ba5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_02/bark_brown_02_diff_1k.jpg",
+  "assetFileMd5": "6669cca520594bdca19f94084984ab72",
+  "assetFileSha256": "920fa0bed0c9d78c1d530e99795113afd532d7db746de440f4a85d7c83ed0f1a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1545431528,
+    "sponsors": [
+      "9910225"
+    ],
+    "name": "Bark Brown 02",
+    "old_id": 182,
+    "categories": [
+      "wood",
+      "outdoor",
+      "natural",
+      "bark"
+    ],
+    "type": 1,
+    "dimensions": [
+      999.9990463256836,
+      999.998927116394
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6791070915dfc329106f7427d305d13b87984763",
+    "tags": [
+      "bark",
+      "tree",
+      "forest",
+      "knots",
+      "wooden knots",
+      "tree trunk"
+    ],
+    "description": "Free 8K bark texture showing rough brown tree bark with deep vertical furrows, wooden knots and subtle mossy green patches, high-detail surface relief.",
+    "category_id": "8d2e6acd-922e-5774-89f1-3988e37758c3",
+    "category": "Wood/Bark/Furrowed Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "d35bc0c7",
+    "download_count": 231118,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_brown_02.png?width=256&height=256&format=webp&v=d35bc0c7"
+  }
+}

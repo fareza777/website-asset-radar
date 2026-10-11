@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/castle_wall_slates",
+  "checkedAt": "2026-10-11T01:37:20.625Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/castle_wall_slates",
+  "apiSha256": "97c7b9b41a8dcfaa835e5cb1208a1a69953d33b0e144f9979643c48e1884a7ca",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/castle_wall_slates/castle_wall_slates_diff_1k.jpg",
+  "assetFileMd5": "0f32f47b63c6303ba0d2c79d6672a402",
+  "assetFileSha256": "1c42fe616560553caf8f61f298750e6a2cee06bf2a4af9156a930057d02da003",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2.5M x 2.5M",
+    "type": 1,
+    "tags": [
+      "wall",
+      "rough",
+      "blocks",
+      "stacked",
+      "old",
+      "castle",
+      "medieval"
+    ],
+    "date_published": 1568855551,
+    "name": "Castle Wall Slates",
+    "old_id": 224,
+    "categories": [
+      "rock",
+      "outdoor",
+      "wall",
+      "clean",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "26820710"
+    ],
+    "files_hash": "aed373c9c14d89c082783202d576ee49be2a5045",
+    "description": "Free 8K texture of castle slate wall: stacked, weathered stone blocks with rough chiseled edges, mortar, beige-gray-brown colors and deep crevices.",
+    "category_id": "bc20bc70-284a-5f14-93eb-78274f6a1fa9",
+    "category": "Brick & Block/Stone Block & Paver/Ashlar & Coursed Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "56b1ac3a",
+    "download_count": 98675,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_wall_slates.png?width=256&height=256&format=webp&v=56b1ac3a"
+  }
+}

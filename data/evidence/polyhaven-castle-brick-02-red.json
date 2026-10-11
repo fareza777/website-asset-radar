@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/castle_brick_02_red",
+  "checkedAt": "2026-10-11T01:35:39.340Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/castle_brick_02_red",
+  "apiSha256": "c7ec28a2bec5dd2e6c4aa366fbd614fa45a626d00057ca74041f283877d8b0a1",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/castle_brick_02_red/castle_brick_02_red_diff_1k.jpg",
+  "assetFileMd5": "2a4d048e27392dd5f02b4cfcd7c03a80",
+  "assetFileSha256": "526019deb0533920273a0a2272f7735ca17bb578427515c6b972e2bbecf5726c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2M x 2M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "red",
+      "sewer",
+      "damp",
+      "old",
+      "uneven"
+    ],
+    "date_published": 1571797760,
+    "name": "Castle Brick 02 Red",
+    "old_id": 229,
+    "categories": [
+      "brick",
+      "outdoor",
+      "man made",
+      "wall",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sponsors": [
+      "540619",
+      "4714267"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d4d70e454efd6d2c76008afe609d58c87d54cfb1",
+    "description": "Free 8K texture of old red castle brick with rough, uneven surfaces, damp discoloration, weathered mortar and gritty, dirty detailing.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "fd920d58",
+    "download_count": 132949,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_02_red.png?width=256&height=256&format=webp&v=fd920d58"
+  }
+}

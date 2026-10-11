@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Planks023C",
+  "checkedAt": "2026-10-11T01:54:44.532Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Planks023C&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "44ca6380ed27f61cb5c1910c72403f841018e6ef4066d57797929f6898e27971",
+  "apiMetadata": {
+    "assetId": "Planks023C",
+    "dataType": "Material",
+    "displayName": "Planks 023 C",
+    "displayCategory": "Planks",
+    "shortLink": "https://ambientcg.com/a/Planks023C",
+    "tags": [
+      "23",
+      "black",
+      "dark",
+      "planks",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Planks023C.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Planks023C.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Planks023C.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Planks023C.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Planks023C.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Planks023C.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Planks023C.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Planks023C.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Planks023C.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Planks023C.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Planks023C.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Planks023C.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Planks023C.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Planks023C.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Planks023C.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Planks023C.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Planks023C.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Planks023C.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Planks023C.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Planks023C.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Planks023C.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Planks023C.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Planks023C.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Planks023C.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_1K-JPG.zip",
+                "fileName": "Planks023C_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_1K-JPG.zip",
+                "size": 7210903,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_2K-JPG.zip",
+                "fileName": "Planks023C_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_2K-JPG.zip",
+                "size": 25193468,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_4K-JPG.zip",
+                "fileName": "Planks023C_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_4K-JPG.zip",
+                "size": 98081226,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_8K-JPG.zip",
+                "fileName": "Planks023C_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_8K-JPG.zip",
+                "size": 401746398,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_1K-PNG.zip",
+                "fileName": "Planks023C_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_1K-PNG.zip",
+                "size": 15863484,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_2K-PNG.zip",
+                "fileName": "Planks023C_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_2K-PNG.zip",
+                "size": 58945922,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_4K-PNG.zip",
+                "fileName": "Planks023C_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_4K-PNG.zip",
+                "size": 231651287,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Planks023C_8K-PNG.zip",
+                "fileName": "Planks023C_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Planks023C_8K-PNG.zip",
+                "size": 920595721,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-01-16 00:00:00",
+    "earlyReleaseDate": "2022-01-16 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 18372,
+    "downloadCountMonth": 1024,
+    "downloadCountWeek": 292,
+    "popularityScore": 2.8226677763691326,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Color.jpg?81154&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Displacement.jpg?72391&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_NormalDX.jpg?84161&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Roughness.jpg?41600&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_AmbientOcclusion.jpg?51401&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Metalness.jpg?96740",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Color.jpg?83656,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Displacement.jpg?40762,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_NormalDX.jpg?63413,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Roughness.jpg?54997,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_AmbientOcclusion.jpg?87290,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Planks023C/Planks023C_SQ_Metalness.jpg?27249&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Planks023C.webp",
+  "previewSha256": "dd1a550afb744427ae26203e5ede382c8108ed43f23f67b2d14feb41d13647ac",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

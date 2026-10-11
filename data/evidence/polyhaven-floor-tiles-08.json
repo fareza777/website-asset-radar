@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_tiles_08",
+  "checkedAt": "2026-10-11T01:51:51.561Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_tiles_08",
+  "apiSha256": "97b7acb6b09e8279ee730a8daa37f59470a0dfc3c1c96b3b740429c40145a9fd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_tiles_08/floor_tiles_08_diff_1k.jpg",
+  "assetFileMd5": "9bc91e302a76ad75a9b7e539fe48c28d",
+  "assetFileSha256": "c618d589b732e22ae68d9a18af6baed551e1e736deb8d2039b2d8e7ffa320036",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1538529859,
+    "name": "Floor Tiles 08",
+    "old_id": 165,
+    "categories": [
+      "floor",
+      "clean",
+      "indoor",
+      "outdoor",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "tiles",
+      "square",
+      "ceramic",
+      "regular",
+      "grid",
+      "beige"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c0631872774c079ea42f3e87cb843e7f66f4330c",
+    "description": "Free 8K texture of beige ceramic square tiles in a regular grid, matte finish with subtle wear, shallow grout lines, tiny chips and fine surface roughness.",
+    "category_id": "3a92bf01-5218-5998-86bc-598021427fb9",
+    "category": "Ceramic/Quarry & Unglazed",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "7689d679",
+    "download_count": 92749,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_08.png?width=256&height=256&format=webp&v=7689d679"
+  }
+}

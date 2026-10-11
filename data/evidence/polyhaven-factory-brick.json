@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/factory_brick",
+  "checkedAt": "2026-10-11T01:38:51.257Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/factory_brick",
+  "apiSha256": "69ffbe08bf4ac8897a5f87da5f2f29fed2523c42bab3065c874257964be9fd57",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/factory_brick/factory_brick_diff_1k.jpg",
+  "assetFileMd5": "bc502c7667ac15f641c57e18bd725cce",
+  "assetFileSha256": "3de1dbf92a786ce7785bac87447961f496404cb4f76dc80510f6e967e6577e6a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "date_published": 1565564244,
+    "name": "Factory Brick",
+    "old_id": 218,
+    "categories": [
+      "brick",
+      "man made",
+      "clean",
+      "indoor",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500.0001192092896
+    ],
+    "sponsors": [
+      "20953239"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "fc22347c9c9a05ea7f11bc3951cc8668502a3968",
+    "tags": [
+      "brown",
+      "fatory",
+      "bricks",
+      "weathered",
+      "brick wall",
+      "worndown",
+      "rough",
+      "industrial",
+      "red brick",
+      "exterior",
+      "walling",
+      "brick",
+      "exposed brick",
+      "facebrick"
+    ],
+    "description": "Free 8K texture of weathered red-brown factory facebrick with rough, chipped surfaces, deep mortar joints, uneven edges and subtle grime for an industrial, worn look.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "c73279a0",
+    "download_count": 75010,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/factory_brick.png?width=256&height=256&format=webp&v=c73279a0"
+  }
+}

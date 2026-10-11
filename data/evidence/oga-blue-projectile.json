@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-blue-projectile",
+  "sourceUrl": "https://opengameart.org/content/blue-projectile",
+  "checkedAt": "2026-10-11T02:12:07.787Z",
+  "httpStatus": 200,
+  "pageSha256": "0bf0173fb97330e8b0c0ffc1b4a2b32f6f359740e714385e991e9d2e6f8c306a",
+  "title": "Blue projectile",
+  "authors": [
+    "greengiant67"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Blue projectile by greengiant67. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/blue-projectile Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/spirit_flame_sheet_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/spirit_flame_sheet_0.png",
+  "downloadSha256": "beb7e729badd3ee2221b372a90c8675260c20485138604e3d4725eec0b819556",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "spirit_flame_sheet_0.png",
+  "previewSha256": "beb7e729badd3ee2221b372a90c8675260c20485138604e3d4725eec0b819556",
+  "sourceTags": [
+    "projectile",
+    "blue",
+    "laser",
+    "Sci-Fi"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

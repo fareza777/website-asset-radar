@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/running_track",
+  "checkedAt": "2026-10-11T01:08:51.849Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/running_track",
+  "apiSha256": "bfff4ddcc1906223a1dd192dda448399d16791ee841584cb7dbcfc94e532cb96",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/running_track/running_track_diff_1k.jpg",
+  "assetFileMd5": "2a17c747ffffe15ad6894215060f8b0d",
+  "assetFileSha256": "bad23811618676d1b6583ddbf127f5b3814afcae31e8ddd2f58c7a9717824328",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1657584000,
+    "name": "Running Track",
+    "categories": [
+      "man made",
+      "floor",
+      "outdoor",
+      "indoor"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      2419.999837875366,
+      2420.0000762939453
+    ],
+    "tags": [
+      "tracks",
+      "track",
+      "athletics",
+      "running",
+      "rubber",
+      "synthetic",
+      "flat",
+      "floor",
+      "path",
+      "urban",
+      "faded"
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "a9e1ef2168bb9018a7bed5c80f140cc351aefc50",
+    "description": "Free 8K texture of a faded blue rubber running track with worn white lane lines, subtle granular roughness and matte scuffed surface.",
+    "category_id": "c6dfcaea-a256-5f57-b5ee-403f74ad2b1b",
+    "category": "Plastic & Rubber/Rubber/Athletic Track Surfaces",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "90dd9d67",
+    "download_count": 17086,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/running_track.png?width=256&height=256&format=webp&v=90dd9d67"
+  }
+}

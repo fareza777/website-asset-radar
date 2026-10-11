@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/TactilePaving005",
+  "checkedAt": "2026-10-11T01:47:42.747Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=TactilePaving005&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "fe402c20e905616e99c23fde03beb3d519b295945b2f933d3f82eb9ef14547cb",
+  "apiMetadata": {
+    "assetId": "TactilePaving005",
+    "dataType": "Material",
+    "displayName": "Tactile Paving 005",
+    "displayCategory": "Tactile Paving",
+    "shortLink": "https://ambientcg.com/a/TactilePaving005",
+    "tags": [
+      "5",
+      "blind",
+      "paving",
+      "platform",
+      "tactile",
+      "train",
+      "yellow"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/TactilePaving005.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/TactilePaving005.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/TactilePaving005.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/TactilePaving005.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/TactilePaving005.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/TactilePaving005.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/TactilePaving005.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/TactilePaving005.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/TactilePaving005.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/TactilePaving005.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/TactilePaving005.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/TactilePaving005.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/TactilePaving005.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/TactilePaving005.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/TactilePaving005.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/TactilePaving005.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/TactilePaving005.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/TactilePaving005.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/TactilePaving005.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/TactilePaving005.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/TactilePaving005.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/TactilePaving005.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/TactilePaving005.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/TactilePaving005.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_1K-JPG.zip",
+                "fileName": "TactilePaving005_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_1K-JPG.zip",
+                "size": 6828025,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_2K-JPG.zip",
+                "fileName": "TactilePaving005_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_2K-JPG.zip",
+                "size": 21690513,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_4K-JPG.zip",
+                "fileName": "TactilePaving005_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_4K-JPG.zip",
+                "size": 75897314,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_8K-JPG.zip",
+                "fileName": "TactilePaving005_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_8K-JPG.zip",
+                "size": 320081741,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_1K-PNG.zip",
+                "fileName": "TactilePaving005_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_1K-PNG.zip",
+                "size": 14938493,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_2K-PNG.zip",
+                "fileName": "TactilePaving005_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_2K-PNG.zip",
+                "size": 55189837,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_4K-PNG.zip",
+                "fileName": "TactilePaving005_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_4K-PNG.zip",
+                "size": 212338727,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TactilePaving005_8K-PNG.zip",
+                "fileName": "TactilePaving005_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TactilePaving005_8K-PNG.zip",
+                "size": 836591804,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-02-06 00:00:00",
+    "earlyReleaseDate": "2022-02-06 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 13890,
+    "downloadCountMonth": 894,
+    "downloadCountWeek": 261,
+    "popularityScore": 2.4000775369133223,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_Color.jpg?95944&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_Displacement.jpg?90015&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_NormalDX.jpg?369&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_Roughness.jpg?85382&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_AmbientOcclusion.jpg?43883",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_Color.jpg?413,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_Displacement.jpg?21075,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_NormalDX.jpg?49627,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_Roughness.jpg?87859,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TactilePaving005/TactilePaving005_SQ_AmbientOcclusion.jpg?92660&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/TactilePaving005.webp",
+  "previewSha256": "a245104ceadc0365f43cde6f9c035a87c47e7b7eff13b9ba8a70abfa5e4ee3ef",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

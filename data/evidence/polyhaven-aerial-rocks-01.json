@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_rocks_01",
+  "checkedAt": "2026-10-11T01:26:20.262Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_rocks_01",
+  "apiSha256": "b37bbe76f2e78c8a502b06d931d69d8f62b50dce580a6d63426848badfe6fe68",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_01/aerial_rocks_01_diff_1k.jpg",
+  "assetFileMd5": "d2af482b0081e216212849b87b88a96f",
+  "assetFileSha256": "0f184f4a1da57342d240086b5abfb804bb129bc649024c9546b054bb918264b7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "80x80M",
+    "type": 1,
+    "tags": [
+      "rocks",
+      "moss",
+      "cliff",
+      "rock face",
+      "cave"
+    ],
+    "date_published": 1596531311,
+    "name": "Aerial Rocks 01",
+    "old_id": 272,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "rock",
+      "aerial"
+    ],
+    "dimensions": [
+      80000,
+      80000.20599365234
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "ea281839fd9f0d5d67f3cc675bddbac76ef26b27",
+    "description": "Free 8K texture: aerial rock face with scattered stones and patchy green moss, rough weathered surfaces, coarse grain and damp-looking crevices.",
+    "category_id": "e8121dc9-96d3-59b8-b8ee-83104e60ba82",
+    "category": "Stone/Rock & Cliffs/Mossy & Lichened Rock",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "mossy",
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "433c76b8",
+    "download_count": 125018,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_rocks_01.png?width=256&height=256&format=webp&v=433c76b8"
+  }
+}

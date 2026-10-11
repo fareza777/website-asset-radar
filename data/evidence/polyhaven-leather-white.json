@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/leather_white",
+  "checkedAt": "2026-10-11T01:27:19.453Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/leather_white",
+  "apiSha256": "63b2cffb18a5f960bd7a7b64c3b3c45dd07bc59019bb5984f2e3ca98ed103fd2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_diff_1k.jpg",
+  "assetFileMd5": "a580e1c45d806a56d89331f9a549ecb2",
+  "assetFileSha256": "4d916dfe89c9d2b88bf52e0c70c6a9798a5c29c8c2fcb6ba1ab7b7ded9ef3ed5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "30x30 cm",
+    "type": 1,
+    "date_published": 1592532089,
+    "name": "Leather White",
+    "old_id": 265,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "9910225"
+    ],
+    "dimensions": [
+      300.00001192092896,
+      300.00001192092896
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "categories": [
+      "fabric",
+      "leather"
+    ],
+    "files_hash": "f772dd6a44080e64a320989faeb12bae236109cf",
+    "tags": [
+      "leather",
+      "white",
+      "smooth",
+      "new",
+      "even",
+      "textile ",
+      "upholstery",
+      "fashion",
+      "animal-hide"
+    ],
+    "description": "Free 8K leather texture: smooth, even white animal-hide upholstery material with fine grain, subtle matte sheen and clean, new finish.",
+    "category_id": "36329517-0f82-5b1e-bf68-aca8b4d1db92",
+    "category": "Textiles & Leather/Leather/Upholstery Leather",
+    "attributes": {
+      "surface_use": "object",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "818252e6",
+    "download_count": 204289,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leather_white.png?width=256&height=256&format=webp&v=818252e6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/coast_sand_01",
+  "checkedAt": "2026-10-11T01:13:48.426Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/coast_sand_01",
+  "apiSha256": "7a6e63a912aaeac92e461137d9f309b954f1ee7dc8c4f77c7fec25e337ddcae5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coast_sand_01/coast_sand_01_diff_1k.jpg",
+  "assetFileMd5": "a1e243fc8635806381505c7dc44b192a",
+  "assetFileSha256": "58af2e40100f7f405703a86d593af64379f822c4786850def23ecfc921450d54",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1645574400,
+    "name": "Coast Sand 01",
+    "type": 1,
+    "staging": null,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      15000,
+      15000
+    ],
+    "tags": [
+      "beach",
+      "costal",
+      "ocean",
+      "seaside",
+      "sand",
+      "brown",
+      "rough",
+      "gravel",
+      "damp",
+      "dirt",
+      "stones"
+    ],
+    "categories": [
+      "outdoor",
+      "terrain",
+      "sand",
+      "natural",
+      "aerial",
+      "collection: smugglers_cove",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "79f1efcc1f7dedcc546d529a09e1a09cfeb0b9b8",
+    "description": "Free 8K texture of damp coastal sand with brown, rough grain, scattered pebbles and gravel, patchy dirt and a subtle moisture sheen.",
+    "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+    "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+    "collections": [
+      "smugglers_cove",
+      "verdant_trail"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "411180bf",
+    "download_count": 90780,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_sand_01.png?width=256&height=256&format=webp&v=411180bf"
+  }
+}

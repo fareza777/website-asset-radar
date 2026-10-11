@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_mud_1",
+  "checkedAt": "2026-10-11T01:24:09.129Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_mud_1",
+  "apiSha256": "3d5111ab709700da221de071eab93cebda4b90557a7bce8cd659d3f876c75cc9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_mud_1/aerial_mud_1_diff_1k.jpg",
+  "assetFileMd5": "edd35f21d92a11a33311d4273bc59f9b",
+  "assetFileSha256": "7eb832bde081b6729d36920e99a94316d2323b7d155447b4c3ae1192940612b4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "40x40",
+    "type": 1,
+    "date_published": 1603110467,
+    "name": "Aerial Mud 1",
+    "old_id": 288,
+    "categories": [
+      "terrain",
+      "road",
+      "outdoor",
+      "natural",
+      "aerial"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      8000,
+      8000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "4714267"
+    ],
+    "files_hash": "5adf0c7d8bed039838ff939e18b9dc801303b9a5",
+    "tags": [
+      "mud",
+      "tracks",
+      "tire tracks",
+      "wet soil",
+      "uneven surface",
+      "ruts",
+      "surface depressions"
+    ],
+    "description": "Free 8K texture of dark wet mud with pronounced tire tracks, ruts and uneven surface depressions, glossy wet sheen and clumped, soft soil detail.",
+    "category_id": "da4a03e2-d438-5c20-8e81-7231e7735d91",
+    "category": "Ground & Terrain/Soil & Mud/Tire-Tracked Mud",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "b97c8617",
+    "download_count": 26615,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_mud_1.png?width=256&height=256&format=webp&v=b97c8617"
+  }
+}

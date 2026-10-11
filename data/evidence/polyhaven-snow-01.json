@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/snow_01",
+  "checkedAt": "2026-10-11T01:46:07.233Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/snow_01",
+  "apiSha256": "7e4aea5d2d2155b0a05507ab222da8490e4decd2ffe1574fd30432d2270b7af6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_01/snow_01_diff_1k.jpg",
+  "assetFileMd5": "1e1ad483b74fddd3be67cfb638d42460",
+  "assetFileSha256": "bf71d93b7e47fe29bfb6ae11626439535b647da041b979ba5303ce8b0a862d53",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1548287534,
+    "name": "Snow 01",
+    "old_id": 187,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "snow"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "0f733845a3441bcd0204ff2f72449295c757becf",
+    "tags": [
+      "snow",
+      "rough",
+      "uneven",
+      "footprints",
+      "powdery",
+      "trail",
+      "snowfield"
+    ],
+    "description": "Free 8K texture of powdery, uneven snow with footprints and trail ruts, showing rough granular surface, compacted furrows, and subtle wind-blown detail.",
+    "category_id": "6e705b25-3316-525c-9bf4-63b587afeea9",
+    "category": "Ground & Terrain/Snow/Trampled Snow",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "worn"
+      ]
+    },
+    "img_version": "257b9ec4",
+    "download_count": 108901,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_01.png?width=256&height=256&format=webp&v=257b9ec4"
+  }
+}

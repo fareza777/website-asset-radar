@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_planks_09",
+  "checkedAt": "2026-10-11T01:42:53.824Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_planks_09",
+  "apiSha256": "08972a76c9daac8d2b340c2508e1eaa7be29696bb26b0524e69345969d8215d8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_09/brown_planks_09_diff_1k.jpg",
+  "assetFileMd5": "6bd2fb72d60e81d670107367f5672fb4",
+  "assetFileSha256": "6a890d75d48787518ccf32cb44e7557d1695e8a9180e813f79f7bfed075896ed",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1556147662,
+    "name": "Brown Planks 09",
+    "old_id": 200,
+    "categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c6eaecb296b2bc716c2b101e04357e2c01edf24e",
+    "tags": [
+      "brown",
+      "planks",
+      "shed",
+      "deck",
+      "raw wood",
+      "nail holes",
+      "horizontal layout",
+      "weathered wood",
+      "knots",
+      "natural grain",
+      "grain",
+      "natural wood",
+      "natural wood grain",
+      "unsanded wood",
+      "rough wood"
+    ],
+    "description": "Free 8K texture of weathered brown wooden planks with rough, unsanded surface, visible natural grain, knots and nail holes arranged in a horizontal layout.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "32267599",
+    "download_count": 42299,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_09.png?width=256&height=256&format=webp&v=32267599"
+  }
+}

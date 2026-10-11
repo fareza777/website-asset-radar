@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_plaster_brick_04",
+  "checkedAt": "2026-10-11T01:29:19.982Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_plaster_brick_04",
+  "apiSha256": "0592c76a9b7123765abd4aef6bbee1b2b76957fe40693a6e1cef5c2540d5703d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_plaster_brick_04/rough_plaster_brick_04_diff_1k.jpg",
+  "assetFileMd5": "c76fcfcd35555f137d4ae39ddafacf76",
+  "assetFileSha256": "8c65297349a9ba1f820a271f2c37994c68d7e393ff54c308fd9bfc1f8bc4641f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2Mx2M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "grey",
+      "weathered",
+      "plaster",
+      "old"
+    ],
+    "date_published": 1588212533,
+    "name": "Rough Plaster Brick 04",
+    "old_id": 254,
+    "categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "947a53d4e3f9ecb4dc7e0b9226f2d0874ebb2337",
+    "description": "Free 8K rough plaster texture showing a weathered grey-brown wall with chipped patches, pitting, chalky deposits and exposed brick flecks; coarse, dirty surface.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "5700cc0d",
+    "download_count": 33273,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_plaster_brick_04.png?width=256&height=256&format=webp&v=5700cc0d"
+  }
+}

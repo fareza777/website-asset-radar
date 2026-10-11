@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_beach_02",
+  "checkedAt": "2026-10-11T01:22:39.101Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_beach_02",
+  "apiSha256": "e25a542df20e9bc536b9dda8602b9d5df17c0922dfa8b6fa3e27f00e57031799",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_diff_1k.jpg",
+  "assetFileMd5": "8add95ec469c7b776d3289e774927f28",
+  "assetFileSha256": "51a1a52942598a31156d671dc931d8c700d8a1fdfb462ee186699e8ee4ed0c15",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "20x20M",
+    "type": 1,
+    "tags": [
+      "beach",
+      "flat",
+      "costal",
+      "ocean",
+      "seaside"
+    ],
+    "date_published": 1609950183,
+    "sponsors": [
+      "42579608"
+    ],
+    "name": "Aerial Beach 02",
+    "old_id": 296,
+    "categories": [
+      "terrain",
+      "sand",
+      "natural",
+      "outdoor",
+      "aerial"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      20000.011444091797,
+      20000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c1b18f5ec3ebf888e2dbd57c6cd2dd72a7bc3293",
+    "description": "Free 8K texture of flat coastal sand with fine grains, moist dark patches and subtle ripple patterns - an aerial-ready material for terrain and seaside scenes.",
+    "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+    "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true,
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "e9df1cb6",
+    "download_count": 36791,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_beach_02.png?width=256&height=256&format=webp&v=e9df1cb6"
+  }
+}

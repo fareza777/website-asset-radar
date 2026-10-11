@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_wall_001",
+  "checkedAt": "2026-10-11T01:17:49.198Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_wall_001",
+  "apiSha256": "1c231be44f7e447302d88bb22c7c812da00e2fdac6c8e416ed52d13324085f1d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_001/concrete_wall_001_diff_1k.jpg",
+  "assetFileMd5": "7be71d950acf3cf0d7927e4255a63b38",
+  "assetFileSha256": "c3c936da86d57997d9fc4022371c3798c8d438aeecb8f41546104da6d3947c02",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1630627200,
+    "name": "Concrete Wall 001",
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      1500.0001192092896,
+      1500
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "plaster",
+      "concrete",
+      "plaster-concrete",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "cracked",
+      "plaster",
+      "white",
+      "trimsheet",
+      "painted",
+      "chipped",
+      "clean",
+      "damaged"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "53b83b41540848b6d4ee0370df3110079edd69ef",
+    "description": "Free 8K texture of a white painted concrete/plaster wall with trim lines, chipped paint, cracks and subtle rough, worn plaster detail.",
+    "category_id": "9d3c7da3-4959-5d42-8abc-5c31017a2fd4",
+    "category": "Concrete/Plaster & Stucco/Painted Plaster",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "3abf5d3b",
+    "download_count": 65714,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_001.png?width=256&height=256&format=webp&v=3abf5d3b"
+  }
+}

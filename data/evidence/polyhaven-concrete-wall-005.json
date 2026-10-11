@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_wall_005",
+  "checkedAt": "2026-10-11T01:09:45.447Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_wall_005",
+  "apiSha256": "b084b1e52f6c8339284984fbf7c7888b48bc98df6ac5e58d41149e12f7893649",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_005/concrete_wall_005_diff_1k.jpg",
+  "assetFileMd5": "67c38b069f2d69d0affe75cdce587dc1",
+  "assetFileSha256": "a06a7246e8d220badf4ab7225b6a69d6fe87238816f68efa0cd3523f6ba75cc9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1655164800,
+    "name": "Concrete Wall 005",
+    "categories": [
+      "outdoor",
+      "wall",
+      "concrete",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      1149.999976158142,
+      1150.0000953674316
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "wall",
+      "worn",
+      "chipped",
+      "dirty",
+      "cracked",
+      "damaged",
+      "weathered",
+      "discolored",
+      "uneven"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5187308ed58adaf1dbfdc1350eee76478dafdad0",
+    "description": "Free 8K concrete wall texture showing weathered, uneven plaster with chips, cracks, dirt streaks and subtle discoloration.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7ef57885",
+    "download_count": 25041,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_005.png?width=256&height=256&format=webp&v=7ef57885"
+  }
+}

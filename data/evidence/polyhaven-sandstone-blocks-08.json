@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sandstone_blocks_08",
+  "checkedAt": "2026-10-11T01:51:22.470Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sandstone_blocks_08",
+  "apiSha256": "fe115453a4c5d6c5258f2c76e2bef4c020fc0e3ca51fd09c53226042e8fba5ab",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_blocks_08/sandstone_blocks_08_diff_1k.jpg",
+  "assetFileMd5": "9b74a03abb0ff86619c4b6bf21f4fbf3",
+  "assetFileSha256": "0cac65461ba33003b8a27b03c2b87f3393a824a9a98036c4c8de6182a1449369",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "blocks",
+      "uneven",
+      "large",
+      "sandstone"
+    ],
+    "date_published": 1539053242,
+    "name": "Sandstone Blocks 08",
+    "old_id": 167,
+    "categories": [
+      "wall",
+      "floor",
+      "man made",
+      "outdoor",
+      "clean",
+      "indoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "sponsors": [
+      "20953239"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c0b33b1e055d95bdf78737ef27f3cf9e1bd48d4f",
+    "description": "Free 8K sandstone texture: tan, large uneven blocks with soft rounded edges, shallow joints, subtle tool marks and a light dusty surface.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "c7e6aab5",
+    "download_count": 61566,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_blocks_08.png?width=256&height=256&format=webp&v=c7e6aab5"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_pitted_mossy",
+  "checkedAt": "2026-10-11T01:15:10.810Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_pitted_mossy",
+  "apiSha256": "036b06f9aaf97b989ef87e813034affeabba2128b76f6b962e1819f273f63a89",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_pitted_mossy/rock_pitted_mossy_diff_1k.jpg",
+  "assetFileMd5": "03b18a8408cda2cd99c08da2b567c6ce",
+  "assetFileSha256": "afc60b7dee7c161c12a9fb3fffee2c118f1fe47aa1f1e21e4670180bbf29de3c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "cracked",
+      "weathered",
+      "rock face",
+      "rock",
+      "boulder",
+      "red",
+      "discolored",
+      "eroded",
+      "moss",
+      "stone",
+      "uneven",
+      "rough",
+      "orange"
+    ],
+    "name": "Rock Pitted Mossy",
+    "categories": [
+      "outdoor",
+      "rock",
+      "terrain",
+      "natural",
+      "sandstone"
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "date_published": 1637798400,
+    "staging": null,
+    "sponsors": [
+      "9910225"
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "831788b7bbeb28eb4fdc5a410c6a42a449bb7c45",
+    "description": "Free 8K rock texture showing weathered, pitted sandstone with orange-red tones, a rough uneven surface, deep erosion lines and subtle moss discoloration.",
+    "category_id": "78e4c120-24c3-5f41-b48a-01617c52bc26",
+    "category": "Stone/Rock & Cliffs/Boulder Surfaces",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "5ba3c161",
+    "download_count": 77807,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_pitted_mossy.png?width=256&height=256&format=webp&v=5ba3c161"
+  }
+}

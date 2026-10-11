@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:48:18.634Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=ChristmasTreeOrnament014&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "042387fc46f1e7136cad5fadf94eddadeb03d064679db344a36e09781acf0c7e",
+  "apiSha256": "89276edd50d7dc74412bfe7cca20efb7989d9e8e952f8d4d5ae043e2e5cac577",
   "apiMetadata": {
     "assetId": "ChristmasTreeOrnament014",
     "dataType": "Material",
@@ -143,10 +143,10 @@
     "earlyReleaseDate": "2023-12-19 20:45:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 9001,
-    "downloadCountMonth": 682,
-    "downloadCountWeek": 204,
-    "popularityScore": 2.7726720416432746,
+    "downloadCount": 9040,
+    "downloadCountMonth": 690,
+    "downloadCountWeek": 213,
+    "popularityScore": 2.777050340731991,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -165,7 +165,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Color.jpg?85278&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Displacement.jpg?4027&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_NormalDX.jpg?67588&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Roughness.jpg?77967&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Metalness.jpg?74863",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Color.jpg?1980&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Displacement.jpg?95244&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_NormalDX.jpg?27283&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Roughness.jpg?87181&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Metalness.jpg?83048",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -176,7 +176,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Color.jpg?79431,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Displacement.jpg?39794,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_NormalDX.jpg?80259,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Roughness.jpg?97037,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Metalness.jpg?91556&texture_name=Color,Displacement,Normal,Roughness,Metalness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Color.jpg?27454,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Displacement.jpg?68847,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_NormalDX.jpg?84691,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Roughness.jpg?78643,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ChristmasTreeOrnament014/ChristmasTreeOrnament014_SQ_Metalness.jpg?45373&texture_name=Color,Displacement,Normal,Roughness,Metalness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -194,5 +194,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/ChristmasTreeOrnament014.webp",
   "previewSha256": "9ad1d72fae5829ecb0b25a61119ef6f728f2465fc9d414c2b3578d810f3bf8fc",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-11T02:24:03.896Z"
 }

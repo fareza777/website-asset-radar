@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/snow_02",
+  "checkedAt": "2026-10-11T01:45:57.106Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/snow_02",
+  "apiSha256": "5751a9f9fffb247df17757cb8f38f308e04c68a46a8166f6e85b7c24f627b88e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_02/snow_02_diff_1k.jpg",
+  "assetFileMd5": "fc54766c6b36ff298699115a619d440b",
+  "assetFileSha256": "523a4e69c90b96d787dd69b897f29a2b3761a017024405c60aa630d1e8e9009a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1548806533,
+    "name": "Snow 02",
+    "old_id": 188,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "snow"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "sponsors": [
+      "3237733"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "a4bb49360f8e164e74ee396b76ac33c96d6282b7",
+    "tags": [
+      "snow",
+      "uneven",
+      "smooth",
+      "powdery",
+      "frosty",
+      "snowfield",
+      "soft",
+      "wintery"
+    ],
+    "description": "Free 8K texture of soft, powdery snow: smooth yet uneven drifts, frosty fine granularity, subtle ridges and sparse dark specks.",
+    "category_id": "b554e7e6-e9aa-5f27-a86a-a6af6942a6a8",
+    "category": "Ground & Terrain/Snow/Fresh Snow",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "0c06ec15",
+    "download_count": 231510,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_02.png?width=256&height=256&format=webp&v=0c06ec15"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/medieval_blocks_02",
+  "checkedAt": "2026-10-11T01:49:39.129Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/medieval_blocks_02",
+  "apiSha256": "779fb5ebeb6c66340102ad4034aa5052f46e40f5e51956a18c004b95d5cbde76",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_02/medieval_blocks_02_diff_1k.jpg",
+  "assetFileMd5": "b758641035e82800e3139c41a21831c0",
+  "assetFileSha256": "91bc9f13dba69588efeaed86bd4490c4aae5d3381351a934e4d3fc5222c01a6c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "stones",
+      "sandstone",
+      "old",
+      "weathered",
+      "rough",
+      "uneven"
+    ],
+    "date_published": 1542587736,
+    "name": "Medieval Blocks 02",
+    "old_id": 174,
+    "categories": [
+      "wall",
+      "man made",
+      "dirty",
+      "outdoor",
+      "rock"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "2646e7faba984dae331307745c68b55d8cbb5b9e",
+    "description": "Free 8K texture of weathered medieval sandstone blocks. Rough, uneven, pitted stones with sandy mortar, rusty-orange stains and dirty outdoor wall finish.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "01dc0163",
+    "download_count": 25246,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_blocks_02.png?width=256&height=256&format=webp&v=01dc0163"
+  }
+}

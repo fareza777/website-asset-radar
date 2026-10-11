@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/fabric_leather_02",
+  "checkedAt": "2026-10-11T01:28:49.593Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/fabric_leather_02",
+  "apiSha256": "3832a8bcc24252a4b0ed3c7133914f2c2d5eaa9f93b823af2e0c15423415e9ca",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_02/fabric_leather_02_diff_1k.jpg",
+  "assetFileMd5": "35256026fcf2734d558ee2aa8f939c10",
+  "assetFileSha256": "97ba9480c7619efc9b8c08202c3e3773d1dd532dacce4dfe97f86e95339cf132",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "50cm X 50cm",
+    "type": 1,
+    "date_published": 1588892467,
+    "name": "Fabric Leather 02",
+    "old_id": 257,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      500,
+      499.9999403953552
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "categories": [
+      "fabric",
+      "leather"
+    ],
+    "files_hash": "bf7a36ee9fa03ad746b3646b5e6306489a7d11d1",
+    "tags": [
+      "leather",
+      "couch",
+      "seat",
+      "upholstery",
+      "stitched",
+      "vintage",
+      "wrinkled",
+      "aged",
+      "creased",
+      "chair"
+    ],
+    "description": "Free 8K leather texture displaying warm brown upholstery with stitched seams, worn creases, wrinkled aged surface and a soft, natural specular sheen.",
+    "sponsors": [
+      "84390067"
+    ],
+    "category_id": "36329517-0f82-5b1e-bf68-aca8b4d1db92",
+    "category": "Textiles & Leather/Leather/Upholstery Leather",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made"
+    },
+    "img_version": "ccd3841e",
+    "download_count": 118901,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fabric_leather_02.png?width=256&height=256&format=webp&v=ccd3841e"
+  }
+}

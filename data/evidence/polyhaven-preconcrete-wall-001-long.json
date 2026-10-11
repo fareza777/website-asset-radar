@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/preconcrete_wall_001_long",
+  "checkedAt": "2026-10-11T01:15:48.653Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/preconcrete_wall_001_long",
+  "apiSha256": "d84fe55a083d1c7075403cc611d4f6bb3202b8f931128637b0143247ba78c236",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/preconcrete_wall_001_long/preconcrete_wall_001_long_diff_1k.jpg",
+  "assetFileMd5": "814c48ea4fec638e5efd56c27284d8ba",
+  "assetFileSha256": "da12ad78e4de12c0b38ca5c9fe2783a6b49c4362310844ded51b1acd8821fbe0",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "cracked",
+      "rough",
+      "damaged",
+      "house",
+      "beige",
+      "painted",
+      "stained",
+      "chipped"
+    ],
+    "name": "Preconcrete Wall 001 Long",
+    "categories": [
+      "wall",
+      "plaster-concrete",
+      "concrete",
+      "outdoor",
+      "man made",
+      "dirty"
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "date_published": 1635379200,
+    "staging": null,
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "max_resolution": [
+      24576,
+      8192
+    ],
+    "files_hash": "98034e919a4790555b0b48b3e15e7f5dfe68c481",
+    "description": "Free 24K texture of beige painted concrete wall with cracked, chipped and stained plaster; rough, weathered surface showing deep fissures and dirt.",
+    "category_id": "9d3c7da3-4959-5d42-8abc-5c31017a2fd4",
+    "category": "Concrete/Plaster & Stucco/Painted Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "painted",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "31abc18c",
+    "download_count": 6695,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/preconcrete_wall_001_long.png?width=256&height=256&format=webp&v=31abc18c"
+  }
+}

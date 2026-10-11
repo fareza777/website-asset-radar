@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rusty_metal_02",
+  "checkedAt": "2026-10-11T01:50:13.295Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rusty_metal_02",
+  "apiSha256": "88b2b38e0ac772ac64cf2ab86f6d3712be4dee5dc15724dd22eadb8f29ec1f4f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_02/rusty_metal_02_diff_1k.jpg",
+  "assetFileMd5": "476bff9959bc727bd4b83c0a9ac4aeaa",
+  "assetFileSha256": "adaf094391518b6afe787a123942110aa88ef521c844f970b124420f5ed5d3d9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rust",
+      "old",
+      "weathered",
+      "painted"
+    ],
+    "date_published": 1542071519,
+    "name": "Rusty Metal 02",
+    "old_id": 172,
+    "categories": [
+      "metal",
+      "man made",
+      "dirty",
+      "wall",
+      "indoor",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "2595fd56a6313da94557337a298aff4b162e7704",
+    "description": "Free 8K texture of weathered painted metal with orange-brown rust speckles, flaking paint, subtle pitting and a rough, slightly matte finish.",
+    "category_id": "733fc0a1-302e-50f0-bd83-79d7fd8f3f1e",
+    "category": "Metal/Sheet & Corrugated/Flat Sheet",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "rusted",
+        "painted"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "d9ab12e4",
+    "download_count": 211762,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusty_metal_02.png?width=256&height=256&format=webp&v=d9ab12e4"
+  }
+}

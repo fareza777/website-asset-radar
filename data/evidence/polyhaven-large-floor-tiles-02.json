@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_floor_tiles_02",
+  "checkedAt": "2026-10-11T01:42:14.554Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_floor_tiles_02",
+  "apiSha256": "76c161a5c875df351f56ed96eb1391943523015689c507fb972dbf25ff6b9624",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_floor_tiles_02/large_floor_tiles_02_diff_1k.jpg",
+  "assetFileMd5": "929f604bfe0f38041afdcf4676a9f777",
+  "assetFileSha256": "3865ed2510bad61c7c62fe9f854d5af57f1bc37e4b6d8931f03b12d033f9e17c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "tags": [
+      "tiles",
+      "flat",
+      "large",
+      "square",
+      "even"
+    ],
+    "date_published": 1559876840,
+    "name": "Large Floor Tiles 02",
+    "old_id": 204,
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "703a5b54139eb4635dad06b61ff289f6aa760503",
+    "description": "Free 8K texture of large square concrete floor tiles, matte and weathered with recessed grout, subtle surface roughness, dirt, and worn edges.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "804dee0c",
+    "download_count": 128776,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_floor_tiles_02.png?width=256&height=256&format=webp&v=804dee0c"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_planks_07",
+  "checkedAt": "2026-10-11T01:41:53.708Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_planks_07",
+  "apiSha256": "f0dbe75e2df042274c6598763167c97d80fd199cad3f204bc7205fe34da0e7f8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_07/brown_planks_07_diff_1k.jpg",
+  "assetFileMd5": "70d8c4e445ebf0a67603ad2415b3b6fd",
+  "assetFileSha256": "8c2f97544ade7ccd2495e7443a6cf67d2061ffbf23c88b7ec319ce57f7e34c05",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "tags": [
+      "planks",
+      "shed",
+      "house",
+      "suburb",
+      "untreated"
+    ],
+    "date_published": 1559877837,
+    "name": "Brown Planks 07",
+    "old_id": 205,
+    "categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d3e3f58cbf718d2d3b87844317699cb9bf3966c4",
+    "description": "Free 8K texture of untreated brown wooden planks - horizontal clapboard with subtle wear, weathered grain, faint dirt and moss in joints, low gloss finish.",
+    "category_id": "04edc771-9ea5-5eb3-903f-94d1a6aa5641",
+    "category": "Wood/Boards & Planks/Clapboard & Siding",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "bba6a424",
+    "download_count": 38952,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_07.png?width=256&height=256&format=webp&v=bba6a424"
+  }
+}

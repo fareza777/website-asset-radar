@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/coral_gravel",
+  "checkedAt": "2026-10-11T01:30:09.726Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/coral_gravel",
+  "apiSha256": "3bfd64e1e1e510271141ce8eef58aaa5fee9880f8e157e37a626288c208a6cad",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coral_gravel/coral_gravel_diff_1k.jpg",
+  "assetFileMd5": "62eb2c3c3c83a26d9346661cc6ead66a",
+  "assetFileSha256": "c0516fa92509a2493034bbf2016fbb5ce674f58d529d3ea321181e42951aecf7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "gravel",
+      "coral",
+      "ground",
+      "stones",
+      "costal"
+    ],
+    "date_published": 1586404210,
+    "name": "Coral Gravel",
+    "old_id": 249,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "rock",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6a41a6da0616473a6bf609c79bb8eb1149e57997",
+    "description": "Free 8K gravel texture showing brown sandy ground with small stones and bleached coral-like patches; rough, porous coastal rock surface.",
+    "category_id": "d5cd6278-7150-5639-a2c9-a5f9e1e72f61",
+    "category": "Ground & Terrain/Gravel & Pebbles/Coastal Gravel",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "ec479ee6",
+    "download_count": 23175,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coral_gravel.png?width=256&height=256&format=webp&v=ec479ee6"
+  }
+}

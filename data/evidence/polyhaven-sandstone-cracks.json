@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sandstone_cracks",
+  "checkedAt": "2026-10-11T01:50:21.321Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sandstone_cracks",
+  "apiSha256": "70b207c9494929364b804a048c5ffba51c0e6c68d3235a0d333a876106697926",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_cracks/sandstone_cracks_diff_1k.jpg",
+  "assetFileMd5": "94619de4f4d33ad9fe6711d3ad88ec4a",
+  "assetFileSha256": "cf381bbcf60aac570ce895719025a2b7adae7c03369b3d545b4f52f94e57e0e9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "dirt",
+      "ground",
+      "sandstone",
+      "cracked",
+      "plaster"
+    ],
+    "date_published": 1541405109,
+    "name": "Sandstone Cracks",
+    "old_id": 171,
+    "categories": [
+      "wall",
+      "floor",
+      "natural",
+      "man made",
+      "outdoor",
+      "road",
+      "terrain"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "8571269"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b7905a82d54b5079e40ca178e09f25bf1de5dcca",
+    "description": "Free 8K sandstone cracks texture - rough, sandy surface in warm beige, dusty erosion with fine fissures and plaster-like granular detail.",
+    "category_id": "b79564de-1eea-52fe-b6db-f55024588749",
+    "category": "Stone/Slabs & Tiles/Sandstone",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "5bc18cfd",
+    "download_count": 119182,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_cracks.png?width=256&height=256&format=webp&v=5bc18cfd"
+  }
+}

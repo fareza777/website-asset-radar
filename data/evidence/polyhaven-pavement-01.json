@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pavement_01",
+  "checkedAt": "2026-10-11T01:40:47.038Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pavement_01",
+  "apiSha256": "ab4c8c9c7dd1a6bcf8211466a4ee16c5336e60f03268f16de788825cd60bc8fa",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_01/pavement_01_diff_1k.jpg",
+  "assetFileMd5": "873548d5e922973bd0cbe799f8e25853",
+  "assetFileSha256": "5555990f88822fe44eb44a67f5abda2c9425c143aad72962a826fcad53954318",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "date_published": 1560816694,
+    "name": "Pavement 01",
+    "old_id": 211,
+    "categories": [
+      "floor",
+      "outdoor",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3ea9fc2ab5ba88ce7627dabe1cf8c9ba07a23f81",
+    "tags": [
+      "pavement",
+      "square",
+      "pattern",
+      "worn",
+      "uneven",
+      "stone",
+      "stone tiles",
+      "grid",
+      "roughhewn",
+      "blocks"
+    ],
+    "description": "Free 8K texture of worn square stone tiles in a roughhewn grid, uneven chisel-marked blocks with deep grout lines and weathered gray-brown stone.",
+    "category_id": "ed387a11-4ceb-5ff1-ab45-46a821ddbd0e",
+    "category": "Stone/Slabs & Tiles/Flagstones",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "aa4dd547",
+    "download_count": 35690,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_01.png?width=256&height=256&format=webp&v=aa4dd547"
+  }
+}

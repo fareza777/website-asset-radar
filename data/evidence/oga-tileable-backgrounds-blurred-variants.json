@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tileable-backgrounds-blurred-variants",
+  "sourceUrl": "https://opengameart.org/content/tileable-backgrounds-blurred-variants",
+  "checkedAt": "2026-10-11T02:11:17.653Z",
+  "httpStatus": 200,
+  "pageSha256": "e6ddcdc85b596dd40cdb9c90dc59267a14ef54497cf23764f723731c45bbda96",
+  "title": "Tileable Backgrounds + Blurred Variants",
+  "authors": [
+    "Supergamezzz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Tileable Backgrounds + Blurred Variants by Supergamezzz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tileable-backgrounds-blurred-variants Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tiledbrickbgpurp_x3.png",
+    "https://opengameart.org/sites/default/files/tiledbrickbgpurp_blurred.png",
+    "https://opengameart.org/sites/default/files/tiledinfectionbgx3.png",
+    "https://opengameart.org/sites/default/files/tiledfacility_x3.png",
+    "https://opengameart.org/sites/default/files/graybricks_300px.png",
+    "https://opengameart.org/sites/default/files/graybricks_blurred.png",
+    "https://opengameart.org/sites/default/files/comicbg_1.png",
+    "https://opengameart.org/sites/default/files/comicbg_blurred.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tiledbrickbgpurp_x3.png",
+  "downloadSha256": "b7a6b531f245925f20c4ac14700b1d94f3e56c846c2ac8b91680553e8b766011",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tiledbrickbgpurp_x3.png",
+  "previewSha256": "b7a6b531f245925f20c4ac14700b1d94f3e56c846c2ac8b91680553e8b766011",
+  "sourceTags": [
+    "background tile"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

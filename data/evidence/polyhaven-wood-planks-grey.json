@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wood_planks_grey",
+  "checkedAt": "2026-10-11T01:17:09.013Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wood_planks_grey",
+  "apiSha256": "b02a787453a7999e9a115585f3bdb11d923c39142772db15a6b1d8f4bba2f10c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_planks_grey/wood_planks_grey_diff_1k.jpg",
+  "assetFileMd5": "f2b4a70fed329c13850917c5f2d1498c",
+  "assetFileSha256": "d758be23e8fe7bfbd73bc4ab257cfd59406e1835f6557c12a67cd4fdb15de0d8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "worn",
+      "old",
+      "grey",
+      "flat",
+      "seaside",
+      "costal",
+      "ocean",
+      "dirty",
+      "discolored",
+      "cabin"
+    ],
+    "name": "Wood Planks Grey",
+    "categories": [
+      "floor",
+      "wall",
+      "wood",
+      "outdoor",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "date_published": 1632182400,
+    "staging": null,
+    "dimensions": [
+      1500,
+      1500.0001192092896
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "957dc541af3903b0c3f586ddf67fc3899bed42f5",
+    "description": "Free 8K texture of weathered grey wood planks - faded grain, salt-streaked discoloration, dirt speckles and tight seams; rough, matte, worn surface.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "06995b46",
+    "download_count": 121685,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_planks_grey.png?width=256&height=256&format=webp&v=06995b46"
+  }
+}

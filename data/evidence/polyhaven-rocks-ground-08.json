@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocks_ground_08",
+  "checkedAt": "2026-10-11T01:23:29.205Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocks_ground_08",
+  "apiSha256": "f15424fb3e2ebfe80e2af8c63c44a9b183ac6de119f20392bac04955a02850de",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocks_ground_08/rocks_ground_08_diff_1k.jpg",
+  "assetFileMd5": "dcfb4bfdbeb7a6522032b00c6922a2bb",
+  "assetFileSha256": "854f22105dd5a85fbc27e840704576e1fc99353bf6d881ded71c6100d15cc57d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3x3M",
+    "type": 1,
+    "date_published": 1605532411,
+    "name": "Rocks Ground 08",
+    "old_id": 292,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "sponsors": [
+      "44302755"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "91b9ecf1a1092bf4588d5220e74ab9f1d1003d80",
+    "tags": [
+      "mud",
+      "rough",
+      "dry",
+      "damp",
+      "dirt",
+      "rocks",
+      "scattered rocks",
+      "muddy surface",
+      "footprints",
+      "gritty",
+      "organic",
+      "outdoor",
+      "terrain",
+      "uneven",
+      "gravel"
+    ],
+    "description": "Free 8K texture of rough, muddy ground with scattered rocks, gritty dirt, damp patches and subtle footprints, an uneven, organic gravel terrain surface.",
+    "category_id": "c650da98-1200-549c-ade9-c3756c2f327c",
+    "category": "Ground & Terrain/Rocky Ground/Stony Dirt",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "f01c219d",
+    "download_count": 31499,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_08.png?width=256&height=256&format=webp&v=f01c219d"
+  }
+}

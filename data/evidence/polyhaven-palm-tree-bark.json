@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/palm_tree_bark",
+  "checkedAt": "2026-10-11T01:14:26.237Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/palm_tree_bark",
+  "apiSha256": "3201fba88b5b4c7e3a21959e1490a6d0f5233591b983c80e748ff57d2145952f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/palm_tree_bark/palm_tree_bark_diff_1k.jpg",
+  "assetFileMd5": "d9c9ffbc6c32e51f81696416c0fc661e",
+  "assetFileSha256": "38da1d987ea88af120cedd66ad7d2f26ea3351d23c061e7d22bebc37ed22d9ef",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "seaside",
+      "palm",
+      "tree",
+      "bark",
+      "damaged",
+      "forest",
+      "tropical",
+      "nature"
+    ],
+    "name": "Palm Tree Bark",
+    "categories": [
+      "outdoor",
+      "bark",
+      "wood",
+      "natural"
+    ],
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "date_published": 1639008000,
+    "staging": null,
+    "dimensions": [
+      1299.9999523162842,
+      1300.0000715255737
+    ],
+    "max_resolution": [
+      8192,
+      16384
+    ],
+    "files_hash": "75991fdad0e873c87b6a9c0971b73c1278d18a65",
+    "description": "Free, 16K palm tree bark texture with sun-bleached, fibrous surface, horizontal banding, scratches, scuffs, small holes and a weathered, rough wood appearance.",
+    "category_id": "d1a8ff1d-a6c5-5398-85d6-03f73a3a4896",
+    "category": "Wood/Bark/Tropical Bark",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "357858b4",
+    "download_count": 40737,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/palm_tree_bark.png?width=256&height=256&format=webp&v=357858b4"
+  }
+}

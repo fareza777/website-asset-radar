@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/medieval_blocks_05",
+  "checkedAt": "2026-10-11T01:48:37.479Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/medieval_blocks_05",
+  "apiSha256": "5d38c3b5da4550a29ac9db16f1686b47f226167524603c1535afc75928ee1d66",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_05/medieval_blocks_05_diff_1k.jpg",
+  "assetFileMd5": "7fc360bf68834292488994c0b67a4fcc",
+  "assetFileSha256": "dbaf760ed384c2202f2723b1a846bf4e2f9b128e4e7eb5fe549f51fdbbc4db84",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "blocks",
+      "road",
+      "stones",
+      "gaps"
+    ],
+    "date_published": 1543910522,
+    "name": "Medieval Blocks 05",
+    "old_id": 178,
+    "categories": [
+      "wall",
+      "rock",
+      "man made",
+      "outdoor",
+      "dirty",
+      "floor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "4714267"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7bd050096adb56e3882bc061f044a07fc66f78db",
+    "description": "Free 8K texture of weathered medieval block stone, with rough chiseled limestone blocks, deep dirt-filled gaps, chipped edges and uneven, worn surfaces.",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "99762fb0-f134-5cd9-93f7-5b876875f7c9",
+    "category": "Stone/Cobblestone & Paving/Rough & Irregular Setts",
+    "img_version": "a2bb19c4",
+    "download_count": 69117,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_blocks_05.png?width=256&height=256&format=webp&v=a2bb19c4"
+  }
+}

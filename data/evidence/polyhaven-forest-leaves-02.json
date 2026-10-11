@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/forest_leaves_02",
+  "checkedAt": "2026-10-11T01:19:38.951Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/forest_leaves_02",
+  "apiSha256": "d78fb02dd797b96f7061cf70b1e701c26aacd6493b83046b29206521046c55a7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_diffuse_1k.jpg",
+  "assetFileMd5": "13e9bfac07cb72ca143e153cc2f589a8",
+  "assetFileSha256": "2bac85cdc76927fa7dc311037bbbc4dfa2633ea56eb0a24c9cabe163a68c9aa5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Forest Leaves 02",
+    "categories": [
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "date_published": 1624445026,
+    "staging": null,
+    "dimensions": [
+      3000.9725093841553,
+      3000.9801387786865
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "53c53424ef06fc766266b15b9b26ce257d20d141",
+    "tags": [
+      "moss",
+      "sticks",
+      "leaves",
+      "twigs",
+      "autumn",
+      "mossy",
+      "mosscovered",
+      "mossy patches",
+      "forest floor",
+      "fallen leaves",
+      "leaf litter",
+      "organic",
+      "plant debris"
+    ],
+    "description": "Free 8K texture of a mossy forest floor: lumpy moss patches, fallen leaves, twigs and organic debris with a rough, high-detail surface.",
+    "category_id": "94771f68-df10-5cab-8884-1b21737d0166",
+    "category": "Ground & Terrain/Forest Floor/Mossy Ground",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "25df6be6",
+    "download_count": 157259,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_leaves_02.png?width=256&height=256&format=webp&v=25df6be6"
+  }
+}

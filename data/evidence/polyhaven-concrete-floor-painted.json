@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_floor_painted",
+  "checkedAt": "2026-10-11T01:34:50.802Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_floor_painted",
+  "apiSha256": "9674fa81b0119baab7ec388ed1ad7b16047f2eb554117eb5c81dce9b4977c356",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_painted/concrete_floor_painted_diff_1k.jpg",
+  "assetFileMd5": "07cee8ac8966a2f84fd7bc2ecb416de9",
+  "assetFileSha256": "f99ff99ed191e924d3bcbf4f345bb9973467ae18dceddee34bc013f01702c358",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1573880749,
+    "name": "Concrete Floor Painted",
+    "scale": "2M x 2M",
+    "old_id": 232,
+    "categories": [
+      "concrete",
+      "outdoor",
+      "wall",
+      "floor",
+      "plaster-concrete",
+      "dirty",
+      "plaster",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "painted",
+      "rough",
+      "textured",
+      "urban",
+      "worn",
+      "weathered"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d5f4bbae7e8cd140a90ef44ad5e76494f42fbd16",
+    "description": "Free 8K texture: weathered painted concrete floor, rough and chipped dark paint revealing brown concrete; gritty, scuffed urban surface.",
+    "category_id": "3dbd0e49-fa4a-5494-ab0a-08e11ce9bb29",
+    "category": "Concrete/Cast Walls & Floors/Painted Concrete",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "painted",
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f76cf0c0",
+    "download_count": 87582,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_painted.png?width=256&height=256&format=webp&v=f76cf0c0"
+  }
+}

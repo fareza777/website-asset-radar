@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/snow_04",
+  "checkedAt": "2026-10-11T01:45:37.133Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/snow_04",
+  "apiSha256": "54ec884db165965ea48f5d06f4abf010494690c278ef6d1c1bdfb192c07613cf",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_04/snow_04_diff_1k.jpg",
+  "assetFileMd5": "2f0b4c5ab7d3a79700a9f0a463199893",
+  "assetFileSha256": "65b228b18c738aced0fbbeae64754389622f58618da155ab58f52d4233e9094b",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "snow",
+      "mud",
+      "field",
+      "uneven",
+      "rough"
+    ],
+    "date_published": 1549511951,
+    "name": "Snow 04",
+    "old_id": 190,
+    "categories": [
+      "terrain",
+      "snow",
+      "outdoor",
+      "natural",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "35566c70bd75febc59da3185a2f5e3002cea751f",
+    "description": "Free 8K texture of rough, uneven field snow with muddy furrows - coarse, clumped snow ridges revealing dark soil streaks.",
+    "category_id": "41640037-7e94-5a3e-bd1c-e77bd5605abe",
+    "category": "Ground & Terrain/Snow/Dirty & Muddy Snow",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "dirty"
+      ]
+    },
+    "img_version": "5f40a863",
+    "download_count": 19786,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_04.png?width=256&height=256&format=webp&v=5f40a863"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mud_cracked_dry_03",
+  "checkedAt": "2026-10-11T01:10:54.114Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mud_cracked_dry_03",
+  "apiSha256": "749cbd6d5c4914094d6f01a620e6fb10161009d83280fce04f15a0d1e1251ac7",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mud_cracked_dry_03/mud_cracked_dry_03_diff_1k.jpg",
+  "assetFileMd5": "6a86cfde5a73073397fcd13a5b6fed94",
+  "assetFileSha256": "b49e3d76bbb142c30ce938327f42ffdfd465429dd694fb5c2b731de08d7f6310",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Mud Cracked Dry 03",
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "sand"
+    ],
+    "type": 1,
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "dry",
+      "mud",
+      "sand",
+      "uneven",
+      "ground",
+      "cracked",
+      "cracks",
+      "nature"
+    ],
+    "dimensions": [
+      1500,
+      1500.0001192092896
+    ],
+    "date_published": 1652313600,
+    "staging": null,
+    "sponsors": [
+      "4714267"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3dcebae7dd9269b3dc5b8b32261f319e8881c161",
+    "description": "Free 8K texture of sun-baked cracked mud: sandy beige tones, deep jagged fissures, lifted flaky plates and coarse, uneven surface detail.",
+    "category_id": "804988d5-eb1b-5364-afc9-ce19b3edc12d",
+    "category": "Ground & Terrain/Soil & Mud/Cracked Dry Mud & Clay",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "cracked",
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "22134a35",
+    "download_count": 45045,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mud_cracked_dry_03.png?width=256&height=256&format=webp&v=22134a35"
+  }
+}

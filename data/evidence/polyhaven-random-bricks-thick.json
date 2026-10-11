@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/random_bricks_thick",
+  "checkedAt": "2026-10-11T01:53:34.386Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/random_bricks_thick",
+  "apiSha256": "4b1b140f98e1155fd067f3a6b1e26a3c11d56365bfa6fe6e539c82a4a3d67b11",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/random_bricks_thick/random_bricks_thick_diff_1k.jpg",
+  "assetFileMd5": "401757a4473143df4dc7154eaea0fa22",
+  "assetFileSha256": "7689b654bcb7e9221339cc182c8cf403bc80842180669bcf4f14ef1f7a0b8be7",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "old",
+      "uneven",
+      "discolored",
+      "damaged"
+    ],
+    "date_published": 1536646197,
+    "name": "Random Bricks Thick",
+    "old_id": 160,
+    "categories": [
+      "outdoor",
+      "wall",
+      "dirty",
+      "man made",
+      "brick"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "sponsors": [
+      "42579608"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d022d95a45d121bc07e1a6129acfade4e7de37f3",
+    "description": "Free 8K texture of thick, weathered bricks - rough, uneven, discolored surfaces with moss, dirt and chipped, damaged edges.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "76472bf3",
+    "download_count": 36430,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/random_bricks_thick.png?width=256&height=256&format=webp&v=76472bf3"
+  }
+}

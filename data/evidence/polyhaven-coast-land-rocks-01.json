@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/coast_land_rocks_01",
+  "checkedAt": "2026-10-11T01:11:04.217Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/coast_land_rocks_01",
+  "apiSha256": "dcfc3cd77424ccb7204c6ff0f27583c146261b905cad725d38d53c727cc3314a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coast_land_rocks_01/coast_land_rocks_01_diff_1k.jpg",
+  "assetFileMd5": "6b3c612d679da7ae8132f46e121e3d03",
+  "assetFileSha256": "21ba7fb3fd61e54d4256013673cff00fc837a242c52bbbe178d55c628536a07f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1651104000,
+    "name": "Coast Land Rocks 01",
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      19999.950408935547,
+      20000
+    ],
+    "authors": {
+      "Rob Tuytel": "Photography, Processing",
+      "Rico Cilliers": "Tiling, Adjustments"
+    },
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "aerial",
+      "sand",
+      "collection: smugglers_cove"
+    ],
+    "tags": [
+      "rough",
+      "uneven",
+      "stones",
+      "moss",
+      "rock",
+      "dirt",
+      "cracked",
+      "seaside",
+      "ocean",
+      "costal",
+      "rocks",
+      "brown",
+      "gravel",
+      "nature",
+      "ground",
+      "cliff"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7edca0ae2eea88339632bcb8c96a04ec591de36b",
+    "description": "Free 8K texture of rough coastal terrain: uneven brown stone with cracked surfaces, gravel, dirt and scattered green foliage across weathered cliff terrain.",
+    "category_id": "6f927474-95dd-5ec5-b756-e9299996aeee",
+    "category": "Stone/Rock & Cliffs/Coastal Rock",
+    "collections": [
+      "smugglers_cove"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered",
+        "mossy",
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "89fd84ef",
+    "download_count": 46769,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_land_rocks_01.png?width=256&height=256&format=webp&v=89fd84ef"
+  }
+}

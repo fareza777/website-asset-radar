@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/large_sandstone_blocks",
+  "checkedAt": "2026-10-11T01:15:58.628Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/large_sandstone_blocks",
+  "apiSha256": "a8df3b17010f3fe9aec8741266c2d3d7563e77e05f20a947a02bfa9052b0886f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_sandstone_blocks/large_sandstone_blocks_diff_1k.jpg",
+  "assetFileMd5": "fbc24ce12cb1dd05490749c7b951c4bc",
+  "assetFileSha256": "2ad242551c841b0c3227bdaec693acc4a4fff3fee6a9576aa501310af2595ee9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1634601600,
+    "name": "Large Sandstone Blocks",
+    "categories": [
+      "wall",
+      "outdoor",
+      "sandstone",
+      "man made",
+      "dirty"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      3000,
+      3000.000238418579
+    ],
+    "tags": [
+      "grey",
+      "discolored",
+      "blocks",
+      "sandstone",
+      "wall",
+      "trimsheet",
+      "urban",
+      "stained"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "4714267"
+    ],
+    "files_hash": "30af88ff503fd58680f84125c6231883fa4ed3f5",
+    "description": "Free 8K sandstone texture of large grey blockwork, showing discolored, stained surfaces, worn edges, layered mortar and fine gritty weathering.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "e382db22",
+    "download_count": 21141,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_sandstone_blocks.png?width=256&height=256&format=webp&v=e382db22"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/burned_ground_01",
+  "checkedAt": "2026-10-11T01:54:40.577Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/burned_ground_01",
+  "apiSha256": "5919621203c7bbdf2d2900ea5c044bba7ca640bba0d61922c1f7e02333d46360",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/burned_ground_01/burned_ground_01_diff_1k.jpg",
+  "assetFileMd5": "dade07575754ec311051ff7be8c10af6",
+  "assetFileSha256": "be83310cad64d23539e628f14525af651a03646f5a1cc6029bd19a9446ea72f9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1535151676,
+    "name": "Burned Ground 01",
+    "old_id": 156,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7c74bdc3680db1f022980675ebe76ba5566576d2",
+    "tags": [
+      "mud",
+      "burned",
+      "fire",
+      "dirt",
+      "ash",
+      "plant debris",
+      "plant litter",
+      "leaves",
+      "dry leaves",
+      "dry grass",
+      "gravel",
+      "gravelly",
+      "fallen leaves",
+      "organic debris",
+      "loose stones",
+      "charred soil",
+      "scorched earth"
+    ],
+    "description": "Free 8K texture of scorched, gravelly ground with charred soil, ash and dry leaf litter - rough, gritty surface with scattered plant debris and loose stones.",
+    "category_id": "c650da98-1200-549c-ade9-c3756c2f327c",
+    "category": "Ground & Terrain/Rocky Ground/Stony Dirt",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "damaged",
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "337245cf",
+    "download_count": 43330,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/burned_ground_01.png?width=256&height=256&format=webp&v=337245cf"
+  }
+}

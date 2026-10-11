@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rocks_ground_01",
+  "checkedAt": "2026-10-11T01:25:49.753Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rocks_ground_01",
+  "apiSha256": "77b2fdaf61be92d495f607db46d6f5710b24f2b45a8cd51967508264ab5157f8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocks_ground_01/rocks_ground_01_diff_1k.jpg",
+  "assetFileMd5": "fa718717506e347adab8ec489be201ae",
+  "assetFileSha256": "294214908cbb1785125954ac5e631cb12ad05f2c2960458cf5fc485799841294",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2x2M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "rock",
+      "cracked",
+      "stones"
+    ],
+    "date_published": 1596793720,
+    "name": "Rocks Ground 01",
+    "old_id": 275,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "rock",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "8be4379ed1475d130e231b9284d46e5a75d70d9e",
+    "description": "Free 8K texture of rough, cracked rocky ground with dense angular stones and gravel. Neutral gray-brown tones, deep cavities and gritty soil between rocks.",
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "fbcc7e13",
+    "download_count": 74714,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_01.png?width=256&height=256&format=webp&v=fbcc7e13"
+  }
+}

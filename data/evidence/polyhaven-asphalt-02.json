@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/asphalt_02",
+  "checkedAt": "2026-10-11T01:25:59.542Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/asphalt_02",
+  "apiSha256": "20d4666d331623db0f658b0ab055dea08c5404068012a27f98737f4fd4e9e119",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg",
+  "assetFileMd5": "fa19772d4817754c3efab708c651f5a8",
+  "assetFileSha256": "1aa5ce99f58a625c71d48cfc3e68b65ca85ccb00f39e045c0a928608a0ea25ed",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3M x 3M",
+    "type": 1,
+    "date_published": 1596694249,
+    "name": "Asphalt 02",
+    "old_id": 274,
+    "categories": [
+      "terrain",
+      "road",
+      "man made",
+      "outdoor",
+      "floor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "26820710"
+    ],
+    "dimensions": [
+      3000.000238418579,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "2839a331f389f6ad1e30a78f24db58369d92f742",
+    "tags": [
+      "asphalt",
+      "cracked",
+      "flat",
+      "road",
+      "asphalt road",
+      "tarmac road",
+      "gritty",
+      "weathered",
+      "grey",
+      "cracking",
+      "tar",
+      "cracks"
+    ],
+    "description": "Free 8K texture of weathered grey asphalt: gritty coarse aggregate, subtle tar cracks, rough matte surface with uneven wear.",
+    "category_id": "ae6df066-2cbf-5772-9092-3cd86ed6394e",
+    "category": "Asphalt & Bitumen/Asphalt/Cracked Asphalt",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "cracked"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "6af3d04c",
+    "download_count": 395812,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_02.png?width=256&height=256&format=webp&v=6af3d04c"
+  }
+}

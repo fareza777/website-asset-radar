@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_wall_02",
+  "checkedAt": "2026-10-11T01:24:48.710Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_wall_02",
+  "apiSha256": "c8bdbea7de27652944d33d3cf080a46dbcf0d90eb6a839cad3c8951771a4ca63",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_02/rock_wall_02_diff_1k.jpg",
+  "assetFileMd5": "19204f9cc44062a87bb9270c1341c237",
+  "assetFileSha256": "4f1d2f80c07e502f5a5ecb4e58388cbf7f4cb33f507e39d024a17ea6d24539b5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2x2m",
+    "type": 1,
+    "date_published": 1601299398,
+    "name": "Rock Wall 02",
+    "old_id": 284,
+    "categories": [
+      "rock",
+      "natural",
+      "terrain",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "9e5c525cc4a533978c98b83502bc961764738679",
+    "tags": [
+      "rough",
+      "rock face",
+      "bare",
+      "rock",
+      "uneven",
+      "rough  ",
+      "discolored",
+      "coastal landscape",
+      "weathered",
+      "eroded",
+      "weather-beaten",
+      "mossy patches"
+    ],
+    "description": "Free 8K texture of a rough, weathered rock wall - uneven, eroded stone with coastal discoloration and mossy patches, gritty, low-sheen surface.",
+    "category_id": "6b87bb89-210e-5f4c-a78b-3a4bdfac7fe0",
+    "category": "Stone/Walls & Rubble/Rubble & Random Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "a56e87a9",
+    "download_count": 58846,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_02.png?width=256&height=256&format=webp&v=a56e87a9"
+  }
+}

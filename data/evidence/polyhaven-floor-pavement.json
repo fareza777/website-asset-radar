@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_pavement",
+  "checkedAt": "2026-10-11T01:09:55.894Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_pavement",
+  "apiSha256": "e11551153f8255bca1ae2ab0173c6a5136f204512a893e13690c9f78b02a6470",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_pavement/floor_pavement_diff_1k.jpg",
+  "assetFileMd5": "dc4b33a0fa482ebb727a5df5eec6729e",
+  "assetFileSha256": "dffb9e799cfd6e648c4ed526f1ddf3009789a9af2b62f26d272307aeff5dc950",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1654819200,
+    "name": "Floor Pavement",
+    "categories": [
+      "man made",
+      "dirty",
+      "brick",
+      "floor",
+      "outdoor"
+    ],
+    "type": 1,
+    "staging": null,
+    "tags": [
+      "ground",
+      "sidewalk",
+      "cracked",
+      "damaged",
+      "floor",
+      "pavement",
+      "cement",
+      "square"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b2418e783b15c1c20c38de8bfc2dfcb851cb5c7a",
+    "description": "Free 8K texture of square concrete pavement: worn, cracked tiles with grout lines, chipped edges, subtle dirt, and a rough, low-relief surface.",
+    "authors": {
+      "Dario Barresi": "processing",
+      "Charlotte Baglioni": "photography"
+    },
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn",
+        "cracked",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "3f98b8c6",
+    "download_count": 50138,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_pavement.png?width=256&height=256&format=webp&v=3f98b8c6"
+  }
+}

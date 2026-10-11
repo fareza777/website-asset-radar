@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/gravel_ground_01",
+  "checkedAt": "2026-10-11T01:22:18.583Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/gravel_ground_01",
+  "apiSha256": "d93965201cd223206d34772168341ea83923699dd5ec0ce2c888e7572d377ead",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_ground_01/gravel_ground_01_diff_1k.jpg",
+  "assetFileMd5": "ee99ef89fb50cfeb198db369bb7151f0",
+  "assetFileSha256": "c3a12b0e3a9399913158dd5cfa1d67ede066970acd1f99e5b89969ac13f89089",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3x3m",
+    "type": 1,
+    "tags": [
+      "gravel",
+      "pathway",
+      "path",
+      "stones",
+      "ground",
+      "sidewalk",
+      "rural",
+      "farm"
+    ],
+    "date_published": 1611055808,
+    "name": "Gravel Ground 01",
+    "old_id": 298,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1172e523db8f69e48d18c399dd8d9eac9be73c17",
+    "description": "Free 8K texture of compacted gravel and sandy soil with small stones, dusty warm browns, coarse granular surface and subtle displacement.",
+    "sponsors": [
+      "128081732"
+    ],
+    "category_id": "ff767449-ea44-5527-96f0-d74aa52df2d0",
+    "category": "Ground & Terrain/Gravel & Pebbles/Crushed Aggregate",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "c0e13af9",
+    "download_count": 25266,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_ground_01.png?width=256&height=256&format=webp&v=c0e13af9"
+  }
+}

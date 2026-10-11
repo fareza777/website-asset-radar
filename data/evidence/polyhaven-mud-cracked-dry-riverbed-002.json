@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/mud_cracked_dry_riverbed_002",
+  "checkedAt": "2026-10-11T01:10:04.977Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/mud_cracked_dry_riverbed_002",
+  "apiSha256": "dbc71ef9811f23c38401d0beb3602888fd38fc02d584dafcf3fe7c8182ec3a58",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mud_cracked_dry_riverbed_002/mud_cracked_dry_riverbed_002_diff_1k.jpg",
+  "assetFileMd5": "a7b38524333f22970dd2481115ddd50b",
+  "assetFileSha256": "b180810587890ab310ae3568f128a7eb179028436ce4508f5734caca0794198c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "sand"
+    ],
+    "type": 1,
+    "tags": [
+      "weathered",
+      "cracked",
+      "rough",
+      "ground",
+      "dry",
+      "uneven",
+      "mud",
+      "cracks",
+      "nature",
+      "flaked",
+      "lake"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "date_published": 1654732800,
+    "staging": null,
+    "name": "Mud Cracked Dry Riverbed 002",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "f2e98edc195840c54be1b2447a8fe5fea7e23395",
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "description": "Free 8K texture of cracked dry riverbed mud: rough, weathered, flaky plates with deep fissures and clayey brown, uneven surface.",
+    "category_id": "804988d5-eb1b-5364-afc9-ce19b3edc12d",
+    "category": "Ground & Terrain/Soil & Mud/Cracked Dry Mud & Clay",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "cracked",
+        "weathered",
+        "damaged"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "f276c506",
+    "download_count": 29210,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mud_cracked_dry_riverbed_002.png?width=256&height=256&format=webp&v=f276c506"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/thatch_roof_angled",
+  "checkedAt": "2026-10-11T01:10:34.333Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/thatch_roof_angled",
+  "apiSha256": "d0ac4889e16398149dfe78a29811ab8199c98b74b7668f69793696710e616963",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/thatch_roof_angled/thatch_roof_angled_diff_1k.jpg",
+  "assetFileMd5": "645a32cd470a4b14aa033793d0e7aa83",
+  "assetFileSha256": "ad84b9bf0a826c6e573f4bac09a0b96f33aec673a7e31cdd360667dc355f3599",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "name": "Thatch Roof Angled",
+    "categories": [
+      "outdoor",
+      "man made",
+      "roofing"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+      "rough",
+      "thatch",
+      "reed",
+      "roof",
+      "roofing",
+      "structure",
+      "structural",
+      "weathered",
+      "straw",
+      "grass",
+      "hut",
+      "medieval",
+      "village",
+      "house",
+      "hay"
+    ],
+    "dimensions": [
+      539.9999618530273,
+      539.9999618530273
+    ],
+    "date_published": 1653523200,
+    "staging": null,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "ae272743c3e50cfb1bbb4a74783700a67aef44da",
+    "description": "Free 8K texture: weathered thatch roof material with dense vertical reed bundles, rough fibrous straw, deep creases and subtle dry, aged color variation.",
+    "category_id": "bcbf4ed7-38ce-5284-bedf-ccb701b9ceb0",
+    "category": "Organic/Thatch & Reed/Thatched Roofing",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2c56e6f8",
+    "download_count": 47018,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/thatch_roof_angled.png?width=256&height=256&format=webp&v=2c56e6f8"
+  }
+}

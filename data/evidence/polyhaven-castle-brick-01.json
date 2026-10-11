@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/castle_brick_01",
+  "checkedAt": "2026-10-11T01:35:19.108Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/castle_brick_01",
+  "apiSha256": "395d52604cb50a83d1a44a3bdc9f2057396a46c81241168121e0e8428526f771",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/castle_brick_01/castle_brick_01_diff_1k.jpg",
+  "assetFileMd5": "d3d6194b814cbda8a17dc5ebe407a41e",
+  "assetFileSha256": "3823fdc4bcb37cc7b26fd7e3b2a80e82f5a23354d22d84eb0ca277909f923b2c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5M x 1.5M",
+    "type": 1,
+    "tags": [
+      "rough",
+      "moss",
+      "sewer",
+      "damp",
+      "dark",
+      "wet",
+      "old",
+      "uneven"
+    ],
+    "date_published": 1572583398,
+    "name": "Castle Brick 01",
+    "old_id": 230,
+    "categories": [
+      "brick",
+      "outdoor",
+      "man made",
+      "wall",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "4fd5d64ea6c01085c31df7bf7fd0aaf76654e2cf",
+    "description": "Free 8K texture of old castle brick: rough, uneven damp bricks with moss, eroded mortar, wet grime and dark, dirty sewer-like weathering.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "54362edf",
+    "download_count": 38908,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_01.png?width=256&height=256&format=webp&v=54362edf"
+  }
+}

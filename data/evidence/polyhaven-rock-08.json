@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_08",
+  "checkedAt": "2026-10-11T01:52:54.694Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_08",
+  "apiSha256": "02633a43681b5dade22f7c1194d6a137b551389b9384a80e72926863149dbe5c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_08/rock_08_diff_1k.jpg",
+  "assetFileMd5": "2025c204133481612c74211135d7b371",
+  "assetFileSha256": "653c407f1effd9df8ee9366c0f85b585770856121d8810efd11e54e8707a8031",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1536800221,
+    "name": "Rock 08",
+    "old_id": 162,
+    "categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5c14c5204a31ab3a95fb63279a0b42497fa819ce",
+    "tags": [
+      "rough",
+      "rock face",
+      "bare",
+      "rock",
+      "boulder",
+      "coarse",
+      "geological",
+      "stone",
+      "uneven"
+    ],
+    "description": "Free 8K texture - coarse, uneven weathered rock surface in beige-brown tones, with rough pits, subtle wear and rugged boulder-like details.",
+    "category_id": "78e4c120-24c3-5f41-b48a-01617c52bc26",
+    "category": "Stone/Rock & Cliffs/Boulder Surfaces",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "b42e10ae",
+    "download_count": 82601,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_08.png?width=256&height=256&format=webp&v=b42e10ae"
+  }
+}

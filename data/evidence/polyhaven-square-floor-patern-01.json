@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/square_floor_patern_01",
+  "checkedAt": "2026-10-11T01:46:30.917Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/square_floor_patern_01",
+  "apiSha256": "cb60ece60add8f9e581522ce117cf936296ad21ffa42227b52bc3af069653c30",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_diff_1k.jpg",
+  "assetFileMd5": "63f5447662632ca4d8f7b83f6834a030",
+  "assetFileSha256": "9d169406abb8a9961673cf8acae5ab29fb6c71dd89aa2fe10dc9e68eeef40b9f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "regular",
+      "tiles",
+      "square",
+      "uneven",
+      "pattern"
+    ],
+    "date_published": 1547974521,
+    "name": "Square Floor Patern 01",
+    "old_id": 186,
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "clean",
+      "road"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      3000.000238418579,
+      3000.000238418579
+    ],
+    "files_hash": "5891ba9dfd1bcc8a5247cbc3ea51d371de37045b",
+    "description": "Free 8K square tile concrete floor texture. Clean, cool-gray stone tiles with narrow recessed grout, slight unevenness and subtle rough, worn details.",
+    "category_id": "42008e30-c71f-5d74-af61-22ee59098e60",
+    "category": "Stone/Slabs & Tiles/Mixed-Stone",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f29b5b15",
+    "download_count": 39994,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_floor_patern_01.png?width=256&height=256&format=webp&v=f29b5b15"
+  }
+}

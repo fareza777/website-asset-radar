@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/medieval_blocks_06",
+  "checkedAt": "2026-10-11T01:34:58.729Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/medieval_blocks_06",
+  "apiSha256": "4466c140f2fb44a045192c1b55eb2284239ed3c817a6b13cb1071b23ae1cb29d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_06/medieval_blocks_06_diff_1k.jpg",
+  "assetFileMd5": "f0ad733cbf4062ce8f6f951b08d52dbc",
+  "assetFileSha256": "9a5e2d9fd0279722de2266d7865428e475042edf891b5a3c6ee78032e337452d",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1.5m x 1.5M",
+    "type": 1,
+    "date_published": 1573088927,
+    "name": "Medieval Blocks 06",
+    "old_id": 231,
+    "categories": [
+      "wall",
+      "man made",
+      "rock",
+      "dirty",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b0186ec13e35366507fa07159d79ed438e45e1a6",
+    "tags": [
+      "wall",
+      "blocks",
+      "rocks",
+      "fortress walls",
+      "stonework",
+      "ancient walls",
+      "dungeon",
+      "fort",
+      "stone blocks",
+      "rough",
+      "stone wall"
+    ],
+    "description": "Free 8K texture of weathered medieval stone blocks, rough chiseled beige stone with deep mortar joints, pitted, gritty surface and patches of dirt.",
+    "category_id": "bc20bc70-284a-5f14-93eb-78274f6a1fa9",
+    "category": "Brick & Block/Stone Block & Paver/Ashlar & Coursed Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "eee9baae",
+    "download_count": 30396,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_blocks_06.png?width=256&height=256&format=webp&v=eee9baae"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/ceramic_roof_01",
+  "checkedAt": "2026-10-11T01:33:01.181Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/ceramic_roof_01",
+  "apiSha256": "fa4b950b95a6cae651298b261d626a98ff3242d57d4b66d46e4f67718d41c871",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ceramic_roof_01/ceramic_roof_01_diff_1k.jpg",
+  "assetFileMd5": "5c8b9deb160ae011b496f7d0b8470cbb",
+  "assetFileSha256": "d16264943b3a052a6b91f4ad7c9c1f37c09f2a9e9c503bdb3477f4705c03ff8c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "3.5M x 3.5 M",
+    "type": 1,
+    "tags": [
+      "ceramic",
+      "tiles",
+      "roof",
+      "old",
+      "city",
+      "moss"
+    ],
+    "date_published": 1579412381,
+    "name": "Ceramic Roof 01",
+    "old_id": 239,
+    "categories": [
+      "roofing",
+      "outdoor",
+      "man made",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      3500.000238418579,
+      3500.000238418579
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d0a3e35c44e31810eb1b10d4701bc7948f164734",
+    "description": "Free 8K material. Weathered ceramic roof tiles with chipped orange-red glaze, green moss patches, dirt-filled seams and subtle surface roughness.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "mossy",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "cb0f49b1",
+    "download_count": 70927,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ceramic_roof_01.png?width=256&height=256&format=webp&v=cb0f49b1"
+  }
+}

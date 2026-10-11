@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_ground",
+  "checkedAt": "2026-10-11T01:29:39.463Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_ground",
+  "apiSha256": "28fd5f399e0dd4ee99f5de2f8f8eaeacb299cb184c23506bd3c5dd8591ab3954",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_ground/rock_ground_diff_1k.jpg",
+  "assetFileMd5": "5e897f7e2bcf857250bf74be878584b2",
+  "assetFileSha256": "bec2573bc8aa9c714b690df753730e41f2077a1f0bbca83b13e055c86b4d5626",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "2Mx2M",
+    "type": 1,
+    "tags": [
+      "gravel",
+      "rough",
+      "broken",
+      "rock",
+      "ground"
+    ],
+    "date_published": 1587617294,
+    "name": "Rock Ground",
+    "old_id": 252,
+    "categories": [
+      "terrain",
+      "natural",
+      "rock",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "0e449fd639850aa6bb168e968142de0d061a36d3",
+    "sponsors": [
+      "128081732"
+    ],
+    "description": "Free 8K texture of rough, broken rock and gravel ground with varied pebbles, coarse soil and matte, rugged stone surfaces.",
+    "category_id": "9c496835-a9db-515f-bb54-0382019905d7",
+    "category": "Ground & Terrain/Rocky Ground",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "a5671d11",
+    "download_count": 46020,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_ground.png?width=256&height=256&format=webp&v=a5671d11"
+  }
+}

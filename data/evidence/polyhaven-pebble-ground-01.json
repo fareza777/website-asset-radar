@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/pebble_ground_01",
+  "checkedAt": "2026-10-11T01:43:38.739Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/pebble_ground_01",
+  "apiSha256": "adef9ebfad65d97af4c08a9b3f3a42d9a152d6023ff0755ef3d0284abfcf1436",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pebble_ground_01/pebble_ground_01_diff_1k.jpg",
+  "assetFileMd5": "dacb96491a6432f97ea8b49c6f6f9d5e",
+  "assetFileSha256": "bd058dc96c0d972b2caab621fc837698280052595da393a3c38965c3bcc783f6",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1554193112,
+    "name": "Pebble Ground 01",
+    "old_id": 197,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "road"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "700875a62e9b5ac715f9ca8dba7d8c94577bfac1",
+    "tags": [
+      "pebble",
+      "stones",
+      "even",
+      "pebbles",
+      "pebbly",
+      "sticks",
+      "scattered pebbles",
+      "small stones",
+      "dirt",
+      "plant litter",
+      "dry leaves"
+    ],
+    "description": "Free 8K texture of compacted dirt with scattered pebbles and dry leaves. Even, low-relief pebbly surface with muted brown tones and subtle roughness.",
+    "category_id": "c650da98-1200-549c-ade9-c3756c2f327c",
+    "category": "Ground & Terrain/Rocky Ground/Stony Dirt",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "58f0dc29",
+    "download_count": 23919,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebble_ground_01.png?width=256&height=256&format=webp&v=58f0dc29"
+  }
+}

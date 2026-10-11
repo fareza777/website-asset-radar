@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_05",
+  "checkedAt": "2026-10-11T01:53:14.638Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_05",
+  "apiSha256": "8bd8c36fa94ee14c2d424d3e0e2d0f6fb7e729d445699c3691f065ecdfa7cd90",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_05/rock_05_diff_1k.jpg",
+  "assetFileMd5": "f5fd871344f757187cd4bc2f289f5625",
+  "assetFileSha256": "53dd27ce270567a5c4053e5fa543f2379dd1a3b61751922c05babf19078b7571",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1536799926,
+    "sponsors": [
+      "42579608"
+    ],
+    "name": "Rock 05",
+    "old_id": 161,
+    "categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "489f71601bc8f756c9762f6c77c92dbd0cfab6b6",
+    "tags": [
+      "rough",
+      "uneven",
+      "old",
+      "stone",
+      "geological",
+      "irregular",
+      "rock",
+      "pitted",
+      "rock face"
+    ],
+    "description": "Free 8K texture of an old, rough brown-gray rock face with pitted, uneven, weathered surfaces and irregular geological detail.",
+    "category_id": "bf84369c-cc7c-5347-ad17-173353e859b8",
+    "category": "Stone/Rock & Cliffs/Rough Rock Faces",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "8ef6f6a9",
+    "download_count": 92669,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_05.png?width=256&height=256&format=webp&v=8ef6f6a9"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Wicker009A",
+  "checkedAt": "2026-10-11T01:20:43.026Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Wicker009A&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "851e1f1161055e4c68e49f9384766afe2e97401053fc97036f5ad8fc44783f3d",
+  "apiMetadata": {
+    "assetId": "Wicker009A",
+    "dataType": "Material",
+    "displayName": "Wicker 009 A",
+    "displayCategory": "Wicker",
+    "shortLink": "https://ambientcg.com/a/Wicker009A",
+    "tags": [
+      "9",
+      "brown",
+      "light",
+      "new",
+      "wicker"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Wicker009A.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Wicker009A.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Wicker009A.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Wicker009A.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Wicker009A.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Wicker009A.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Wicker009A.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Wicker009A.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Wicker009A.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Wicker009A.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Wicker009A.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Wicker009A.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Wicker009A.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Wicker009A.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Wicker009A.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Wicker009A.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Wicker009A.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Wicker009A.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Wicker009A.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Wicker009A.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Wicker009A.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Wicker009A.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Wicker009A.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Wicker009A.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_1K-JPG.zip",
+                "fileName": "Wicker009A_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_1K-JPG.zip",
+                "size": 6712228,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_2K-JPG.zip",
+                "fileName": "Wicker009A_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_2K-JPG.zip",
+                "size": 23206480,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_4K-JPG.zip",
+                "fileName": "Wicker009A_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_4K-JPG.zip",
+                "size": 91006656,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_8K-JPG.zip",
+                "fileName": "Wicker009A_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_8K-JPG.zip",
+                "size": 380451728,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_1K-PNG.zip",
+                "fileName": "Wicker009A_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_1K-PNG.zip",
+                "size": 15341907,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_2K-PNG.zip",
+                "fileName": "Wicker009A_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_2K-PNG.zip",
+                "size": 57314863,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_4K-PNG.zip",
+                "fileName": "Wicker009A_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_4K-PNG.zip",
+                "size": 226430349,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wicker009A_8K-PNG.zip",
+                "fileName": "Wicker009A_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wicker009A_8K-PNG.zip",
+                "size": 924455169,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2022-09-11 00:00:00",
+    "earlyReleaseDate": "2022-08-13 14:19:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 14989,
+    "downloadCountMonth": 985,
+    "downloadCountWeek": 289,
+    "popularityScore": 2.802726231923488,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Color.jpg?5754&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Displacement.jpg?28644&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_NormalDX.jpg?37839&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Roughness.jpg?22069&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Opacity.jpg?99118&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_AmbientOcclusion.jpg?17632",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Color.jpg?75435,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Displacement.jpg?82235,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_NormalDX.jpg?72585,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Roughness.jpg?7779,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_Opacity.jpg?7783,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wicker009A/Wicker009A_SQ_AmbientOcclusion.jpg?18780&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Wicker009A.webp",
+  "previewSha256": "eebb2205eb678028e4ab9fec00e3d31e37ef3004b0a25f89917b22bc766a1eec",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

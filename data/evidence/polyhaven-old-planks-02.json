@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/old_planks_02",
+  "checkedAt": "2026-10-11T01:49:47.440Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/old_planks_02",
+  "apiSha256": "653756a28b677a9acfcb7e27ee72ae2f71540a79144d8626b2b830422ed69df8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/old_planks_02/old_planks_02_diff_1k.jpg",
+  "assetFileMd5": "c3f0cbe96566c8c0001e325475065fd4",
+  "assetFileSha256": "fda6019406a61ce5eb0ccb1cb92fd8f196eca6421cb2e118791ffa51ea005d45",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "old",
+      "damaged",
+      "worn"
+    ],
+    "date_published": 1542430703,
+    "name": "Old Planks 02",
+    "old_id": 173,
+    "categories": [
+      "wood",
+      "wall",
+      "floor",
+      "man made",
+      "outdoor",
+      "indoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c868e26bcf8f82a4994c154b5529534552f2fc81",
+    "description": "Free 8K texture of old vertical planks: weathered brown wood with scratches, gouges, nail holes, narrow seams and a subdued satin sheen.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "a2b59e9c",
+    "download_count": 123452,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_planks_02.png?width=256&height=256&format=webp&v=a2b59e9c"
+  }
+}

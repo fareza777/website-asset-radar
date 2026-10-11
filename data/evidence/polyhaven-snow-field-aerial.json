@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/snow_field_aerial",
+  "checkedAt": "2026-10-11T01:21:48.903Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/snow_field_aerial",
+  "apiSha256": "a1efdde6ccb0ccc81068d4992a32659933ba0454ca9f49be1beeac9675678d2d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_field_aerial/snow_field_aerial_col_1k.jpg",
+  "assetFileMd5": "62563cb0342c3428295342cb2b9f593b",
+  "assetFileSha256": "902e1fef8f1bcc2f158fbb118239e29159978fd7b8e241d2d0f404b8dbecf718",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "80x80M",
+    "type": 1,
+    "tags": [
+      "snow",
+      "mud",
+      "field",
+      "uneven"
+    ],
+    "date_published": 1613393345,
+    "name": "Snow Field Aerial",
+    "old_id": 300,
+    "categories": [
+      "terrain",
+      "snow",
+      "outdoor",
+      "dirty",
+      "natural",
+      "aerial"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      80000,
+      80000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "8b68358190d77b84a36bbf447f4104701f125808",
+    "description": "Free 8K texture of an aerial snow field: patchy white snow over dark muddy soil, granular crust, uneven terrain and natural roughness.",
+    "category_id": "41640037-7e94-5a3e-bd1c-e77bd5605abe",
+    "category": "Ground & Terrain/Snow/Dirty & Muddy Snow",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true,
+      "condition": [
+        "dirty"
+      ]
+    },
+    "img_version": "59804f48",
+    "download_count": 62037,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_field_aerial.png?width=256&height=256&format=webp&v=59804f48"
+  }
+}

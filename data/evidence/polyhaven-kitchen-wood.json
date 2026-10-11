@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/kitchen_wood",
+  "checkedAt": "2026-10-11T01:28:09.811Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/kitchen_wood",
+  "apiSha256": "e1a7d72f03dd484500bdf7baeb331ae5151d8785af45654cd6f11a43425916bb",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/kitchen_wood/kitchen_wood_diff_1k.jpg",
+  "assetFileMd5": "e7e721ebed8ad133cdeb8273a1f104ef",
+  "assetFileSha256": "6d0170f1ab1b9353aab6f0382a7753026e32a5b58f779651cd05a91618dfcdab",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "30x30 cm",
+    "type": 1,
+    "date_published": 1590612809,
+    "name": "Kitchen Wood",
+    "old_id": 260,
+    "categories": [
+      "wood",
+      "man made",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      600.0000238418579,
+      600.0000238418579
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "82e0acd2c0c73f1669c4c9e7dc94feec92051ad1",
+    "tags": [
+      "plain",
+      "clean",
+      "pine",
+      "board",
+      "varnished wood",
+      "wood grain",
+      "oak",
+      "smooth finish",
+      "flat wood"
+    ],
+    "sponsors": [
+      "128081732"
+    ],
+    "description": "Free 8K texture of clean, varnished pine/oak boards with subtle wood grain, alternating light and dark planks and a smooth, low-sheen finish.",
+    "category_id": "a7bb33c4-8575-586e-a502-7094517b10c5",
+    "category": "Wood/Boards & Planks/Finished & Varnished",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "98cb00fd",
+    "download_count": 216328,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kitchen_wood.png?width=256&height=256&format=webp&v=98cb00fd"
+  }
+}

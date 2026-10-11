@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_sandstone_bricks_03",
+  "checkedAt": "2026-10-11T01:53:44.123Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_sandstone_bricks_03",
+  "apiSha256": "36696e787e10414175f2a5e9bd0be981ef9608de4b61101cdc8b9e93af492bc2",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_sandstone_bricks_03/white_sandstone_bricks_03_diff_1k.jpg",
+  "assetFileMd5": "66a5b590dd1a7786219ac3de31958577",
+  "assetFileSha256": "c0a4a186abd95a96f8cfc6ff13cecbea513e1712f482220abc71b48832d6dd52",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "blocks",
+      "white",
+      "standstone",
+      "uneven"
+    ],
+    "date_published": 1536368840,
+    "name": "White Sandstone Bricks 03",
+    "old_id": 159,
+    "categories": [
+      "brick",
+      "man made",
+      "outdoor",
+      "wall",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "63dc5741daae0e2eaa78cf765c4c8220cfc6606d",
+    "description": "Free 8K white sandstone brick texture showcasing uneven, weathered blocks with subtle mortar lines, gentle roughness, and light sandy color variation.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f97c27de",
+    "download_count": 48023,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_sandstone_bricks_03.png?width=256&height=256&format=webp&v=f97c27de"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_tiles_09",
+  "checkedAt": "2026-10-11T01:51:43.898Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_tiles_09",
+  "apiSha256": "31db71b0caa4ec103ab364988c8c76979dfaa46c7feb17867ec06f70f79bd451",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_tiles_09/floor_tiles_09_diff_1k.jpg",
+  "assetFileMd5": "234ad7eac572bb4d50d4803bc7449b66",
+  "assetFileSha256": "a0108d3cbe9a3fab9f0e3e7e52258aba10594aac5976f5c0e2402018b98b2b27",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1538705021,
+    "name": "Floor Tiles 09",
+    "old_id": 166,
+    "categories": [
+      "floor",
+      "outdoor",
+      "man made",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b9d641995e507f11b047983d4cd3f319d5cebb56",
+    "tags": [
+      "regular",
+      "square",
+      "pavement",
+      "soviet",
+      "sidewalk texture",
+      "concrete",
+      "concrete tiles",
+      "grid pattern",
+      "grid",
+      "dirty",
+      "rough",
+      "uneven",
+      "urban"
+    ],
+    "description": "Free 8K texture of square Soviet-era concrete sidewalk tiles with grid joints, rough worn surface, subtle dirt and unevenness.",
+    "category_id": "ce26ba57-ef4b-54d4-a954-9a85bb053b9e",
+    "category": "Brick & Block/Concrete Block & Paver/Interlocking Pavers",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "worn",
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "c386dca0",
+    "download_count": 40190,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_09.png?width=256&height=256&format=webp&v=c386dca0"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/granular_concrete",
+  "checkedAt": "2026-10-11T01:09:26.449Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/granular_concrete",
+  "apiSha256": "276d3fb9cca3918394f00aecd0657881d5b3b0b642321fcd5a4162e1d3aa1b4e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/granular_concrete/granular_concrete_diff_1k.jpg",
+  "assetFileMd5": "189811555459ff4d539c862f2b478083",
+  "assetFileSha256": "2c2efcdff062fbcd91d8aeee8134ef2849817378d70189ff024683d7f09e2fd2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1656374400,
+    "name": "Granular Concrete",
+    "categories": [
+      "concrete",
+      "man made",
+      "floor",
+      "plaster-concrete"
+    ],
+    "type": 1,
+    "staging": null,
+    "dimensions": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "tags": [
+      "rough",
+      "stones",
+      "rock",
+      "gravel",
+      "dirt",
+      "ground"
+    ],
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Michael Jenkins": "Photography"
+    },
+    "sponsors": [
+      "7934315"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "f732484dd86604392cb3c588724a88b1c7787ec1",
+    "description": "Free 8K granular concrete texture with rough, gritty surface, fine gravel and tiny stones in an earthy gray-brown, matte, porous plaster-like finish.",
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "floor",
+      "origin": "man_made",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "3983775a",
+    "download_count": 87897,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/granular_concrete.png?width=256&height=256&format=webp&v=3983775a"
+  }
+}

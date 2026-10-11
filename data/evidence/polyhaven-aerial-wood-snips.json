@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/aerial_wood_snips",
+  "checkedAt": "2026-10-11T01:26:09.882Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/aerial_wood_snips",
+  "apiSha256": "2ab63bcb01192db0d2dcca06c68d07c8ef35d6fe606f4e5cdd1936263b177f0d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_wood_snips/aerial_wood_snips_diff_1k.jpg",
+  "assetFileMd5": "9890515d1b38b188a6346dc59210378d",
+  "assetFileSha256": "b2fb301f7205ce3d56b6a025dad797bb8cd8079c0fdabdfce9f9842291eb5c6a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "30x30M",
+    "type": 1,
+    "date_published": 1596609502,
+    "name": "Aerial Wood Snips",
+    "old_id": 273,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "aerial"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      30000,
+      30000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "10863415560eb62435394a475fabfd95430efd26",
+    "tags": [
+      "rough",
+      "wood",
+      "mud",
+      "dirt",
+      "wood chips",
+      "wood splinters",
+      "tire tracks",
+      "organic debris",
+      "earth"
+    ],
+    "description": "Free 8K aerial wood-and-mud texture: rough compacted earth with wood chips, splinters and subtle tire tracks; gritty, granular, organic debris surface.",
+    "category_id": "f5a6cc7b-b773-5091-a757-09cbd29ee323",
+    "category": "Ground & Terrain/Forest Floor/Mulch & Wood Chips",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor",
+      "aerial": true
+    },
+    "img_version": "62a24d3c",
+    "download_count": 15679,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_wood_snips.png?width=256&height=256&format=webp&v=62a24d3c"
+  }
+}
