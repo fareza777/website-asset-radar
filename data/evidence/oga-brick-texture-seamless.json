@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-brick-texture-seamless",
+  "sourceUrl": "https://opengameart.org/content/brick-texture-seamless",
+  "checkedAt": "2026-10-12T02:16:39.506Z",
+  "httpStatus": 200,
+  "pageSha256": "a2ec73a63968c4307da24c04e81dd9d702bc635ddfaa57c73cb85713980ea2cb",
+  "title": "Brick Texture (Seamless)",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please list my name and website in your credits screen of your game under “Texture Images” or wherever is appropriate. Brick Texture (Seamless) by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/brick-texture-seamless Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/9-6-26_0.jpg",
+    "https://opengameart.org/sites/default/files/9-6-26a.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/9-6-26_0.jpg",
+  "downloadSha256": "72b025a1ceb9360cb2df6632f36fa83e36f8ba2342c12a345e098925d0ec7b1b",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "9-6-26_0.jpg",
+  "previewSha256": "72b025a1ceb9360cb2df6632f36fa83e36f8ba2342c12a345e098925d0ec7b1b",
+  "sourceTags": [
+    "brick",
+    "seamless"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wooden_rough_planks",
+  "checkedAt": "2026-10-12T01:39:27.153Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wooden_rough_planks",
+  "apiSha256": "33e8f42522029ed0515d2837463facae8f69c9537723dbdc99fe0fa555dd072a",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wooden_rough_planks/wooden_rough_planks_diff_1k.jpg",
+  "assetFileMd5": "1dc74439279ce87ec9a5fbbc19d88025",
+  "assetFileSha256": "b88237a8776bf699af773958375dde98a95a417be889cd1b7d78f5b12f76a850",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "name": "Wooden Rough Planks",
+    "old_id": 120,
+    "categories": [
+      "wood",
+      "wall",
+      "man made",
+      "outdoor"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "tags": [
+      "moss",
+      "rough",
+      "logs",
+      "planks",
+      "uneven",
+      "round",
+      "shed",
+      "cabin",
+      "hut",
+      "lodge",
+      "woods",
+      "forest"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6293418c500600b00b863265e25b2b98814fbb09",
+    "description": "Free 8K texture of rough, moss-covered round wooden planks: weathered, uneven surface with scratches, grain, and a damp green patina.",
+    "category_id": "e3ca7852-7bc1-59cb-8278-1680c5da0557",
+    "category": "Wood/Boards & Planks/Log & Timber Walls",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "eb8ceca4",
+    "download_count": 36206,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_rough_planks.png?width=256&height=256&format=webp&v=eb8ceca4"
+  }
+}

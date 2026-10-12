@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/red_dirt_mud_01",
+  "checkedAt": "2026-10-12T01:36:16.806Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/red_dirt_mud_01",
+  "apiSha256": "d8285046d2519916f740c957a54ae24525c7dda457b0f27197695b9292480853",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_dirt_mud_01/red_dirt_mud_01_diff_1k.jpg",
+  "assetFileMd5": "5c74ee47bd74c1d79a24a8c646797091",
+  "assetFileSha256": "c3ac7c922bb5a8e390294b8097e61b882a15113b751c12395c526813d173882e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "gravel",
+      "mud",
+      "dirt",
+      "rough",
+      "pathway",
+      "path",
+      "road",
+      "village"
+    ],
+    "date_published": 1529359200,
+    "name": "Red Dirt Mud 01",
+    "old_id": 103,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "5b112074006dedd7ea5e2550f0d906cb20fb96e3",
+    "description": "Free 8K texture of compacted red-brown mud with scattered gravel, a rough pebbly surface, damp sheen, and worn pathway detailing.",
+    "category_id": "e0c05e0b-25f0-5141-ad7a-2aa12e149440",
+    "category": "Ground & Terrain/Soil & Mud/Compacted Soil",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "clean"
+      ]
+    },
+    "img_version": "4a4c4baa",
+    "download_count": 42172,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_dirt_mud_01.png?width=256&height=256&format=webp&v=4a4c4baa"
+  }
+}

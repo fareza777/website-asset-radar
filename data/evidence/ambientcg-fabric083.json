@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T08:37:37.635Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Fabric083&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "83b0d0aa6046daa4beb107340445ba4d929eb92d1f48a399dd811a68dbb7e9d6",
+  "apiSha256": "06fa5e8677cf8c6f3af74d4bdf6176aa679a5098b7a866ecafbc0a0a2a3c7358",
   "apiMetadata": {
     "assetId": "Fabric083",
     "dataType": "Material",
@@ -143,10 +143,10 @@
     "earlyReleaseDate": "2026-01-01 17:00:00",
     "creationMethod": "PBRMultiAngle",
     "category": null,
-    "downloadCount": 14675,
-    "downloadCountMonth": 2866,
-    "downloadCountWeek": 891,
-    "popularityScore": 16.913661335887845,
+    "downloadCount": 14969,
+    "downloadCountMonth": 2928,
+    "downloadCountWeek": 901,
+    "popularityScore": 17.023635935586938,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -165,7 +165,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Color.jpg?60968&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Displacement.jpg?75863&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_NormalDX.jpg?83415&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Roughness.jpg?10688",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Color.jpg?51342&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Displacement.jpg?65179&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_NormalDX.jpg?8263&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Roughness.jpg?71218",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -176,7 +176,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Color.jpg?45062,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Displacement.jpg?66415,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_NormalDX.jpg?41062,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Roughness.jpg?81182&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Color.jpg?32220,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Displacement.jpg?47314,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_NormalDX.jpg?38530,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric083/Fabric083_SQ_Roughness.jpg?35384&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -194,5 +194,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Fabric083.webp",
   "previewSha256": "3e3379e17ea4ec1d406b00581ec67ab775df75f24d4e9d45d4e85ca673991ff3",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-12T02:19:46.147Z"
 }

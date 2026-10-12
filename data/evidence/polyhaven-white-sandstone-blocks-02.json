@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_sandstone_blocks_02",
+  "checkedAt": "2026-10-12T01:27:00.721Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_sandstone_blocks_02",
+  "apiSha256": "2eea6ec4e8734ab9d99c7151b58c6afc088a6cbffa8b1fe6ae8a12cb11dc0c87",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_sandstone_blocks_02/white_sandstone_blocks_02_diff_1k.jpg",
+  "assetFileMd5": "5a31e6268c764ffccc358420e3aa3fb5",
+  "assetFileSha256": "0a43c8bc80581408f9c700ad98d2de64280e694148e37626d6648fdddf47a777",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1530331927,
+    "name": "White Sandstone Blocks 02",
+    "old_id": 145,
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "categories": [
+      "brick",
+      "man made",
+      "outdoor",
+      "wall",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "blocks",
+      "sandstone",
+      "uneven",
+      "damaged"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "311e05c6993568fa9d3f1a0cf24730ca9b0f91d6",
+    "description": "Free 8K texture of white sandstone blocks - uneven, chipped blocks with rough, granular surfaces, deep mortar joints and subtle beige dusting and weathered details.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "0b9d17c5",
+    "download_count": 56047,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_sandstone_blocks_02.png?width=256&height=256&format=webp&v=0b9d17c5"
+  }
+}

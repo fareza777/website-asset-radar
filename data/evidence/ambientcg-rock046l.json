@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Rock046L",
+  "checkedAt": "2026-10-12T01:33:22.796Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rock046L&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "51fb54e90c22ecda8edb9dfdc96f403a09466ebd1692cf0fcd62f7c16afcd90e",
+  "apiMetadata": {
+    "assetId": "Rock046L",
+    "dataType": "Material",
+    "displayName": "Rock 046 L",
+    "displayCategory": "Rock",
+    "shortLink": "https://ambientcg.com/a/Rock046L",
+    "tags": [
+      "46",
+      "grey",
+      "moss",
+      "rock"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Rock046L.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Rock046L.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Rock046L.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Rock046L.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Rock046L.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Rock046L.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Rock046L.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Rock046L.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Rock046L.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Rock046L.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Rock046L.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Rock046L.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Rock046L.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Rock046L.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Rock046L.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Rock046L.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Rock046L.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Rock046L.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Rock046L.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Rock046L.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Rock046L.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rock046L.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Rock046L.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Rock046L.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_1K-JPG.zip",
+                "fileName": "Rock046L_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_1K-JPG.zip",
+                "size": 10014550,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_2K-JPG.zip",
+                "fileName": "Rock046L_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_2K-JPG.zip",
+                "size": 34489615,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_4K-JPG.zip",
+                "fileName": "Rock046L_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_4K-JPG.zip",
+                "size": 126149073,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_8K-JPG.zip",
+                "fileName": "Rock046L_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_8K-JPG.zip",
+                "size": 455215952,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_1K-PNG.zip",
+                "fileName": "Rock046L_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_1K-PNG.zip",
+                "size": 19089353,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_2K-PNG.zip",
+                "fileName": "Rock046L_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_2K-PNG.zip",
+                "size": 70967948,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_4K-PNG.zip",
+                "fileName": "Rock046L_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_4K-PNG.zip",
+                "size": 273947487,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rock046L_8K-PNG.zip",
+                "fileName": "Rock046L_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rock046L_8K-PNG.zip",
+                "size": 1029760610,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2021-10-31 00:00:00",
+    "earlyReleaseDate": "2021-10-31 00:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 14740,
+    "downloadCountMonth": 1087,
+    "downloadCountWeek": 353,
+    "popularityScore": 2.380823650841646,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 200,
+    "dimensionY": 200,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_Color.jpg?87478&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_Displacement.jpg?18361&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_NormalDX.jpg?62353&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_Roughness.jpg?43440&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_AmbientOcclusion.jpg?44653",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_Color.jpg?64947,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_Displacement.jpg?75597,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_NormalDX.jpg?86251,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_Roughness.jpg?13401,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock046L/Rock046L_SQ_AmbientOcclusion.jpg?47473&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rock046L.webp",
+  "previewSha256": "2d8a05d43357d15552dea1456e1f847e7a1efaac5fb8844719975a0dd6cb4504",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

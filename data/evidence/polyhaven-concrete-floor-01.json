@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete_floor_01",
+  "checkedAt": "2026-10-12T01:26:20.118Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete_floor_01",
+  "apiSha256": "d8db1dbffb9cef9b42258d65ea97c6f8a0f8bfb395592de8120ab6f080367685",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_01/concrete_floor_01_diff_1k.jpg",
+  "assetFileMd5": "187065cfc20a35eb421eac6d4f38c58f",
+  "assetFileSha256": "db7c800f1464359b5f359fc743e82ac51b34e014fdfd53844f4af34bb1949229",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1531734768,
+    "name": "Concrete Floor 01",
+    "old_id": 148,
+    "categories": [
+      "concrete",
+      "clean",
+      "plaster-concrete",
+      "man made",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "4714267",
+      "3237733"
+    ],
+    "files_hash": "dd25145843a1f743897b3188e42822705db331e6",
+    "tags": [
+      "rough",
+      "park",
+      "concrete",
+      "cement",
+      "rough  ",
+      "stone embedded",
+      "gravel embedded",
+      "weathered",
+      "granular"
+    ],
+    "description": "Free 8K texture: weathered outdoor concrete floor with granular, rough surface and embedded stones and gravel, matte and slightly worn.",
+    "category_id": "70d3bf8f-46b0-5250-a419-61cbf068f448",
+    "category": "Concrete/Cast Walls & Floors/Exposed Aggregate",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "ac7567fd",
+    "download_count": 101117,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_01.png?width=256&height=256&format=webp&v=ac7567fd"
+  }
+}

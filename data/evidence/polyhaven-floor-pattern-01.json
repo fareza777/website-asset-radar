@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_pattern_01",
+  "checkedAt": "2026-10-12T01:34:27.055Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_pattern_01",
+  "apiSha256": "fe58db1a525ce0c550ab2bec42177d4749768775c0df47810cfc8f71e652eda5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_pattern_01/floor_pattern_01_diff_1k.jpg",
+  "assetFileMd5": "289794c2df90f3062d5e7879bb468c34",
+  "assetFileSha256": "c7f750b50b0715f0efe955f9f347ac03ab5f28d14d0b5f05e05b74b2f17a7449",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "cobblestone",
+      "moss",
+      "castle",
+      "fort",
+      "pavement"
+    ],
+    "date_published": 1529359200,
+    "name": "Floor Pattern 01",
+    "old_id": 95,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1200.0000476837158,
+      1200.0000476837158
+    ],
+    "categories": [
+      "floor",
+      "road",
+      "outdoor",
+      "man made",
+      "dirty",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "12cfc871ce9ea63e2403feb6c9be3f54ffe72a3d",
+    "description": "Free 8K cobblestone texture - weathered, irregular gray-brown stones with dirt-filled joints and patches of moss, rough and slightly uneven paving surface.",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "90d6eaea",
+    "download_count": 35990,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_pattern_01.png?width=256&height=256&format=webp&v=90d6eaea"
+  }
+}

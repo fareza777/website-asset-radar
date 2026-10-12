@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/yellow_plaster",
+  "checkedAt": "2026-10-12T01:39:57.034Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/yellow_plaster",
+  "apiSha256": "59f8f91ac07d6a99a90dbb9d0bc80e891d9426b1338338c5ec456206743b897e",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/yellow_plaster/yellow_plaster_diff_1k.jpg",
+  "assetFileMd5": "8f2c93e6c9b4e81006cd0f3e3a80696e",
+  "assetFileSha256": "5e67931012314b632569864200881850b67337360059f995e487f94f594c9353",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "yellow",
+      "plastered",
+      "worn",
+      "scratched",
+      "smooth",
+      "concrete",
+      "cement",
+      "moss"
+    ],
+    "date_published": 1529359200,
+    "name": "Yellow Plaster",
+    "old_id": 123,
+    "categories": [
+      "wall",
+      "plaster-concrete",
+      "man made",
+      "indoor",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "sponsors": [
+      "11167855"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7415835df3c77a9a0ead6b0684e62641fcc7039e",
+    "description": "Free 8K yellow plaster texture with a smooth, worn cement surface, subtle scratches and dirt stains across warm ochre tones.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "worn",
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "ef09e8c3",
+    "download_count": 39448,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_plaster.png?width=256&height=256&format=webp&v=ef09e8c3"
+  }
+}

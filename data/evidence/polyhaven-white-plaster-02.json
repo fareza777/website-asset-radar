@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_plaster_02",
+  "checkedAt": "2026-10-12T01:26:30.084Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_plaster_02",
+  "apiSha256": "ebfee36e272a86269935857daa11a9d467a17852dd13d7e5e3d85e5ba7830355",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_diff_1k.jpg",
+  "assetFileMd5": "7b10c2686bcfd76d1f309a20fd06b57e",
+  "assetFileSha256": "a1ebbe091bd1ae93d2abd5de8d69f9003a8d0ee6532bcf9a87c2492c97051f23",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "smooth",
+      "flat",
+      "even"
+    ],
+    "date_published": 1531287574,
+    "name": "White Plaster 02",
+    "old_id": 147,
+    "categories": [
+      "plaster-concrete",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean",
+      "floor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "scale": "1.5M x 1.5M",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "20953239",
+      "77433244"
+    ],
+    "files_hash": "508068441dd24eb06ef6d269a43f6ea7c8bade6b",
+    "description": "Free 8K plaster texture: smooth, flat white plaster with a soft matte finish, fine micro-roughness and subtle dirt speckling across the surface.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "clean"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "fa5c48d2",
+    "download_count": 227823,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_plaster_02.png?width=256&height=256&format=webp&v=fa5c48d2"
+  }
+}

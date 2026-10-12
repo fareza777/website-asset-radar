@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T10:01:57.878Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=DiamondPlate009&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "afb882b4d31797b4d49973e349fc39f3ea2859b8a0b40c74363295aa9eda0cde",
+  "apiSha256": "d24dae0b69ebce55135901551ca4d6a1c93f783eeeb57be93ea5168ba68ae649",
   "apiMetadata": {
     "assetId": "DiamondPlate009",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2025-09-28 14:00:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 12814,
-    "downloadCountMonth": 2298,
-    "downloadCountWeek": 734,
-    "popularityScore": 11.064008572240962,
+    "downloadCount": 13075,
+    "downloadCountMonth": 2396,
+    "downloadCountWeek": 731,
+    "popularityScore": 11.16875907695038,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Color.jpg?83180&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Displacement.jpg?67933&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_NormalDX.jpg?41737&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Roughness.jpg?96432&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_AmbientOcclusion.jpg?67318&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Metalness.jpg?66726",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Color.jpg?24816&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Displacement.jpg?74830&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_NormalDX.jpg?99036&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Roughness.jpg?46488&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_AmbientOcclusion.jpg?5186&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Metalness.jpg?87169",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Color.jpg?5037,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Displacement.jpg?83673,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_NormalDX.jpg?62683,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Roughness.jpg?35278,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_AmbientOcclusion.jpg?38100,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Metalness.jpg?4475&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Color.jpg?88644,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Displacement.jpg?81603,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_NormalDX.jpg?48870,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Roughness.jpg?77285,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_AmbientOcclusion.jpg?65938,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/DiamondPlate009/DiamondPlate009_SQ_Metalness.jpg?96867&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -191,5 +191,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/DiamondPlate009.webp",
   "previewSha256": "0667b093f5f5143e011529c1a39d3be3d2910525f53615076c54d341648f4514",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-12T02:19:46.147Z"
 }

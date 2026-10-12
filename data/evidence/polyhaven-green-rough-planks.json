@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/green_rough_planks",
+  "checkedAt": "2026-10-12T01:28:25.325Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/green_rough_planks",
+  "apiSha256": "214bb8881d8a057527d14f90af5ae740b8d1b749753b5568c4a5610f96481e0b",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/green_rough_planks/green_rough_planks_diff_1k.jpg",
+  "assetFileMd5": "5234b6ba4f57bdf694adf507a99dd9d4",
+  "assetFileSha256": "c14e48538f5fca3d8e9aaa14900be805c11cc5b5c95cde7e6ff9b409decb8ce4",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "painted",
+      "peeling",
+      "weathered"
+    ],
+    "date_published": 1530008218,
+    "name": "Green Rough Planks",
+    "old_id": 141,
+    "categories": [
+      "wood",
+      "outdoor",
+      "man made",
+      "dirty",
+      "wall"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sponsors": [
+      "66627515",
+      "7934315"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "c6c2adb15fb7213d944a8361ffebf5a458d3931d",
+    "description": "Free 8K texture of rough green-painted wooden planks with peeling paint, chipped edges, weathered grain, dirt streaks, and tight seams.",
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered",
+        "worn",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "22076de6",
+    "download_count": 71464,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/green_rough_planks.png?width=256&height=256&format=webp&v=22076de6"
+  }
+}

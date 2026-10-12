@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Fingerprints008",
+  "checkedAt": "2026-10-12T02:11:53.376Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Fingerprints008&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "13ecf6de52ee472f1f64718b8c30b21455e1bd04b2888f200196e147eb483d24",
+  "apiMetadata": {
+    "assetId": "Fingerprints008",
+    "dataType": "Material",
+    "displayName": "Fingerprints 008",
+    "displayCategory": "Fingerprints",
+    "shortLink": "https://ambientcg.com/a/Fingerprints008",
+    "tags": [
+      "8",
+      "dirt",
+      "fingerprints",
+      "smear"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Fingerprints008.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Fingerprints008.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Fingerprints008.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Fingerprints008.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Fingerprints008.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Fingerprints008.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Fingerprints008.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Fingerprints008.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Fingerprints008.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Fingerprints008.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Fingerprints008.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Fingerprints008.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Fingerprints008.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Fingerprints008.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Fingerprints008.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Fingerprints008.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Fingerprints008.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Fingerprints008.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Fingerprints008.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Fingerprints008.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Fingerprints008.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Fingerprints008.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Fingerprints008.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Fingerprints008.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_1K-JPG.zip",
+                "fileName": "Fingerprints008_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_1K-JPG.zip",
+                "size": 4437918,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_2K-JPG.zip",
+                "fileName": "Fingerprints008_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_2K-JPG.zip",
+                "size": 13350958,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_4K-JPG.zip",
+                "fileName": "Fingerprints008_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_4K-JPG.zip",
+                "size": 53495432,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_8K-JPG.zip",
+                "fileName": "Fingerprints008_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_8K-JPG.zip",
+                "size": 262545231,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_1K-PNG.zip",
+                "fileName": "Fingerprints008_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_1K-PNG.zip",
+                "size": 11727895,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_2K-PNG.zip",
+                "fileName": "Fingerprints008_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_2K-PNG.zip",
+                "size": 44696374,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_4K-PNG.zip",
+                "fileName": "Fingerprints008_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_4K-PNG.zip",
+                "size": 182685119,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Fingerprints008_8K-PNG.zip",
+                "fileName": "Fingerprints008_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Fingerprints008_8K-PNG.zip",
+                "size": 794506716,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2021-02-28 00:00:00",
+    "earlyReleaseDate": "2021-02-28 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 21559,
+    "downloadCountMonth": 1099,
+    "downloadCountWeek": 391,
+    "popularityScore": 2.711896801422113,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "Individual fingerprints provided by <a href=\"https://texture.ninja/textures/Fingerprints/12\">Texture.ninja</a> (CC0)",
+    "dimensionX": 75,
+    "dimensionY": 75,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Color.jpg?92987&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Displacement.jpg?96358&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_NormalDX.jpg?16218&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Roughness.jpg?52431&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Opacity.jpg?95701",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Color.jpg?8226,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Displacement.jpg?7393,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_NormalDX.jpg?10040,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Roughness.jpg?41271,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fingerprints008/Fingerprints008_SQ_Opacity.jpg?12880&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Fingerprints008.webp",
+  "previewSha256": "30c8739235582aa122f0e7c4921a3b878f29bd319d70d17912980be8580b2885",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

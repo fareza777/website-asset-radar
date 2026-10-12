@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/riet_01",
+  "checkedAt": "2026-10-12T01:36:39.164Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/riet_01",
+  "apiSha256": "f7dcffb4cbbe2c8d2fb2a395233e2d7c144b414c3c58116730c2c8841cfeac92",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/riet_01/riet_01_diff_1k.jpg",
+  "assetFileMd5": "dc18da0daf13038c553af89e1abb9cc7",
+  "assetFileSha256": "273ce3e44dce8060f80cc1615c7bb0769181dd4eec267b22963e2e1bdd89c7e1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "reed",
+      "grey",
+      "old",
+      "village",
+      "straw",
+      "hut",
+      "thatch",
+      "rural",
+      "medieval"
+    ],
+    "date_published": 1529359200,
+    "name": "Riet 01",
+    "old_id": 105,
+    "categories": [
+      "roofing",
+      "outdoor",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "sponsors": [
+      "4714267",
+      "77433244"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "673859a83d61e40a08419821591c5ebe2f922c66",
+    "description": "Free 8K texture of weathered grey reed thatch: coarse, fibrous straw layers with a rough, uneven surface and worn, frayed edges.",
+    "category_id": "96e6d873-c2ea-5b2e-a3a8-534479d4cc26",
+    "category": "Organic/Thatch & Reed/Reed & Straw",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "b22c8d8a",
+    "download_count": 33443,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/riet_01.png?width=256&height=256&format=webp&v=b22c8d8a"
+  }
+}

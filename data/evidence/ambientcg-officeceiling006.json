@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/OfficeCeiling006",
+  "checkedAt": "2026-10-12T02:10:04.175Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=OfficeCeiling006&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "16b9c060f6464484433d51c65f97d47be6124a3df92fec7ccc1e978063923323",
+  "apiMetadata": {
+    "assetId": "OfficeCeiling006",
+    "dataType": "Material",
+    "displayName": "Office Ceiling 006",
+    "displayCategory": "Office Ceiling",
+    "shortLink": "https://ambientcg.com/a/OfficeCeiling006",
+    "tags": [
+      "6",
+      "ceiling",
+      "office"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "emission",
+      "ambient-occlusion",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/OfficeCeiling006.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/OfficeCeiling006.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/OfficeCeiling006.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/OfficeCeiling006.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/OfficeCeiling006.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/OfficeCeiling006.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/OfficeCeiling006.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/OfficeCeiling006.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/OfficeCeiling006.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/OfficeCeiling006.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/OfficeCeiling006.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/OfficeCeiling006.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/OfficeCeiling006.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/OfficeCeiling006.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/OfficeCeiling006.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/OfficeCeiling006.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/OfficeCeiling006.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/OfficeCeiling006.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/OfficeCeiling006.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/OfficeCeiling006.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/OfficeCeiling006.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/OfficeCeiling006.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/OfficeCeiling006.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/OfficeCeiling006.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_1K-JPG.zip",
+                "fileName": "OfficeCeiling006_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_1K-JPG.zip",
+                "size": 7300997,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_2K-JPG.zip",
+                "fileName": "OfficeCeiling006_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_2K-JPG.zip",
+                "size": 26921816,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_4K-JPG.zip",
+                "fileName": "OfficeCeiling006_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_4K-JPG.zip",
+                "size": 108206386,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_8K-JPG.zip",
+                "fileName": "OfficeCeiling006_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_8K-JPG.zip",
+                "size": 448690149,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_1K-PNG.zip",
+                "fileName": "OfficeCeiling006_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_1K-PNG.zip",
+                "size": 15611881,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_2K-PNG.zip",
+                "fileName": "OfficeCeiling006_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_2K-PNG.zip",
+                "size": 58602055,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_4K-PNG.zip",
+                "fileName": "OfficeCeiling006_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_4K-PNG.zip",
+                "size": 229306127,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=OfficeCeiling006_8K-PNG.zip",
+                "fileName": "OfficeCeiling006_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=OfficeCeiling006_8K-PNG.zip",
+                "size": 934832494,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2021-03-07 00:00:00",
+    "earlyReleaseDate": "2021-03-07 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 19485,
+    "downloadCountMonth": 1185,
+    "downloadCountWeek": 391,
+    "popularityScore": 2.5540982752547183,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 1000,
+    "dimensionY": 1000,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Color.jpg?20762&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Displacement.jpg?77603&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_NormalDX.jpg?8384&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Roughness.jpg?32003&emission_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Emission.jpg?60349&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_AmbientOcclusion.jpg?18998&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Metalness.jpg?88371",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Color.jpg?58300,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Displacement.jpg?961,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_NormalDX.jpg?71318,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Roughness.jpg?24501,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Emission.jpg?74646,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_AmbientOcclusion.jpg?62868,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/OfficeCeiling006/OfficeCeiling006_SQ_Metalness.jpg?74584&texture_name=Color,Displacement,Normal,Roughness,Emission,Ambient Occlusion,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/OfficeCeiling006.webp",
+  "previewSha256": "89a38a98b2527b98b04d70452639fbd98156225e95f8231a4f95a3ce3b94bfe9",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

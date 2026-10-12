@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roof_tiles_14",
+  "checkedAt": "2026-10-12T01:37:27.084Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roof_tiles_14",
+  "apiSha256": "ff6a9d48d8b712aacbaa917ed23b744224bb130803cd568446ed27bcdc4b949f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_tiles_14/roof_tiles_14_diff_1k.jpg",
+  "assetFileMd5": "89bae450f83f966c4d82a4b2eddeb5dc",
+  "assetFileSha256": "756217e3dfa9ddfd9d880a9f4938abca7fb7dfcf9b7184949894eed33868ae6f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "ceramic",
+      "tiles",
+      "moss",
+      "old",
+      "discolored",
+      "weathered"
+    ],
+    "date_published": 1529359200,
+    "name": "Roof Tiles 14",
+    "old_id": 109,
+    "categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "dce6e15b50cbe1517a4f974b468e5ece533180b5",
+    "description": "Free 8K texture of old ceramic roof tiles, weathered, discolored and moss-streaked with chipped edges, grime and subtle surface roughness.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "mossy",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "f3da798a",
+    "download_count": 53887,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_tiles_14.png?width=256&height=256&format=webp&v=f3da798a"
+  }
+}

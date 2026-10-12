@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grey_roof_01",
+  "checkedAt": "2026-10-12T01:35:36.914Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grey_roof_01",
+  "apiSha256": "29afea45caab9a7742633a74a5618f4e9910df9517dd1c1a4be11b20c1a95a94",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_01/grey_roof_01_diff_1k.jpg",
+  "assetFileMd5": "f58db8b990cc7ad0405ad86d6427b923",
+  "assetFileSha256": "d988fc8e8dcf3d817d15d84e1cb1d9131095184c74c5f7b18b6491103489c2bd",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1529359200,
+    "name": "Grey Roof 01",
+    "old_id": 101,
+    "categories": [
+      "roofing",
+      "outdoor",
+      "man made",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      8000,
+      8000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "9d1e617805bddce7359cc0d3a57c1aec0c117074",
+    "tags": [
+      "modern",
+      "tiles",
+      "roofing material",
+      "gray",
+      "gray roof",
+      "tiled roofing",
+      "interlocking tiles",
+      "slate roofing",
+      "roof tiles",
+      "traditional roof tiles"
+    ],
+    "description": "Free 8K texture. Clean dark-gray interlocking roof tiles with subtle satin sheen, fine surface grain, and crisp, slightly weathered tile edges.",
+    "category_id": "ce781525-aa20-5d90-9d19-8530e8e243ba",
+    "category": "Ceramic/Glazed Tiles/Glossy Glazed",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "03d0466a",
+    "download_count": 72007,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_roof_01.png?width=256&height=256&format=webp&v=03d0466a"
+  }
+}

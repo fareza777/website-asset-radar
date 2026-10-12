@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grass_path_2",
+  "checkedAt": "2026-10-12T01:34:46.605Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grass_path_2",
+  "apiSha256": "772f835188122d2e5b371a1576373b4a34a59e20c7db5a4da518cf9c2404cab0",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_path_2/grass_path_2_diff_1k.jpg",
+  "assetFileMd5": "48cebe95af233211c9469a9bfe2f42f2",
+  "assetFileSha256": "7f30b163739435c11f500f3818c7bb4922bab5f2734cc9ba6dd36817f0c9a8ab",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "grass",
+      "pathway",
+      "path",
+      "ground",
+      "stones",
+      "sidewalk",
+      "rural",
+      "farm"
+    ],
+    "date_published": 1529359200,
+    "name": "Grass Path 2",
+    "old_id": 97,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b4f12e39d7b91eb602717bd76dc4ed8a0ab34185",
+    "description": "Free 8K texture of a compacted dirt path with scattered stones and small grass tufts, rough, grainy earth with subtle displacement and worn, patchy areas.",
+    "category_id": "dd06ef8e-5807-534b-b7ac-19fb07264599",
+    "category": "Ground & Terrain/Rocky Ground/Rocky Paths & Trails",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "worn"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "7dd04a04",
+    "download_count": 80180,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_path_2.png?width=256&height=256&format=webp&v=7dd04a04"
+  }
+}

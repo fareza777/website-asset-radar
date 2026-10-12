@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Marble026",
+  "checkedAt": "2026-10-12T01:42:37.914Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Marble026&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "a99dd0c1a1d4e32507ad027a7a6d0313729f81e85461feb5f499c14ce04fa316",
+  "apiMetadata": {
+    "assetId": "Marble026",
+    "dataType": "Material",
+    "displayName": "Marble 026",
+    "displayCategory": "Marble",
+    "shortLink": "https://ambientcg.com/a/Marble026",
+    "tags": [
+      "26",
+      "beige",
+      "marble",
+      "reflective",
+      "shiny",
+      "yellow"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Marble026.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Marble026.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Marble026.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Marble026.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Marble026.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Marble026.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Marble026.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Marble026.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Marble026.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Marble026.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Marble026.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Marble026.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Marble026.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Marble026.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Marble026.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Marble026.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Marble026.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Marble026.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Marble026.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Marble026.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Marble026.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Marble026.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Marble026.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Marble026.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_1K-JPG.zip",
+                "fileName": "Marble026_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_1K-JPG.zip",
+                "size": 5242530,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_2K-JPG.zip",
+                "fileName": "Marble026_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_2K-JPG.zip",
+                "size": 15547725,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_4K-JPG.zip",
+                "fileName": "Marble026_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_4K-JPG.zip",
+                "size": 48310803,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_8K-JPG.zip",
+                "fileName": "Marble026_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_8K-JPG.zip",
+                "size": 143488977,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_1K-PNG.zip",
+                "fileName": "Marble026_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_1K-PNG.zip",
+                "size": 13730585,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_2K-PNG.zip",
+                "fileName": "Marble026_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_2K-PNG.zip",
+                "size": 48795606,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_4K-PNG.zip",
+                "fileName": "Marble026_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_4K-PNG.zip",
+                "size": 177587064,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Marble026_8K-PNG.zip",
+                "fileName": "Marble026_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Marble026_8K-PNG.zip",
+                "size": 550338571,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2021-08-08 00:00:00",
+    "earlyReleaseDate": "2021-08-08 00:00:00",
+    "creationMethod": "PBRMultiAngle",
+    "category": null,
+    "downloadCount": 40617,
+    "downloadCountMonth": 1729,
+    "downloadCountWeek": 541,
+    "popularityScore": 4.5867154379498425,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_Color.jpg?87221&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_Displacement.jpg?6334&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_NormalDX.jpg?74278&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_Roughness.jpg?49161",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_Color.jpg?11609,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_Displacement.jpg?94281,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_NormalDX.jpg?75737,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble026/Marble026_SQ_Roughness.jpg?16415&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Marble026.webp",
+  "previewSha256": "a4691b51df02d4d50e69c9690c13cd6e89f0e21295e4ac0b779a4d5a46e4bcbe",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

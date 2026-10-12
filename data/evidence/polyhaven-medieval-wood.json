@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/medieval_wood",
+  "checkedAt": "2026-10-12T01:25:52.530Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/medieval_wood",
+  "apiSha256": "09f0dbe55ee2059dd4516447c2537a7009acf18fbb5a94073771533ae6377439",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_wood/medieval_wood_diff_1k.jpg",
+  "assetFileMd5": "6c464ccb8e5dc5b1ab1b93c05dcc4a8c",
+  "assetFileSha256": "66a36635dc3f2db696dbb6939b1d4f86c0b666c898c1b55c6b5d6d9f1896b43e",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "weathered",
+      "old",
+      "uneven"
+    ],
+    "date_published": 1532476453,
+    "name": "Medieval Wood",
+    "old_id": 151,
+    "categories": [
+      "wood",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "sponsors": [
+      "20953239"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b8908557c616ef8ae1433ce664aaccbe3f9ed430",
+    "description": "Free 8K texture of weathered medieval wood planks with rough grain, deep grooves, uneven seams and rusted iron rivets.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "17b0a7e3",
+    "download_count": 46891,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_wood.png?width=256&height=256&format=webp&v=17b0a7e3"
+  }
+}

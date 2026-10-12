@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:12:08.404Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Cork004&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "8dd2608bd7b5ca1aae94b365df4cb726f53f74b556f7e2c2004b88000e7d04db",
+  "apiSha256": "ef1355340f5415f3ffa2b6065d9f54882a798a50376e9e5558eef69324242535",
   "apiMetadata": {
     "assetId": "Cork004",
     "dataType": "Material",
@@ -135,10 +135,10 @@
     "earlyReleaseDate": "2025-01-12 20:00:00",
     "creationMethod": "PBRApproximated",
     "category": null,
-    "downloadCount": 13566,
-    "downloadCountMonth": 1875,
-    "downloadCountWeek": 721,
-    "popularityScore": 5.980606372783341,
+    "downloadCount": 13773,
+    "downloadCountMonth": 2017,
+    "downloadCountWeek": 761,
+    "popularityScore": 6.03114662545087,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -157,7 +157,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Color.jpg?48978&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Displacement.jpg?67190&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_NormalDX.jpg?12586&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Roughness.jpg?48134",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Color.jpg?19075&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Displacement.jpg?7256&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_NormalDX.jpg?65394&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Roughness.jpg?53292",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -168,7 +168,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Color.jpg?67276,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Displacement.jpg?32712,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_NormalDX.jpg?14513,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Roughness.jpg?38295&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Color.jpg?61240,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Displacement.jpg?18555,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_NormalDX.jpg?90608,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork004/Cork004_SQ_Roughness.jpg?52267&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -186,5 +186,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Cork004.webp",
   "previewSha256": "cdfef9ffb0f62248a0f8a351566aa6f13f579f151d52edf391a1e3f1b51333c7",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-12T02:19:46.147Z"
 }

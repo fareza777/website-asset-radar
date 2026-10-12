@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_plaster_rough_02",
+  "checkedAt": "2026-10-12T01:39:07.024Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_plaster_rough_02",
+  "apiSha256": "028e7bc2ee0723e97e10b48b348ff51872e362c98444fe513cadc018b79c8796",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_rough_02/white_plaster_rough_02_diff_1k.jpg",
+  "assetFileMd5": "72b5ae937f3d3d2bec8507eec60f1a53",
+  "assetFileSha256": "1449dbca00e0c5c9588306313d910bbc8bfe201b4d8798dd4856fba822e47e09",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "broken",
+      "cracked",
+      "moss",
+      "uneven",
+      "cement",
+      "damaged",
+      "old",
+      "sewer",
+      "tunnel"
+    ],
+    "date_published": 1529359200,
+    "name": "White Plaster Rough 02",
+    "old_id": 118,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "4b74a30241eabbfcb8d6728b2b4f72379bc6b316",
+    "categories": [
+      "plaster-concrete",
+      "wall",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "description": "Free 8K texture of weathered white plaster showing rough, cracked, uneven cement with chipped areas, moss staining and gritty dirt.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "cracked",
+        "damaged",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "fa4880aa",
+    "download_count": 54717,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_plaster_rough_02.png?width=256&height=256&format=webp&v=fa4880aa"
+  }
+}

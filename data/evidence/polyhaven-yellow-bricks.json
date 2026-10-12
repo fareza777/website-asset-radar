@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/yellow_bricks",
+  "checkedAt": "2026-10-12T01:39:47.333Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/yellow_bricks",
+  "apiSha256": "b7af534f8fd019fe5138120b2ceb5b25df00fd00347ee7b4086577d60d3d6b7f",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/yellow_bricks/yellow_bricks_diff_1k.jpg",
+  "assetFileMd5": "b062bf521fb61f2b1a20d8385893c12d",
+  "assetFileSha256": "e8441ebdad8b269fc6a4f8462bac5e15ff6a3c3f112884c244e78982e5082c94",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "sponsors": [
+      "3267566"
+    ],
+    "name": "Yellow Bricks",
+    "old_id": 121,
+    "categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "type": 1,
+    "tags": [
+      "wall",
+      "rough",
+      "uneven",
+      "moss",
+      "sewer",
+      "tunnel",
+      "old"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "6ccaea593eef74cd7baab5653ef4ea63e6a9bf7f",
+    "description": "Free 8K texture of yellowed brick: rough, uneven blocks with weathered mortar, mossy damp stains and gritty dirt.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "7797ac1c",
+    "download_count": 35417,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_bricks.png?width=256&height=256&format=webp&v=7797ac1c"
+  }
+}

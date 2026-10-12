@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/floor_klinkers_01",
+  "checkedAt": "2026-10-12T01:34:07.018Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/floor_klinkers_01",
+  "apiSha256": "ff2258d7f09bf6d2eb3237f90e108ce5497b673102a42c1d854c1302d7fd45e4",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/floor_klinkers_01/floor_klinkers_01_diff_1k.jpg",
+  "assetFileMd5": "286d54ccd8da90abf702de963da0b772",
+  "assetFileSha256": "468ae16654e092c5523604b8afa43b1dfb47dc322fb2bfb48bc18c33e5f815f8",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1,2",
+    "type": 1,
+    "date_published": 1529359200,
+    "name": "Floor Klinkers 01",
+    "old_id": 93,
+    "categories": [
+      "floor",
+      "brick",
+      "outdoor",
+      "dirty",
+      "man made"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1200.0000476837158,
+      1200.0000476837158
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b5eb939a0040eebecdf46302c752191bd84db409",
+    "tags": [
+      "bricks",
+      "moss",
+      "rough",
+      "weathered",
+      "aged",
+      "uneven",
+      "mosscovered",
+      "weatherbeaten"
+    ],
+    "description": "Free 8K texture of uneven, weathered brick floor: rough, chipped bricks with moss-filled joints, dirt and an aged, weatherbeaten surface.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "mossy",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "6fb654f6",
+    "download_count": 25155,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_klinkers_01.png?width=256&height=256&format=webp&v=6fb654f6"
+  }
+}

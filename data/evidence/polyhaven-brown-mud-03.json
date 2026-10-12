@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_mud_03",
+  "checkedAt": "2026-10-12T01:31:05.883Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_mud_03",
+  "apiSha256": "70bb0fca06b3390d9ae96efea37bbfd478611d9618310e44351e884160ab24c5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_03/brown_mud_03_diff_1k.jpg",
+  "assetFileMd5": "b99d14c26debf660457b9497f2facec6",
+  "assetFileSha256": "6da4fbd6fc5d21044dcbdbd96e098fb464ed544b42c982e72ce8ccd1d53686c5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1,2",
+    "type": 1,
+    "date_published": 1529359200,
+    "name": "Brown Mud 03",
+    "old_id": 79,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "3237733"
+    ],
+    "dimensions": [
+      1299.996018409729,
+      1299.996018409729
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "37e114425efff8997b4046a3d77a1477e0375b14",
+    "tags": [
+      "mud",
+      "dirt",
+      "stones",
+      "dry",
+      "ground",
+      "soil",
+      "wet soil",
+      "footprints",
+      "earth",
+      "muddy surface",
+      "wet patches",
+      "mud clumps",
+      "loose earth"
+    ],
+    "description": "Free 8K texture of brown mud with glossy wet patches, compact clumps, loose earth and stones; high-detail rough, uneven surface with footprints and ridges.",
+    "category_id": "12aa7954-48be-5855-812b-7dc4aca856fd",
+    "category": "Ground & Terrain/Soil & Mud/Wet Mud",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "fec4283c",
+    "download_count": 89943,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_mud_03.png?width=256&height=256&format=webp&v=fec4283c"
+  }
+}

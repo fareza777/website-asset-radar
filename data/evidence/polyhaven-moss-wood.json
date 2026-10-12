@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/moss_wood",
+  "checkedAt": "2026-10-12T01:28:45.416Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/moss_wood",
+  "apiSha256": "be75765dedaa02f01073734ca2e813a6dca9181c7e321e0fed69e8a765ff6717",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/moss_wood/moss_wood_diff_1k.jpg",
+  "assetFileMd5": "3de94c0b72a86b272335c3726dfc705b",
+  "assetFileSha256": "758a9720d29ca030d505fac0f8fdd90db172882ff149d8ea730c11d57c98924c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "moss",
+      "planks",
+      "rough",
+      "old",
+      "green"
+    ],
+    "date_published": 1529914421,
+    "name": "Moss Wood",
+    "old_id": 139,
+    "categories": [
+      "wood",
+      "wall",
+      "floor",
+      "man made",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "2309b62acdfc4bffc2566ac0f8aafa3de3ad5846",
+    "description": "Free 8K texture of old wooden planks thickly covered in green moss, showing rough cracked grain, raised bumps and weathered surface detail.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "floor",
+      "condition": [
+        "weathered",
+        "mossy",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "95661d3c",
+    "download_count": 69327,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moss_wood.png?width=256&height=256&format=webp&v=95661d3c"
+  }
+}

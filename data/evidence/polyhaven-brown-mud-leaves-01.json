@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_mud_leaves_01",
+  "checkedAt": "2026-10-12T01:31:25.444Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_mud_leaves_01",
+  "apiSha256": "b627ec18a8532c255c24c0e4e05e0f38cb12fd6dc2939c015b05293d2480e6ad",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_diff_1k.jpg",
+  "assetFileMd5": "5340848384f9bb19bfa6e7ac459683d7",
+  "assetFileSha256": "c598c555f13cd5328409fd5e2a45496a26e319e52299e3959042f1449c2f1b06",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "name": "Brown Mud Leaves 01",
+    "old_id": 129,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "type": 1,
+    "tags": [
+      "grass",
+      "mud",
+      "moss",
+      "stones",
+      "orange",
+      "forest"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1299.9998331069946,
+      1299.9998331069946
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7b74cea31de3b88001ff3bd7b8c01b88a7a58cf0",
+    "description": "Free 8K texture of brown muddy ground with scattered leaves, moss patches, small pebbles and a damp, rough surface with fine organic detail.",
+    "category_id": "b9a51c27-1499-5f4d-b28f-0d96ef8e0319",
+    "category": "Ground & Terrain/Forest Floor/Leaf Litter",
+    "sponsors": [
+      "540619",
+      "172914019"
+    ],
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "mossy",
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "ce084bc9",
+    "download_count": 524304,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_mud_leaves_01.png?width=256&height=256&format=webp&v=ce084bc9"
+  }
+}

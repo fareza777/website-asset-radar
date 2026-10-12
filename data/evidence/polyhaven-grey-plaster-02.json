@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/grey_plaster_02",
+  "checkedAt": "2026-10-12T01:35:26.872Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/grey_plaster_02",
+  "apiSha256": "dcd5b9802be5b29ab75167562155bb7766ca18288f2edbb5805315715c331b01",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster_02/grey_plaster_02_diff_1k.jpg",
+  "assetFileMd5": "fe17ee482114c15690c2bc853c572bbc",
+  "assetFileSha256": "c455b6513a37908480eedd59f697719649aca97d3c76525718a77d7d600e2d22",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "name": "Grey Plaster 02",
+    "old_id": 100,
+    "type": 1,
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "categories": [
+      "plaster",
+      "outdoor",
+      "indoor",
+      "man made",
+      "dirty",
+      "wall",
+      "floor",
+      "plaster-concrete",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "rough",
+      "worn",
+      "cracked"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "71f56e46aa453868d2b2c9896d199f230d80ebac",
+    "description": "Free 8K grey plaster texture with rough, worn, cracked surface, dirt streaks, exposed aggregate flecks and subtle tonal variation across a man-made surface.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn",
+        "cracked",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "9be2e2a6",
+    "download_count": 78244,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_plaster_02.png?width=256&height=256&format=webp&v=9be2e2a6"
+  }
+}

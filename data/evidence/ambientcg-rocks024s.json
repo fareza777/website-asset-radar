@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Rocks024S",
+  "checkedAt": "2026-10-12T01:36:51.677Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rocks024S&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "772c32b570616a06e368d533748d2a05b4b7ca6d5af0d5806b5531f7e558f2d6",
+  "apiMetadata": {
+    "assetId": "Rocks024S",
+    "dataType": "Material",
+    "displayName": "Rocks 024 S",
+    "displayCategory": "Rocks",
+    "shortLink": "https://ambientcg.com/a/Rocks024S",
+    "tags": [
+      "24",
+      "bed",
+      "flat",
+      "gray",
+      "grey",
+      "river",
+      "rocks"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Rocks024S.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Rocks024S.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Rocks024S.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Rocks024S.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Rocks024S.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Rocks024S.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Rocks024S.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Rocks024S.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Rocks024S.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Rocks024S.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Rocks024S.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Rocks024S.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Rocks024S.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Rocks024S.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Rocks024S.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Rocks024S.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Rocks024S.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Rocks024S.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Rocks024S.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Rocks024S.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Rocks024S.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rocks024S.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Rocks024S.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Rocks024S.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_1K-JPG.zip",
+                "fileName": "Rocks024S_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_1K-JPG.zip",
+                "size": 8386115,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_2K-JPG.zip",
+                "fileName": "Rocks024S_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_2K-JPG.zip",
+                "size": 26779136,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_4K-JPG.zip",
+                "fileName": "Rocks024S_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_4K-JPG.zip",
+                "size": 95204469,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_8K-JPG.zip",
+                "fileName": "Rocks024S_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_8K-JPG.zip",
+                "size": 362592872,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_1K-PNG.zip",
+                "fileName": "Rocks024S_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_1K-PNG.zip",
+                "size": 17309063,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_2K-PNG.zip",
+                "fileName": "Rocks024S_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_2K-PNG.zip",
+                "size": 63004041,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_4K-PNG.zip",
+                "fileName": "Rocks024S_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_4K-PNG.zip",
+                "size": 242070599,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rocks024S_8K-PNG.zip",
+                "fileName": "Rocks024S_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rocks024S_8K-PNG.zip",
+                "size": 936616665,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2021-10-03 00:00:00",
+    "earlyReleaseDate": "2021-10-03 00:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 15869,
+    "downloadCountMonth": 956,
+    "downloadCountWeek": 279,
+    "popularityScore": 2.4571679105780957,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 180,
+    "dimensionY": 180,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_Color.jpg?40315&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_Displacement.jpg?55962&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_NormalDX.jpg?26725&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_Roughness.jpg?51234&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_AmbientOcclusion.jpg?46514",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_Color.jpg?36406,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_Displacement.jpg?59826,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_NormalDX.jpg?82012,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_Roughness.jpg?46367,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rocks024S/Rocks024S_SQ_AmbientOcclusion.jpg?68452&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rocks024S.webp",
+  "previewSha256": "b77798c1f0a9c80019b0a2b524eb8cc16a3c17c015f4efcf0ab45b123c021e55",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

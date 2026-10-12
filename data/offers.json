@@ -1,440 +1,5 @@
 [
   {
-    "id": "gowl-pixelwood-valley",
-    "title": "Pixelwood Valley — Premium",
-    "author": "Gowl",
-    "summary": "A premium 16×16 village pack with houses, farms, scenery and animated player actions. The free demo is noncommercial; the paid premium license permits commercial projects.",
-    "categories": [
-      "RPG",
-      "Idle"
-    ],
-    "dimension": "2D",
-    "assetType": "Tilesets",
-    "type": "deal",
-    "originalPrice": 9,
-    "salePrice": 4.23,
-    "discountPercent": 53,
-    "currency": "USD",
-    "expiresAt": "2026-10-13T16:03:00.000Z",
-    "rating": 4.9,
-    "reviewCount": 43,
-    "radarScore": 72,
-    "dealScore": 70,
-    "source": "itch.io",
-    "sourceUrl": "https://gowldev.itch.io/pixelwood-valley",
-    "canonicalSourceUrl": "https://gowldev.itch.io/pixelwood-valley",
-    "license": "Creator commercial license",
-    "licenseUrl": "https://gowldev.itch.io/pixelwood-valley",
-    "commercialUse": true,
-    "lastChecked": "2026-10-09T06:05:23.587Z",
-    "addedAt": "2026-10-09",
-    "formats": [
-      "ZIP"
-    ],
-    "engines": [],
-    "engineNote": "Only the ZIP download is explicitly listed. Content image formats and engine packages are unverified; pixel-art screenshots alone do not establish engine compatibility. Paid files were not downloaded or tested.",
-    "tags": [
-      "pixel art",
-      "tileset",
-      "village"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1hZ2UvMjkwOTUyNS8yOTgzNjM2Ny5wbmc=/original/meXoQh.png",
-      "sourceUrl": "https://gowldev.itch.io/pixelwood-valley",
-      "alt": "Publisher screenshot showing the Pixelwood Valley — Premium asset pack and its pixel-art environment.",
-      "credit": "Gowl",
-      "checkedAt": "2026-10-09T06:05:23.587Z",
-      "note": "Exact static screenshot URL observed in this product's public publisher gallery. Linked from the publisher CDN; no artwork or paid archive was downloaded or rehosted. Price/license verification is recorded separately."
-    },
-    "licenseNote": "Premium version permits personal/commercial projects and modification. No redistribution or resale as assets. Credit is appreciated. The free version is noncommercial and is excluded from this offer.",
-    "priceNote": "Premium version, USD minimum purchase price before applicable tax. Free noncommercial demo is a separate tier.",
-    "licenseTier": "Premium",
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "The listing documents village buildings, farming scenery and animated player actions, with 4.9/5 from 43 ratings. The $4.23 premium tier has explicit commercial permission and a verified 53% reduction. Quality/value/completeness/reputation are strong rather than exceptional. Contents are publisher-listed; ZIP contents and engine performance are untested."
-    }
-  },
-  {
-    "id": "szadiart-sidescroll-worlds-set5",
-    "title": "SideScroll Worlds — Set 5",
-    "author": "Szadi art.",
-    "summary": "A 32×32 platformer tileset with layered PSD files, PNG art, a five-layer parallax background, terrain variants, props and animated objects listed by the publisher.",
-    "categories": [
-      "Platformer"
-    ],
-    "dimension": "2D",
-    "assetType": "Tilesets",
-    "type": "deal",
-    "originalPrice": 12,
-    "salePrice": 4.8,
-    "discountPercent": 60,
-    "currency": "USD",
-    "expiresAt": "2026-10-11T20:00:00.000Z",
-    "rating": 5,
-    "reviewCount": 18,
-    "radarScore": 71,
-    "dealScore": 71,
-    "source": "itch.io",
-    "sourceUrl": "https://szadiart.itch.io/sidescroll-worlds-set5",
-    "canonicalSourceUrl": "https://szadiart.itch.io/sidescroll-worlds-set5",
-    "license": "Creator commercial license",
-    "licenseUrl": "https://szadiart.itch.io/sidescroll-worlds-set5",
-    "commercialUse": true,
-    "lastChecked": "2026-10-09T06:05:25.556Z",
-    "addedAt": "2026-10-09",
-    "formats": [
-      "PNG",
-      "PSD"
-    ],
-    "engines": [
-      "Unity",
-      "Godot",
-      "Unreal",
-      "GameMaker"
-    ],
-    "engineNote": "The publisher explicitly lists PNG and PSD files. PNG art can be imported into engines with manual tile/background setup; no native engine project or performance test is verified.",
-    "tags": [
-      "pixel art",
-      "tileset",
-      "platformer"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1hZ2UvMTMzMjAzMy83NzQ3NjkwLnBuZw==/original/8nQBX7.png",
-      "sourceUrl": "https://szadiart.itch.io/sidescroll-worlds-set5",
-      "alt": "Publisher screenshot showing the SideScroll Worlds — Set 5 asset pack and its pixel-art environment.",
-      "credit": "Szadi art.",
-      "checkedAt": "2026-10-09T06:05:25.556Z",
-      "note": "Exact static screenshot URL observed in this product's public publisher gallery. Linked from the publisher CDN; no artwork or paid archive was downloaded or rehosted. Price/license verification is recorded separately."
-    },
-    "licenseNote": "Publisher permits personal/commercial projects and modification. Asset resale, standalone redistribution and logo/trademark use are prohibited. Credit is appreciated, not required.",
-    "priceNote": "USD minimum purchase price before applicable tax; the displayed sale applies to the paid asset pack.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "The listing documents PNG/PSD art, 32px tiles, five parallax layers and animated props, with 5/5 from 18 ratings. The checked $4.80 price is 60% below $12. Commercial terms and editable files support strong value/completeness; the small rating sample is moderated. Grades are 4/5, not exceptional, and paid files remain untested."
-    }
-  },
-  {
-    "id": "gandalf-hell-tiles-enemies",
-    "title": "Hell Tiles and Enemies — 32×32",
-    "author": "GandalfHardcore",
-    "summary": "32×32 hell floor, wall, lava and prop tiles in two palettes, plus animated damned, imps and skull enemies. Some characters in the publisher screenshots belong to separate packs.",
-    "categories": [
-      "Platformer",
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Tilesets",
-    "type": "deal",
-    "originalPrice": 9.99,
-    "salePrice": 6.49,
-    "discountPercent": 35,
-    "currency": "USD",
-    "expiresAt": "2026-10-12T13:28:00.000Z",
-    "rating": 5,
-    "reviewCount": 24,
-    "radarScore": 77,
-    "dealScore": 73,
-    "source": "itch.io",
-    "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-hell-tiles-enemies-asset-pack-32x32",
-    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/pixel-art-hell-tiles-enemies-asset-pack-32x32",
-    "license": "Creator license",
-    "licenseUrl": "https://gandalfhardcore.itch.io/pixel-art-hell-tiles-enemies-asset-pack-32x32",
-    "commercialUse": true,
-    "lastChecked": "2026-10-09T15:00:18.308Z",
-    "addedAt": "2026-10-09",
-    "formats": [
-      "ZIP"
-    ],
-    "engines": [],
-    "engineNote": "The publisher lists one ZIP download of 32×32 or 16×16 sprites. No engine project was listed, so compatibility stays unverified.",
-    "tags": [
-      "hell",
-      "tileset",
-      "enemies",
-      "pixel art",
-      "side scroller"
-    ],
-    "featured": false,
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "Commercial and non-commercial projects and modification are allowed. Resale, redistribution, AI training, NFT or crypto uses, game-development tools and printed materials are prohibited. Attribution is not stated.",
-    "priceNote": "Verified USD minimum from the public purchase panel. No currency conversion or paid archive download was performed.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4.5,
-      "value": 4.5,
-      "completeness": 4.5,
-      "reputation": 4,
-      "rationale": "35% off a tiles-and-enemies pack rated 5.0/5 from 24 marketplace ratings. The page lists two palettes, tile types and per-enemy frame counts. The ZIP was not opened, and some pictured characters are from other packs."
-    }
-  },
-  {
-    "id": "rafaelmatos-epic-rpg-village",
-    "title": "Epic RPG World — The Village",
-    "author": "RafaelMatos",
-    "summary": "Modular 32×32 village walls, roofs, doors and animated NPCs such as villagers, a blacksmith and a fisherman. Terrain in the mockups is from the separate Grass Land 2.0 pack.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Tilesets",
-    "type": "deal",
-    "originalPrice": 18,
-    "salePrice": 9,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-10-11T18:00:00.000Z",
-    "rating": 5,
-    "reviewCount": 9,
-    "radarScore": 70,
-    "dealScore": 74,
-    "source": "itch.io",
-    "sourceUrl": "https://rafaelmatos.itch.io/epic-rpg-world-the-village-asset-pack",
-    "canonicalSourceUrl": "https://rafaelmatos.itch.io/epic-rpg-world-the-village-asset-pack",
-    "license": "Creator license",
-    "licenseUrl": "https://rafaelmatos.itch.io/epic-rpg-world-the-village-asset-pack",
-    "commercialUse": true,
-    "lastChecked": "2026-10-09T15:00:18.308Z",
-    "addedAt": "2026-10-09",
-    "formats": [
-      "ZIP",
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "The publisher lists a ZIP of the village pack and a separate PNG of premade houses. No engine project was listed or inspected.",
-    "tags": [
-      "village",
-      "buildings",
-      "npc",
-      "pixel art",
-      "rpg"
-    ],
-    "featured": false,
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzIxMTY4NTkzLnBuZw==/original/lPb3oX.png",
-      "sourceUrl": "https://rafaelmatos.itch.io/epic-rpg-world-the-village-asset-pack",
-      "alt": "Publisher title banner for Epic RPG World Village over a pixel-art grass and tree background.",
-      "credit": "RafaelMatos",
-      "checkedAt": "2026-10-09T15:00:18.308Z",
-      "note": "Observed in this product's public gallery as an original itch.io image. No artwork was copied. The publisher states terrain and props in the mockups come from Grass Land 2.0. This preview check does not refresh prices or licensing."
-    },
-    "licenseNote": "Personal and commercial use in a project, including modification, is allowed. Credit is appreciated but not required. Repackaging, redistribution, resale, NFT uses and AI training are prohibited.",
-    "priceNote": "Verified USD minimum from the public purchase panel. Half off the listed $18 price. No paid archive download was performed.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4.5,
-      "completeness": 4.5,
-      "reputation": 3,
-      "rationale": "50% off a modular village pack rated 5.0/5 from 9 ratings, a small sample. The page lists building modules and several animated NPCs. Mockup terrain is explicitly from another pack, and the ZIP was not opened."
-    }
-  },
-  {
-    "id": "gandalf-pixel-succubus",
-    "title": "Pixel Art Succubus — Character Pack",
-    "author": "GandalfHardcore",
-    "summary": "Side-view succubus sprites with color variants, a human form and listed combat, flight and idle animations. The publisher warns of mild suggestive content. ZIP downloads include Aseprite files.",
-    "categories": [
-      "Platformer",
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Characters",
-    "type": "deal",
-    "originalPrice": 12.99,
-    "salePrice": 8.44,
-    "discountPercent": 35,
-    "currency": "USD",
-    "expiresAt": "2026-10-12T13:28:00.000Z",
-    "rating": 5,
-    "reviewCount": 52,
-    "radarScore": 78,
-    "dealScore": 73,
-    "source": "itch.io",
-    "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-succubus",
-    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/pixel-art-succubus",
-    "license": "Creator license",
-    "licenseUrl": "https://gandalfhardcore.itch.io/pixel-art-succubus",
-    "commercialUse": true,
-    "lastChecked": "2026-10-09T15:00:18.308Z",
-    "addedAt": "2026-10-09",
-    "formats": [
-      "ZIP",
-      "Aseprite"
-    ],
-    "engines": [],
-    "engineNote": "The publisher lists ZIP downloads and says the folder includes spritesheets and an Aseprite file. No engine project was listed or inspected.",
-    "tags": [
-      "character",
-      "succubus",
-      "pixel art",
-      "animation",
-      "side scroller"
-    ],
-    "featured": false,
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzE4NjM0MzM3LnBuZw==/original/AEaVaj.png",
-      "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-succubus",
-      "alt": "Publisher banner with pixel-art portraits of a dark-haired human form and a horned succubus beside the pack title.",
-      "credit": "GandalfHardcore",
-      "checkedAt": "2026-10-09T15:00:18.308Z",
-      "note": "Observed in this product's public gallery as an original itch.io image. No artwork or paid archive was copied. The publisher notes mild suggestive content. This preview check does not refresh prices or licensing."
-    },
-    "licenseNote": "Commercial and non-commercial projects and modification are allowed. Resale, redistribution, AI training, NFT or crypto uses, game-development tools and printed materials are prohibited. Attribution is not stated.",
-    "priceNote": "Verified USD minimum from the public purchase panel. No currency conversion or paid archive download was performed.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4.5,
-      "completeness": 4.5,
-      "reputation": 4.5,
-      "rationale": "35% off a character pack rated 5.0/5 from 52 marketplace ratings. The page lists dozens of named animations, color variants and separate ZIP downloads. Files were not opened, and the publisher warns of mild suggestive content."
-    }
-  },
-  {
-    "id": "gandalf-npc-character-pack",
-    "title": "30+ Pixel Art Characters — NPC Pack",
-    "author": "GandalfHardcore",
-    "summary": "A listed set of about 90 medieval pixel NPCs, including knights, workers, musicians and idle or walk sprites. A separate small ZIP contains bikini variants, and the page lists some nude or covered figures.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Characters",
-    "type": "deal",
-    "originalPrice": 9.99,
-    "salePrice": 6.49,
-    "discountPercent": 35,
-    "currency": "USD",
-    "expiresAt": "2026-10-12T13:28:00.000Z",
-    "rating": 5,
-    "reviewCount": 21,
-    "radarScore": 71,
-    "dealScore": 71,
-    "source": "itch.io",
-    "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
-    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
-    "license": "Creator license",
-    "licenseUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
-    "commercialUse": true,
-    "lastChecked": "2026-10-10T01:13:05.000Z",
-    "addedAt": "2026-10-10",
-    "formats": [
-      "ZIP",
-      "Aseprite"
-    ],
-    "engines": [],
-    "engineNote": "The publisher lists two ZIP downloads and says the folder includes spritesheets and an Aseprite file. No engine project was listed or inspected.",
-    "tags": [
-      "character",
-      "npc",
-      "pixel art",
-      "spritesheet",
-      "medieval"
-    ],
-    "featured": false,
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzE5ODMxMzMzLnBuZw==/original/%2BtgeGb.png",
-      "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
-      "alt": "Pixel-art banner of medieval NPCs, including a nurse, wizard, painter, sculptor and a 30+ badge, on a pale blue background.",
-      "credit": "GandalfHardcore",
-      "checkedAt": "2026-10-10T01:13:05.000Z",
-      "note": "Observed as this product page's static Open Graph image on img.itch.zone. The embedded gallery frames are animated GIFs, so this static card is linked instead. No artwork or paid archive was copied."
-    },
-    "licenseNote": "Commercial and non-commercial video games and projects are allowed, including modification and display on designated websites. Resale, redistribution, AI training, NFT or crypto uses, game-development tools and printed materials are prohibited. Attribution is not stated.",
-    "priceNote": "Verified USD minimum from the public purchase panel: $9.99 crossed out to $6.49. No currency conversion or paid archive download was performed.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4.5,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "35% off a character pack rated 5.0/5 from 21 marketplace ratings. The page names dozens of NPCs and two ZIP downloads with spritesheets and an Aseprite file. Paid files were not opened. A separate bikini ZIP and some nude or covered figures are disclosed by the listing."
-    }
-  },
-  {
-    "id": "gandalf-16x16-item-icons",
-    "title": "16×16 Pixel Art Item Icons",
-    "author": "GandalfHardcore",
-    "summary": "A publisher-listed set of 600 pixel item icons covering food, materials, gems, weapons, tools, clothing and armor color variants, plus a 10-item demo ZIP.",
-    "categories": [
-      "RPG",
-      "UI"
-    ],
-    "dimension": "2D",
-    "assetType": "Icons",
-    "type": "deal",
-    "originalPrice": 1,
-    "salePrice": 0.65,
-    "discountPercent": 35,
-    "currency": "USD",
-    "expiresAt": "2026-10-12T13:28:00.000Z",
-    "rating": 5,
-    "reviewCount": 13,
-    "radarScore": 66,
-    "dealScore": 73,
-    "source": "itch.io",
-    "sourceUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
-    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
-    "license": "Creator license",
-    "licenseUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
-    "commercialUse": true,
-    "lastChecked": "2026-10-10T01:13:05.000Z",
-    "addedAt": "2026-10-10",
-    "formats": [
-      "ZIP",
-      "Aseprite",
-      "PLS"
-    ],
-    "engines": [],
-    "engineNote": "The page lists a paid ZIP, a demo ZIP, separate icons, a spritesheet, an Aseprite file and a PLS file. Made-with tags are not an engine project.",
-    "tags": [
-      "icons",
-      "items",
-      "pixel art",
-      "inventory",
-      "16x16"
-    ],
-    "featured": false,
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzEyMDYxOTY2LnBuZw==/original/8yJSy9.png",
-      "sourceUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
-      "alt": "Grid of 16-pixel item icons on black, including scrolls, tools, bows, shields, food and armor pieces.",
-      "credit": "GandalfHardcore",
-      "checkedAt": "2026-10-10T01:13:05.000Z",
-      "note": "Observed in this product's public page as an original itch.io PNG. No artwork or paid archive was copied. This preview check does not refresh prices or licensing."
-    },
-    "licenseNote": "Commercial and non-commercial video games and projects are allowed, including modification and display on designated websites. Resale, redistribution, AI training, NFT or crypto uses, game-development tools and printed materials are prohibited. Attribution is not stated.",
-    "priceNote": "Verified USD minimum from the public purchase panel: $1.00 crossed out to $0.65. No currency conversion or paid archive download was performed.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 3.5,
-      "value": 5,
-      "completeness": 4,
-      "reputation": 3.5,
-      "rationale": "35% off a 600-icon listing rated 5.0/5 from 13 marketplace ratings. The page lists item groups, armor color variants, a spritesheet, Aseprite and PLS files, and a 10-icon demo. Paid files were not opened, so quality stays below exceptional."
-    }
-  },
-  {
     "id": "hawtpixel-font-bundle",
     "title": "Hawtpixel Font Bundle",
     "author": "Hawtpixel - Darrell Flood",
@@ -491,6 +56,369 @@
       "completeness": 3,
       "reputation": 4,
       "rationale": "The product lists one 69 MB ZIP of commercial fonts and shows 5.0 from 37 ratings. The purchase panel price is $199.99 to a $19.99 minimum, a 90% reduction. Quality and value are strong for that rating sample and stated commercial scope; completeness is adequate because the archive was not opened. Reputation reflects the named creator and rating count, which the score still moderates. No engine test was performed."
+    }
+  },
+  {
+    "id": "gandalf-npc-character-pack",
+    "title": "30+ Pixel Art Characters — NPC Pack",
+    "author": "GandalfHardcore",
+    "summary": "A listed set of about 90 medieval pixel NPCs, including knights, workers, musicians and idle or walk sprites. A separate small ZIP contains bikini variants, and the page lists some nude or covered figures.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 9.99,
+    "salePrice": 6.49,
+    "discountPercent": 35,
+    "currency": "USD",
+    "expiresAt": "2026-10-12T13:28:00.000Z",
+    "rating": 5,
+    "reviewCount": 21,
+    "radarScore": 71,
+    "dealScore": 71,
+    "source": "itch.io",
+    "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
+    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
+    "license": "Creator license",
+    "licenseUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
+    "commercialUse": true,
+    "lastChecked": "2026-10-12T01:32:57.945Z",
+    "addedAt": "2026-10-10",
+    "formats": [
+      "ZIP",
+      "Aseprite"
+    ],
+    "engines": [],
+    "engineNote": "The publisher lists two ZIP downloads and says the folder includes spritesheets and an Aseprite file. No engine project was listed or inspected.",
+    "tags": [
+      "character",
+      "npc",
+      "pixel art",
+      "spritesheet",
+      "medieval"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzE5ODMxMzMzLnBuZw==/original/%2BtgeGb.png",
+      "sourceUrl": "https://gandalfhardcore.itch.io/pixel-art-characters-npc-pack",
+      "alt": "Pixel-art banner of medieval NPCs, including a nurse, wizard, painter, sculptor and a 30+ badge, on a pale blue background.",
+      "credit": "GandalfHardcore",
+      "checkedAt": "2026-10-12T01:32:57.945Z",
+      "note": "Observed as this product page's static Open Graph image on img.itch.zone. The embedded gallery frames are animated GIFs, so this static card is linked instead. No artwork or paid archive was copied."
+    },
+    "licenseNote": "Commercial and non-commercial video games and projects are allowed, including modification and display on designated websites. Resale, redistribution, AI training, NFT or crypto uses, game-development tools and printed materials are prohibited. Attribution is not stated.",
+    "priceNote": "Verified USD minimum from the public purchase panel: $9.99 crossed out to $6.49. No currency conversion or paid archive download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "35% off a character pack rated 5.0/5 from 21 marketplace ratings. The page names dozens of NPCs and two ZIP downloads with spritesheets and an Aseprite file. Paid files were not opened. A separate bikini ZIP and some nude or covered figures are disclosed by the listing."
+    }
+  },
+  {
+    "id": "gandalf-16x16-item-icons",
+    "title": "16×16 Pixel Art Item Icons",
+    "author": "GandalfHardcore",
+    "summary": "A publisher-listed set of 600 pixel item icons covering food, materials, gems, weapons, tools, clothing and armor color variants, plus a 10-item demo ZIP.",
+    "categories": [
+      "RPG",
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "Icons",
+    "type": "deal",
+    "originalPrice": 1,
+    "salePrice": 0.65,
+    "discountPercent": 35,
+    "currency": "USD",
+    "expiresAt": "2026-10-12T13:28:00.000Z",
+    "rating": 5,
+    "reviewCount": 13,
+    "radarScore": 66,
+    "dealScore": 73,
+    "source": "itch.io",
+    "sourceUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
+    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
+    "license": "Creator license",
+    "licenseUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
+    "commercialUse": true,
+    "lastChecked": "2026-10-12T01:32:57.945Z",
+    "addedAt": "2026-10-10",
+    "formats": [
+      "ZIP",
+      "Aseprite",
+      "PLS"
+    ],
+    "engines": [],
+    "engineNote": "The page lists a paid ZIP, a demo ZIP, separate icons, a spritesheet, an Aseprite file and a PLS file. Made-with tags are not an engine project.",
+    "tags": [
+      "icons",
+      "items",
+      "pixel art",
+      "inventory",
+      "16x16"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzEyMDYxOTY2LnBuZw==/original/8yJSy9.png",
+      "sourceUrl": "https://gandalfhardcore.itch.io/16x16-pixel-art-item-icons",
+      "alt": "Grid of 16-pixel item icons on black, including scrolls, tools, bows, shields, food and armor pieces.",
+      "credit": "GandalfHardcore",
+      "checkedAt": "2026-10-12T01:32:57.945Z",
+      "note": "Observed in this product's public page as an original itch.io PNG. No artwork or paid archive was copied. This preview check does not refresh prices or licensing."
+    },
+    "licenseNote": "Commercial and non-commercial video games and projects are allowed, including modification and display on designated websites. Resale, redistribution, AI training, NFT or crypto uses, game-development tools and printed materials are prohibited. Attribution is not stated.",
+    "priceNote": "Verified USD minimum from the public purchase panel: $1.00 crossed out to $0.65. No currency conversion or paid archive download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 3.5,
+      "value": 5,
+      "completeness": 4,
+      "reputation": 3.5,
+      "rationale": "35% off a 600-icon listing rated 5.0/5 from 13 marketplace ratings. The page lists item groups, armor color variants, a spritesheet, Aseprite and PLS files, and a 10-icon demo. Paid files were not opened, so quality stays below exceptional."
+    }
+  },
+  {
+    "id": "szadiart-rpg-worlds-deep-cave",
+    "title": "RPG Worlds Deep Cave",
+    "author": "Szadi art",
+    "summary": "A 32×32 top-down cave tileset with terrain variants, three colors of animated lights, props and decorations. The page includes PNG and PSD files. The ZIP was not opened.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "type": "deal",
+    "originalPrice": 12,
+    "salePrice": 4.8,
+    "discountPercent": 60,
+    "currency": "USD",
+    "expiresAt": "2026-10-18T20:00:00.000Z",
+    "rating": 4.9,
+    "reviewCount": 16,
+    "radarScore": 71,
+    "dealScore": 71,
+    "source": "itch.io",
+    "sourceUrl": "https://szadiart.itch.io/rpg-worlds-deep-cave",
+    "canonicalSourceUrl": "https://szadiart.itch.io/rpg-worlds-deep-cave",
+    "license": "Creator license",
+    "licenseUrl": "https://szadiart.itch.io/rpg-worlds-deep-cave",
+    "commercialUse": true,
+    "lastChecked": "2026-10-12T01:32:57.945Z",
+    "addedAt": "2026-10-12",
+    "formats": [
+      "PNG",
+      "PSD",
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "The page lists PNG and PSD files in one ZIP. No engine project was listed or inspected, so setup is manual.",
+    "tags": [
+      "tileset",
+      "cave",
+      "top-down",
+      "pixel art"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "Commercial and personal projects are allowed, including edits and selling games made with the art. Logo, trademark and resale of the assets, original or modified, are prohibited. Credit is not required.",
+    "priceNote": "USD purchase panel showed $12 crossed out to $4.80. No currency conversion or paid download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "60% off a cave tileset rated 4.9/5 from 16 ratings. The page names 32×32 terrain, animated lights, props, PNG and PSD files. Paid files were not opened, so quality stays strong rather than exceptional."
+    }
+  },
+  {
+    "id": "brullov-generic-character",
+    "title": "Generic Character Asset",
+    "author": "brullov",
+    "summary": "A side-view fantasy character with idle, run, jump, climb, attack, spell and death animations, plus four color variants. The page lists one ZIP. Inner file types were not named.",
+    "categories": [
+      "Platformer",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 2,
+    "salePrice": 1,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-10-31T23:00:00.000Z",
+    "rating": 4.8,
+    "reviewCount": 54,
+    "radarScore": 69,
+    "dealScore": 73,
+    "source": "itch.io",
+    "sourceUrl": "https://brullov.itch.io/generic-char-asset",
+    "canonicalSourceUrl": "https://brullov.itch.io/generic-char-asset",
+    "license": "Creator license",
+    "licenseUrl": "https://brullov.itch.io/generic-char-asset",
+    "commercialUse": true,
+    "lastChecked": "2026-10-12T01:32:57.945Z",
+    "addedAt": "2026-10-12",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "Only generic_char_v0.2.zip is listed. No engine project or inner format was named, and the archive was not opened.",
+    "tags": [
+      "character",
+      "pixel art",
+      "animation",
+      "platformer"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzI2ODM5OTIucG5n/original/5LO37o.png",
+      "sourceUrl": "https://brullov.itch.io/generic-char-asset",
+      "alt": "Publisher image on the Generic Character Asset product page.",
+      "credit": "brullov",
+      "checkedAt": "2026-10-12T01:32:57.945Z",
+      "note": "Exact static Open Graph PNG observed on this product page at img.itch.zone. No artwork or paid archive was copied."
+    },
+    "licenseNote": "Free and commercial projects are allowed. Redistribution and resale of the asset pack are prohibited. Attribution is not stated.",
+    "priceNote": "USD purchase panel showed $2 crossed out to $1. No currency conversion or paid download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 3.5,
+      "reputation": 4,
+      "rationale": "50% off, to $1, a moveset rated 4.8/5 from 54 ratings. The page lists combat, movement and four colors, but not inner file types. The ZIP was not opened, so completeness stays below strong."
+    }
+  },
+  {
+    "id": "brullov-fire-animation",
+    "title": "Fire Animation Pixel FX",
+    "author": "brullov",
+    "summary": "Five handcrafted pixel fire sprites with start, loop and end animation, five color variants and 355 frames. Listed sizes run from 8×8 to 24×32. One ZIP is listed and was not opened.",
+    "categories": [
+      "Platformer",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "VFX",
+    "type": "deal",
+    "originalPrice": 2,
+    "salePrice": 1,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-10-31T23:00:00.000Z",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "radarScore": 72,
+    "dealScore": 74,
+    "source": "itch.io",
+    "sourceUrl": "https://brullov.itch.io/fire-animation",
+    "canonicalSourceUrl": "https://brullov.itch.io/fire-animation",
+    "license": "Creator license",
+    "licenseUrl": "https://brullov.itch.io/fire-animation",
+    "commercialUse": true,
+    "lastChecked": "2026-10-12T01:32:57.945Z",
+    "addedAt": "2026-10-12",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "The page lists fire_fx_v1.0.zip only. No engine project was listed, and the archive was not opened or tested.",
+    "tags": [
+      "vfx",
+      "fire",
+      "pixel art",
+      "animation"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "Free and commercial projects are allowed. Redistribution and resale of the asset pack are prohibited. Attribution is not stated.",
+    "priceNote": "USD purchase panel showed $2 crossed out to $1. No currency conversion or paid download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "50% off, to $1, fire sprites rated 4.9/5 from 53 ratings. The page lists five sizes, 355 frames and five colors. Value is strong for that stated set. The ZIP was not opened, so quality is not exceptional."
+    }
+  },
+  {
+    "id": "henrysoftware-pixel-mob",
+    "title": "Pixel Mob",
+    "author": "Henry Software",
+    "summary": "Eighty animated 16×16 monsters supplied as PNG files, plus a Unity example. The page marks the artwork CC0 and the example code MIT. The ZIP was not opened.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 7,
+    "salePrice": 3.5,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-11-02T20:58:00.000Z",
+    "rating": 4.6,
+    "reviewCount": 28,
+    "radarScore": 68,
+    "dealScore": 73,
+    "source": "itch.io",
+    "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
+    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-mob",
+    "license": "CC0 and MIT",
+    "licenseUrl": "https://henrysoftware.itch.io/pixel-mob",
+    "commercialUse": true,
+    "lastChecked": "2026-10-12T01:32:57.945Z",
+    "addedAt": "2026-10-12",
+    "formats": [
+      "PNG",
+      "ZIP"
+    ],
+    "engines": [
+      "Unity"
+    ],
+    "engineNote": "The page lists PNG files and a Unity example inside PixelMobs.zip. The example was not opened, so this is not a tested Unity project or a .unitypackage.",
+    "tags": [
+      "monsters",
+      "pixel art",
+      "characters",
+      "unity"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzkwNjQyNi5wbmc=/original/T7GMlK.png",
+      "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
+      "alt": "Static publisher image observed on the Pixel Mob product page.",
+      "credit": "Henry Software",
+      "checkedAt": "2026-10-12T01:32:57.945Z",
+      "note": "Exact static original PNG observed in this product page gallery on img.itch.zone. No artwork or paid archive was copied."
+    },
+    "licenseNote": "The itch asset-license field is Creative Commons Zero 1.0 for the artwork. The code-license field for the Unity example is MIT. Keep the MIT notice with that example code.",
+    "priceNote": "USD purchase panel showed $7 crossed out to $3.50. No currency conversion or paid download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 3.5,
+      "reputation": 4,
+      "rationale": "50% off, to $3.50, for 80 animated 16×16 monsters rated 4.6/5 from 28 ratings. PNG files and a Unity example are named. The description is short and the ZIP was not opened, so completeness is adequate."
     }
   }
 ]

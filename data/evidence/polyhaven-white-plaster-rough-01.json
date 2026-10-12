@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_plaster_rough_01",
+  "checkedAt": "2026-10-12T01:38:57.297Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_plaster_rough_01",
+  "apiSha256": "32d06131e48c346b2fc58ebb2f6af0a5152d84919983f7e02ad265e0192e85a6",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_rough_01/white_plaster_rough_01_diff_1k.jpg",
+  "assetFileMd5": "c0964b0628920619f0364f19f2d9973d",
+  "assetFileSha256": "8d3b209ec5bbcee3db7a883c6c2eee982b7c18a268e6f43766ee540c7c28ebcb",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "moss",
+      "smooth",
+      "flat",
+      "even",
+      "patches"
+    ],
+    "date_published": 1529359200,
+    "name": "White Plaster Rough 01",
+    "old_id": 117,
+    "categories": [
+      "plaster-concrete",
+      "wall",
+      "floor",
+      "man made",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "7a9abe9055d0bd52d808df88ea2d6e48bee9a78f",
+    "description": "Free 8K texture of weathered white plaster - rough yet fairly even surface with subtle grain, worn patches and green moss staining on an outdoor man-made material.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "5f8124c4",
+    "download_count": 34989,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_plaster_rough_01.png?width=256&height=256&format=webp&v=5f8124c4"
+  }
+}

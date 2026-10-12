@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_brick_02",
+  "checkedAt": "2026-10-12T01:30:25.607Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_brick_02",
+  "apiSha256": "336b40245ac299d0c59391f607f9501b4e3a2efb282ffb81f6fba2ff4997daf8",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_brick_02/brown_brick_02_diff_1k.jpg",
+  "assetFileMd5": "c613a284d3ac4a25256bb93cf4d77328",
+  "assetFileSha256": "d769443de69cc16482d25a8a1777b1fa826ada8b4175c7c29d7abb08a91f8ac2",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "name": "Brown Brick 02",
+    "old_id": 130,
+    "categories": [
+      "brick",
+      "wall",
+      "outdoor",
+      "indoor",
+      "clean",
+      "man made"
+    ],
+    "type": 1,
+    "tags": [
+      "brown",
+      "rough",
+      "sandy",
+      "urban",
+      "yellow"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "d599453d24483f38de7b89b132aad6c360c201e6",
+    "description": "Free 8K texture of rough, sandy brown-yellow bricks with coarse, weathered faces and pronounced mortar joints; clean, man-made wall material.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "b2161b6a",
+    "download_count": 33485,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_brick_02.png?width=256&height=256&format=webp&v=b2161b6a"
+  }
+}

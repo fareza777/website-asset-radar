@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/sand_01",
+  "checkedAt": "2026-10-12T01:38:17.274Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/sand_01",
+  "apiSha256": "110c3f1138b23f07b0e8f1a78e5884d00625b4c73ecb474eecb8f1860e9274e5",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_diff_1k.jpg",
+  "assetFileMd5": "c914c8edb419f040e04224081a3f79a5",
+  "assetFileSha256": "a73b90eaa6d675ef57e7d48a8cf23e1f412e353ab2e29cf73930b8ecd4e76875",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "sand",
+      "uneven",
+      "trampled",
+      "clay",
+      "plaster",
+      "dry"
+    ],
+    "date_published": 1529359200,
+    "name": "Sand 01",
+    "old_id": 113,
+    "categories": [
+      "terrain",
+      "sand",
+      "outdoor",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "0b3004ecd3c542250173e2c28add16fb37539352",
+    "description": "Free 8K texture of dry, trampled sand-clay with uneven, plaster-like surface - rough, compacted grains, shallow footprints and cracked, hard-packed patches.",
+    "category_id": "2262e1f2-20db-5ba4-9915-764041ba9c4c",
+    "category": "Ground & Terrain/Sand/Compacted & Trampled Sand",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "cracked"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "2ac8bc0d",
+    "download_count": 102524,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sand_01.png?width=256&height=256&format=webp&v=2ac8bc0d"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/concrete",
+  "checkedAt": "2026-10-12T01:29:27.684Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/concrete",
+  "apiSha256": "76cfec0a5236faa14b1df9a21fad4e326d9d3284967c0735b7af96134e3f88dd",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete/concrete_diff_1k.jpg",
+  "assetFileMd5": "795b1fbb460fb38d29c5859ff2c4b5d4",
+  "assetFileSha256": "046c0e2aebe31e6043a6bc074e779f6a345f1d823d0ca1c69446c5cabadefa8a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "bare",
+      "old",
+      "weathered",
+      "panels"
+    ],
+    "date_published": 1529741694,
+    "name": "Concrete",
+    "old_id": 137,
+    "categories": [
+      "plaster-concrete",
+      "man made",
+      "dirty",
+      "outdoor",
+      "wall",
+      "concrete"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "3237733"
+    ],
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3bb59b6818bb5d9bd9134368b6647a6f60173723",
+    "description": "Free 8K texture of weathered concrete panels with vertical grooves, surface pitting, dirt streaks and a rough, matte gray-brown finish.",
+    "category_id": "b4f089ac-1410-5388-bd51-34e956f0a0a5",
+    "category": "Concrete/Cast Walls & Floors/Board-Form & Panels",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "1f522f1d",
+    "download_count": 91287,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete.png?width=256&height=256&format=webp&v=1f522f1d"
+  }
+}

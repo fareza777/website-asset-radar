@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_rough_plaster",
+  "checkedAt": "2026-10-12T01:29:06.762Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_rough_plaster",
+  "apiSha256": "9462ad52e7b43050a805f37fe86fc5d741c27d0ad4c5957177bee7334f71e6fb",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_rough_plaster/white_rough_plaster_diff_1k.jpg",
+  "assetFileMd5": "a64b86b48c25fb2247142a177d82df98",
+  "assetFileSha256": "8de3dbca955bc3c719863015b6542326d76e2004c5d4a1f60928525a2031a71a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "broken",
+      "chipped",
+      "damaged",
+      "rough"
+    ],
+    "date_published": 1529806028,
+    "name": "White Rough Plaster",
+    "old_id": 138,
+    "categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "indoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "160b7fd720a094bae0ce72222c9bbc8101fdbcdd",
+    "description": "Free 8K texture of white rough plaster with chipped, flaking surface, exposed backing and gritty, dirty weathering.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "509ac268",
+    "download_count": 83883,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_rough_plaster.png?width=256&height=256&format=webp&v=509ac268"
+  }
+}

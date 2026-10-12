@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/yellow_brick",
+  "checkedAt": "2026-10-12T01:39:37.408Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/yellow_brick",
+  "apiSha256": "13412bb8e62066df7e2050a4bd7ec0134c702f1839fd8d163c56d2fa9d575c10",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/yellow_brick/yellow_brick_diff_1k.jpg",
+  "assetFileMd5": "8ba32b1b8ad1fd25f083354ca70d06d6",
+  "assetFileSha256": "babf44008391330321730aed4334d4d9c9de35af6b2e50c4bac0ffaf384a36df",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "yellow",
+      "rough",
+      "lines",
+      "neat"
+    ],
+    "date_published": 1529359200,
+    "name": "Yellow Brick",
+    "old_id": 122,
+    "categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "82187a69dfc13c632573f7d0a56b217418b83d79",
+    "description": "Free 8K texture of yellow brick with rough, chiseled faces and neat mortar lines. Warm, slightly dusty surface, subtle color variation and crisp edges.",
+    "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+    "category": "Brick & Block/Clay Brick/Running-Bond",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "32ca0839",
+    "download_count": 33623,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_brick.png?width=256&height=256&format=webp&v=32ca0839"
+  }
+}

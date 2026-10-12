@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/blue_painted_planks",
+  "checkedAt": "2026-10-12T01:26:10.133Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/blue_painted_planks",
+  "apiSha256": "317c341c96e4dcb9fd62191d1bd0ba852b3297caaff2c4dc942d3d8a9224bc01",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/blue_painted_planks/blue_painted_planks_diff_1k.jpg",
+  "assetFileMd5": "a2fadd58576963dfd977c50bf1501300",
+  "assetFileSha256": "31bab926cd4fb1f1df9e863af6bbf49e678a0e3b960cbc543e6a36000aaa6b13",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "painted",
+      "house",
+      "wooden",
+      "peeling"
+    ],
+    "date_published": 1532063966,
+    "name": "Blue Painted Planks",
+    "old_id": 149,
+    "categories": [
+      "wood",
+      "wall",
+      "man made",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "fccf84d698f324f14855fa76ffe42707316a4ef2",
+    "description": "Free 8K texture of weathered blue painted wooden planks with flaking paint, exposed grain, cracks and dirt.",
+    "category_id": "26eb2cbb-558a-5357-ae3f-9519f081f247",
+    "category": "Wood/Boards & Planks/Painted Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "painted",
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "063cb6b4",
+    "download_count": 61203,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blue_painted_planks.png?width=256&height=256&format=webp&v=063cb6b4"
+  }
+}

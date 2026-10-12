@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/brown_mud_rocks_01",
+  "checkedAt": "2026-10-12T01:31:46.130Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/brown_mud_rocks_01",
+  "apiSha256": "b97b2ba79439ebf79152bbc554645686d2bf11cdd6240fe78e5d31044f002a61",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_rocks_01/brown_mud_rocks_01_diff_1k.jpg",
+  "assetFileMd5": "19e4d0066282bd8439bdc713310bbbe4",
+  "assetFileSha256": "805675195f875f75b8f34410d8ead8b75c25643cdb2c0a8b0936d0f2698cce8c",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "name": "Brown Mud Rocks 01",
+    "old_id": 128,
+    "categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "type": 1,
+    "dimensions": [
+      1299.996018409729,
+      1299.996018409729
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "4047949",
+      "77433244"
+    ],
+    "files_hash": "303c0f36bd4d15ecdec08c7bba20b55b0b31c7e6",
+    "tags": [
+      "gravel",
+      "mud",
+      "moss",
+      "stones",
+      "forest",
+      "rocks",
+      "loose stones",
+      "plants",
+      "weeds",
+      "scattered weeds",
+      "plant debris",
+      "riverbank",
+      "organic matter",
+      "rocky soil",
+      "wet ground"
+    ],
+    "description": "Free 8K texture of brown muddy rocky soil: coarse, damp surface with mixed gravel, loose stones, mossy patches and scattered plant debris.",
+    "category_id": "12aa7954-48be-5855-812b-7dc4aca856fd",
+    "category": "Ground & Terrain/Soil & Mud/Wet Mud",
+    "attributes": {
+      "surface_use": "ground",
+      "condition": [
+        "mossy",
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "a43842a7",
+    "download_count": 50826,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_mud_rocks_01.png?width=256&height=256&format=webp&v=a43842a7"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-slime-hero",
+  "sourceUrl": "https://opengameart.org/content/slime-hero",
+  "checkedAt": "2026-10-12T02:15:41.718Z",
+  "httpStatus": 200,
+  "pageSha256": "9ee483555f5f06aab20f32eeaa9014c60af3cde09b4feb5e69fafcc09371c214",
+  "title": "Slime Hero",
+  "authors": [
+    "Louswan"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Slime Hero by Louswan. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/slime-hero Preview resized and converted to WebP; original waveform visualization.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/slime_hero_0.ogg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/slime_hero_0.ogg",
+  "downloadSha256": "94b6c13b6f43db3f46547349a629427b12b8c9d99b2696697416e7ee58bc96c1",
+  "formats": [
+    "OGG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "slime_hero_0.ogg",
+  "previewSha256": "94b6c13b6f43db3f46547349a629427b12b8c9d99b2696697416e7ee58bc96c1",
+  "sourceTags": [
+    "melodic",
+    "VGM",
+    "fight",
+    "loopable",
+    "short",
+    "Action",
+    "Battle",
+    "silly",
+    "happy"
+  ],
+  "artTypes": [
+    "Music"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

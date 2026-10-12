@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rock_01",
+  "checkedAt": "2026-10-12T01:25:28.854Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rock_01",
+  "apiSha256": "a4363d89a1d8e9de771352d266dbf90bea1147f626354534dba0bb9cc8534b47",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_01/rock_01_diff_1k.jpg",
+  "assetFileMd5": "5897cd4496982b03cad0c3e2358486c0",
+  "assetFileSha256": "0b5f0418eb1e686190c5d33bb54c400b1f9ed58813b5e34aa5e573a5197302b5",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1533797188,
+    "name": "Rock 01",
+    "old_id": 152,
+    "categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sponsors": [
+      "82322099"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "4b1a673750efae534c749458f29458296f27fa78",
+    "tags": [
+      "grey",
+      "smooth",
+      "rock",
+      "stone",
+      "gray",
+      "weathered",
+      "rock face",
+      "solid rock"
+    ],
+    "description": "Free 8K rock texture: smooth, weathered grey stone with subtle erosion streaks, fine grain and occasional rusty speckles, low-gloss solid rock surface.",
+    "category_id": "bf84369c-cc7c-5347-ad17-173353e859b8",
+    "category": "Stone/Rock & Cliffs/Rough Rock Faces",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "weathered"
+      ],
+      "origin": "natural",
+      "setting": "outdoor"
+    },
+    "img_version": "7d245b68",
+    "download_count": 131395,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_01.png?width=256&height=256&format=webp&v=7d245b68"
+  }
+}

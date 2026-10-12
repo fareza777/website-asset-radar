@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/rough_plaster_broken",
+  "checkedAt": "2026-10-12T01:37:57.416Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/rough_plaster_broken",
+  "apiSha256": "3785e7487e440b8f724c537db76681cd92d91a31354263d2470a88ad50061725",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_plaster_broken/rough_plaster_broken_diff_1k.jpg",
+  "assetFileMd5": "11b6e87b563107494d240649cdb04d1a",
+  "assetFileSha256": "ef13cbf8529f8b4b6a5b9628111a96f262f30c68d265964277b1976336885db1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "brown",
+      "weathered",
+      "uneven",
+      "old",
+      "peeling",
+      "patches",
+      "cement",
+      "plastered",
+      "damaged"
+    ],
+    "date_published": 1529359200,
+    "name": "Rough Plaster Broken",
+    "old_id": 112,
+    "categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "9d619c3bc2e3b46bd3e4e11f6dce09527351c2fc",
+    "description": "Free 8K texture of rough, weathered brown plaster - uneven, peeling patches over cement, scratched and dirty with pronounced chipped and damaged surface detail.",
+    "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+    "category": "Concrete/Plaster & Stucco/Bare Plaster",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "2ae3dc6a",
+    "download_count": 43297,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_plaster_broken.png?width=256&height=256&format=webp&v=2ae3dc6a"
+  }
+}

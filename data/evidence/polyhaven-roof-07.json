@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roof_07",
+  "checkedAt": "2026-10-12T01:36:47.282Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roof_07",
+  "apiSha256": "cdcbb0350821219173046fa0a7fc67270373e980f564c31b5127ee94e03b891c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_07/roof_07_diff_1k.jpg",
+  "assetFileMd5": "5cca627f07a68f51d66e2d68fa8dea98",
+  "assetFileSha256": "41b7cd7785c60bfe1348eeb7642b4fbb412ff9dab710b4b8016cce70c37a9239",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1529359200,
+    "name": "Roof 07",
+    "old_id": 107,
+    "categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "sponsors": [
+      "77433244"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "82a641040fa1751c01910adf60e6f3cf6728c4db",
+    "tags": [
+      "ceramic",
+      "tiles",
+      "old",
+      "worn",
+      "damaged",
+      "discolored",
+      "roofing material",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "clay tiles",
+      "weathered",
+      "mossy",
+      "rustic",
+      "overlapping tiles"
+    ],
+    "description": "Free 8K texture of weathered clay roof tiles, overlapping and rustic with chipped, discolored ceramic surfaces, moss, dirt and damaged/peeling areas.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "mossy",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "767f9b61",
+    "download_count": 37208,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_07.png?width=256&height=256&format=webp&v=767f9b61"
+  }
+}

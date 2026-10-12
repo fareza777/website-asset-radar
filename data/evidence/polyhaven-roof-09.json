@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/roof_09",
+  "checkedAt": "2026-10-12T01:37:06.822Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/roof_09",
+  "apiSha256": "c533b4a0cb298beb73228c3dbbdaff652ebd9d54dd59d46349f33cfc0266ea3c",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_09/roof_09_diff_1k.jpg",
+  "assetFileMd5": "b9ab9e6b8ae7c83e19efaea6442511e7",
+  "assetFileSha256": "6baaf5dca30d14566791ad6603e3b3dbd69b76990fd8d1314efc35dd2655e818",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "date_published": 1529359200,
+    "name": "Roof 09",
+    "old_id": 108,
+    "categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      4000,
+      4000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "3266fb10021af18ef9b383b65c707237fda3073a",
+    "tags": [
+      "ceramic",
+      "old",
+      "worn",
+      "tiles",
+      "roofing material",
+      "roofing",
+      "roof",
+      "clay tiles",
+      "overlapping tiles",
+      "discolored",
+      "traditional roofing ",
+      "tile roofing",
+      "weather-beaten"
+    ],
+    "description": "Free 8K texture of old weather-beaten clay roof tiles: overlapping curved ceramic tiles with faded terracotta, gray staining, chipped edges and gritty dirt.",
+    "category_id": "6165a492-c53c-5b5f-96df-20c96a7763df",
+    "category": "Ceramic/Terracotta",
+    "attributes": {
+      "surface_use": "roof",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "847771cd",
+    "download_count": 91779,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_09.png?width=256&height=256&format=webp&v=847771cd"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/coral_mud_01",
+  "checkedAt": "2026-10-12T01:33:47.017Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/coral_mud_01",
+  "apiSha256": "03847e06a7e1995a090f79bc116f37070c59daf0661e193f325666b1e2df4698",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coral_mud_01/coral_mud_01_diff_1k.jpg",
+  "assetFileMd5": "36bd5977851de97b3c78e38fcba23d1b",
+  "assetFileSha256": "42fdaea6fd0263678f70332add3c109fdd54e4c32b61fc98cc054d4f1a9dead1",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1",
+    "type": 1,
+    "date_published": 1529359200,
+    "name": "Coral Mud 01",
+    "old_id": 91,
+    "categories": [
+      "terrain",
+      "outdoor",
+      "road",
+      "natural"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "cd93e7cedc49c065059f165ea71641023d625ad8",
+    "tags": [
+      "coral",
+      "ground",
+      "costal",
+      "stones",
+      "gravel",
+      "gravelly",
+      "coastal sediment",
+      "rock fragments",
+      "coastline",
+      "ocean",
+      "exposed seabed"
+    ],
+    "description": "Free 8K texture of gravelly coral mud: porous, pitted beige sediment with scattered shell and rock fragments, coarse pebbly surface with coastal weathering.",
+    "category_id": "d5cd6278-7150-5639-a2c9-a5f9e1e72f61",
+    "category": "Ground & Terrain/Gravel & Pebbles/Coastal Gravel",
+    "attributes": {
+      "surface_use": "ground",
+      "origin": "natural",
+      "setting": "outdoor",
+      "condition": [
+        "weathered"
+      ]
+    },
+    "img_version": "99926379",
+    "download_count": 28609,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coral_mud_01.png?width=256&height=256&format=webp&v=99926379"
+  }
+}

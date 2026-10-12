@@ -2,7 +2,7 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles for a cozy prototype. Pick an art direction before combining packs.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus a separate CC-BY 16×16 farm village and a CC-BY town loop. Credit those two packs and pick one art direction.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
@@ -11,11 +11,13 @@
       "kenney-music-jingles",
       "kenney-cube-pets",
       "kenney-mini-characters",
-      "kenney-holiday-kit"
+      "kenney-holiday-kit",
+      "oga-cozy-farm-village-lite-16x16-cottage-cobblestone-baker",
+      "oga-main-street-pixelville-looping"
     ],
     "cover": "kenney-tiny-town",
     "color": "peach",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-10-12T02:19:00.000Z"
   },
   {
     "id": "into-the-dungeon",
@@ -319,5 +321,22 @@
     "cover": "kenney-toon-characters",
     "color": "lime",
     "updatedAt": "2026-10-11T02:23:30.000Z"
+  },
+  {
+    "id": "cozy-space-pieces",
+    "name": "Cozy space pieces",
+    "description": "CC-BY pixel packs from one space series: side-view tiles, top-down ships and station sprites, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
+    "assetIds": [
+      "oga-cozy-space-platformer-16-px-side-view-tiles-astronaut-and-enemies",
+      "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
+      "oga-cozy-space-station-top-down-sci-fi-office-sprites",
+      "oga-cozy-space-fx-12-animated-pixel-effects-shields-warps-sparks",
+      "oga-cozy-space-portraits-dialog-portraits-and-dialog-box-ui",
+      "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
+      "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas"
+    ],
+    "cover": "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
+    "color": "lime",
+    "updatedAt": "2026-10-12T02:19:00.000Z"
   }
 ]

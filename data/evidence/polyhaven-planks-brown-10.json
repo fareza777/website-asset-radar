@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/planks_brown_10",
+  "checkedAt": "2026-10-12T01:35:46.748Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/planks_brown_10",
+  "apiSha256": "2754506d67688303c1118d95f4dfa07654ee9c2a60be68224224800ffc36dee9",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/planks_brown_10/planks_brown_10_diff_1k.jpg",
+  "assetFileMd5": "692d6948a7136dea7894d4b7e2845acb",
+  "assetFileSha256": "71c125acdfde628c3384150b077fa7fa957c87d1f881d5fc561feb99059c15f9",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "planks",
+      "old",
+      "discolored",
+      "weathered",
+      "rough"
+    ],
+    "date_published": 1529359200,
+    "name": "Planks Brown 10",
+    "old_id": 102,
+    "categories": [
+      "wood",
+      "wall",
+      "man made",
+      "outdoor"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "sponsors": [
+      "20953239",
+      "42579608"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "e74b07dba7af8a564a17f72335a9293a4771cfef",
+    "description": "Free 8K texture of weathered brown wooden planks with a rough, discolored surface, visible grain, knots and worn edges.",
+    "category_id": "30ac2613-5076-5364-b4da-130117ad592d",
+    "category": "Wood/Boards & Planks/Weathered Planks",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "fd0128b3",
+    "download_count": 148924,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planks_brown_10.png?width=256&height=256&format=webp&v=fd0128b3"
+  }
+}

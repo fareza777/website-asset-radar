@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/cobblestone_color",
+  "checkedAt": "2026-10-12T01:32:36.224Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/cobblestone_color",
+  "apiSha256": "b0fc9d90b86ccf04035b0a88bcfdc5aa5bd9c4c60588c9cde490a8adfdc1a0ea",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_diff_1k.jpg",
+  "assetFileMd5": "6650dc413469e1113b85699a90c5a3c4",
+  "assetFileSha256": "bcd48286399ad7f5f5690a5b42147e564bc438ba9dd368e4df4999a727914a2a",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "scale": "1",
+    "type": 1,
+    "tags": [
+      "cobblestone",
+      "old",
+      "moss",
+      "pavement"
+    ],
+    "date_published": 1529359200,
+    "name": "Cobblestone Color",
+    "old_id": 84,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "3237733"
+    ],
+    "dimensions": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty",
+      "cobblestone"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "b829b803d7c29ca4d6fa532ddf5e917a31677c0a",
+    "description": "Free 8K texture of aged cobblestone pavement: weathered stone blocks, dirt-filled joints and moss tufts with varied, rough, slightly worn surfaces.",
+    "attributes": {
+      "surface_use": "paving",
+      "condition": [
+        "weathered",
+        "worn",
+        "mossy"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+    "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+    "img_version": "bf0d4a38",
+    "download_count": 43267,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_color.png?width=256&height=256&format=webp&v=bf0d4a38"
+  }
+}

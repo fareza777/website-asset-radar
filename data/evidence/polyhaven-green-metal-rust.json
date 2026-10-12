@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/green_metal_rust",
+  "checkedAt": "2026-10-12T01:29:46.784Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/green_metal_rust",
+  "apiSha256": "753e9c1ab2bc66a6e1cfeb510e3eb16cbcc43689f04286f5697a3c06591b6d48",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/green_metal_rust/green_metal_rust_diff_1k.jpg",
+  "assetFileMd5": "f69d8c507961f0629019652162090917",
+  "assetFileSha256": "4509ab0cb1cf6bf9b9f970450a41f83ebd9bff178006deae568ff34b404856fc",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "painted",
+      "ship",
+      "tank",
+      "industrial",
+      "canister"
+    ],
+    "date_published": 1529548100,
+    "name": "Green Metal Rust",
+    "old_id": 135,
+    "categories": [
+      "metal",
+      "outdoor",
+      "indoor",
+      "man made",
+      "dirty"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "fd6cc162a0eb0eb8e0e2fb4d7f1b977dda4626b3",
+    "description": "Free 8K texture of painted green metal with worn, scratched surface, subtle rust streaks around fasteners and peeling, low-sheen, weathered industrial finish.",
+    "category_id": "733fc0a1-302e-50f0-bd83-79d7fd8f3f1e",
+    "category": "Metal/Sheet & Corrugated/Flat Sheet",
+    "attributes": {
+      "surface_use": "object",
+      "condition": [
+        "painted",
+        "weathered",
+        "rusted",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "either"
+    },
+    "img_version": "0587b388",
+    "download_count": 293406,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/green_metal_rust.png?width=256&height=256&format=webp&v=0587b388"
+  }
+}

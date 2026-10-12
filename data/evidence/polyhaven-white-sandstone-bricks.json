@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/white_sandstone_bricks",
+  "checkedAt": "2026-10-12T01:39:17.009Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/white_sandstone_bricks",
+  "apiSha256": "ef29bade33ae9a5bab02c156057e8d6778995a27ed602c92d1366017c156daec",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_sandstone_bricks/white_sandstone_bricks_diff_1k.jpg",
+  "assetFileMd5": "dbd59785a1705f16f23e8eb4f52f3701",
+  "assetFileSha256": "b578317a0c92a314cf6e380803357fb6981d7487f82d225ccfd54914bea40c90",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "date_published": 1529359200,
+    "name": "White Sandstone Bricks",
+    "old_id": 119,
+    "categories": [
+      "brick",
+      "man made",
+      "outdoor",
+      "wall"
+    ],
+    "type": 1,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "tags": [
+      "blocks",
+      "sandstone",
+      "uneven",
+      "damaged",
+      "worn",
+      "plastered",
+      "old",
+      "crumbling"
+    ],
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "1c3b318fccb3bc0f292ddd3d239eca1b7f25f67a",
+    "description": "Free 8K texture of white sandstone bricks with uneven, worn blocks, crumbling plaster and rough, chipped mortar, aged, dusty surface with weathered relief.",
+    "category_id": "711f00d1-14a5-537f-addc-52bc3da7cd0e",
+    "category": "Brick & Block/Stone Block & Paver/Sandstone Brick & Block",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged",
+        "worn"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "6a89430d",
+    "download_count": 32104,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_sandstone_bricks.png?width=256&height=256&format=webp&v=6a89430d"
+  }
+}

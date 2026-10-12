@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/wall_bricks_plaster",
+  "checkedAt": "2026-10-12T01:38:37.205Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/wall_bricks_plaster",
+  "apiSha256": "36bd329ac0bf63a78cdba1bb99d57c02281a40199c2eb7bb499063fb61b8541d",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wall_bricks_plaster/wall_bricks_plaster_diff_1k.jpg",
+  "assetFileMd5": "d046b1de5d07fc8b4b9066e4b868eff2",
+  "assetFileSha256": "90e626cadb36f61327c68e485247f15fdf265371ce549c621df6cb84da40c17f",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "tags": [
+      "rough",
+      "uneven",
+      "damaged",
+      "plastered",
+      "chipped"
+    ],
+    "date_published": 1529359200,
+    "name": "Wall Bricks Plaster",
+    "old_id": 115,
+    "categories": [
+      "plaster-concrete",
+      "brick",
+      "man made",
+      "outdoor",
+      "dirty",
+      "wall"
+    ],
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "sponsors": [
+      "42579608"
+    ],
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "files_hash": "82d15b8ebf98f2dc4dab8b5c5cd752687741c7ca",
+    "description": "Free 8K texture showing weathered plaster partially revealing red brick underneath, with rough, chipped, uneven surface and gritty, dirty mortar.",
+    "category_id": "129d72a6-fe3d-5c05-9b24-cc75e89823bf",
+    "category": "Concrete/Plaster & Stucco/Plaster Over Brick & Stone",
+    "attributes": {
+      "surface_use": "wall",
+      "condition": [
+        "weathered",
+        "damaged"
+      ],
+      "origin": "man_made",
+      "setting": "outdoor"
+    },
+    "img_version": "b2438b17",
+    "download_count": 51403,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wall_bricks_plaster.png?width=256&height=256&format=webp&v=b2438b17"
+  }
+}

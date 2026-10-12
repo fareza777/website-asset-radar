@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-hand-painted-water-texture-2k",
+  "sourceUrl": "https://opengameart.org/content/hand-painted-water-texture-2k",
+  "checkedAt": "2026-10-12T02:14:11.134Z",
+  "httpStatus": 200,
+  "pageSha256": "0e16d28302532fc1636b8cd5448260c9121ce6b15f20e43fb55ae92541a5125d",
+  "title": "Hand painted water texture (2K)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Hand painted water texture (2K) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/hand-painted-water-texture-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/water_22.png",
+    "https://opengameart.org/sites/default/files/waterripplelayer.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/water_22.png",
+  "downloadSha256": "5f57535e9b2421ec9cbc4934e3f60068836e8312a03fdaf6f6fc1456bdddf1e8",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "water_22.png",
+  "previewSha256": "5f57535e9b2421ec9cbc4934e3f60068836e8312a03fdaf6f6fc1456bdddf1e8",
+  "sourceTags": [
+    "handpainted",
+    "water",
+    "seamless"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
