@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-handpainted-grass-with-leaves-2k",
+  "sourceUrl": "https://opengameart.org/content/handpainted-grass-with-leaves-2k",
+  "checkedAt": "2026-10-14T01:20:23.348Z",
+  "httpStatus": 200,
+  "pageSha256": "307bd73c9fa27ddc603e9272fb3b4643fa73bda03a81661062aee4aef5570262",
+  "title": "Handpainted Grass with Leaves (2K)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Handpainted Grass with Leaves (2K) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/handpainted-grass-with-leaves-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/grasswithleafs_0.png",
+    "https://opengameart.org/sites/default/files/grasswithleafs2_0.png",
+    "https://opengameart.org/sites/default/files/grasswithleafs3_0.png",
+    "https://opengameart.org/sites/default/files/grasswithleafs4_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/grasswithleafs_0.png",
+  "downloadSha256": "74603a66878a47bb8d05f8fca507bc1eb92f1db40df94f67e780a977f8b37955",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "grasswithleafs_0.png",
+  "previewSha256": "74603a66878a47bb8d05f8fca507bc1eb92f1db40df94f67e780a977f8b37955",
+  "sourceTags": [
+    "handpainted",
+    "texture",
+    "seamless",
+    "grass"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

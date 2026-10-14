@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/WoodFloor034",
+  "checkedAt": "2026-10-14T01:51:54.727Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=WoodFloor034&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "b107c8c6cecc3c7457ba60d20dc6abe7d9d25de309ec3db6d665b175ed312ff6",
+  "apiMetadata": {
+    "assetId": "WoodFloor034",
+    "dataType": "Material",
+    "displayName": "Wood Floor 034",
+    "displayCategory": "Wood Floor",
+    "shortLink": "https://ambientcg.com/a/WoodFloor034",
+    "tags": [
+      "34",
+      "floor",
+      "herringbone",
+      "parquet",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/WoodFloor034.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/WoodFloor034.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/WoodFloor034.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/WoodFloor034.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/WoodFloor034.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/WoodFloor034.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/WoodFloor034.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/WoodFloor034.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/WoodFloor034.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/WoodFloor034.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/WoodFloor034.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/WoodFloor034.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/WoodFloor034.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/WoodFloor034.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/WoodFloor034.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/WoodFloor034.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/WoodFloor034.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/WoodFloor034.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/WoodFloor034.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/WoodFloor034.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/WoodFloor034.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/WoodFloor034.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/WoodFloor034.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/WoodFloor034.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_1K-JPG.zip",
+                "fileName": "WoodFloor034_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_1K-JPG.zip",
+                "size": 6064439,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_2K-JPG.zip",
+                "fileName": "WoodFloor034_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_2K-JPG.zip",
+                "size": 21842339,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_4K-JPG.zip",
+                "fileName": "WoodFloor034_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_4K-JPG.zip",
+                "size": 76860761,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_8K-JPG.zip",
+                "fileName": "WoodFloor034_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_8K-JPG.zip",
+                "size": 237909885,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_1K-PNG.zip",
+                "fileName": "WoodFloor034_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_1K-PNG.zip",
+                "size": 14708854,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_2K-PNG.zip",
+                "fileName": "WoodFloor034_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_2K-PNG.zip",
+                "size": 56403431,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_4K-PNG.zip",
+                "fileName": "WoodFloor034_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_4K-PNG.zip",
+                "size": 212998057,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodFloor034_8K-PNG.zip",
+                "fileName": "WoodFloor034_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodFloor034_8K-PNG.zip",
+                "size": 773268482,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2020-06-14 00:00:00",
+    "earlyReleaseDate": "2020-06-14 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 87486,
+    "downloadCountMonth": 1820,
+    "downloadCountWeek": 515,
+    "popularityScore": 6.9457290316235385,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 190,
+    "dimensionY": 190,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_Color.jpg?96241&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_Displacement.jpg?67731&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_NormalDX.jpg?94315&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_Roughness.jpg?51115&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_AmbientOcclusion.jpg?76732",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_Color.jpg?7628,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_Displacement.jpg?29009,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_NormalDX.jpg?76539,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_Roughness.jpg?88288,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor034/WoodFloor034_SQ_AmbientOcclusion.jpg?13990&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/WoodFloor034.webp",
+  "previewSha256": "08a83b018d368d62f514f1a77ecf1e37ab58c51f37ba178a98496a84a52c2e16",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

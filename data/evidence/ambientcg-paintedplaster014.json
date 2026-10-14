@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/PaintedPlaster014",
+  "checkedAt": "2026-10-14T01:45:11.034Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=PaintedPlaster014&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "c0a5f1b8a757bcebbbb09adac5c88cb62e3f685387c33be78a8dbcbfceb977c2",
+  "apiMetadata": {
+    "assetId": "PaintedPlaster014",
+    "dataType": "Material",
+    "displayName": "Painted Plaster 014",
+    "displayCategory": "Painted Plaster",
+    "shortLink": "https://ambientcg.com/a/PaintedPlaster014",
+    "tags": [
+      "14",
+      "bricks",
+      "broken",
+      "old",
+      "paint",
+      "painted",
+      "plaster",
+      "wall",
+      "white"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/PaintedPlaster014.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/PaintedPlaster014.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/PaintedPlaster014.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/PaintedPlaster014.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/PaintedPlaster014.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/PaintedPlaster014.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/PaintedPlaster014.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/PaintedPlaster014.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/PaintedPlaster014.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/PaintedPlaster014.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/PaintedPlaster014.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/PaintedPlaster014.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/PaintedPlaster014.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/PaintedPlaster014.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/PaintedPlaster014.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/PaintedPlaster014.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/PaintedPlaster014.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/PaintedPlaster014.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/PaintedPlaster014.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/PaintedPlaster014.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/PaintedPlaster014.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PaintedPlaster014.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/PaintedPlaster014.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/PaintedPlaster014.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_1K-JPG.zip",
+                "fileName": "PaintedPlaster014_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_1K-JPG.zip",
+                "size": 8823293,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_2K-JPG.zip",
+                "fileName": "PaintedPlaster014_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_2K-JPG.zip",
+                "size": 30821899,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_4K-JPG.zip",
+                "fileName": "PaintedPlaster014_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_4K-JPG.zip",
+                "size": 117690462,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_8K-JPG.zip",
+                "fileName": "PaintedPlaster014_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_8K-JPG.zip",
+                "size": 496581933,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_1K-PNG.zip",
+                "fileName": "PaintedPlaster014_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_1K-PNG.zip",
+                "size": 17865500,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_2K-PNG.zip",
+                "fileName": "PaintedPlaster014_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_2K-PNG.zip",
+                "size": 66518776,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_4K-PNG.zip",
+                "fileName": "PaintedPlaster014_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_4K-PNG.zip",
+                "size": 258933347,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedPlaster014_8K-PNG.zip",
+                "fileName": "PaintedPlaster014_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedPlaster014_8K-PNG.zip",
+                "size": 1052662789,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2020-07-12 00:00:00",
+    "earlyReleaseDate": "2020-07-12 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 52886,
+    "downloadCountMonth": 1802,
+    "downloadCountWeek": 589,
+    "popularityScore": 4.651599645825197,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_Color.jpg?92600&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_Displacement.jpg?4850&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_NormalDX.jpg?50792&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_Roughness.jpg?84853&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_AmbientOcclusion.jpg?15571",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_Color.jpg?38530,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_Displacement.jpg?24655,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_NormalDX.jpg?69807,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_Roughness.jpg?11950,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedPlaster014/PaintedPlaster014_SQ_AmbientOcclusion.jpg?6446&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PaintedPlaster014.webp",
+  "previewSha256": "fee6177ea2cf18dd007b8e6789913f01d3bb3708b5435edec40c86a04654cd8a",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

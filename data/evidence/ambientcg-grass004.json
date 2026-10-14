@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T05:57:17.029Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Grass004&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "cfa15fccb63f4f45e179e49b128553b46b81337b9ab94ca3488b503b9c99333a",
+  "apiSha256": "8882ca9994bf699ca4733724d0ab2fa4b9525ef727ab60cb648af0121b90d655",
   "apiMetadata": {
     "assetId": "Grass004",
     "dataType": "Material",
@@ -148,10 +148,10 @@
     "earlyReleaseDate": "2021-03-28 00:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 366075,
-    "downloadCountMonth": 23857,
-    "downloadCountWeek": 8036,
-    "popularityScore": 30.646796728777602,
+    "downloadCount": 373163,
+    "downloadCountMonth": 28465,
+    "downloadCountWeek": 9865,
+    "popularityScore": 31.126331141345396,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -170,7 +170,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Color.jpg?14718&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Displacement.jpg?28724&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_NormalDX.jpg?91431&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Roughness.jpg?33250&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_AmbientOcclusion.jpg?65407",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Color.jpg?37465&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Displacement.jpg?58521&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_NormalDX.jpg?25580&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Roughness.jpg?60408&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_AmbientOcclusion.jpg?56689",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -181,7 +181,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Color.jpg?53380,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Displacement.jpg?64688,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_NormalDX.jpg?3633,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Roughness.jpg?56408,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_AmbientOcclusion.jpg?15341&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Color.jpg?89909,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Displacement.jpg?29463,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_NormalDX.jpg?75864,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_Roughness.jpg?32931,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Grass004/Grass004_SQ_AmbientOcclusion.jpg?81592&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -199,5 +199,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Grass004.webp",
   "previewSha256": "2cafa991c5e48321b84096bbdf8057bb6ab5c904ce365ceca0a141d2c0241450",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-14T02:24:03.853Z"
 }

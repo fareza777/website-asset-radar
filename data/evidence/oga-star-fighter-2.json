@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-star-fighter-2",
+  "sourceUrl": "https://opengameart.org/content/star-fighter-2",
+  "checkedAt": "2026-10-14T02:19:41.057Z",
+  "httpStatus": 200,
+  "pageSha256": "d8e70983c7efe7e71e22f5ab41ef171a39be9f28ed36a84707c7f3c1dd0560f1",
+  "title": "Star - Fighter 2",
+  "authors": [
+    "bart"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Star - Fighter 2 by bart. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/star-fighter-2 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/star-sm.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/star-sm.png",
+  "downloadSha256": "10ba4548957235354474af926fd62b99ee86d1b0b5ea730323bfd10d22883af6",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "star-sm.png",
+  "previewSha256": "10ba4548957235354474af926fd62b99ee86d1b0b5ea730323bfd10d22883af6",
+  "sourceTags": [
+    "female",
+    "Sprite",
+    "fighter",
+    "jrpg",
+    "RPG",
+    "Fantasy",
+    "Pixel Art",
+    "Sprite",
+    "Character"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

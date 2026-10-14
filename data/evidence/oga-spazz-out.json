@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-spazz-out",
+  "sourceUrl": "https://opengameart.org/content/spazz-out",
+  "checkedAt": "2026-10-14T01:38:34.835Z",
+  "httpStatus": 200,
+  "pageSha256": "758cf5d76dc9817496a4a59e1fdda6deec12bd6c2ddb67e3712d3c1e3f909bb2",
+  "title": "Spazz Out",
+  "authors": [
+    "VinnNo.0"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Credit not required but always cool. Spazz Out by VinnNo.0. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/spazz-out Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Spazz.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Spazz.zip",
+  "downloadSha256": "db2203b553cf9821dc9534f9261356a90e48d64514faad9cbe8f97dfc73b2d37",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 11,
+  "licenseFiles": [],
+  "previewFile": "Spazz/SpazzIdle.png",
+  "previewSha256": "f75ca59befb00bf2da68add502fdf41b8aadeae04498fccc677805d8e1df5d24",
+  "sourceTags": [
+    "Top-down",
+    "shooter",
+    "tower defense"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/WoodSiding009",
+  "checkedAt": "2026-10-14T02:11:13.132Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=WoodSiding009&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "f478340e38e482e6643719a8681c6c05dae0f92f1255361a6359153d3f346cc1",
+  "apiMetadata": {
+    "assetId": "WoodSiding009",
+    "dataType": "Material",
+    "displayName": "Wood Siding 009",
+    "displayCategory": "Wood Siding",
+    "shortLink": "https://ambientcg.com/a/WoodSiding009",
+    "tags": [
+      "9",
+      "house",
+      "plank",
+      "planks",
+      "siding",
+      "wall",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/WoodSiding009.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/WoodSiding009.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/WoodSiding009.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/WoodSiding009.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/WoodSiding009.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/WoodSiding009.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/WoodSiding009.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/WoodSiding009.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/WoodSiding009.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/WoodSiding009.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/WoodSiding009.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/WoodSiding009.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/WoodSiding009.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/WoodSiding009.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/WoodSiding009.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/WoodSiding009.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/WoodSiding009.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/WoodSiding009.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/WoodSiding009.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/WoodSiding009.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/WoodSiding009.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/WoodSiding009.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/WoodSiding009.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/WoodSiding009.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_1K-JPG.zip",
+                "fileName": "WoodSiding009_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_1K-JPG.zip",
+                "size": 4257092,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_2K-JPG.zip",
+                "fileName": "WoodSiding009_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_2K-JPG.zip",
+                "size": 13807004,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_4K-JPG.zip",
+                "fileName": "WoodSiding009_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_4K-JPG.zip",
+                "size": 54181568,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_8K-JPG.zip",
+                "fileName": "WoodSiding009_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_8K-JPG.zip",
+                "size": 210730216,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_1K-PNG.zip",
+                "fileName": "WoodSiding009_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_1K-PNG.zip",
+                "size": 8709702,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_2K-PNG.zip",
+                "fileName": "WoodSiding009_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_2K-PNG.zip",
+                "size": 31538029,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_4K-PNG.zip",
+                "fileName": "WoodSiding009_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_4K-PNG.zip",
+                "size": 123900412,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=WoodSiding009_8K-PNG.zip",
+                "fileName": "WoodSiding009_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=WoodSiding009_8K-PNG.zip",
+                "size": 484363023,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2020-04-05 00:00:00",
+    "earlyReleaseDate": "2020-04-05 00:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 58034,
+    "downloadCountMonth": 3139,
+    "downloadCountWeek": 973,
+    "popularityScore": 4.794085824436426,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Color.jpg?69005&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Displacement.jpg?67034&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_NormalDX.jpg?61184&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Roughness.jpg?93553&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_AmbientOcclusion.jpg?52914&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Metalness.jpg?38394",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Color.jpg?84999,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Displacement.jpg?58340,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_NormalDX.jpg?51569,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Roughness.jpg?86813,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_AmbientOcclusion.jpg?71899,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodSiding009/WoodSiding009_SQ_Metalness.jpg?14741&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/WoodSiding009.webp",
+  "previewSha256": "4ed08595e6032c8ee2f0132ded5d06a3e8c6d7e78c9b204eb126b094d85b0d52",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

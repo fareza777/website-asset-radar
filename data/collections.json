@@ -2,7 +2,7 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus a separate CC-BY 16×16 farm village and a CC-BY town loop. Credit those two packs and pick one art direction.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY 16×16 farm, autumn, and village packs and a town loop. Credit those packs and pick one art direction.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
@@ -13,16 +13,18 @@
       "kenney-mini-characters",
       "kenney-holiday-kit",
       "oga-cozy-farm-village-lite-16x16-cottage-cobblestone-baker",
+      "oga-cozy-farm-lite-16x16-top-down-farm-tiles-crops-farmer-hen",
+      "oga-cozy-farm-autumn-lite-16x16-autumn-tiles-trees-path",
       "oga-main-street-pixelville-looping"
     ],
     "cover": "kenney-tiny-town",
     "color": "peach",
-    "updatedAt": "2026-10-12T02:19:00.000Z"
+    "updatedAt": "2026-10-14T02:24:00.000Z"
   },
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, potion icons, UI borders, runes, and RPG audio. Art styles and engine setup vary by pack.",
+    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, potion icons, UI borders, runes, and RPG audio, plus a separate CC0 potion icon sheet. Art styles and engine setup vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -33,11 +35,12 @@
       "kenney-rune-pack",
       "kenney-retro-textures-fantasy",
       "kenney-scribble-dungeons",
-      "oga-potion-bottles"
+      "oga-potion-bottles",
+      "oga-ultimate-potions-pack-2d"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-09T10:19:11.863Z"
+    "updatedAt": "2026-10-14T02:24:00.000Z"
   },
   {
     "id": "wild-by-nature",
@@ -305,7 +308,7 @@
   {
     "id": "a-few-heroes",
     "name": "A few heroes",
-    "description": "CC0 toon and modular figures with separate pixel sheets: a miner, a charset, a rogue, and small RPG heroes and enemies. Perspectives and licenses differ. Credit each CC-BY author, then import the sheets yourself.",
+    "description": "CC0 toon and modular figures with pixel sheets, plus extra Puck and Sara class sheets by bart and a CC0 wizard sheet by Dan Ryder. Credit each CC-BY author, then import the sheets yourself.",
     "assetIds": [
       "kenney-toon-characters",
       "kenney-modular-characters",
@@ -314,18 +317,22 @@
       "oga-animated-rogue",
       "oga-10-basic-rpg-enemies",
       "oga-puck-overland",
+      "oga-puck-wizard",
+      "oga-puck-thief",
       "oga-sara-overland",
+      "oga-sara-wizard",
+      "oga-2d-wizard-character-pixel-sprite-sheet-with-boader",
       "oga-tiny-16-expanded-character-sprites",
       "oga-twelve-16x18-rpg-sprites-plus-base"
     ],
     "cover": "kenney-toon-characters",
     "color": "lime",
-    "updatedAt": "2026-10-11T02:23:30.000Z"
+    "updatedAt": "2026-10-14T02:24:00.000Z"
   },
   {
     "id": "cozy-space-pieces",
     "name": "Cozy space pieces",
-    "description": "CC-BY pixel packs from one space series: side-view tiles, top-down ships and station sprites, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
+    "description": "CC-BY pixel packs from one space series: side-view tiles, ships, interiors, a tiny crew, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
     "assetIds": [
       "oga-cozy-space-platformer-16-px-side-view-tiles-astronaut-and-enemies",
       "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
@@ -333,10 +340,12 @@
       "oga-cozy-space-fx-12-animated-pixel-effects-shields-warps-sparks",
       "oga-cozy-space-portraits-dialog-portraits-and-dialog-box-ui",
       "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
-      "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas"
+      "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
+      "oga-cozy-space-tiny-crew-16x16-top-down-characters",
+      "oga-cozy-space-interiors-16-px-top-down-sci-fi-tileset"
     ],
     "cover": "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
     "color": "lime",
-    "updatedAt": "2026-10-12T02:19:00.000Z"
+    "updatedAt": "2026-10-14T02:24:00.000Z"
   }
 ]

@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/TreeEnd004",
+  "checkedAt": "2026-10-14T01:52:21.695Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=TreeEnd004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "8dbf4a3c1b67c450f256e440a5125609f355d177f8ed13574bee3996b6745ebf",
+  "apiMetadata": {
+    "assetId": "TreeEnd004",
+    "dataType": "Material",
+    "displayName": "Tree End 004",
+    "displayCategory": "Tree End",
+    "shortLink": "https://ambientcg.com/a/TreeEnd004",
+    "tags": [
+      "4",
+      "end",
+      "log",
+      "tree",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/TreeEnd004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/TreeEnd004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/TreeEnd004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/TreeEnd004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/TreeEnd004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/TreeEnd004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/TreeEnd004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/TreeEnd004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/TreeEnd004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/TreeEnd004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/TreeEnd004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/TreeEnd004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/TreeEnd004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/TreeEnd004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/TreeEnd004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/TreeEnd004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/TreeEnd004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/TreeEnd004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/TreeEnd004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/TreeEnd004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/TreeEnd004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/TreeEnd004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/TreeEnd004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/TreeEnd004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_1K-JPG.zip",
+                "fileName": "TreeEnd004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_1K-JPG.zip",
+                "size": 5578127,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_2K-JPG.zip",
+                "fileName": "TreeEnd004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_2K-JPG.zip",
+                "size": 17112108,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_4K-JPG.zip",
+                "fileName": "TreeEnd004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_4K-JPG.zip",
+                "size": 64082035,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_8K-JPG.zip",
+                "fileName": "TreeEnd004_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_8K-JPG.zip",
+                "size": 290951741,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_1K-PNG.zip",
+                "fileName": "TreeEnd004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_1K-PNG.zip",
+                "size": 13552970,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_2K-PNG.zip",
+                "fileName": "TreeEnd004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_2K-PNG.zip",
+                "size": 49912320,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_4K-PNG.zip",
+                "fileName": "TreeEnd004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_4K-PNG.zip",
+                "size": 197424247,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=TreeEnd004_8K-PNG.zip",
+                "fileName": "TreeEnd004_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=TreeEnd004_8K-PNG.zip",
+                "size": 468261254,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2020-06-07 00:00:00",
+    "earlyReleaseDate": "2020-06-07 00:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 17869,
+    "downloadCountMonth": 1082,
+    "downloadCountWeek": 347,
+    "popularityScore": 2.209653080464406,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Color.jpg?13929&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Displacement.jpg?79028&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_NormalDX.jpg?35439&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Roughness.jpg?6959&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Opacity.jpg?86875",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Color.jpg?59488,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Displacement.jpg?90302,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_NormalDX.jpg?63421,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Roughness.jpg?69411,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/TreeEnd004/TreeEnd004_SQ_Opacity.jpg?2129&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/TreeEnd004.webp",
+  "previewSha256": "afefe8e81f0ec344ad9414f7ed48ffa846052b6b7d1dcf55dfc6e1b34865fcb1",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-handpainted-light-wooden-floor-2k",
+  "sourceUrl": "https://opengameart.org/content/handpainted-light-wooden-floor-2k",
+  "checkedAt": "2026-10-14T01:19:58.470Z",
+  "httpStatus": 200,
+  "pageSha256": "aefdf2326940a637855de35f21169169a11f1a93c110f1eb7f9ea11cde838280",
+  "title": "Handpainted Light Wooden Floor (2k)",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Handpainted Light Wooden Floor (2k) by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/handpainted-light-wooden-floor-2k Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/lightwoodenfloor_0.png",
+    "https://opengameart.org/sites/default/files/lightwoodenfloor2_0.png",
+    "https://opengameart.org/sites/default/files/lightwoodenfloor3_0.png",
+    "https://opengameart.org/sites/default/files/original.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/lightwoodenfloor_0.png",
+  "downloadSha256": "d9988286c91b138fea686f37691666b13e2a4215470d898ce6f53262b6b281dd",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "lightwoodenfloor_0.png",
+  "previewSha256": "d9988286c91b138fea686f37691666b13e2a4215470d898ce6f53262b6b281dd",
+  "sourceTags": [
+    "handpainted",
+    "light wood",
+    "texture",
+    "seamless"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

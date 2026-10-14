@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-ground-textures-seamless",
+  "sourceUrl": "https://opengameart.org/content/ground-textures-seamless",
+  "checkedAt": "2026-10-14T01:20:47.471Z",
+  "httpStatus": 200,
+  "pageSha256": "2bb8e04468833d551248281f75263baaebc6b3dabc4098ca07762daf2f5dbd14",
+  "title": "Ground Textures (Seamless)",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please credit me and my website under game art (or wherever appropriate.) Ground Textures (Seamless) by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/ground-textures-seamless Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/ground_10-11-26a_2.jpg",
+    "https://opengameart.org/sites/default/files/ground_10-11-26b_1.jpg",
+    "https://opengameart.org/sites/default/files/ground_10-11-26c_1.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/ground_10-11-26a_2.jpg",
+  "downloadSha256": "02f8a4a6c02cadc9179dc1f939749d1a9b8f20950e131584a3e383ae83f9c347",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "ground_10-11-26a_2.jpg",
+  "previewSha256": "02f8a4a6c02cadc9179dc1f939749d1a9b8f20950e131584a3e383ae83f9c347",
+  "sourceTags": [
+    "ground",
+    "path",
+    "road",
+    "old",
+    "mossy",
+    "grass",
+    "stone",
+    "sealmess"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

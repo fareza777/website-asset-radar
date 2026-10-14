@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-stone-brick-wall",
+  "sourceUrl": "https://opengameart.org/content/stone-brick-wall",
+  "checkedAt": "2026-10-14T02:16:35.767Z",
+  "httpStatus": 200,
+  "pageSha256": "a52dd3b6bc585e2cdfc76ad1331796e94190c8b06961e8b0de50374fd5d0bd63",
+  "title": "stone brick wall",
+  "authors": [
+    "johndekale"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "stone brick wall by johndekale. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/stone-brick-wall Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/albedo_bricks_2k.png",
+    "https://opengameart.org/sites/default/files/normal_bricks_2k.png",
+    "https://opengameart.org/sites/default/files/ao_2k.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/albedo_bricks_2k.png",
+  "downloadSha256": "45bd8da4b13e7a12d4bf7f54a7977dea856e3d185b278e367e49db510e806f82",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "albedo_bricks_2k.png",
+  "previewSha256": "45bd8da4b13e7a12d4bf7f54a7977dea856e3d185b278e367e49db510e806f82",
+  "sourceTags": [
+    "brick",
+    "brick wall",
+    "wall",
+    "stone",
+    "stone wall",
+    "2k",
+    "normal map",
+    "Ambient Occlusion"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

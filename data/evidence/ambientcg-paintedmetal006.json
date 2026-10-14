@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/PaintedMetal006",
+  "checkedAt": "2026-10-14T01:57:54.223Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=PaintedMetal006&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "061f78f0772a2b410d3305883bd79aae274291e8acdac6cf63fbc69a00f442c9",
+  "apiMetadata": {
+    "assetId": "PaintedMetal006",
+    "dataType": "Material",
+    "displayName": "Painted Metal 006",
+    "displayCategory": "Painted Metal",
+    "shortLink": "https://ambientcg.com/a/PaintedMetal006",
+    "tags": [
+      "6",
+      "green",
+      "metal",
+      "painted",
+      "rust"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/PaintedMetal006.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/PaintedMetal006.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/PaintedMetal006.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/PaintedMetal006.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/PaintedMetal006.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/PaintedMetal006.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/PaintedMetal006.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/PaintedMetal006.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/PaintedMetal006.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/PaintedMetal006.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/PaintedMetal006.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/PaintedMetal006.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/PaintedMetal006.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/PaintedMetal006.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/PaintedMetal006.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/PaintedMetal006.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/PaintedMetal006.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/PaintedMetal006.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/PaintedMetal006.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/PaintedMetal006.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/PaintedMetal006.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PaintedMetal006.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/PaintedMetal006.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/PaintedMetal006.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_1K-JPG.zip",
+                "fileName": "PaintedMetal006_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_1K-JPG.zip",
+                "size": 9695485,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_2K-JPG.zip",
+                "fileName": "PaintedMetal006_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_2K-JPG.zip",
+                "size": 35149748,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_4K-JPG.zip",
+                "fileName": "PaintedMetal006_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_4K-JPG.zip",
+                "size": 136888831,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_8K-JPG.zip",
+                "fileName": "PaintedMetal006_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_8K-JPG.zip",
+                "size": 565810314,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_1K-PNG.zip",
+                "fileName": "PaintedMetal006_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_1K-PNG.zip",
+                "size": 18524656,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_2K-PNG.zip",
+                "fileName": "PaintedMetal006_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_2K-PNG.zip",
+                "size": 69795307,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_4K-PNG.zip",
+                "fileName": "PaintedMetal006_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_4K-PNG.zip",
+                "size": 272543688,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PaintedMetal006_8K-PNG.zip",
+                "fileName": "PaintedMetal006_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PaintedMetal006_8K-PNG.zip",
+                "size": 1064649083,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2020-05-24 00:00:00",
+    "earlyReleaseDate": "2020-05-24 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 49921,
+    "downloadCountMonth": 3798,
+    "downloadCountWeek": 1260,
+    "popularityScore": 4.353106278857167,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Color.jpg?87756&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Displacement.jpg?37754&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_NormalDX.jpg?91620&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Roughness.jpg?16788&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_AmbientOcclusion.jpg?95540&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Metalness.jpg?91145",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Color.jpg?37430,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Displacement.jpg?99747,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_NormalDX.jpg?87935,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Roughness.jpg?93666,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_AmbientOcclusion.jpg?94093,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PaintedMetal006/PaintedMetal006_SQ_Metalness.jpg?83000&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PaintedMetal006.webp",
+  "previewSha256": "2273a362a927877b68555891ff3a2852748d0cd052bc3ecd82b3ca9eba5c6c48",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

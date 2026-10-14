@@ -1,7 +1,7 @@
 {
   "id": "hawtpixel-font-bundle",
   "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-  "checkedAt": "2026-10-11T02:30:50.000Z",
+  "checkedAt": "2026-10-14T02:28:30.000Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
@@ -9,18 +9,18 @@
     "salePrice": 19.99,
     "currency": "USD",
     "licenseTier": null,
-    "note": "Purchase panel showed $199.99 reduced to a $19.99 USD minimum."
+    "note": "USD purchase panel showed $199.99 crossed out to $19.99. No currency conversion or paid download was performed."
   },
   "license": {
     "name": "Creator commercial license",
     "url": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
     "commercialUse": true,
-    "note": "The creator states a one-time payment for unlimited commercial projects and installs. Game Of Squids is excluded as noncommercial."
+    "note": "The page states a one-time payment for unlimited commercial projects and installs, with no renewal or subscription. The archive was not downloaded."
   },
   "expiresAt": "2026-11-02T03:00:00.000Z",
   "expiryEvidenceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-  "expiryNote": "The product Offer.priceValidUntil is 2026-11-02T03:00:00Z and matches the $19.99 USD sale price.",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
   "rating": 5,
   "reviewCount": 37,
-  "productNote": "The page lists one ZIP, Hawtpixel Font Firesale 650 Font Bundle.zip (69 MB), and tags TTF and OTF. The archive was not downloaded."
+  "productNote": "The public page lists Hawtpixel Font Firesale 650 Font Bundle.zip (69 MB), styles from cartoon to science fiction, and a 90% USD reduction to $19.99. The archive was not downloaded."
 }

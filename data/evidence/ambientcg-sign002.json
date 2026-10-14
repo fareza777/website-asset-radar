@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Sign002",
+  "checkedAt": "2026-10-14T02:09:48.666Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Sign002&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "80ee6fd139097ec967d0ebf4ad6e8a80b7676b0b5c9fa74403e387e8a585e36e",
+  "apiMetadata": {
+    "assetId": "Sign002",
+    "dataType": "Material",
+    "displayName": "Sign 002",
+    "displayCategory": "Sign",
+    "shortLink": "https://ambientcg.com/a/Sign002",
+    "tags": [
+      "2",
+      "black",
+      "danger",
+      "exclamation",
+      "mark",
+      "sign",
+      "warning",
+      "yellow"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Sign002.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Sign002.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Sign002.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Sign002.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Sign002.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Sign002.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Sign002.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Sign002.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Sign002.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Sign002.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Sign002.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Sign002.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Sign002.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Sign002.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Sign002.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Sign002.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Sign002.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Sign002.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Sign002.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Sign002.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Sign002.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Sign002.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Sign002.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Sign002.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_1K-JPG.zip",
+                "fileName": "Sign002_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_1K-JPG.zip",
+                "size": 3611177,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_2K-JPG.zip",
+                "fileName": "Sign002_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_2K-JPG.zip",
+                "size": 9157534,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_4K-JPG.zip",
+                "fileName": "Sign002_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_4K-JPG.zip",
+                "size": 27630152,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_8K-JPG.zip",
+                "fileName": "Sign002_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_8K-JPG.zip",
+                "size": 98224856,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_1K-PNG.zip",
+                "fileName": "Sign002_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_1K-PNG.zip",
+                "size": 7624789,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_2K-PNG.zip",
+                "fileName": "Sign002_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_2K-PNG.zip",
+                "size": 25195757,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_4K-PNG.zip",
+                "fileName": "Sign002_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_4K-PNG.zip",
+                "size": 90894271,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Sign002_8K-PNG.zip",
+                "fileName": "Sign002_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Sign002_8K-PNG.zip",
+                "size": 307715482,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2020-04-19 00:00:00",
+    "earlyReleaseDate": "2020-04-19 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 12924,
+    "downloadCountMonth": 817,
+    "downloadCountWeek": 233,
+    "popularityScore": 1.851428213951292,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "Design from <a href=\"https://pixabay.com/vectors/warnings-hazards-danger-symbols-28709/\">Pixabay</a> (CC0)",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Color.jpg?79500&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Displacement.jpg?43080&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_NormalDX.jpg?27535&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Roughness.jpg?96972&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Opacity.jpg?60354&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Metalness.jpg?62047",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Color.jpg?47504,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Displacement.jpg?40253,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_NormalDX.jpg?81008,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Roughness.jpg?14786,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Opacity.jpg?66788,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Sign002/Sign002_SQ_Metalness.jpg?69623&texture_name=Color,Displacement,Normal,Roughness,Opacity,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Sign002.webp",
+  "previewSha256": "b16a4fb64c1bd371400946a3a18b84c68d2eafe9aec4ca188787968ea2eee37c",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}
