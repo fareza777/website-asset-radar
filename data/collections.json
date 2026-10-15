@@ -45,7 +45,7 @@
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Outdoor models, boats, fish art, and skies, plus 2D forest scenery, a cicada loop, and a separate credited 32×32 nature tileset. Art direction differs by pack; set materials up in your engine.",
+    "description": "Outdoor models, boats, fish art, and skies, plus 2D forest scenery, apple trees by kiner_s20, a cicada loop, and a credited 32×32 nature tileset. Art direction differs by pack; set materials up in your engine.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
@@ -57,12 +57,13 @@
       "kenney-fish-pack",
       "oga-forest-background",
       "oga-trees-bushes",
+      "oga-scenery-with-apple-trees",
       "oga-cicada-sounds",
       "oga-32x32-tileset"
     ],
     "cover": "kenney-nature-kit",
     "color": "mint",
-    "updatedAt": "2026-10-11T02:23:30.000Z"
+    "updatedAt": "2026-10-15T02:27:05.000Z"
   },
   {
     "id": "the-finishing-touches",
@@ -299,11 +300,13 @@
       "ambientcg-snow013",
       "ambientcg-snow012",
       "ambientcg-snow011",
-      "ambientcg-snow010a"
+      "ambientcg-snow010a",
+      "ambientcg-snow006",
+      "ambientcg-snow005"
     ],
     "cover": "polyhaven-snow-floor",
     "color": "blue",
-    "updatedAt": "2026-10-10T02:22:00.000Z"
+    "updatedAt": "2026-10-15T02:27:05.000Z"
   },
   {
     "id": "a-few-heroes",
@@ -332,7 +335,7 @@
   {
     "id": "cozy-space-pieces",
     "name": "Cozy space pieces",
-    "description": "CC-BY pixel packs from one space series: side-view tiles, ships, interiors, a tiny crew, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
+    "description": "CC-BY pixel packs from one space series: side-view tiles, ships, interiors, a tiny crew, an animated walking crew, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
     "assetIds": [
       "oga-cozy-space-platformer-16-px-side-view-tiles-astronaut-and-enemies",
       "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
@@ -342,10 +345,11 @@
       "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
       "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
       "oga-cozy-space-tiny-crew-16x16-top-down-characters",
+      "oga-cozy-space-station-walking-crew-animated-top-down-characters",
       "oga-cozy-space-interiors-16-px-top-down-sci-fi-tileset"
     ],
     "cover": "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
     "color": "lime",
-    "updatedAt": "2026-10-14T02:24:00.000Z"
+    "updatedAt": "2026-10-15T02:27:05.000Z"
   }
 ]

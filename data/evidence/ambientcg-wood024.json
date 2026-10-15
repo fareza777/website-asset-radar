@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Wood024",
+  "checkedAt": "2026-10-15T01:58:26.054Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Wood024&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "85771bf1cd4185c7ad76403b2f9de29580d31c5f268ae031b160a01fb7a900ed",
+  "apiMetadata": {
+    "assetId": "Wood024",
+    "dataType": "Material",
+    "displayName": "Wood 024",
+    "displayCategory": "Wood",
+    "shortLink": "https://ambientcg.com/a/Wood024",
+    "tags": [
+      "24",
+      "clean",
+      "fine",
+      "orange",
+      "smooth",
+      "wood"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Wood024.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Wood024.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Wood024.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Wood024.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Wood024.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Wood024.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Wood024.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Wood024.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Wood024.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Wood024.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Wood024.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Wood024.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Wood024.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Wood024.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Wood024.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Wood024.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Wood024.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Wood024.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Wood024.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Wood024.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Wood024.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Wood024.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Wood024.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Wood024.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_1K-JPG.zip",
+                "fileName": "Wood024_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_1K-JPG.zip",
+                "size": 6610230,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_2K-JPG.zip",
+                "fileName": "Wood024_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_2K-JPG.zip",
+                "size": 23942752,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_4K-JPG.zip",
+                "fileName": "Wood024_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_4K-JPG.zip",
+                "size": 102626193,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_8K-JPG.zip",
+                "fileName": "Wood024_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_8K-JPG.zip",
+                "size": 496082921,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_1K-PNG.zip",
+                "fileName": "Wood024_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_1K-PNG.zip",
+                "size": 15791611,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_2K-PNG.zip",
+                "fileName": "Wood024_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_2K-PNG.zip",
+                "size": 60146046,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_4K-PNG.zip",
+                "fileName": "Wood024_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_4K-PNG.zip",
+                "size": 249119221,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Wood024_8K-PNG.zip",
+                "fileName": "Wood024_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Wood024_8K-PNG.zip",
+                "size": 1060023715,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-06-22 00:00:00",
+    "earlyReleaseDate": "2019-06-22 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 47047,
+    "downloadCountMonth": 1151,
+    "downloadCountWeek": 316,
+    "popularityScore": 3.6505958878552494,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_Color.jpg?81866&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_Displacement.jpg?81090&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_NormalDX.jpg?78150&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_Roughness.jpg?91519",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_Color.jpg?54568,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_Displacement.jpg?66992,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_NormalDX.jpg?32792,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Wood024/Wood024_SQ_Roughness.jpg?53934&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Wood024.webp",
+  "previewSha256": "3cc328327395abcd956b015c9dec70c6f3a0c98216e8383de739c8e553c14e92",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

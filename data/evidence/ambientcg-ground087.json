@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T10:11:08.898Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Ground087&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "c91cf16d33a21a4a25c6e32e742c538dd92ebc377f3c0faac15a6780c5ca1522",
+  "apiSha256": "f743b8d55b3a60d02abcea3d4f0e1da5882152704d6ad996c494f836c1811073",
   "apiMetadata": {
     "assetId": "Ground087",
     "dataType": "Material",
@@ -142,10 +142,10 @@
     "earlyReleaseDate": "2025-07-27 18:00:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 9997,
-    "downloadCountMonth": 1489,
-    "downloadCountWeek": 488,
-    "popularityScore": 6.98291228234708,
+    "downloadCount": 10373,
+    "downloadCountMonth": 1657,
+    "downloadCountWeek": 531,
+    "popularityScore": 7.104114450786346,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -164,7 +164,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Color.jpg?64164&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Displacement.jpg?82536&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_NormalDX.jpg?55930&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Roughness.jpg?59302&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_AmbientOcclusion.jpg?58948",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Color.jpg?30674&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Displacement.jpg?29836&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_NormalDX.jpg?38149&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Roughness.jpg?27770&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_AmbientOcclusion.jpg?77226",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -175,7 +175,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Color.jpg?85576,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Displacement.jpg?59772,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_NormalDX.jpg?68992,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Roughness.jpg?51822,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_AmbientOcclusion.jpg?92565&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Color.jpg?34247,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Displacement.jpg?730,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_NormalDX.jpg?88374,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_Roughness.jpg?61087,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground087/Ground087_SQ_AmbientOcclusion.jpg?64083&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -193,5 +193,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ground087.webp",
   "previewSha256": "3100d70fd73c868a9e2cbb12288a4515c300fd397d86c1477a81d1db13b63ff7",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-15T02:27:40.844Z"
 }

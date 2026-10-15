@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Road006",
+  "checkedAt": "2026-10-15T01:23:50.291Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Road006&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "b78901337dfb70b37346a5336a06e8f0c711baa2e1faf53addcaaef7c736fd4c",
+  "apiMetadata": {
+    "assetId": "Road006",
+    "dataType": "Material",
+    "displayName": "Road 006",
+    "displayCategory": "Road",
+    "shortLink": "https://ambientcg.com/a/Road006",
+    "tags": [
+      "6",
+      "asphalt",
+      "patches",
+      "road",
+      "street"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Road006.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Road006.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Road006.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Road006.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Road006.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Road006.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Road006.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Road006.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Road006.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Road006.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Road006.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Road006.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Road006.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Road006.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Road006.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Road006.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Road006.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Road006.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Road006.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Road006.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Road006.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Road006.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Road006.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Road006.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_1K-JPG.zip",
+                "fileName": "Road006_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_1K-JPG.zip",
+                "size": 6686921,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_2K-JPG.zip",
+                "fileName": "Road006_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_2K-JPG.zip",
+                "size": 27401080,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_4K-JPG.zip",
+                "fileName": "Road006_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_4K-JPG.zip",
+                "size": 122476135,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_8K-JPG.zip",
+                "fileName": "Road006_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_8K-JPG.zip",
+                "size": 493224938,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_1K-PNG.zip",
+                "fileName": "Road006_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_1K-PNG.zip",
+                "size": 15982406,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_2K-PNG.zip",
+                "fileName": "Road006_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_2K-PNG.zip",
+                "size": 63302388,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_4K-PNG.zip",
+                "fileName": "Road006_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_4K-PNG.zip",
+                "size": 260770643,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Road006_8K-PNG.zip",
+                "fileName": "Road006_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Road006_8K-PNG.zip",
+                "size": 895578367,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-12-07 00:00:00",
+    "earlyReleaseDate": "2019-12-07 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 70884,
+    "downloadCountMonth": 1464,
+    "downloadCountWeek": 396,
+    "popularityScore": 5.345310324382479,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 750,
+    "dimensionY": 750,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_Color.jpg?20342&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_Displacement.jpg?295&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_NormalDX.jpg?98602&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_Roughness.jpg?55155",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_Color.jpg?3968,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_Displacement.jpg?69888,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_NormalDX.jpg?63606,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road006/Road006_SQ_Roughness.jpg?62508&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Road006.webp",
+  "previewSha256": "0c80d61ef98c3819855e3ae0cbb857201e68690988828e68b0bf62a30e3854a5",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

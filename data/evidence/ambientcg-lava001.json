@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Lava001",
+  "checkedAt": "2026-10-15T01:23:31.146Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Lava001&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "5889cc7079e9be7d0213cf74c0ef1ef15176f4115a17c74d75b3eb6f52e27c20",
+  "apiMetadata": {
+    "assetId": "Lava001",
+    "dataType": "Material",
+    "displayName": "Lava 001",
+    "displayCategory": "Lava",
+    "shortLink": "https://ambientcg.com/a/Lava001",
+    "tags": [
+      "1",
+      "fire",
+      "lava",
+      "magma",
+      "vulcan"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "emission"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Lava001.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Lava001.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Lava001.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Lava001.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Lava001.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Lava001.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Lava001.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Lava001.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Lava001.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Lava001.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Lava001.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Lava001.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Lava001.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Lava001.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Lava001.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Lava001.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Lava001.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Lava001.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Lava001.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Lava001.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Lava001.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Lava001.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Lava001.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Lava001.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_1K-JPG.zip",
+                "fileName": "Lava001_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_1K-JPG.zip",
+                "size": 10016772,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_2K-JPG.zip",
+                "fileName": "Lava001_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_2K-JPG.zip",
+                "size": 34463145,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_4K-JPG.zip",
+                "fileName": "Lava001_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_4K-JPG.zip",
+                "size": 128449148,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_8K-JPG.zip",
+                "fileName": "Lava001_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_8K-JPG.zip",
+                "size": 489806357,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_1K-PNG.zip",
+                "fileName": "Lava001_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_1K-PNG.zip",
+                "size": 18661675,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_2K-PNG.zip",
+                "fileName": "Lava001_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_2K-PNG.zip",
+                "size": 69499380,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_4K-PNG.zip",
+                "fileName": "Lava001_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_4K-PNG.zip",
+                "size": 269723346,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Lava001_8K-PNG.zip",
+                "fileName": "Lava001_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Lava001_8K-PNG.zip",
+                "size": 1053124721,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-12-09 00:00:00",
+    "earlyReleaseDate": "2019-12-09 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 29215,
+    "downloadCountMonth": 2134,
+    "downloadCountWeek": 624,
+    "popularityScore": 2.792790629535034,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Color.jpg?54252&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Displacement.jpg?93192&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_NormalDX.jpg?70510&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Roughness.jpg?56564&emission_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Emission.jpg?95670",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Color.jpg?18226,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Displacement.jpg?66656,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_NormalDX.jpg?2116,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Roughness.jpg?50727,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Lava001/Lava001_SQ_Emission.jpg?89347&texture_name=Color,Displacement,Normal,Roughness,Emission",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Lava001.webp",
+  "previewSha256": "c4421126c9ac058689b16feeda8d760feb60d85c7e8af6f3b39dc0a834f50423",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

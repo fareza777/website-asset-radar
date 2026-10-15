@@ -1,0 +1,26 @@
+{
+  "id": "szadiart-fantasy-lands-houses",
+  "sourceUrl": "https://szadiart.itch.io/fantasy-lands-houses",
+  "checkedAt": "2026-10-15T01:13:11.766Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 45,
+    "salePrice": 18,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $45 crossed out to $18. No currency conversion or paid download was performed."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://szadiart.itch.io/fantasy-lands-houses",
+    "commercialUse": true,
+    "note": "Commercial and personal projects are allowed, including edits and selling games made with the art. Logo, trademark and resale of the assets, original or modified, are prohibited. Credit is not required."
+  },
+  "expiresAt": "2026-10-18T20:00:00.000Z",
+  "expiryEvidenceUrl": "https://szadiart.itch.io/fantasy-lands-houses",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 4.9,
+  "reviewCount": 11,
+  "productNote": "The public page lists FL_Houses_v1.0.zip (20 MB) and a 442 kB demo ZIP, PNG and PSD contents, and states Fantasy Lands Set 1 terrain is not included. Structured price data matched the $18 sale. The archives were not downloaded."
+}

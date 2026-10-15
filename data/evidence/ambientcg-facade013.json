@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Facade013",
+  "checkedAt": "2026-10-15T01:34:39.127Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Facade013&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "8c8735e0397a2c757230d81e609fccb0dc7f3e2f4d9b5309743202aad942f2cf",
+  "apiMetadata": {
+    "assetId": "Facade013",
+    "dataType": "Material",
+    "displayName": "Facade 013",
+    "displayCategory": "Facade",
+    "shortLink": "https://ambientcg.com/a/Facade013",
+    "tags": [
+      "13",
+      "facade",
+      "night",
+      "skyscraper",
+      "wall",
+      "window",
+      "windows"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "emission"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Facade013.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Facade013.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Facade013.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Facade013.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Facade013.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Facade013.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Facade013.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Facade013.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Facade013.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Facade013.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Facade013.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Facade013.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Facade013.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Facade013.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Facade013.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Facade013.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Facade013.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Facade013.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Facade013.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Facade013.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Facade013.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Facade013.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Facade013.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Facade013.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_1K-JPG.zip",
+                "fileName": "Facade013_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_1K-JPG.zip",
+                "size": 9090659,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_2K-JPG.zip",
+                "fileName": "Facade013_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_2K-JPG.zip",
+                "size": 27855420,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_4K-JPG.zip",
+                "fileName": "Facade013_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_4K-JPG.zip",
+                "size": 94312610,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_8K-JPG.zip",
+                "fileName": "Facade013_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_8K-JPG.zip",
+                "size": 352946181,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_1K-PNG.zip",
+                "fileName": "Facade013_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_1K-PNG.zip",
+                "size": 13616723,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_2K-PNG.zip",
+                "fileName": "Facade013_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_2K-PNG.zip",
+                "size": 42311711,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_4K-PNG.zip",
+                "fileName": "Facade013_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_4K-PNG.zip",
+                "size": 144007320,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Facade013_8K-PNG.zip",
+                "fileName": "Facade013_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Facade013_8K-PNG.zip",
+                "size": 492110283,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-10-03 00:00:00",
+    "earlyReleaseDate": "2019-10-03 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 29176,
+    "downloadCountMonth": 1868,
+    "downloadCountWeek": 618,
+    "popularityScore": 2.7299371703540354,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Color.jpg?45437&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Displacement.jpg?91424&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_NormalDX.jpg?11812&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Roughness.jpg?8284&emission_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Emission.jpg?98734",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Color.jpg?56936,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Displacement.jpg?93278,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_NormalDX.jpg?89359,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Roughness.jpg?16423,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Facade013/Facade013_SQ_Emission.jpg?29763&texture_name=Color,Displacement,Normal,Roughness,Emission",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Facade013.webp",
+  "previewSha256": "b6c2b04f9e8dcb1493b976333e931d2ca8e31b9a1069515d6e3835c12945e766",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

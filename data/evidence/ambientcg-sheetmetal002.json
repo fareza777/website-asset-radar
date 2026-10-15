@@ -1,0 +1,198 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/SheetMetal002",
+  "checkedAt": "2026-10-15T01:21:30.232Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=SheetMetal002&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "c97478f76090f0ce56f2a823259d9c004ed48fa09a1d9f147fb78b077f6fab7f",
+  "apiMetadata": {
+    "assetId": "SheetMetal002",
+    "dataType": "Material",
+    "displayName": "Sheet Metal 002",
+    "displayCategory": "Sheet Metal",
+    "shortLink": "https://ambientcg.com/a/SheetMetal002",
+    "tags": [
+      "2",
+      "hole",
+      "holes",
+      "metal",
+      "pattern",
+      "perforated",
+      "sheet",
+      "sheets",
+      "stamped"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/SheetMetal002.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/SheetMetal002.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/SheetMetal002.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/SheetMetal002.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/SheetMetal002.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/SheetMetal002.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/SheetMetal002.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/SheetMetal002.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/SheetMetal002.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/SheetMetal002.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/SheetMetal002.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/SheetMetal002.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/SheetMetal002.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/SheetMetal002.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/SheetMetal002.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/SheetMetal002.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/SheetMetal002.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/SheetMetal002.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/SheetMetal002.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/SheetMetal002.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/SheetMetal002.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/SheetMetal002.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/SheetMetal002.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/SheetMetal002.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_1K-JPG.zip",
+                "fileName": "SheetMetal002_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_1K-JPG.zip",
+                "size": 6028891,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_2K-JPG.zip",
+                "fileName": "SheetMetal002_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_2K-JPG.zip",
+                "size": 14188608,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_4K-JPG.zip",
+                "fileName": "SheetMetal002_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_4K-JPG.zip",
+                "size": 39424965,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_8K-JPG.zip",
+                "fileName": "SheetMetal002_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_8K-JPG.zip",
+                "size": 123654093,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_1K-PNG.zip",
+                "fileName": "SheetMetal002_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_1K-PNG.zip",
+                "size": 6925421,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_2K-PNG.zip",
+                "fileName": "SheetMetal002_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_2K-PNG.zip",
+                "size": 16439040,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_4K-PNG.zip",
+                "fileName": "SheetMetal002_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_4K-PNG.zip",
+                "size": 43806981,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=SheetMetal002_8K-PNG.zip",
+                "fileName": "SheetMetal002_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=SheetMetal002_8K-PNG.zip",
+                "size": 116519985,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-12-21 00:00:00",
+    "earlyReleaseDate": "2019-12-21 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 72823,
+    "downloadCountMonth": 2226,
+    "downloadCountWeek": 646,
+    "popularityScore": 5.496829887997579,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Color.jpg?90935&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Displacement.jpg?78461&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_NormalDX.jpg?13520&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Roughness.jpg?60833&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Opacity.jpg?26897&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Metalness.jpg?83047",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Color.jpg?25084,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Displacement.jpg?81734,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_NormalDX.jpg?43339,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Roughness.jpg?72822,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Opacity.jpg?17563,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SheetMetal002/SheetMetal002_SQ_Metalness.jpg?9255&texture_name=Color,Displacement,Normal,Roughness,Opacity,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/SheetMetal002.webp",
+  "previewSha256": "21aafe5ecce9db5ed7a49eb05529faba7b519cae03548b415fab9d62dabbe79c",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}
