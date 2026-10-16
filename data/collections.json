@@ -152,7 +152,7 @@
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, castle and generic tiles, plus a separate 1-bit 16×16 pack. Match palette and tile size before combining packs.",
+    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, castle and generic tiles, a 1-bit 16×16 pack, and a separate CC0 24×24 Lospec jam tileset. Match palette and tile size before combining packs.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -168,11 +168,12 @@
       "oga-a-platformer-in-the-forest",
       "oga-castle-platformer",
       "oga-generic-platformer-tiles",
-      "oga-1-bit-platformer-pack-0"
+      "oga-1-bit-platformer-pack-0",
+      "oga-t-lospec-jam-pixel-art-stuff"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
     "color": "peach",
-    "updatedAt": "2026-10-11T02:23:30.000Z"
+    "updatedAt": "2026-10-16T02:27:40.000Z"
   },
   {
     "id": "small-pixels-big-quests",
@@ -200,7 +201,7 @@
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds, plus a bone-hand cursor and basic RPG icons. Select the pieces that suit your interface.",
+    "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds, plus a bone-hand cursor, basic RPG icons, and CC0 black-and-white HP and super bars. Select the pieces that suit your interface.",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -213,11 +214,12 @@
       "kenney-medals",
       "kenney-board-game-icons",
       "oga-animated-bone-hand-cursor",
-      "oga-basic-rpg-icons"
+      "oga-basic-rpg-icons",
+      "oga-black-and-white-hp-and-super-bars"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
     "color": "mint",
-    "updatedAt": "2026-10-10T02:22:00.000Z"
+    "updatedAt": "2026-10-16T02:27:40.000Z"
   },
   {
     "id": "an-underground-world",
@@ -244,7 +246,7 @@
   {
     "id": "the-outside-world",
     "name": "The outside world",
-    "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, wood, and leaf-litter textures from Poly Haven and ambientCG. Assemble materials in your engine.",
+    "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, wood, bark, and leaf-litter textures from Poly Haven and ambientCG. Assemble materials in your engine.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-mini-forest",
@@ -256,11 +258,13 @@
       "ambientcg-ground112",
       "ambientcg-grass005",
       "ambientcg-rock064",
-      "polyhaven-leaf-scattered-gravel"
+      "polyhaven-leaf-scattered-gravel",
+      "ambientcg-bark003",
+      "ambientcg-ground008"
     ],
     "cover": "kenney-mini-forest",
     "color": "mint",
-    "updatedAt": "2026-10-09T07:39:17.000Z"
+    "updatedAt": "2026-10-16T02:27:40.000Z"
   },
   {
     "id": "material-essentials",
@@ -311,7 +315,7 @@
   {
     "id": "a-few-heroes",
     "name": "A few heroes",
-    "description": "CC0 toon and modular figures with pixel sheets, plus extra Puck and Sara class sheets by bart and a CC0 wizard sheet by Dan Ryder. Credit each CC-BY author, then import the sheets yourself.",
+    "description": "CC0 toon and modular figures with pixel sheets, plus extra Puck and Sara class sheets by bart, a CC0 wizard sheet by Dan Ryder, and a CC0 alien character by Lyricsz. Credit each CC-BY author, then import the sheets yourself.",
     "assetIds": [
       "kenney-toon-characters",
       "kenney-modular-characters",
@@ -326,11 +330,12 @@
       "oga-sara-wizard",
       "oga-2d-wizard-character-pixel-sprite-sheet-with-boader",
       "oga-tiny-16-expanded-character-sprites",
-      "oga-twelve-16x18-rpg-sprites-plus-base"
+      "oga-twelve-16x18-rpg-sprites-plus-base",
+      "oga-mani"
     ],
     "cover": "kenney-toon-characters",
     "color": "lime",
-    "updatedAt": "2026-10-14T02:24:00.000Z"
+    "updatedAt": "2026-10-16T02:27:40.000Z"
   },
   {
     "id": "cozy-space-pieces",

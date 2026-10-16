@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Rope003",
+  "checkedAt": "2026-10-16T02:17:25.756Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rope003&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "a2714d8bb61cf17e3b43b6f524de7c56f2ee999019a5efe3b6465df289d81b01",
+  "apiMetadata": {
+    "assetId": "Rope003",
+    "dataType": "Material",
+    "displayName": "Rope 003",
+    "displayCategory": "Rope",
+    "shortLink": "https://ambientcg.com/a/Rope003",
+    "tags": [
+      "3",
+      "beige",
+      "dark",
+      "light",
+      "rope",
+      "string"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Rope003.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Rope003.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Rope003.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Rope003.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Rope003.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Rope003.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Rope003.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Rope003.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Rope003.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Rope003.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Rope003.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Rope003.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Rope003.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Rope003.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Rope003.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Rope003.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Rope003.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Rope003.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Rope003.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Rope003.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Rope003.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rope003.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Rope003.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Rope003.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_1K-JPG.zip",
+                "fileName": "Rope003_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_1K-JPG.zip",
+                "size": 4417478,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_2K-JPG.zip",
+                "fileName": "Rope003_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_2K-JPG.zip",
+                "size": 12953452,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_4K-JPG.zip",
+                "fileName": "Rope003_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_4K-JPG.zip",
+                "size": 48827264,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_8K-JPG.zip",
+                "fileName": "Rope003_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_8K-JPG.zip",
+                "size": 186714959,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_1K-PNG.zip",
+                "fileName": "Rope003_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_1K-PNG.zip",
+                "size": 8653538,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_2K-PNG.zip",
+                "fileName": "Rope003_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_2K-PNG.zip",
+                "size": 29963779,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_4K-PNG.zip",
+                "fileName": "Rope003_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_4K-PNG.zip",
+                "size": 116249615,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rope003_8K-PNG.zip",
+                "fileName": "Rope003_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rope003_8K-PNG.zip",
+                "size": 449264727,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-03-23 00:00:00",
+    "earlyReleaseDate": "2018-03-23 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 25820,
+    "downloadCountMonth": 1336,
+    "downloadCountWeek": 406,
+    "popularityScore": 2.1847434595408366,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Color.jpg?33926&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Displacement.jpg?42135&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_NormalDX.jpg?48131&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Roughness.jpg?40213&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Metalness.jpg?12155",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Color.jpg?133,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Displacement.jpg?11267,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_NormalDX.jpg?24805,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Roughness.jpg?93848,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rope003/Rope003_SQ_Metalness.jpg?6405&texture_name=Color,Displacement,Normal,Roughness,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rope003.webp",
+  "previewSha256": "26ce6138889c960c4db2cc1e3fc3d941f9d79f231f12f6a3a3f0481c14f955a9",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

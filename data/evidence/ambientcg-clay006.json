@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Clay006",
+  "checkedAt": "2026-10-16T01:11:11.530Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Clay006&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "b257370a5003b9a78c49d5b9d7712f5cd4ef743c6ffa7e2a73eda162bd90a918",
+  "apiMetadata": {
+    "assetId": "Clay006",
+    "dataType": "Material",
+    "displayName": "Clay 006",
+    "displayCategory": "Clay",
+    "shortLink": "https://ambientcg.com/a/Clay006",
+    "tags": [
+      "006",
+      "6",
+      "clay",
+      "clay006",
+      "finger",
+      "fingers",
+      "smear",
+      "streaks"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Clay006.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Clay006.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Clay006.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Clay006.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Clay006.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Clay006.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Clay006.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Clay006.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Clay006.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Clay006.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Clay006.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Clay006.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Clay006.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Clay006.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Clay006.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Clay006.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Clay006.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Clay006.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Clay006.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Clay006.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Clay006.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Clay006.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Clay006.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Clay006.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_1K-JPG.zip",
+                "fileName": "Clay006_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_1K-JPG.zip",
+                "size": 7272725,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_2K-JPG.zip",
+                "fileName": "Clay006_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_2K-JPG.zip",
+                "size": 24455338,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_4K-JPG.zip",
+                "fileName": "Clay006_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_4K-JPG.zip",
+                "size": 92375481,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_8K-JPG.zip",
+                "fileName": "Clay006_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_8K-JPG.zip",
+                "size": 397454778,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_1K-PNG.zip",
+                "fileName": "Clay006_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_1K-PNG.zip",
+                "size": 17429055,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_2K-PNG.zip",
+                "fileName": "Clay006_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_2K-PNG.zip",
+                "size": 64634278,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_4K-PNG.zip",
+                "fileName": "Clay006_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_4K-PNG.zip",
+                "size": 251219290,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Clay006_8K-PNG.zip",
+                "fileName": "Clay006_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Clay006_8K-PNG.zip",
+                "size": 1023003485,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2026-10-15 13:00:00",
+    "earlyReleaseDate": "2026-09-11 16:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 145,
+    "downloadCountMonth": 145,
+    "downloadCountWeek": 145,
+    "popularityScore": 470.24705520374783,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 20,
+    "dimensionY": 20,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_Color.jpg?98600&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_Displacement.jpg?70410&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_NormalDX.jpg?22986&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_Roughness.jpg?46983",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_Color.jpg?1957,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_Displacement.jpg?12878,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_NormalDX.jpg?20426,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Clay006/Clay006_SQ_Roughness.jpg?27304&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Clay006.webp",
+  "previewSha256": "a47bde5a8733a62944e0f5792c06abf8a6bbc79280f846aa74ff9625608dfe4b",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

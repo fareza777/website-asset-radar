@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/PavingStones019",
+  "checkedAt": "2026-10-16T02:05:11.992Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=PavingStones019&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "39d2b9c5a5602c18606a07de3bb7c9b6e6e3525c833197bec463b0b2f6c2b3d5",
+  "apiMetadata": {
+    "assetId": "PavingStones019",
+    "dataType": "Material",
+    "displayName": "Paving Stones 019",
+    "displayCategory": "Paving Stones",
+    "shortLink": "https://ambientcg.com/a/PavingStones019",
+    "tags": [
+      "19",
+      "pavement",
+      "paving",
+      "stones"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/PavingStones019.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/PavingStones019.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/PavingStones019.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/PavingStones019.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/PavingStones019.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/PavingStones019.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/PavingStones019.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/PavingStones019.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/PavingStones019.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/PavingStones019.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/PavingStones019.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/PavingStones019.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/PavingStones019.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/PavingStones019.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/PavingStones019.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/PavingStones019.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/PavingStones019.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/PavingStones019.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/PavingStones019.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/PavingStones019.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/PavingStones019.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PavingStones019.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/PavingStones019.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/PavingStones019.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_1K-JPG.zip",
+                "fileName": "PavingStones019_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_1K-JPG.zip",
+                "size": 8306847,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_2K-JPG.zip",
+                "fileName": "PavingStones019_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_2K-JPG.zip",
+                "size": 26937987,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_4K-JPG.zip",
+                "fileName": "PavingStones019_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_4K-JPG.zip",
+                "size": 93884582,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_8K-JPG.zip",
+                "fileName": "PavingStones019_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_8K-JPG.zip",
+                "size": 360557128,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_1K-PNG.zip",
+                "fileName": "PavingStones019_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_1K-PNG.zip",
+                "size": 17204855,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_2K-PNG.zip",
+                "fileName": "PavingStones019_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_2K-PNG.zip",
+                "size": 63196856,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_4K-PNG.zip",
+                "fileName": "PavingStones019_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_4K-PNG.zip",
+                "size": 239182292,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=PavingStones019_8K-PNG.zip",
+                "fileName": "PavingStones019_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=PavingStones019_8K-PNG.zip",
+                "size": 812453953,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-07-02 00:00:00",
+    "earlyReleaseDate": "2018-07-02 00:00:00",
+    "creationMethod": "PBRApproximated",
+    "category": null,
+    "downloadCount": 22742,
+    "downloadCountMonth": 906,
+    "downloadCountWeek": 258,
+    "popularityScore": 2.0889810792608037,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_Color.jpg?66616&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_Displacement.jpg?1833&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_NormalDX.jpg?882&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_Roughness.jpg?53099&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_AmbientOcclusion.jpg?21866",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_Color.jpg?56539,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_Displacement.jpg?40155,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_NormalDX.jpg?16863,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_Roughness.jpg?59618,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones019/PavingStones019_SQ_AmbientOcclusion.jpg?40844&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PavingStones019.webp",
+  "previewSha256": "e1e35e802f231f36687318641e43b3e2d2e362984cafb1a7620205fa320faaf0",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -1,0 +1,178 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Asphalt011",
+  "checkedAt": "2026-10-16T02:08:48.743Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Asphalt011&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "506f1de55073efed44e500680586af7ada54e13ecb7a7d77066e83c47316ee26",
+  "apiMetadata": {
+    "assetId": "Asphalt011",
+    "dataType": "Material",
+    "displayName": "Asphalt 011",
+    "displayCategory": "Asphalt",
+    "shortLink": "https://ambientcg.com/a/Asphalt011",
+    "tags": [
+      "11",
+      "asphalt",
+      "clean",
+      "crack",
+      "cracked",
+      "cracks",
+      "dark",
+      "flat"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Asphalt011.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Asphalt011.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Asphalt011.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Asphalt011.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Asphalt011.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Asphalt011.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Asphalt011.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Asphalt011.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Asphalt011.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Asphalt011.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Asphalt011.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Asphalt011.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Asphalt011.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Asphalt011.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Asphalt011.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Asphalt011.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Asphalt011.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Asphalt011.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Asphalt011.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Asphalt011.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Asphalt011.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Asphalt011.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Asphalt011.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Asphalt011.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt011_1K-JPG.zip",
+                "fileName": "Asphalt011_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt011_1K-JPG.zip",
+                "size": 8832413,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt011_2K-JPG.zip",
+                "fileName": "Asphalt011_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt011_2K-JPG.zip",
+                "size": 32683651,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt011_4K-JPG.zip",
+                "fileName": "Asphalt011_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt011_4K-JPG.zip",
+                "size": 126563640,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt011_1K-PNG.zip",
+                "fileName": "Asphalt011_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt011_1K-PNG.zip",
+                "size": 18029246,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt011_2K-PNG.zip",
+                "fileName": "Asphalt011_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt011_2K-PNG.zip",
+                "size": 69595530,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Asphalt011_4K-PNG.zip",
+                "fileName": "Asphalt011_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Asphalt011_4K-PNG.zip",
+                "size": 269097512,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-06-25 00:00:00",
+    "earlyReleaseDate": "2018-06-25 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 31625,
+    "downloadCountMonth": 1237,
+    "downloadCountWeek": 352,
+    "popularityScore": 2.509797190135125,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Color.jpg?66400&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Displacement.jpg?72901&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_NormalDX.jpg?20463&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Roughness.jpg?58729&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Opacity.jpg?65226",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Color.jpg?16883,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Displacement.jpg?11684,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_NormalDX.jpg?54613,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Roughness.jpg?66326,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Asphalt011/Asphalt011_SQ_Opacity.jpg?45292&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Asphalt011.webp",
+  "previewSha256": "6d860b6037cebbbe13fb9ea929e165f03802eb386c69a4d6ad1135e395ff5c24",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

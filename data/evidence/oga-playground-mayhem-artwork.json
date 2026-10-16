@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-playground-mayhem-artwork",
+  "sourceUrl": "https://opengameart.org/content/playground-mayhem-artwork",
+  "checkedAt": "2026-10-16T01:33:22.814Z",
+  "httpStatus": 200,
+  "pageSha256": "974b6b2f77639104a0272ef4ffb5e15e59f370fc1429a48a6faa91da9995e682",
+  "title": "Playground Mayhem Artwork",
+  "authors": [
+    "Explosive Ninja"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Attribute Tom Cumpsty or Explosive Ninja. Provide a link to http://explosive.ninja where possible. Playground Mayhem Artwork by Explosive Ninja. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/playground-mayhem-artwork Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Art_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Art_0.zip",
+  "downloadSha256": "917c84bb7fcc8167d07188c948ce2a7caac92f1997ffcd61acde2fbbae0a3986",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 23,
+  "licenseFiles": [],
+  "previewFile": "level.png",
+  "previewSha256": "4e8aee3553c8ddb942a904f367bfc7b59afc495f9fb1d9a81dec15d9d54c5d53",
+  "sourceTags": [
+    "sidescroller",
+    "Icon"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

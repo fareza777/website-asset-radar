@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Rust004",
+  "checkedAt": "2026-10-16T01:15:28.719Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rust004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "e0f911d8f1aad3ac3cfa942b14649f26d954fa049608e897442ebf6fd7e7bb23",
+  "apiMetadata": {
+    "assetId": "Rust004",
+    "dataType": "Material",
+    "displayName": "Rust 004",
+    "displayCategory": "Rust",
+    "shortLink": "https://ambientcg.com/a/Rust004",
+    "tags": [
+      "4",
+      "brown",
+      "industrial",
+      "old",
+      "rust",
+      "rusted",
+      "rusty"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Rust004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Rust004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Rust004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Rust004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Rust004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Rust004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Rust004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Rust004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Rust004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Rust004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Rust004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Rust004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Rust004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Rust004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Rust004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Rust004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Rust004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Rust004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Rust004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Rust004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Rust004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rust004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Rust004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Rust004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_1K-JPG.zip",
+                "fileName": "Rust004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_1K-JPG.zip",
+                "size": 8155677,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_2K-JPG.zip",
+                "fileName": "Rust004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_2K-JPG.zip",
+                "size": 27389376,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_4K-JPG.zip",
+                "fileName": "Rust004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_4K-JPG.zip",
+                "size": 76474680,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_8K-JPG.zip",
+                "fileName": "Rust004_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_8K-JPG.zip",
+                "size": 209142799,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_1K-PNG.zip",
+                "fileName": "Rust004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_1K-PNG.zip",
+                "size": 16978630,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_2K-PNG.zip",
+                "fileName": "Rust004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_2K-PNG.zip",
+                "size": 62132962,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_4K-PNG.zip",
+                "fileName": "Rust004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_4K-PNG.zip",
+                "size": 223426820,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Rust004_8K-PNG.zip",
+                "fileName": "Rust004_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Rust004_8K-PNG.zip",
+                "size": 794660654,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-01-30 00:00:00",
+    "earlyReleaseDate": "2019-01-30 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 31290,
+    "downloadCountMonth": 2802,
+    "downloadCountWeek": 872,
+    "popularityScore": 2.646582299425064,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Color.jpg?34649&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Displacement.jpg?4340&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_NormalDX.jpg?35729&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Roughness.jpg?13951&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Metalness.jpg?62374",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Color.jpg?85189,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Displacement.jpg?68183,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_NormalDX.jpg?33724,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Roughness.jpg?17626,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust004/Rust004_SQ_Metalness.jpg?16887&texture_name=Color,Displacement,Normal,Roughness,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rust004.webp",
+  "previewSha256": "6b8d1f7c9ad0eeb2f4c97d38bcd37f2110393e47e65f9074e87ba6a5e0bde673",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -1,0 +1,176 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Ice004",
+  "checkedAt": "2026-10-16T01:43:28.496Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Ice004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "38548493af406fa058112e3398271a122ffa4658f2e4c4ebe297b3ec8b7f6a18",
+  "apiMetadata": {
+    "assetId": "Ice004",
+    "dataType": "Material",
+    "displayName": "Ice 004",
+    "displayCategory": "Ice",
+    "shortLink": "https://ambientcg.com/a/Ice004",
+    "tags": [
+      "4",
+      "frozen",
+      "green",
+      "ice",
+      "lake",
+      "shiny",
+      "water"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Ice004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Ice004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Ice004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Ice004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Ice004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Ice004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Ice004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Ice004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Ice004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Ice004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Ice004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Ice004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Ice004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Ice004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Ice004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Ice004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Ice004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Ice004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Ice004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Ice004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Ice004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ice004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Ice004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Ice004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ice004_1K-JPG.zip",
+                "fileName": "Ice004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ice004_1K-JPG.zip",
+                "size": 5766935,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ice004_2K-JPG.zip",
+                "fileName": "Ice004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ice004_2K-JPG.zip",
+                "size": 18517784,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ice004_4K-JPG.zip",
+                "fileName": "Ice004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ice004_4K-JPG.zip",
+                "size": 73967890,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ice004_1K-PNG.zip",
+                "fileName": "Ice004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ice004_1K-PNG.zip",
+                "size": 14454583,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ice004_2K-PNG.zip",
+                "fileName": "Ice004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ice004_2K-PNG.zip",
+                "size": 52779755,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ice004_4K-PNG.zip",
+                "fileName": "Ice004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ice004_4K-PNG.zip",
+                "size": 208789762,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-09-17 00:00:00",
+    "earlyReleaseDate": "2018-09-17 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 30801,
+    "downloadCountMonth": 1982,
+    "downloadCountWeek": 563,
+    "popularityScore": 2.5251280750372724,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_Color.jpg?19844&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_Displacement.jpg?9561&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_NormalDX.jpg?76908&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_Roughness.jpg?800",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_Color.jpg?42325,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_Displacement.jpg?3912,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_NormalDX.jpg?6492,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ice004/Ice004_SQ_Roughness.jpg?83971&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ice004.webp",
+  "previewSha256": "67150cd7cedb5cac9737351bfd494217aa354b004ecbede30cebf9172b594e29",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

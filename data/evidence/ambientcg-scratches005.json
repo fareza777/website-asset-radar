@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Scratches005",
+  "checkedAt": "2026-10-16T02:12:18.233Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Scratches005&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "3ee5e1e1bbaabc7bbc56d0994f7f038c710c25e906631aee2f202c65e55cf4e6",
+  "apiMetadata": {
+    "assetId": "Scratches005",
+    "dataType": "Material",
+    "displayName": "Scratches 005",
+    "displayCategory": "Scratches",
+    "shortLink": "https://ambientcg.com/a/Scratches005",
+    "tags": [
+      "5",
+      "imperfections",
+      "scratched",
+      "scratches",
+      "surface"
+    ],
+    "maps": [
+      "color",
+      "normal",
+      "opacity"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Scratches005.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Scratches005.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Scratches005.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Scratches005.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Scratches005.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Scratches005.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Scratches005.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Scratches005.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Scratches005.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Scratches005.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Scratches005.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Scratches005.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Scratches005.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Scratches005.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Scratches005.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Scratches005.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Scratches005.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Scratches005.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Scratches005.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Scratches005.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Scratches005.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Scratches005.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Scratches005.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Scratches005.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Scratches005_1K-JPG.zip",
+                "fileName": "Scratches005_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Scratches005_1K-JPG.zip",
+                "size": 6421733,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Scratches005_2K-JPG.zip",
+                "fileName": "Scratches005_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Scratches005_2K-JPG.zip",
+                "size": 22878659,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Scratches005_4K-JPG.zip",
+                "fileName": "Scratches005_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Scratches005_4K-JPG.zip",
+                "size": 80661514,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Scratches005_1K-PNG.zip",
+                "fileName": "Scratches005_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Scratches005_1K-PNG.zip",
+                "size": 13347970,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Scratches005_2K-PNG.zip",
+                "fileName": "Scratches005_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Scratches005_2K-PNG.zip",
+                "size": 46483562,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Scratches005_4K-PNG.zip",
+                "fileName": "Scratches005_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Scratches005_4K-PNG.zip",
+                "size": 147624565,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-06-04 00:00:00",
+    "earlyReleaseDate": "2018-06-04 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 43682,
+    "downloadCountMonth": 2109,
+    "downloadCountWeek": 725,
+    "popularityScore": 3.0667966803163256,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Scratches005/Scratches005_SQ_Color.jpg?62593&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Scratches005/Scratches005_SQ_NormalDX.jpg?96678&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Scratches005/Scratches005_SQ_Opacity.jpg?16361",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Scratches005/Scratches005_SQ_Color.jpg?73957,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Scratches005/Scratches005_SQ_NormalDX.jpg?96507,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Scratches005/Scratches005_SQ_Opacity.jpg?26869&texture_name=Color,Normal,Opacity",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Scratches005.webp",
+  "previewSha256": "d024703d1474478b3661aba60cfbce86fef923885ccfde0e5c5d4faf885bd996",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

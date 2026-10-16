@@ -1,0 +1,174 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Plastic004",
+  "checkedAt": "2026-10-16T02:18:03.790Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Plastic004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "d84d5d37834736c80897f14364247ff5eb05490378661f578371652287852d9f",
+  "apiMetadata": {
+    "assetId": "Plastic004",
+    "dataType": "Material",
+    "displayName": "Plastic 004",
+    "displayCategory": "Plastic",
+    "shortLink": "https://ambientcg.com/a/Plastic004",
+    "tags": [
+      "4",
+      "brown",
+      "light",
+      "plastic",
+      "rough"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Plastic004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Plastic004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Plastic004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Plastic004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Plastic004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Plastic004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Plastic004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Plastic004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Plastic004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Plastic004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Plastic004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Plastic004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Plastic004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Plastic004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Plastic004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Plastic004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Plastic004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Plastic004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Plastic004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Plastic004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Plastic004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Plastic004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Plastic004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Plastic004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Plastic004_1K-JPG.zip",
+                "fileName": "Plastic004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Plastic004_1K-JPG.zip",
+                "size": 8008976,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Plastic004_2K-JPG.zip",
+                "fileName": "Plastic004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Plastic004_2K-JPG.zip",
+                "size": 24864293,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Plastic004_4K-JPG.zip",
+                "fileName": "Plastic004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Plastic004_4K-JPG.zip",
+                "size": 70913196,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Plastic004_1K-PNG.zip",
+                "fileName": "Plastic004_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Plastic004_1K-PNG.zip",
+                "size": 16303918,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Plastic004_2K-PNG.zip",
+                "fileName": "Plastic004_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Plastic004_2K-PNG.zip",
+                "size": 59199370,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Plastic004_4K-PNG.zip",
+                "fileName": "Plastic004_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Plastic004_4K-PNG.zip",
+                "size": 220644600,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-03-15 00:00:00",
+    "earlyReleaseDate": "2018-03-15 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 57217,
+    "downloadCountMonth": 2485,
+    "downloadCountWeek": 607,
+    "popularityScore": 3.6166859319293927,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_Color.jpg?63160&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_Displacement.jpg?2104&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_NormalDX.jpg?90339&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_Roughness.jpg?42305",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_Color.jpg?91811,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_Displacement.jpg?86818,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_NormalDX.jpg?58255,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Plastic004/Plastic004_SQ_Roughness.jpg?68530&texture_name=Color,Displacement,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Plastic004.webp",
+  "previewSha256": "f066e725b045cd86922bc0c50bbb9a40bf4749374d998f97a148354e265e5221",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

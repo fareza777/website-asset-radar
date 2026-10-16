@@ -1,0 +1,174 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Cork001",
+  "checkedAt": "2026-10-16T01:26:27.167Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Cork001&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "c9c7a6bf46a9efe444270556f3957b28a06149c0b41f94b6c83ac78706b489c5",
+  "apiMetadata": {
+    "assetId": "Cork001",
+    "dataType": "Material",
+    "displayName": "Cork 001",
+    "displayCategory": "Cork",
+    "shortLink": "https://ambientcg.com/a/Cork001",
+    "tags": [
+      "1",
+      "brown",
+      "cork",
+      "orange"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Cork001.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Cork001.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Cork001.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Cork001.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Cork001.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Cork001.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Cork001.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Cork001.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Cork001.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Cork001.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Cork001.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Cork001.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Cork001.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Cork001.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Cork001.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Cork001.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Cork001.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Cork001.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Cork001.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Cork001.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Cork001.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Cork001.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Cork001.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Cork001.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Cork001_1K-JPG.zip",
+                "fileName": "Cork001_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Cork001_1K-JPG.zip",
+                "size": 8628837,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Cork001_2K-JPG.zip",
+                "fileName": "Cork001_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Cork001_2K-JPG.zip",
+                "size": 24029900,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Cork001_4K-JPG.zip",
+                "fileName": "Cork001_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Cork001_4K-JPG.zip",
+                "size": 82465878,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Cork001_1K-PNG.zip",
+                "fileName": "Cork001_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Cork001_1K-PNG.zip",
+                "size": 17558562,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Cork001_2K-PNG.zip",
+                "fileName": "Cork001_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Cork001_2K-PNG.zip",
+                "size": 61709016,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Cork001_4K-PNG.zip",
+                "fileName": "Cork001_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Cork001_4K-PNG.zip",
+                "size": 136879229,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-11-30 00:00:00",
+    "earlyReleaseDate": "2018-11-30 00:00:00",
+    "creationMethod": "PBRApproximated",
+    "category": null,
+    "downloadCount": 37181,
+    "downloadCountMonth": 1781,
+    "downloadCountWeek": 604,
+    "popularityScore": 2.902830491124859,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_Color.jpg?75655&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_Displacement.jpg?49131&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_NormalDX.jpg?93171&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_Roughness.jpg?67681&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_AmbientOcclusion.jpg?9359",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_Color.jpg?51552,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_Displacement.jpg?11027,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_NormalDX.jpg?47607,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_Roughness.jpg?91856,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Cork001/Cork001_SQ_AmbientOcclusion.jpg?54606&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Cork001.webp",
+  "previewSha256": "b5ca99aca3bc5ebed3c84fb5c048a2985537b41cdb3ed58b79e961fa74e8559f",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

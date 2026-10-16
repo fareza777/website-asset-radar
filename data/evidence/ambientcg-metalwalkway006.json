@@ -1,0 +1,175 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/MetalWalkway006",
+  "checkedAt": "2026-10-16T02:11:18.861Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=MetalWalkway006&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "eb69815679c705f53a6ee623624237cca05ad5d9c01b3f0d9b7eb155faef43a4",
+  "apiMetadata": {
+    "assetId": "MetalWalkway006",
+    "dataType": "Material",
+    "displayName": "Metal Walkway 006",
+    "displayCategory": "Metal Walkway",
+    "shortLink": "https://ambientcg.com/a/MetalWalkway006",
+    "tags": [
+      "6",
+      "metal",
+      "steel",
+      "walkway"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "opacity",
+      "metalness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/MetalWalkway006.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/MetalWalkway006.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/MetalWalkway006.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/MetalWalkway006.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/MetalWalkway006.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/MetalWalkway006.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/MetalWalkway006.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/MetalWalkway006.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/MetalWalkway006.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/MetalWalkway006.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/MetalWalkway006.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/MetalWalkway006.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/MetalWalkway006.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/MetalWalkway006.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/MetalWalkway006.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/MetalWalkway006.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/MetalWalkway006.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/MetalWalkway006.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/MetalWalkway006.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/MetalWalkway006.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/MetalWalkway006.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/MetalWalkway006.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/MetalWalkway006.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/MetalWalkway006.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalWalkway006_1K-JPG.zip",
+                "fileName": "MetalWalkway006_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalWalkway006_1K-JPG.zip",
+                "size": 6301433,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalWalkway006_2K-JPG.zip",
+                "fileName": "MetalWalkway006_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalWalkway006_2K-JPG.zip",
+                "size": 17524221,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalWalkway006_4K-JPG.zip",
+                "fileName": "MetalWalkway006_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalWalkway006_4K-JPG.zip",
+                "size": 61615925,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalWalkway006_1K-PNG.zip",
+                "fileName": "MetalWalkway006_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalWalkway006_1K-PNG.zip",
+                "size": 9674453,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalWalkway006_2K-PNG.zip",
+                "fileName": "MetalWalkway006_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalWalkway006_2K-PNG.zip",
+                "size": 30707714,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=MetalWalkway006_4K-PNG.zip",
+                "fileName": "MetalWalkway006_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=MetalWalkway006_4K-PNG.zip",
+                "size": 108995466,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-06-12 00:00:00",
+    "earlyReleaseDate": "2018-06-12 00:00:00",
+    "creationMethod": "PBRProcedural",
+    "category": null,
+    "downloadCount": 33138,
+    "downloadCountMonth": 1269,
+    "downloadCountWeek": 370,
+    "popularityScore": 2.573263101247705,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Color.jpg?73864&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Displacement.jpg?61795&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_NormalDX.jpg?34726&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Roughness.jpg?5762&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Opacity.jpg?43714&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Metalness.jpg?23210",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Color.jpg?16082,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Displacement.jpg?73187,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_NormalDX.jpg?85591,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Roughness.jpg?98116,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Opacity.jpg?76797,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/MetalWalkway006/MetalWalkway006_SQ_Metalness.jpg?79369&texture_name=Color,Displacement,Normal,Roughness,Opacity,Metalness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/MetalWalkway006.webp",
+  "previewSha256": "5aa2f92753eb8e3d55d6ee7e2efa366fe74360fded28b6abdf475134448388c5",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

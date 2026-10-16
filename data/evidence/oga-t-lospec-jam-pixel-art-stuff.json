@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-t-lospec-jam-pixel-art-stuff",
+  "sourceUrl": "https://opengameart.org/content/t-lospec-jam-pixel-art-stuff",
+  "checkedAt": "2026-10-16T01:32:01.830Z",
+  "httpStatus": 200,
+  "pageSha256": "4fbb3dbf1d73a940474adb55281b8ad9a576d94dfcddfb5aa7669b1a3a25db1c",
+  "title": "T - Lospec Jam Pixel Art stuff",
+  "authors": [
+    "DustDFG"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Yevhen Babiichuk (DustDFG) <link> T - Lospec Jam Pixel Art stuff by DustDFG. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/t-lospec-jam-pixel-art-stuff Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/_t_lospec_jam_pixel_art.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/_t_lospec_jam_pixel_art.zip",
+  "downloadSha256": "8d8adb637a2cf17e510369a7dcd22c2d5e73c2435a11288a675066806d4c1bba",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 5,
+  "licenseFiles": [],
+  "previewFile": "_t_lospec_jam_pixel_art/tileset.png",
+  "previewSha256": "88ff6512d5733b76d40e5ef5c985b0b045c8533d809ec2e3ac96ba53af287223",
+  "sourceTags": [
+    "pixel-art",
+    "tileset",
+    "Platformer",
+    "16bit",
+    "24x24"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

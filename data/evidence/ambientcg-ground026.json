@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Ground026",
+  "checkedAt": "2026-10-16T01:16:25.796Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Ground026&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "c8259db2e04c382b78aa051819d4753462d99bdd25ab3001047cbf96509f4cc5",
+  "apiMetadata": {
+    "assetId": "Ground026",
+    "dataType": "Material",
+    "displayName": "Ground 026",
+    "displayCategory": "Ground",
+    "shortLink": "https://ambientcg.com/a/Ground026",
+    "tags": [
+      "26",
+      "clay",
+      "flat",
+      "ground",
+      "mud",
+      "smooth"
+    ],
+    "maps": [
+      "color",
+      "displacement",
+      "normal",
+      "roughness",
+      "ambient-occlusion"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Ground026.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Ground026.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Ground026.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Ground026.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Ground026.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Ground026.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Ground026.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Ground026.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Ground026.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Ground026.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Ground026.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Ground026.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Ground026.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Ground026.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Ground026.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Ground026.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Ground026.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Ground026.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Ground026.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Ground026.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Ground026.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ground026.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Ground026.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Ground026.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_1K-JPG.zip",
+                "fileName": "Ground026_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_1K-JPG.zip",
+                "size": 9456906,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_2K-JPG.zip",
+                "fileName": "Ground026_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_2K-JPG.zip",
+                "size": 33044252,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_4K-JPG.zip",
+                "fileName": "Ground026_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_4K-JPG.zip",
+                "size": 115950397,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_8K-JPG.zip",
+                "fileName": "Ground026_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_8K-JPG.zip",
+                "size": 391820453,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "1K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_1K-PNG.zip",
+                "fileName": "Ground026_1K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_1K-PNG.zip",
+                "size": 18488347,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_2K-PNG.zip",
+                "fileName": "Ground026_2K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_2K-PNG.zip",
+                "size": 69207290,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_4K-PNG.zip",
+                "fileName": "Ground026_4K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_4K-PNG.zip",
+                "size": 263359066,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-PNG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Ground026_8K-PNG.zip",
+                "fileName": "Ground026_8K-PNG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Ground026_8K-PNG.zip",
+                "size": 984944131,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2019-01-23 00:00:00",
+    "earlyReleaseDate": "2019-01-23 00:00:00",
+    "creationMethod": "PBRPhotogrammetry",
+    "category": null,
+    "downloadCount": 61569,
+    "downloadCountMonth": 2101,
+    "downloadCountWeek": 593,
+    "popularityScore": 4.229522728690796,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_Color.jpg?94521&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_Displacement.jpg?96822&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_NormalDX.jpg?86185&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_Roughness.jpg?62479&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_AmbientOcclusion.jpg?90080",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_Color.jpg?36599,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_Displacement.jpg?9350,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_NormalDX.jpg?82376,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_Roughness.jpg?65315,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Ground026/Ground026_SQ_AmbientOcclusion.jpg?61068&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Ground026.webp",
+  "previewSha256": "54f41169f27db02b2cab77b45c21b2d62c3cefb333cc9a910091b68d3480a0da",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}
