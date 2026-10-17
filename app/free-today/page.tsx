@@ -32,7 +32,7 @@ export default function FreeToday() {
         </p>
       </div>
       <AssetGallery
-        assets={offers.filter((a) => a.type === "limited_free")}
+        assets={items}
         scope={{ type: "limited_free" }}
         offerMode="limited_free"
         heading="Free Today"

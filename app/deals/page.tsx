@@ -33,7 +33,7 @@ export default function Deals() {
         </p>
       </div>
       <AssetGallery
-        assets={offers.filter((a) => a.type === "deal")}
+        assets={items}
         scope={{ type: "deal" }}
         offerMode="deal"
         heading="Deals Radar"
