@@ -1,0 +1,26 @@
+{
+  "id": "szadiart-rpg-worlds-desert",
+  "sourceUrl": "https://szadiart.itch.io/rpg-worlds-desert",
+  "checkedAt": "2026-10-17T01:16:18.312Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 12,
+    "salePrice": 4.8,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $12 crossed out to $4.8. No currency conversion or paid download was performed."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://szadiart.itch.io/rpg-worlds-desert",
+    "commercialUse": true,
+    "note": "Commercial and personal projects are allowed, including edits and selling games made with the art. Logo, trademark and resale of the assets, original or modified, are prohibited."
+  },
+  "expiresAt": "2026-10-18T20:00:00.000Z",
+  "expiryEvidenceUrl": "https://szadiart.itch.io/rpg-worlds-desert",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 5,
+  "reviewCount": 16,
+  "productNote": "The public page lists RPGW_Desert_v1.0.zip 4 MB, RPGW_Desert_v2.01.zip 3.9 MB. A 32×32 top-down desert tileset with terrain variants, animated trees, rocks and decorations. PNG and PSD files are in the listed ZIPs. Structured price data matched the purchase panel. The archive was not downloaded."
+}

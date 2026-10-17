@@ -1,0 +1,156 @@
+{
+  "sourceUrl": "https://ambientcg.com/a/Smear004",
+  "checkedAt": "2026-10-17T01:20:25.443Z",
+  "httpStatus": 200,
+  "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Smear004&include=tagData,displayData,downloadData,mapData,imageData",
+  "apiSha256": "fbcda4db38a3d8fea8d0a4e4b5b7c07ae93eaf12638493142ee8374e9d8bc38c",
+  "apiMetadata": {
+    "assetId": "Smear004",
+    "dataType": "Material",
+    "displayName": "Smear 004",
+    "displayCategory": "Smear",
+    "shortLink": "https://ambientcg.com/a/Smear004",
+    "tags": [
+      "4",
+      "fingerprints",
+      "imperfections",
+      "smear",
+      "smudge",
+      "surface"
+    ],
+    "maps": [
+      "color",
+      "normal",
+      "roughness"
+    ],
+    "previewImage": {
+      "64-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-PNG/Smear004.png",
+      "128-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-PNG/Smear004.png",
+      "256-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-PNG/Smear004.png",
+      "512-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-PNG/Smear004.png",
+      "1024-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-PNG/Smear004.png",
+      "2048-PNG": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Smear004.png",
+      "64-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-FFFFFF/Smear004.jpg",
+      "128-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-FFFFFF/Smear004.jpg",
+      "256-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-FFFFFF/Smear004.jpg",
+      "512-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Smear004.jpg",
+      "1024-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Smear004.jpg",
+      "2048-JPG-FFFFFF": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Smear004.jpg",
+      "64-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-JPG-242424/Smear004.jpg",
+      "128-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-JPG-242424/Smear004.jpg",
+      "256-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-JPG-242424/Smear004.jpg",
+      "512-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-242424/Smear004.jpg",
+      "1024-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-242424/Smear004.jpg",
+      "2048-JPG-242424": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-242424/Smear004.jpg",
+      "64-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/64-WEBP/Smear004.webp",
+      "128-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/128-WEBP/Smear004.webp",
+      "256-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/256-WEBP/Smear004.webp",
+      "512-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Smear004.webp",
+      "1024-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-WEBP/Smear004.webp",
+      "2048-WEBP": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Smear004.webp"
+    },
+    "downloadFolders": {
+      "default": {
+        "downloadFiletypeCategories": {
+          "zip": {
+            "downloads": [
+              {
+                "attribute": "1K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Smear004_1K-JPG.zip",
+                "fileName": "Smear004_1K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Smear004_1K-JPG.zip",
+                "size": 5130362,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "2K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Smear004_2K-JPG.zip",
+                "fileName": "Smear004_2K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Smear004_2K-JPG.zip",
+                "size": 16368949,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "4K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Smear004_4K-JPG.zip",
+                "fileName": "Smear004_4K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Smear004_4K-JPG.zip",
+                "size": 51126739,
+                "filetype": "zip",
+                "zipContent": []
+              },
+              {
+                "attribute": "8K-JPG",
+                "fullDownloadPath": "https://ambientcg.com/get?file=Smear004_8K-JPG.zip",
+                "fileName": "Smear004_8K-JPG.zip",
+                "downloadLink": "https://ambientcg.com/get?file=Smear004_8K-JPG.zip",
+                "size": 103732039,
+                "filetype": "zip",
+                "zipContent": []
+              }
+            ],
+            "title": "zip"
+          }
+        },
+        "title": "default"
+      }
+    },
+    "releaseDate": "2018-01-26 00:00:00",
+    "earlyReleaseDate": "2018-01-26 00:00:00",
+    "creationMethod": "PBRApproximated",
+    "category": null,
+    "downloadCount": 14326,
+    "downloadCountMonth": 1359,
+    "downloadCountWeek": 510,
+    "popularityScore": 1.6421088847270005,
+    "dataTypeName": "Material",
+    "dataTypeDescription": "A photo texture with PBR maps.",
+    "creationMethodName": "Height field photogrammetry",
+    "creationMethodDescription": "Displacement generated using photogrammetry.",
+    "customDisplayName": "",
+    "description": "",
+    "dimensionX": 0,
+    "dimensionY": 0,
+    "dimensionZ": 0,
+    "createdUsing": [],
+    "basedOnThis": [],
+    "variations": [],
+    "nextVariationAssetId": null,
+    "previousVariationAssetId": null,
+    "nextAssetId": null,
+    "previousAssetId": null,
+    "previewLinks": [
+      {
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Smear004/Smear004_SQ_Color.jpg?7515&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Smear004/Smear004_SQ_NormalDX.jpg?14639&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Smear004/Smear004_SQ_Roughness.jpg?6011",
+        "name": {
+          "id": 4,
+          "slug": "pbr-one-material-shading",
+          "title": "3D Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      },
+      {
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Smear004/Smear004_SQ_Color.jpg?35485,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Smear004/Smear004_SQ_NormalDX.jpg?29567,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Smear004/Smear004_SQ_Roughness.jpg?72278&texture_name=Color,Normal,Roughness",
+        "name": {
+          "id": 3,
+          "slug": "pbr-one-material-maps",
+          "title": "Tiling Preview",
+          "description": "description"
+        },
+        "displayName": "",
+        "iconName": ""
+      }
+    ],
+    "previewType": "Default",
+    "hasUsd": false
+  },
+  "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
+  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Smear004.webp",
+  "previewSha256": "49009e496bab076d8255771107a68a0cb322bdb5a14781748dc057d4aff3652b",
+  "formatEvidence": "Official API download attributes; full archives not inspected."
+}

@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T05:57:01.046Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Marble012&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "a1c6c9f38440770424904f0a0f8a8e1bfd5ead0978c3e93006fc89b8e2cf1916",
+  "apiSha256": "951276c19688931a534ee7c93a3e47607a40f265d22a78c503f8cb1db515dd66",
   "apiMetadata": {
     "assetId": "Marble012",
     "dataType": "Material",
@@ -149,10 +149,10 @@
     "earlyReleaseDate": "2020-01-26 00:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 471032,
-    "downloadCountMonth": 24155,
-    "downloadCountWeek": 6316,
-    "popularityScore": 30.734024671724036,
+    "downloadCount": 477989,
+    "downloadCountMonth": 25807,
+    "downloadCountWeek": 6261,
+    "popularityScore": 31.04748347287846,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -171,7 +171,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Color.jpg?31602&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Displacement.jpg?56399&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_NormalDX.jpg?42141&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Roughness.jpg?98279",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Color.jpg?26851&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Displacement.jpg?4848&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_NormalDX.jpg?17402&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Roughness.jpg?66001",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -182,7 +182,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Color.jpg?69324,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Displacement.jpg?40849,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_NormalDX.jpg?15112,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Roughness.jpg?89956&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Color.jpg?83378,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Displacement.jpg?14045,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_NormalDX.jpg?80439,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Marble012/Marble012_SQ_Roughness.jpg?53739&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -200,5 +200,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Marble012.webp",
   "previewSha256": "4d60b58b5912614050b03ea1f8c746628df35c78bfd5093a1f3deab463778312",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-17T02:12:52.903Z"
 }

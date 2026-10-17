@@ -1,0 +1,26 @@
+{
+  "id": "szadiart-postapo-lands-set1",
+  "sourceUrl": "https://szadiart.itch.io/postapo-lands-set1",
+  "checkedAt": "2026-10-17T01:08:58.501Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 29.99,
+    "salePrice": 11.99,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $29.99 crossed out to $11.99. No currency conversion or paid download was performed."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://szadiart.itch.io/postapo-lands-set1",
+    "commercialUse": true,
+    "note": "Commercial and personal projects are allowed, including edits and selling games made with the art. Logo, trademark and resale of the assets, original or modified, are prohibited. Credit is not required."
+  },
+  "expiresAt": "2026-10-18T20:00:00.000Z",
+  "expiryEvidenceUrl": "https://szadiart.itch.io/postapo-lands-set1",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 5,
+  "reviewCount": 15,
+  "productNote": "The public page lists PALands_SET1_v1.01.zip (10 MB), a 212 kB demo ZIP, 16×16 art with 32×32 scaled copies, PNG and PSD files, buildings, interiors, furniture, animated trees and fires, a creator license, and a 60% USD reduction to $11.99. Structured price data matched the purchase panel. The archive was not downloaded."
+}
