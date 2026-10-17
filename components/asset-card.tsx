@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { ViewTransition } from "react";
 import Link from "next/link";
 import {
   ArrowUpRight as ArrowUpRightIcon,
@@ -37,21 +38,26 @@ export function AssetCard({
         : ImageSquareIcon;
   return (
     <article className={`asset-card ${view === "list" ? "list-card" : ""}`}>
-      <div className="asset-image-wrap">
+      <div
+        className="asset-image-wrap"
+        style={asset.tint ? { backgroundColor: asset.tint } : undefined}
+      >
         <Link href={`/asset/${asset.id}/`} tabIndex={-1} aria-hidden="true">
-          <Image
-            src={asset.preview}
-            alt={`${asset.title} asset pack preview`}
-            width={800}
-            height={450}
-            sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 33vw"
-            loading={priority ? "eager" : "lazy"}
-            className="asset-image"
-          />
+          <ViewTransition name={`asset-${asset.id}`} share="morph" default="none">
+            <Image
+              src={asset.preview}
+              alt={`${asset.title} asset pack preview`}
+              width={800}
+              height={450}
+              sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 33vw"
+              loading={priority ? "eager" : "lazy"}
+              className="asset-image"
+            />
+          </ViewTransition>
         </Link>
         <FavoriteButton asset={{ id: asset.id, title: asset.title }} />
         <div className="image-radar-badge">
-          <RadarBadge score={asset.radarScore} provisional />
+          <RadarBadge score={asset.radarScore} provisional compact />
         </div>
       </div>
       <div className="asset-card-body">

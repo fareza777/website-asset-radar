@@ -27,7 +27,10 @@ export function PromotionSection({
   const isFree = type === "limited_free",
     Icon = isFree ? Fire : Tag;
   return (
-    <section className="discovery-section" aria-labelledby={`${type}-heading`}>
+    <section
+      className={`discovery-section${visible.length ? "" : " is-empty"}`}
+      aria-labelledby={`${type}-heading`}
+    >
       <div className="discovery-heading">
         <div>
           <h2 id={`${type}-heading`}>

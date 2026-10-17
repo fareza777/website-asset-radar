@@ -31,7 +31,7 @@ export function Hero() {
         className="hero-feature"
         aria-label="Discover Kenney Nature Kit"
       >
-        <div className="hero-art">
+        <div className="hero-art motion-surface" data-motion="paused">
           <div className="hero-orbit orbit-one" />
           <div className="hero-orbit orbit-two" />
           <Image

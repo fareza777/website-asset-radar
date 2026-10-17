@@ -16,7 +16,7 @@ export function TodaysRadar({ free, offers }: { free: Asset; offers: Promotion[]
   const picks: { asset: DirectoryAsset; label: string }[] = [{ asset: free, label: "The free pick" }, ...(limited ? [{ asset: limited, label: "A limited-time find" }] : []), ...(deal ? [{ asset: deal, label: "Worth a closer look" }] : [])];
   return <section className="todays-radar" aria-labelledby="todays-radar-heading">
     <div className="todays-radar-heading"><h2 id="todays-radar-heading"><Broadcast size={22} weight="duotone" /> Today&apos;s Radar</h2><span>A small selection. A useful head start.</span></div>
-    <div className="radar-picks">{picks.map(({ asset, label }) => <Link key={asset.id} className="radar-pick" href={`/asset/${asset.id}/`}>
+    <div className={`radar-picks picks-${picks.length}`}>{picks.map(({ asset, label }) => <Link key={asset.id} className="radar-pick" href={`/asset/${asset.id}/`}>
       <div className="radar-pick-image">{asset.type === "free" ? <Image src={asset.preview} alt={`${asset.title} preview`} width={240} height={180} sizes="110px" /> : <OfferPreview asset={asset} />}</div>
       <div className="radar-pick-copy"><span>{label}</span><strong>{asset.title}</strong><div className="radar-pick-meta"><span>{asset.type === "free" ? `FREE · ${asset.license}` : now === null ? "Checking availability" : asset.type === "limited_free" ? "100% OFF" : `${asset.discountPercent}% OFF · ${usdPrice(asset.salePrice, asset.currency, now)?.text ?? "See source"}`}</span><span>Radar {asset.radarScore}</span></div></div>
       <ArrowUpRight className="radar-pick-arrow" size={18} />

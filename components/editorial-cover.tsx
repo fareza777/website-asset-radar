@@ -521,26 +521,38 @@ export function EditorialCover({ asset }: { asset: CardPromotion }) {
   const audio = asset.dimension === "Audio";
   const interior = asset.tags.includes("interior");
   const castle = asset.tags.includes("castle");
-  const world = audio
-    ? "Give your world a soundtrack."
+  // A stable per-asset seed varies the line, mood and framing so neighbouring
+  // covers built from the same scene no longer read as copies.
+  const seed = [...asset.id].reduce(
+    (hash, char) => (hash * 31 + char.charCodeAt(0)) >>> 0,
+    7,
+  );
+  const lines = audio
+    ? ["Give your world a soundtrack.", "Every scene needs a sound.", "Turn the volume up."]
     : interior
-      ? "A place to call your own."
+      ? ["A place to call your own.", "Furnish the quiet rooms.", "Make yourself at home."]
       : castle
-        ? "Every world needs a story."
+        ? ["Every world needs a story.", "Raise the banners.", "Guard the old walls."]
         : tool
-          ? "Find a way through."
+          ? ["Find a way through."]
           : farm
-            ? "A quieter kind of world."
+            ? ["A quieter kind of world.", "Plant something slow.", "Harvest season starts here."]
             : village
-              ? "Build your next adventure."
+              ? ["Build your next adventure."]
               : asset.dimension === "3D"
-                ? "Take the scenic route."
-                : "Let the forest come alive.";
+                ? ["Take the scenic route.", "An island worth exploring.", "Shape the horizon."]
+                : ["Let the forest come alive.", "Somewhere past the treeline.", "A path worth wandering.", "Paint the wild edges."];
+  const world = lines[seed % lines.length];
+  const mood = ["day", "dusk", "night", "dawn"][(seed >>> 3) % 4];
+  const mirrored = !audio && !tool && (seed >>> 5) % 2 === 1;
   return (
-    <div className="editorial-cover motion-surface" data-motion="paused">
+    <div
+      className={`editorial-cover motion-surface mood-${mood}`}
+      data-motion="paused"
+    >
       <svg
         viewBox="0 0 800 450"
-        className="editorial-scene"
+        className={`editorial-scene${mirrored ? " mirrored" : ""}`}
         aria-hidden="true"
         focusable="false"
       >

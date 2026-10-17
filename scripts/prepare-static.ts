@@ -11,6 +11,8 @@ import {
   directoryAssets,
 } from "../lib/catalog";
 import { toCardAsset } from "../lib/catalog-card";
+import { previewTints } from "../lib/preview-tints";
+import sharp from "sharp";
 import type { Icon, IconWeight } from "@phosphor-icons/react";
 
 const root = process.cwd();
@@ -39,7 +41,36 @@ async function cleanGeneratedFiles(directory: string, keep: string) {
     }
   }
 }
+// Only new previews are decoded; the committed cache keeps builds fast.
+async function refreshPreviewTints(previews: (string | null | undefined)[]) {
+  const local = [...new Set(previews)].filter(
+    (preview): preview is string =>
+      !!preview?.startsWith("/previews/") && !previewTints[preview],
+  );
+  for (let index = 0; index < local.length; index += 32) {
+    await Promise.all(
+      local.slice(index, index + 32).map(async (preview) => {
+        const pixel = await sharp(path.join(root, "public", preview))
+          .resize(1, 1, { fit: "fill" })
+          .removeAlpha()
+          .raw()
+          .toBuffer()
+          .catch(() => null);
+        if (pixel)
+          previewTints[preview] = `#${[...pixel.subarray(0, 3)].map((value) => value.toString(16).padStart(2, "0")).join("")}`;
+      }),
+    );
+  }
+  const sorted = Object.fromEntries(
+    Object.entries(previewTints).sort(([a], [b]) => a.localeCompare(b)),
+  );
+  await writeStable(
+    path.join(root, "data", "preview-tints.json"),
+    `${JSON.stringify(sorted, null, 1)}\n`,
+  );
+}
 async function main() {
+  await refreshPreviewTints(directoryAssets.map((asset) => asset.preview));
   await Promise.all(
     [generated, staticRoot, uiRoot].map((directory) =>
       mkdir(directory, { recursive: true }),

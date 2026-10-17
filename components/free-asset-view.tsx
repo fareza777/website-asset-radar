@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { ViewTransition } from "react";
 import Link from "next/link";
 import { EngineCompatibilityPanel } from "@/components/engine-compatibility";
 import { PublisherCredit } from "@/components/publisher-credit";
@@ -68,14 +69,16 @@ export function FreeAssetView({
       </Link>
       <div className="asset-detail">
         <div className="asset-detail-media">
-          <Image
-            src={asset.preview}
-            alt={`${asset.title} preview from licensed source files`}
-            width={800}
-            height={450}
-            priority
-            sizes="(max-width: 900px) 100vw, 55vw"
-          />
+          <ViewTransition name={`asset-${asset.id}`} share="morph" default="none">
+            <Image
+              src={asset.preview}
+              alt={`${asset.title} preview from licensed source files`}
+              width={800}
+              height={450}
+              priority
+              sizes="(max-width: 900px) 100vw, 55vw"
+            />
+          </ViewTransition>
           <div className="preview-credit">
             <FolderSimple size={15} />
             <span>

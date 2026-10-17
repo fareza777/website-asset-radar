@@ -3,15 +3,19 @@ import Link from "next/link";
 import {
   ArrowUpRight as ArrowIcon,
   ArrowRight as ArrowRightIcon,
+  Stack as StackIcon,
 } from "@/lib/icons";
 import { collections, getAsset } from "@/lib/catalog";
 
 export function CollectionsPreview({ all = false }: { all?: boolean }) {
   return (
     <section className="collections-section">
-      <div className="collections-heading">
+      <div className={all ? "collections-heading" : "discovery-heading"}>
         <div>
-          <h2>{all ? "Curated collections" : "A few good starting points."}</h2>
+          <h2>
+            {!all && <StackIcon size={23} weight="duotone" />}
+            {all ? "Curated collections" : "A few good starting points."}
+          </h2>
           <p>Thoughtful combinations for the worlds you want to build.</p>
         </div>
         {!all && (

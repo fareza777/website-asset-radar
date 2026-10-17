@@ -4,13 +4,15 @@ import { Target } from "@/lib/icons";
 export function RadarBadge({
   score,
   provisional = false,
+  compact = false,
 }: {
   score: number;
   provisional?: boolean;
+  compact?: boolean;
 }) {
   return (
     <Link
-      className="radar-badge"
+      className={`radar-badge${compact ? " compact" : ""}`}
       href="/about/#radar-score"
       title={
         provisional
@@ -21,7 +23,8 @@ export function RadarBadge({
     >
       <Target size={15} aria-hidden="true" />
       <span>
-        RADAR SCORE <strong>{score}</strong>
+        {compact ? <span className="sr-only">Radar Score </span> : "RADAR SCORE "}
+        <strong>{score}</strong>
         <span className="sr-only"> / 100</span>
       </span>
     </Link>

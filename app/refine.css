@@ -1,0 +1,352 @@
+/* Visual refinements: a feathered hero, steadier cards and cheap, compositor-only motion. */
+
+/* Feather the clipping box itself so the preview's backdrop never shows a hard edge. */
+.hero-art {
+  mask-image: radial-gradient(closest-side, #000 60%, transparent 100%);
+}
+.hero-image {
+  mask-image: none;
+}
+@media (max-width: 750px) {
+  .desktop-br {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .hero-feature {
+    display: block;
+    margin-top: 8px;
+  }
+  .hero-art {
+    height: 178px;
+  }
+  .hero-image {
+    width: 120%;
+    left: -10%;
+    height: 220px;
+    top: -20px;
+  }
+  .hero-feature-caption {
+    display: none;
+  }
+}
+
+/* Today's Radar fills its row whatever the number of live picks. */
+@media (min-width: 1200px) {
+  .radar-picks.picks-1 {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .radar-picks.picks-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Cards: equal heights, two-line titles, quieter overlays, one-line engine chips. */
+.asset-card:not(.list-card) {
+  display: flex;
+  flex-direction: column;
+}
+.asset-card:not(.list-card) .asset-card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+.asset-card:not(.list-card) .asset-card-meta {
+  margin-top: auto;
+}
+.asset-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.asset-title .card-arrow {
+  display: inline-block;
+  vertical-align: -2px;
+  margin-left: 4px;
+}
+.asset-card {
+  transition:
+    border-color 0.22s,
+    transform 0.22s,
+    box-shadow 0.22s;
+}
+.asset-card:hover {
+  border-color: #6f9a7c;
+  box-shadow:
+    0 0 0 1px #b5f0cf1f,
+    0 14px 32px -14px #b5f0cf33;
+}
+.radar-badge.compact {
+  gap: 4px;
+  padding: 3px 7px;
+  border-radius: 999px;
+  border-color: #b5f0cf33;
+  background: #111a15d9;
+  font-size: 12px;
+}
+.radar-badge.compact strong {
+  margin-left: 0;
+  font-size: 13px;
+}
+.image-radar-badge {
+  left: auto;
+  right: 10px;
+  bottom: 10px;
+}
+.asset-card:not(.list-card) .engine-chips {
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+.asset-card:not(.list-card) .engine-chip:not(.unverified) > span {
+  display: none;
+}
+.asset-card:not(.list-card) .engine-chip:not(.unverified)::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #7d8c84;
+}
+.asset-card:not(.list-card) .engine-chip.native::before {
+  background: var(--mint);
+}
+
+/* Editorial covers: per-asset mood washes over the shared scenes (static layer). */
+.editorial-cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: var(--cover-wash, transparent);
+}
+.editorial-cover.mood-dusk {
+  --cover-wash: linear-gradient(180deg, #f0a96b26, transparent 65%);
+}
+.editorial-cover.mood-night {
+  --cover-wash: linear-gradient(180deg, #2b3b8a3d, #0b101f40);
+}
+.editorial-cover.mood-dawn {
+  --cover-wash: linear-gradient(0deg, #f6d5a01f, transparent 70%);
+}
+.editorial-cover .cover-topline,
+.editorial-cover .cover-story {
+  z-index: 1;
+}
+.editorial-scene.mirrored {
+  transform: scaleX(-1);
+}
+
+/* An empty promotion shelf collapses to a single quiet line. */
+.discovery-section.is-empty .discovery-heading {
+  margin-bottom: 12px;
+}
+.discovery-section.is-empty .discovery-heading p {
+  display: none;
+}
+.discovery-section.is-empty .promotion-empty {
+  min-height: 0;
+  padding: 13px 18px;
+}
+.discovery-section.is-empty .promotion-empty p {
+  display: none;
+}
+.discovery-section.is-empty .promotion-empty strong {
+  font-size: 14px;
+}
+
+/* Typography: steady numbers and balanced headings everywhere. */
+.radar-badge,
+.deal-score-badge,
+.asset-count,
+.offer-card,
+.inventory-copy strong,
+.category-result-count {
+  font-variant-numeric: tabular-nums;
+}
+h1,
+h2 {
+  text-wrap: balance;
+}
+
+/* Skip layout and paint for home shelves until they approach the viewport. */
+.homepage-opening ~ section {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 640px;
+}
+
+/* Scroll-linked reveal: CSS only, and only when the visitor has motion on. */
+@supports (animation-timeline: view()) {
+  html[data-motion-enabled="true"] .discovery-grid > *,
+  html[data-motion-enabled="true"] .collection-card {
+    animation: rise-in linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 35%;
+  }
+}
+
+/* Card → detail morph (React ViewTransition); off when motion is paused or reduced. */
+::view-transition-group(.morph) {
+  animation-duration: 320ms;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+html[data-motion-enabled="false"]::view-transition-group(*),
+html[data-motion-enabled="false"]::view-transition-old(*),
+html[data-motion-enabled="false"]::view-transition-new(*) {
+  animation: none !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none !important;
+  }
+}
+
+/* ── Motion layer ─────────────────────────────────────────────────────────
+   Everything below animates only transform/opacity (compositor work), runs
+   only while the visitor's Motion toggle is on, and ambient loops pause once
+   their surface leaves the viewport (see MotionProvider). */
+
+/* Hero: the island drifts, its orbits sway, the headline catches the light. */
+.hero-art[data-motion="running"] .hero-image {
+  animation: hero-float 7s ease-in-out infinite;
+}
+.hero-art[data-motion="running"] .orbit-one {
+  animation: orbit-sway 14s ease-in-out infinite alternate;
+}
+.hero-art[data-motion="running"] .orbit-two {
+  animation: orbit-sway 11s ease-in-out -4s infinite alternate-reverse;
+}
+html[data-motion-enabled="true"] .hero h1 span {
+  background: linear-gradient(
+      100deg,
+      var(--mint) 40%,
+      #f2fff7 50%,
+      var(--mint) 60%
+    )
+    0 0 / 250% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: headline-shine 2.4s 0.6s ease-out both;
+}
+html[data-motion-enabled="true"] .home-search-area {
+  animation: rise-in 0.7s 0.18s both;
+}
+.hero-eyebrow .live-dot {
+  position: relative;
+}
+html[data-motion-enabled="true"] .hero-eyebrow .live-dot::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: var(--mint);
+  animation: dot-ping 2.4s ease-out infinite;
+}
+
+/* Cards: a soft light sweep across the preview on hover. */
+.asset-image-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    105deg,
+    transparent 35%,
+    #ffffff1f 50%,
+    transparent 65%
+  );
+  transform: translateX(-100%);
+  opacity: 0;
+}
+@media (hover: hover) {
+  html[data-motion-enabled="true"] .asset-card:hover .asset-image-wrap::after {
+    animation: card-sheen 0.9s ease-out;
+  }
+  html[data-motion-enabled="true"] .radar-pick:hover .radar-pick-image img,
+  html[data-motion-enabled="true"] .collection-card:hover .collection-art img {
+    transform: scale(1.06);
+  }
+  html[data-motion-enabled="true"] .text-link:hover > svg,
+  html[data-motion-enabled="true"] .button:hover > svg,
+  html[data-motion-enabled="true"] .category-tab:hover > svg {
+    transform: translateX(3px);
+  }
+  html[data-motion-enabled="true"] .radar-pick:hover .radar-pick-arrow {
+    transform: translate(2px, -2px);
+  }
+}
+.radar-pick-image img,
+.collection-art img {
+  transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.text-link > svg,
+.button > svg,
+.category-tab > svg,
+.radar-pick-arrow {
+  transition: transform 0.2s ease-out;
+}
+
+/* Saving a favourite gives the heart a small pop. */
+html[data-motion-enabled="true"] .favorite-button.saved > svg {
+  animation: heart-pop 0.42s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+
+@keyframes hero-float {
+  50% {
+    translate: 0 -8px;
+  }
+}
+@keyframes orbit-sway {
+  to {
+    rotate: 7deg;
+    scale: 1.03;
+  }
+}
+@keyframes headline-shine {
+  from {
+    background-position: 100% 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+@keyframes dot-ping {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  80%,
+  100% {
+    transform: scale(3.2);
+    opacity: 0;
+  }
+}
+@keyframes card-sheen {
+  0% {
+    transform: translateX(-100%);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(100%);
+    opacity: 1;
+  }
+}
+@keyframes heart-pop {
+  40% {
+    transform: scale(1.35);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-image,
+  .hero-orbit,
+  .hero h1 span,
+  .home-search-area,
+  .live-dot::after,
+  .asset-image-wrap::after,
+  .favorite-button > svg {
+    animation: none !important;
+  }
+}
