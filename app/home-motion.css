@@ -1,0 +1,245 @@
+/* Homepage motion: a live catalog tape, a radar-lit hero and scroll reveals.
+   Loops run only on .motion-surface[data-motion="running"] (motion enabled,
+   tab visible, surface on screen); reduced motion gets a static layout. */
+
+/* ---------- Live catalog tape ---------- */
+.home-ticker {
+  --tape-gutter: clamp(22px, 3.2vw, 56px);
+  margin-inline: calc(var(--tape-gutter) * -1);
+  border-bottom: 1px solid var(--line);
+  background:
+    linear-gradient(90deg, #b5f0cf08, transparent 30%, transparent 70%, #b5f0cf08),
+    #14181a;
+}
+.ticker-row {
+  display: flex;
+  align-items: stretch;
+  min-width: 0;
+  border-top: 1px solid #222a26;
+}
+.ticker-row:first-child { border-top: 0; }
+.ticker-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  padding: 0 16px 0 var(--tape-gutter);
+  font: 600 11px var(--font-mono), monospace;
+  letter-spacing: 1.6px;
+  color: #10140f;
+  background: var(--mint);
+  position: relative;
+  z-index: 1;
+}
+.ticker-label::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: -12px;
+  width: 12px;
+  background: inherit;
+  clip-path: polygon(0 0, 100% 50%, 0 100%);
+}
+.ticker-label .live-dot { background: #10140f; }
+.ticker-row-worlds .ticker-label {
+  color: #a6b9ae;
+  background: #1b221e;
+}
+.ticker-viewport {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  mask-image: linear-gradient(90deg, transparent, #000 48px, #000 calc(100% - 64px), transparent);
+}
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll var(--ticker-duration, 60s) linear infinite;
+  animation-play-state: paused;
+}
+.ticker-row-worlds .ticker-track { animation-direction: reverse; }
+.ticker-list {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.ticker-list > li { display: flex; align-items: center; }
+.ticker-list > li::after {
+  content: "";
+  width: 5px;
+  height: 5px;
+  margin-inline: 22px;
+  rotate: 45deg;
+  background: #3b4a42;
+}
+.ticker-item,
+.ticker-world {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  white-space: nowrap;
+  padding-block: 12px;
+  font-size: 14px;
+  color: #c9d4ce;
+  transition: color 180ms;
+}
+.ticker-item:hover,
+.ticker-world:hover { color: var(--mint); }
+.ticker-item strong { font-weight: 550; color: var(--text); }
+.ticker-item:hover strong { color: var(--mint); }
+.ticker-meta { color: #8f9a95; font-size: 13px; }
+.ticker-tag {
+  padding: 3px 7px;
+  border-radius: 4px;
+  font: 600 11px var(--font-mono), monospace;
+  letter-spacing: 0.8px;
+}
+.ticker-tag.tone-new { color: var(--mint); background: #243b2e; border: 1px solid #395045; }
+.ticker-tag.tone-deal { color: #ffd9a3; background: #3a2c1a; border: 1px solid #5a4426; }
+.ticker-tag.tone-limited { color: #10140f; background: var(--mint); border: 1px solid var(--mint); }
+.ticker-world {
+  padding-block: 8px;
+  font: 12px var(--font-mono), monospace;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #9fb0a6;
+}
+.ticker-world > span { color: var(--mint); }
+.home-ticker[data-motion="running"] .ticker-track { animation-play-state: running; }
+.home-ticker[data-motion="running"] .ticker-row:hover .ticker-track,
+.home-ticker[data-motion="running"] .ticker-row:focus-within .ticker-track { animation-play-state: paused; }
+/* Without motion the tape becomes a plain, swipeable row. */
+html:not([data-motion-enabled="true"]) .ticker-viewport { overflow-x: auto; scrollbar-width: none; }
+html:not([data-motion-enabled="true"]) .ticker-copy { display: none; }
+html:not([data-motion-enabled="true"]) .ticker-track { animation: none; }
+@keyframes ticker-scroll {
+  to { translate: -50% 0; }
+}
+
+/* ---------- Hero ---------- */
+/* refine.css owns the island float, orbit sway, headline shine and eyebrow ping. */
+.ticker-label .live-dot { position: relative; }
+.ticker-label .live-dot::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: inherit;
+  opacity: 0;
+}
+.home-ticker[data-motion="running"] .ticker-label .live-dot::after { animation: ticker-ping 2.2s ease-out infinite; }
+
+.hero-stats {
+  display: flex;
+  gap: 30px;
+  margin: 26px 0 0;
+}
+.hero-stats > div {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 3px;
+  padding-left: 13px;
+  border-left: 2px solid #2f3d35;
+}
+.hero-stats > div:first-child { border-left-color: var(--mint); }
+.hero-stats dd { margin: 0; }
+.hero-stats strong {
+  font: 550 26px var(--font-mono), monospace;
+  letter-spacing: -1px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+.hero-stats dt {
+  font: 11px var(--font-mono), monospace;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: #8f9a95;
+}
+
+/* A radar sweep orbits the featured island. */
+.hero-art::after {
+  content: "";
+  position: absolute;
+  inset: 50% auto auto 50%;
+  width: 150%;
+  aspect-ratio: 1;
+  translate: -50% -50%;
+  z-index: -1;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, transparent 0 290deg, #b5f0cf05 310deg, #b5f0cf1f 359deg, transparent 360deg);
+  mask-image: radial-gradient(circle, #000 18%, transparent 62%);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 600ms;
+}
+.hero-art[data-motion="running"]::after {
+  opacity: 1;
+  animation: sweep-turn 9s linear infinite;
+}
+.hero-blip {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--mint);
+  box-shadow: 0 0 10px #b5f0cf88;
+  opacity: 0;
+  pointer-events: none;
+}
+.blip-one { left: 9%; top: 52%; }
+.blip-two { left: 84%; top: 31%; }
+.blip-three { left: 71%; top: 84%; }
+.hero-art[data-motion="running"] .hero-blip { animation: blip-flash 4.5s ease-out infinite; }
+.hero-art[data-motion="running"] .blip-two { animation-delay: 1.5s; }
+.hero-art[data-motion="running"] .blip-three { animation-delay: 3s; }
+
+@keyframes ticker-ping {
+  0% { opacity: 0.7; scale: 1; }
+  80%, 100% { opacity: 0; scale: 3.4; }
+}
+@keyframes sweep-turn {
+  to { rotate: 360deg; }
+}
+@keyframes blip-flash {
+  0% { opacity: 0; scale: 0.4; }
+  8% { opacity: 1; scale: 1.25; }
+  40% { opacity: 0.7; scale: 1; }
+  70%, 100% { opacity: 0; scale: 0.8; }
+}
+
+/* ---------- Scroll reveals (finite, scroll-linked) ----------
+   refine.css already reveals .discovery-grid cards and collection cards. */
+@supports (animation-timeline: view()) {
+  html[data-motion-enabled="true"] .homepage-opening ~ section:not(.home-ticker) .discovery-heading,
+  html[data-motion-enabled="true"] .homepage-opening ~ section .radar-pick,
+  html[data-motion-enabled="true"] .homepage-opening ~ section .category-tab,
+  html[data-motion-enabled="true"] .homepage-opening ~ section .publisher-tile {
+    animation: reveal-up linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 55%;
+  }
+}
+@keyframes reveal-up {
+  from { opacity: 0; translate: 0 26px; }
+  to { opacity: 1; translate: 0 0; }
+}
+
+/* ---------- Responsive + preferences ---------- */
+@media (max-width: 600px) {
+  .home-ticker { --tape-gutter: 19px; }
+  .ticker-meta { display: none; }
+  .ticker-label { padding-right: 10px; font-size: 10px; }
+  .hero-stats { gap: 18px; margin-top: 20px; }
+  .hero-stats strong { font-size: 21px; }
+  .hero-stats dt { font-size: 10px; letter-spacing: 0.8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track,
+  .hero-art::after,
+  .hero-blip,
+  .ticker-label .live-dot::after { animation: none !important; }
+}

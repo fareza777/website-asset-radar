@@ -5,8 +5,10 @@ import {
   ArrowRight as ArrowRightIcon,
   ShieldCheck as ShieldCheckIcon,
 } from "@/lib/icons";
+import { HeroStats } from "./hero-stats";
+import type { TickerOffer } from "./home-ticker";
 
-export function Hero() {
+export function Hero({ freeCount, creatorCount, offers }: { freeCount: number; creatorCount: number; offers: TickerOffer[] }) {
   return (
     <section className="hero" aria-labelledby="hero-heading">
       <div className="hero-copy">
@@ -25,6 +27,7 @@ export function Hero() {
         <Link href="/free/" className="hero-library-link text-link">
           Explore verified free assets <ArrowRightIcon size={18} />
         </Link>
+        <HeroStats freeCount={freeCount} creatorCount={creatorCount} offers={offers} />
       </div>
       <Link
         href="/asset/kenney-nature-kit/"
@@ -34,6 +37,9 @@ export function Hero() {
         <div className="hero-art motion-surface" data-motion="paused">
           <div className="hero-orbit orbit-one" />
           <div className="hero-orbit orbit-two" />
+          <span className="hero-blip blip-one" aria-hidden="true" />
+          <span className="hero-blip blip-two" aria-hidden="true" />
+          <span className="hero-blip blip-three" aria-hidden="true" />
           <Image
             src="/previews/hero-nature.webp"
             width={1200}
