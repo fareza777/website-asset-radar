@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-lo-fi-squelching-noise",
+  "sourceUrl": "https://opengameart.org/content/lo-fi-squelching-noise",
+  "checkedAt": "2026-10-24T01:13:29.935Z",
+  "httpStatus": 200,
+  "pageSha256": "d991311902bb5cc421be10447f7b8bfbda193ce02743e210366e91ffca775cea",
+  "title": "Lo Fi Squelching noise",
+  "authors": [
+    "Some Weirdo"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Lo Fi Squelching noise by Some Weirdo. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/lo-fi-squelching-noise Preview resized and converted to WebP; original waveform visualization.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/squelch_noise.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/squelch_noise.zip",
+  "downloadSha256": "4daca0d11ca9416b00d611871b20e3e8ffcee103114e868290ad728df2b1e736",
+  "formats": [
+    "OGG",
+    "WAV"
+  ],
+  "inspectedFiles": 4,
+  "licenseFiles": [],
+  "previewFile": "squelch noise.ogg",
+  "previewSha256": "b7ab000681169ad6f453e2190adf906df7b2b0178963340feb3ca436f93fc4d0",
+  "sourceTags": [
+    "squelch",
+    "noise",
+    "gross",
+    "lofi",
+    "8 bit",
+    "8bit"
+  ],
+  "artTypes": [
+    "Sound Effect"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

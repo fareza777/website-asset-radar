@@ -1,0 +1,26 @@
+{
+  "id": "henrysoftware-pixel-effects",
+  "sourceUrl": "https://henrysoftware.itch.io/pixel-effects",
+  "checkedAt": "2026-10-24T01:56:57.171Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 7,
+    "salePrice": 3.5,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $7 crossed out to a $3.50 minimum. The minimum is a paid price, not a free claim."
+  },
+  "license": {
+    "name": "CC0",
+    "url": "https://henrysoftware.itch.io/pixel-effects",
+    "commercialUse": true,
+    "note": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT."
+  },
+  "expiresAt": "2026-11-02T20:58:00.000Z",
+  "expiryEvidenceUrl": "https://henrysoftware.itch.io/pixel-effects",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "productNote": "The page lists PixelEffects.zip 580 kB, 35 animated effects, PNG files and a Unity3D example. No .unitypackage filename was shown. Asset license is CC0. The archive was not downloaded."
+}

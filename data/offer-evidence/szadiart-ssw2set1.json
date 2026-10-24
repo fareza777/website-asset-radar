@@ -1,0 +1,26 @@
+{
+  "id": "szadiart-ssw2set1",
+  "sourceUrl": "https://szadiart.itch.io/ssw2set1",
+  "checkedAt": "2026-10-24T01:56:57.171Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 12,
+    "salePrice": 4.8,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed the crossed-out original price and the sale price. No paid download was made."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://szadiart.itch.io/ssw2set1",
+    "commercialUse": true,
+    "note": "The product page allows personal and commercial projects, including edits and selling games made with the art. Resale or redistribution of the asset files is not allowed."
+  },
+  "expiresAt": "2026-10-24T20:00:00.000Z",
+  "expiryEvidenceUrl": "https://szadiart.itch.io/ssw2set1",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 5,
+  "reviewCount": 15,
+  "productNote": "Uploads named on the page: SSW2_SET1_v1.0.zip 12 MB. Formats named in the description: PNG, PSD. Structured price data matched the purchase panel. The archive was not downloaded."
+}

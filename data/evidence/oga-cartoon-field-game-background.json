@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cartoon-field-game-background",
+  "sourceUrl": "https://opengameart.org/content/cartoon-field-game-background",
+  "checkedAt": "2026-10-24T01:17:20.713Z",
+  "httpStatus": 200,
+  "pageSha256": "96730f59f503f73ed45b5ee79cce9af10feb9b6a0f97657957c3befe2d3f675d",
+  "title": "Cartoon Field Game Background",
+  "authors": [
+    "Segel"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Cartoon Field Game Background by Segel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/cartoon-field-game-background Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/free_background_field.zip",
+    "https://opengameart.org/sites/default/files/free_background_field_autumn.zip",
+    "https://opengameart.org/sites/default/files/free_background_field_winter.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/free_background_field.zip",
+  "downloadSha256": "8bd560b20f75d66a886c1366e02fe0ad8503daee1a12dbca8181164157014a04",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 9,
+  "licenseFiles": [],
+  "previewFile": "BACKGROUND FIELD/BACKGROUND_FIELD.png",
+  "previewSha256": "b2051110325dc08ef704dbc90d1061fdc8c0abfe5a814df5fa16810b26c7e849",
+  "sourceTags": [
+    "background",
+    "Platformer",
+    "cartoon",
+    "winter",
+    "autumn",
+    "side-scroller"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pack-la-galigo-series",
+  "sourceUrl": "https://opengameart.org/content/pack-la-galigo-series",
+  "checkedAt": "2026-10-24T01:14:09.172Z",
+  "httpStatus": 200,
+  "pageSha256": "24dfa5cf5b2ed019e85840e11ffa0381ce3d24c83e9a265cf9c4634b14acad42",
+  "title": "Pack LA GALIGO Series",
+  "authors": [
+    "rama_231"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "LICENSE — CC BY 4.0 Free to use in personal and commercial projects. You may modify, recolor, and adapt the assets to fit your game. Attribution is required — credit \"Rahmat (rachmata)\" with a link to https://rachmata.itch.io in your credits or README. You may not claim the original artwork as your own. No warranty is provided. Pack LA GALIGO Series by rama_231. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/pack-la-galigo-series Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/pack_ale_lino.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/pack_ale_lino.zip",
+  "downloadSha256": "15903b6bd5ccfa56d2ed4ade8b6b6cc31337a97033f611360a3333be5bf7a243",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 346,
+  "licenseFiles": [],
+  "previewFile": "Pack_Buriq Liu/terrain/Pack06_DownWorld_terrain_a_001.png",
+  "previewSha256": "af483cee897b8a4b61fea017fbe60bdc35c5c5cdee1fb3387d95022fdeead1a3",
+  "sourceTags": [
+    "base sprite",
+    "autotile",
+    "map tiles",
+    "tileset",
+    "customization",
+    "la galigo",
+    "Indonesia",
+    "Item"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

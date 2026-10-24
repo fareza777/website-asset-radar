@@ -1,0 +1,26 @@
+{
+  "id": "zaebucca-adventure-begins",
+  "sourceUrl": "https://zaebucca.itch.io/adventure-begins",
+  "checkedAt": "2026-10-24T01:58:09.099Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 14.99,
+    "salePrice": 7.49,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $14.99 crossed out to $7.49. No paid download was made."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://zaebucca.itch.io/adventure-begins",
+    "commercialUse": true,
+    "note": "The page allows personal and commercial projects and adaptation of the art. It forbids claiming, redistributing or selling the assets, including modified files, and it excludes NFT, metaverse and AI uses."
+  },
+  "expiresAt": "2026-11-15T13:17:00.000Z",
+  "expiryEvidenceUrl": "https://zaebucca.itch.io/adventure-begins",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 4.9,
+  "reviewCount": 80,
+  "productNote": "Uploads named on the page include Adventure_Begins_OverworldTilesetPack1.0.1.zip 2.5 MB, Adventurers & Adversaries 1.2.zip 3 MB and Adventure Inside 1.1.zip 5.7 MB. PNG is named on the page. The archives were not downloaded."
+}

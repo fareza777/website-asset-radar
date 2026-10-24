@@ -24,7 +24,7 @@
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, potion icons, UI borders, runes, and RPG audio, plus a separate CC0 potion icon sheet. Art styles and engine setup vary by pack.",
+    "description": "Fantasy essentials spanning 2D dungeons, 3D castles, potion icons, UI borders, runes, and RPG audio, plus a CC0 potion sheet and a separate CC0 ghost sprite by ZaninDevelopers. Art styles and engine setup vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -36,16 +36,17 @@
       "kenney-retro-textures-fantasy",
       "kenney-scribble-dungeons",
       "oga-potion-bottles",
-      "oga-ultimate-potions-pack-2d"
+      "oga-ultimate-potions-pack-2d",
+      "oga-animated-creepy-ghost-sprite"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-14T02:24:00.000Z"
+    "updatedAt": "2026-10-24T02:00:00.000Z"
   },
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Outdoor models, boats, fish art, and skies, plus 2D forest scenery, apple trees by kiner_s20, a cicada loop, and a credited 32×32 nature tileset. Art direction differs by pack; set materials up in your engine.",
+    "description": "Outdoor models, boats, fish, skies, and 2D forest scenery, plus apple trees by kiner_s20, a cicada loop, a 32×32 tileset, LumioLab's CC-BY dark woods, and C-MAN's CC-BY tree. Credit them. Styles differ; set materials up yourself.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
@@ -59,11 +60,13 @@
       "oga-trees-bushes",
       "oga-scenery-with-apple-trees",
       "oga-cicada-sounds",
-      "oga-32x32-tileset"
+      "oga-32x32-tileset",
+      "oga-dark-woods-free-sampler-spooky-pixel-art-trees-glowing-mushrooms",
+      "oga-top-down-tree"
     ],
     "cover": "kenney-nature-kit",
     "color": "mint",
-    "updatedAt": "2026-10-15T02:27:05.000Z"
+    "updatedAt": "2026-10-24T02:00:00.000Z"
   },
   {
     "id": "the-finishing-touches",

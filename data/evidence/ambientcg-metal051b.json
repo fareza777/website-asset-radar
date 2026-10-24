@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:27:59.026Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Metal051B&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "18c3dd571d0ecde79db3fe8a34a7b10c5ac037f22e859045087ba1d6475c2274",
+  "apiSha256": "483e448f4da60f3d5d61940687e6042e757d100f590605ab04de52197b084013",
   "apiMetadata": {
     "assetId": "Metal051B",
     "dataType": "Material",
@@ -138,10 +138,10 @@
     "earlyReleaseDate": "2024-08-05 12:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 11682,
-    "downloadCountMonth": 1112,
-    "downloadCountWeek": 294,
-    "popularityScore": 4.207587414293073,
+    "downloadCount": 12463,
+    "downloadCountMonth": 1453,
+    "downloadCountWeek": 402,
+    "popularityScore": 4.3425383750736,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -160,7 +160,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Color.jpg?27554&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Displacement.jpg?30715&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_NormalDX.jpg?35722&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Roughness.jpg?90822&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Metalness.jpg?70408",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Color.jpg?41683&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Displacement.jpg?84135&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_NormalDX.jpg?82402&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Roughness.jpg?89876&metalness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Metalness.jpg?30267",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -171,7 +171,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Color.jpg?85781,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Displacement.jpg?88625,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_NormalDX.jpg?62927,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Roughness.jpg?52973,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Metalness.jpg?4464&texture_name=Color,Displacement,Normal,Roughness,Metalness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Color.jpg?52304,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Displacement.jpg?71623,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_NormalDX.jpg?15442,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Roughness.jpg?77468,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Metal051B/Metal051B_SQ_Metalness.jpg?13588&texture_name=Color,Displacement,Normal,Roughness,Metalness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -189,5 +189,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Metal051B.webp",
   "previewSha256": "7345d0ebc5f26ba1421b516b33dbd24a256bdd71b22769101f7ecfb17970462b",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-24T01:59:31.162Z"
 }

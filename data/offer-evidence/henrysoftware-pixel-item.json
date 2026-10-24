@@ -1,0 +1,26 @@
+{
+  "id": "henrysoftware-pixel-item",
+  "sourceUrl": "https://henrysoftware.itch.io/pixel-item",
+  "checkedAt": "2026-10-24T01:56:57.171Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 7,
+    "salePrice": 3.5,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $7 crossed out to a $3.50 minimum. Pay-what-you-want above that minimum is still a paid sale, not free."
+  },
+  "license": {
+    "name": "CC0",
+    "url": "https://henrysoftware.itch.io/pixel-item",
+    "commercialUse": true,
+    "note": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT."
+  },
+  "expiresAt": "2026-11-02T20:58:00.000Z",
+  "expiryEvidenceUrl": "https://henrysoftware.itch.io/pixel-item",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 4.9,
+  "reviewCount": 14,
+  "productNote": "Uploads named on the page: Item.png 205 kB and PixelItems.zip 2 MB. Asset license Creative Commons Zero v1.0 Universal. The files were not downloaded."
+}
