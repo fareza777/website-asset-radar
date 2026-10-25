@@ -1,0 +1,26 @@
+{
+  "id": "oddpotatodev-godot-3d-pixelart-starter-kit",
+  "sourceUrl": "https://oddpotatodev.itch.io/godot-3d-pixelart-starter-kit",
+  "checkedAt": "2026-10-25T01:07:03.000Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 8.99,
+    "salePrice": 3.59,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $8.99 crossed out to $3.59. No paid download was made."
+  },
+  "license": {
+    "name": "CC0",
+    "url": "https://oddpotatodev.itch.io/godot-3d-pixelart-starter-kit",
+    "commercialUse": true,
+    "note": "The page says original content in the download is released under CC0, including commercial use without credit. It also states that any third-party content keeps its own license."
+  },
+  "expiresAt": "2026-11-08T12:28:00.000Z",
+  "expiryEvidenceUrl": "https://oddpotatodev.itch.io/godot-3d-pixelart-starter-kit",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 5,
+  "reviewCount": 6,
+  "productNote": "Uploads named on the page include 3d-pixel-art-base-project.zip 3.3 MB and Water Shader 26 kB. The page describes a Godot 4.6 Forward+ prototype with cel, foliage, water and outline shaders plus a demo scene. The archives were not downloaded."
+}

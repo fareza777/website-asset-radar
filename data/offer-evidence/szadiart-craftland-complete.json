@@ -1,0 +1,26 @@
+{
+  "id": "szadiart-craftland-complete",
+  "sourceUrl": "https://szadiart.itch.io/craftland-complete",
+  "checkedAt": "2026-10-25T02:24:23.000Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 19.99,
+    "salePrice": 7.99,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $19.99 crossed out to $7.99. No paid download was made."
+  },
+  "license": {
+    "name": "Creator license",
+    "url": "https://szadiart.itch.io/craftland-complete",
+    "commercialUse": true,
+    "note": "The page's License for Everyone allows personal and commercial use, edits, and selling works made with the assets. It forbids logo or trademark use and resale of the original or modified assets. Credit is not required."
+  },
+  "expiresAt": "2026-10-25T09:00:00.000Z",
+  "expiryEvidenceUrl": "https://szadiart.itch.io/craftland-complete",
+  "expiryNote": "The product Offer.priceValidUntil matches the purchase-panel sale price and currency, and it includes an explicit timezone.",
+  "rating": 5,
+  "reviewCount": 6,
+  "productNote": "The named upload is Craftland.zip 42 MB. The page says PNG and PSD files are included. The archive was not downloaded."
+}

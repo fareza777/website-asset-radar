@@ -343,7 +343,7 @@
   {
     "id": "cozy-space-pieces",
     "name": "Cozy space pieces",
-    "description": "CC-BY pixel packs from one space series: side-view tiles, ships, interiors, a tiny crew, an animated walking crew, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
+    "description": "CC-BY pixel packs from one space series: tiles, ships, interiors, planet surfaces, furniture, crew, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
     "assetIds": [
       "oga-cozy-space-platformer-16-px-side-view-tiles-astronaut-and-enemies",
       "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
@@ -354,10 +354,12 @@
       "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
       "oga-cozy-space-tiny-crew-16x16-top-down-characters",
       "oga-cozy-space-station-walking-crew-animated-top-down-characters",
-      "oga-cozy-space-interiors-16-px-top-down-sci-fi-tileset"
+      "oga-cozy-space-interiors-16-px-top-down-sci-fi-tileset",
+      "oga-cozy-space-planet-top-down-planet-surface-tiles-and-props-16-px",
+      "oga-cozy-space-furniture-23-top-down-props-16-px-grid"
     ],
     "cover": "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
     "color": "lime",
-    "updatedAt": "2026-10-15T02:27:05.000Z"
+    "updatedAt": "2026-10-25T02:25:00.000Z"
   }
 ]
