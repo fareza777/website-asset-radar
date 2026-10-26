@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-basic-potion-set",
+  "sourceUrl": "https://opengameart.org/content/basic-potion-set",
+  "checkedAt": "2026-10-26T01:31:02.813Z",
+  "httpStatus": 200,
+  "pageSha256": "5aa5d4af514eebce780c2b0eb1f07bcf7d209030b8aca8fb5547e13b29301d19",
+  "title": "Basic Potion Set",
+  "authors": [
+    "magdum"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Basic Potion Set by magdum. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/basic-potion-set Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/PotionSetII.zip",
+    "https://opengameart.org/sites/default/files/healthPotion.png",
+    "https://opengameart.org/sites/default/files/manaPotion.png",
+    "https://opengameart.org/sites/default/files/staminaPotion.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/PotionSetII.zip",
+  "downloadSha256": "fbe479a18c2be9451c4551cffe5287fece559deb37bb4609e6b6404eb4c21dcb",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 3,
+  "licenseFiles": [],
+  "previewFile": "manaPotion.png",
+  "previewSha256": "ba3411632b106028d1a4f8c82d28541766d1a8d70755d95376f2f467491f8c00",
+  "sourceTags": [
+    "potion",
+    "health",
+    "magic",
+    "bottle",
+    "stamina",
+    "mana",
+    ".png"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1246,138 +1246,6 @@
   },
   {
     "offer": {
-      "id": "henrysoftware-pixel-mob",
-      "title": "Pixel Mob",
-      "author": "Henry Software",
-      "summary": "Eighty animated 16×16 monsters supplied as PNG files, plus a Unity example. The page marks the artwork CC0 and the example code MIT. The ZIP was not opened.",
-      "categories": [
-        "RPG"
-      ],
-      "dimension": "2D",
-      "assetType": "Characters",
-      "type": "deal",
-      "originalPrice": 7,
-      "salePrice": 3.5,
-      "discountPercent": 50,
-      "currency": "USD",
-      "expiresAt": "2026-11-02T20:58:00.000Z",
-      "rating": 4.6,
-      "reviewCount": 28,
-      "radarScore": 68,
-      "dealScore": 73,
-      "source": "itch.io",
-      "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
-      "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-mob",
-      "license": "CC0 and MIT",
-      "licenseUrl": "https://henrysoftware.itch.io/pixel-mob",
-      "commercialUse": true,
-      "lastChecked": "2026-10-12T01:32:57.945Z",
-      "addedAt": "2026-10-12",
-      "formats": [
-        "PNG",
-        "ZIP"
-      ],
-      "engines": [
-        "Unity"
-      ],
-      "engineNote": "The page lists PNG files and a Unity example inside PixelMobs.zip. The example was not opened, so this is not a tested Unity project or a .unitypackage.",
-      "tags": [
-        "monsters",
-        "pixel art",
-        "characters",
-        "unity"
-      ],
-      "featured": false,
-      "preview": null,
-      "thumbnailPermission": null,
-      "publisherPreview": {
-        "url": "https://img.itch.zone/aW1nLzkwNjQyNi5wbmc=/original/T7GMlK.png",
-        "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
-        "alt": "Static publisher image observed on the Pixel Mob product page.",
-        "credit": "Henry Software",
-        "checkedAt": "2026-10-12T01:32:57.945Z",
-        "note": "Exact static original PNG observed in this product page gallery on img.itch.zone. No artwork or paid archive was copied."
-      },
-      "licenseNote": "The itch asset-license field is Creative Commons Zero 1.0 for the artwork. The code-license field for the Unity example is MIT. Keep the MIT notice with that example code.",
-      "priceNote": "USD purchase panel showed $7 crossed out to $3.50. No currency conversion or paid download was performed.",
-      "licenseTier": null,
-      "curation": {
-        "quality": 4,
-        "value": 4.5,
-        "completeness": 3.5,
-        "reputation": 4,
-        "rationale": "50% off, to $3.50, for 80 animated 16×16 monsters rated 4.6/5 from 28 ratings. PNG files and a Unity example are named. The description is short and the ZIP was not opened, so completeness is adequate."
-      }
-    },
-    "reason": "verification_required",
-    "archivedAt": "2026-10-14T02:26:11.172Z"
-  },
-  {
-    "offer": {
-      "id": "hawtpixel-font-bundle",
-      "title": "Hawtpixel Font Bundle",
-      "author": "Hawtpixel - Darrell Flood",
-      "summary": "A commercial font bundle sold as one ZIP, with styles from cartoon to science fiction. The purchase price is $19.99, down from $199.99.",
-      "categories": [
-        "UI"
-      ],
-      "dimension": "2D",
-      "assetType": "UI Kits",
-      "type": "deal",
-      "originalPrice": 199.99,
-      "salePrice": 19.99,
-      "discountPercent": 90,
-      "currency": "USD",
-      "expiresAt": "2026-11-02T03:00:00.000Z",
-      "rating": 5,
-      "reviewCount": 37,
-      "radarScore": 66,
-      "dealScore": 75,
-      "source": "itch.io",
-      "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-      "canonicalSourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-      "license": "Creator commercial license",
-      "licenseUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-      "commercialUse": true,
-      "lastChecked": "2026-10-15T02:29:35.724Z",
-      "addedAt": "2026-10-11",
-      "formats": [
-        "ZIP"
-      ],
-      "engines": [],
-      "engineNote": "The page lists one ZIP, Hawtpixel Font Firesale 650 Font Bundle.zip. No engine project was listed, and the archive was not opened.",
-      "tags": [
-        "fonts",
-        "ui",
-        "typeface"
-      ],
-      "featured": false,
-      "preview": null,
-      "thumbnailPermission": null,
-      "publisherPreview": {
-        "url": "https://img.itch.zone/aW1nLzMwNjgwODU3LnBuZw==/original/OPOqWz.png",
-        "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-        "alt": "Publisher image for the Hawtpixel Font Bundle product page.",
-        "credit": "Hawtpixel - Darrell Flood",
-        "checkedAt": "2026-10-15T02:29:35.724Z",
-        "note": "Exact static original PNG observed again on this product page gallery on img.itch.zone. No artwork or paid archive was copied."
-      },
-      "licenseNote": "The page states a one-time payment for unlimited commercial projects and installs, with no renewal or subscription. The archive was not downloaded.",
-      "priceNote": "USD purchase panel showed $199.99 crossed out to $19.99. No currency conversion or paid download was performed.",
-      "licenseTier": null,
-      "curation": {
-        "quality": 4,
-        "value": 4,
-        "completeness": 3,
-        "reputation": 4,
-        "rationale": "The product lists one 69 MB ZIP of commercial fonts and shows 5.0 from 37 ratings. The purchase panel price is $199.99 to $19.99, a 90% reduction. Quality and value stay strong for that rating sample; completeness is adequate because the archive was not opened. No engine test was performed."
-      }
-    },
-    "reason": "verification_required",
-    "archivedAt": "2026-10-24T01:04:58.745Z"
-  },
-  {
-    "offer": {
       "id": "szadiart-postapo-lands-set1",
       "title": "PostApo Lands SET1",
       "author": "Szadi art",
@@ -3924,5 +3792,69 @@
     },
     "reason": "expired",
     "archivedAt": "2026-10-25T01:03:29.959Z"
+  },
+  {
+    "offer": {
+      "id": "szadiart-craftland-complete",
+      "title": "Craftland Complete",
+      "author": "Szadi art.",
+      "summary": "A pixel craftland environment pack by Szadi art., with PNG and PSD files named on the page. The listing allows commercial games and forbids reselling the assets.",
+      "categories": [
+        "RPG"
+      ],
+      "dimension": "2D",
+      "assetType": "Tilesets",
+      "type": "deal",
+      "originalPrice": 19.99,
+      "salePrice": 7.99,
+      "discountPercent": 60,
+      "currency": "USD",
+      "expiresAt": "2026-10-25T09:00:00.000Z",
+      "rating": 5,
+      "reviewCount": 6,
+      "radarScore": 69,
+      "dealScore": 70,
+      "source": "itch.io",
+      "sourceUrl": "https://szadiart.itch.io/craftland-complete",
+      "canonicalSourceUrl": "https://szadiart.itch.io/craftland-complete",
+      "license": "Creator license",
+      "licenseUrl": "https://szadiart.itch.io/craftland-complete",
+      "commercialUse": true,
+      "lastChecked": "2026-10-25T02:24:23.000Z",
+      "addedAt": "2026-10-25",
+      "formats": [
+        "PNG",
+        "PSD"
+      ],
+      "engines": [],
+      "engineNote": "PNG and PSD files are named. No native engine package was listed, so compatibility is unverified and import is manual.",
+      "tags": [
+        "pixel-art",
+        "environment",
+        "craft"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "publisherPreview": {
+        "url": "https://img.itch.zone/aW1nLzIyMjQxMjkyLnBuZw==/original/Zhkyad.png",
+        "sourceUrl": "https://szadiart.itch.io/craftland-complete",
+        "alt": "Publisher screenshot of a pixel-art craftland island with trees, water and a small settlement.",
+        "credit": "Szadi art.",
+        "checkedAt": "2026-10-25T02:24:23.000Z",
+        "note": "Observed as an original PNG in this product's public itch.io gallery. Linked from img.itch.zone; no artwork or paid pack files were copied. This preview check does not refresh price or license verification."
+      },
+      "licenseNote": "The page allows personal and commercial use, edits, and selling works made with the assets. It forbids logo or trademark use and resale of the original or modified assets. Credit is not required.",
+      "priceNote": "USD purchase panel showed $19.99 crossed out to $7.99. No paid download was made.",
+      "licenseTier": null,
+      "curation": {
+        "quality": 4,
+        "value": 4,
+        "completeness": 4,
+        "reputation": 4,
+        "rationale": "Szadi lists PNG and PSD in a 42 MB ZIP at 60% off $19.99. Six perfect ratings are a small sample; completeness is from the named files, not an archive audit."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-10-26T01:02:42.404Z"
   }
 ]

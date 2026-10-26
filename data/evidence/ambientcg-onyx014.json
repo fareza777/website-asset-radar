@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:04:35.161Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Onyx014&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "d5cd295c882567d0745c40d809ba0c0bfcf118db0ebb138751e9e49c159dae37",
+  "apiSha256": "a65b77adac9a1bcba5901723c06d16996c84e4ad1644cb2b87eaaca7fee03d01",
   "apiMetadata": {
     "assetId": "Onyx014",
     "dataType": "Material",
@@ -139,10 +139,10 @@
     "earlyReleaseDate": "2025-03-12 17:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 14258,
-    "downloadCountMonth": 1314,
-    "downloadCountWeek": 351,
-    "popularityScore": 7.000388838743863,
+    "downloadCount": 15335,
+    "downloadCountMonth": 1767,
+    "downloadCountWeek": 498,
+    "popularityScore": 7.219346365702734,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -161,7 +161,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Color.jpg?71626&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Displacement.jpg?25141&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_NormalDX.jpg?50443&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Roughness.jpg?79769",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Color.jpg?48726&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Displacement.jpg?94823&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_NormalDX.jpg?74621&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Roughness.jpg?5507",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -172,7 +172,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Color.jpg?1172,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Displacement.jpg?23464,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_NormalDX.jpg?51765,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Roughness.jpg?31246&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Color.jpg?99870,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Displacement.jpg?38439,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_NormalDX.jpg?22206,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Onyx014/Onyx014_SQ_Roughness.jpg?48051&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -190,5 +190,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Onyx014.webp",
   "previewSha256": "f3697d89471f9ca58d0cc314d3f351ba80879f08d9838484f81934ce2b78cc87",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-26T02:08:29.724Z"
 }

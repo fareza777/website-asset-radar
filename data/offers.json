@@ -3,7 +3,7 @@
     "id": "zaebucca-adventure-begins",
     "title": "Adventure Begins - 16x16 Retro Tiles & Characters",
     "author": "Zaebucca",
-    "summary": "A 16×16 overworld, interior and character collection by Zaebucca. The page allows commercial projects and names PNG files, and it forbids resale of the assets.",
+    "summary": "A 16\u00d716 overworld, interior and character collection by Zaebucca. The page allows commercial projects and names PNG files, and it forbids resale of the assets.",
     "categories": [
       "RPG"
     ],
@@ -25,7 +25,7 @@
     "license": "Creator license",
     "licenseUrl": "https://zaebucca.itch.io/adventure-begins",
     "commercialUse": true,
-    "lastChecked": "2026-10-24T01:58:09.099Z",
+    "lastChecked": "2026-10-26T02:07:50.000Z",
     "addedAt": "2026-10-24",
     "formats": [
       "PNG"
@@ -49,159 +49,6 @@
       "completeness": 4,
       "reputation": 4,
       "rationale": "Three named content ZIPs cover overworld, characters and interiors, with 80 ratings at 4.9 and an explicit commercial license. Value is strong at half of $14.99; the archives were not audited file by file."
-    }
-  },
-  {
-    "id": "henrysoftware-pixel-item",
-    "title": "Pixel Item!",
-    "author": "Henry Software",
-    "summary": "Hundreds of 16×16 item sprites by Henry Software, sold as a PNG sheet and ZIP. The page lists a CC0 asset license and an MIT code license.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Icons",
-    "type": "deal",
-    "originalPrice": 7,
-    "salePrice": 3.5,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-02T20:58:00.000Z",
-    "rating": 4.9,
-    "reviewCount": 14,
-    "radarScore": 73,
-    "dealScore": 72,
-    "source": "itch.io",
-    "sourceUrl": "https://henrysoftware.itch.io/pixel-item",
-    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-item",
-    "license": "CC0",
-    "licenseUrl": "https://henrysoftware.itch.io/pixel-item",
-    "commercialUse": true,
-    "lastChecked": "2026-10-24T01:56:57.171Z",
-    "addedAt": "2026-10-24",
-    "formats": [
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "Listed content formats only. No native engine package was named, so engine compatibility is unverified and import is manual.",
-    "tags": [
-      "pixel-art",
-      "items",
-      "icons"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT.",
-    "priceNote": "USD purchase panel showed $7 crossed out to a $3.50 minimum. Pay-what-you-want above that minimum is still a paid sale, not free.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "A large listed set of 16×16 item sprites under CC0, with 14 ratings at 4.9. Completeness is strong from the named PNG and ZIP, without a file-by-file audit."
-    }
-  },
-  {
-    "id": "henrysoftware-pixel-effects",
-    "title": "Pixel Effects!",
-    "author": "Henry Software",
-    "summary": "35 animated pixel effects by Henry Software, with PNG files and a named Unity example. The page lists a CC0 asset license and an MIT code license.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "VFX",
-    "type": "deal",
-    "originalPrice": 7,
-    "salePrice": 3.5,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-02T20:58:00.000Z",
-    "rating": 4.8,
-    "reviewCount": 25,
-    "radarScore": 74,
-    "dealScore": 72,
-    "source": "itch.io",
-    "sourceUrl": "https://henrysoftware.itch.io/pixel-effects",
-    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-effects",
-    "license": "CC0",
-    "licenseUrl": "https://henrysoftware.itch.io/pixel-effects",
-    "commercialUse": true,
-    "lastChecked": "2026-10-24T01:56:57.171Z",
-    "addedAt": "2026-10-24",
-    "formats": [
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "PNG files and a Unity example are named. No native Unity package filename was verified, so engine compatibility stays unverified and setup is manual.",
-    "tags": [
-      "pixel-art",
-      "vfx",
-      "effects"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT.",
-    "priceNote": "USD purchase panel showed $7 crossed out to a $3.50 minimum. The minimum is a paid price, not a free claim.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "The page documents 35 animated effects, a PNG delivery and a Unity example, with 25 ratings at 4.8 and a CC0 asset license. The example was not imported, so this does not establish a tested native project."
-    }
-  },
-  {
-    "id": "o-lobster-another-metroidvania-asset-pack",
-    "title": "Another Metroidvania Asset Pack - FULL SET",
-    "author": "o-lobster",
-    "summary": "A 16×16 modular metroidvania tileset by o-lobster, with PNG files named on the page and a commercial license that forbids resale of the raw files.",
-    "categories": [
-      "Platformer"
-    ],
-    "dimension": "2D",
-    "assetType": "Tilesets",
-    "type": "deal",
-    "originalPrice": 4.99,
-    "salePrice": 0.99,
-    "discountPercent": 80,
-    "currency": "USD",
-    "expiresAt": "2026-10-31T17:09:00.000Z",
-    "rating": 5,
-    "reviewCount": 23,
-    "radarScore": 71,
-    "dealScore": 75,
-    "source": "itch.io",
-    "sourceUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
-    "canonicalSourceUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
-    "license": "Creator license",
-    "licenseUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
-    "commercialUse": true,
-    "lastChecked": "2026-10-24T01:58:09.099Z",
-    "addedAt": "2026-10-24",
-    "formats": [
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "PNG files are named. No native engine package was listed, so compatibility is unverified and import is manual.",
-    "tags": [
-      "pixel-art",
-      "metroidvania",
-      "tileset"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The page allows commercial and non-commercial game projects and edits. It forbids reselling, redistributing or repackaging the asset files, edited or not.",
-    "priceNote": "USD purchase panel showed $4.99 crossed out to $0.99. This is a paid sale, not a free claim.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "A modular 16×16 set with a named ZIP, PNG files, 23 ratings at 5 and a clear commercial license. The 80 percent reduction is taken from the purchase panel. Files were not opened."
     }
   },
   {
@@ -230,7 +77,7 @@
     "license": "CC0",
     "licenseUrl": "https://etahoshi.itch.io/minimal-fantasy-gui-by-eta",
     "commercialUse": true,
-    "lastChecked": "2026-10-25T01:07:03.000Z",
+    "lastChecked": "2026-10-26T02:07:50.000Z",
     "addedAt": "2026-10-25",
     "formats": [
       "ZIP"
@@ -289,7 +136,7 @@
     "license": "CC0",
     "licenseUrl": "https://oddpotatodev.itch.io/godot-3d-pixelart-starter-kit",
     "commercialUse": true,
-    "lastChecked": "2026-10-25T01:07:03.000Z",
+    "lastChecked": "2026-10-26T02:07:50.000Z",
     "addedAt": "2026-10-25",
     "formats": [
       "ZIP"
@@ -324,63 +171,280 @@
     }
   },
   {
-    "id": "szadiart-craftland-complete",
-    "title": "Craftland Complete",
-    "author": "Szadi art.",
-    "summary": "A pixel craftland environment pack by Szadi art., with PNG and PSD files named on the page. The listing allows commercial games and forbids reselling the assets.",
+    "id": "henrysoftware-pixel-item",
+    "title": "Pixel Item!",
+    "author": "Henry Software",
+    "summary": "Hundreds of 16\u00d716 item sprites by Henry Software, sold as a PNG sheet and ZIP. The page lists a CC0 asset license and an MIT code license.",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
-    "assetType": "Tilesets",
+    "assetType": "Icons",
     "type": "deal",
-    "originalPrice": 19.99,
-    "salePrice": 7.99,
-    "discountPercent": 60,
+    "originalPrice": 7,
+    "salePrice": 3.5,
+    "discountPercent": 50,
     "currency": "USD",
-    "expiresAt": "2026-10-25T09:00:00.000Z",
-    "rating": 5,
-    "reviewCount": 6,
-    "radarScore": 69,
-    "dealScore": 70,
+    "expiresAt": "2026-11-02T20:58:00.000Z",
+    "rating": 4.9,
+    "reviewCount": 14,
+    "radarScore": 73,
+    "dealScore": 72,
     "source": "itch.io",
-    "sourceUrl": "https://szadiart.itch.io/craftland-complete",
-    "canonicalSourceUrl": "https://szadiart.itch.io/craftland-complete",
-    "license": "Creator license",
-    "licenseUrl": "https://szadiart.itch.io/craftland-complete",
+    "sourceUrl": "https://henrysoftware.itch.io/pixel-item",
+    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-item",
+    "license": "CC0",
+    "licenseUrl": "https://henrysoftware.itch.io/pixel-item",
     "commercialUse": true,
-    "lastChecked": "2026-10-25T02:24:23.000Z",
-    "addedAt": "2026-10-25",
+    "lastChecked": "2026-10-26T02:07:50.000Z",
+    "addedAt": "2026-10-24",
     "formats": [
-      "PNG",
-      "PSD"
+      "PNG"
     ],
     "engines": [],
-    "engineNote": "PNG and PSD files are named. No native engine package was listed, so compatibility is unverified and import is manual.",
+    "engineNote": "Listed content formats only. No native engine package was named, so engine compatibility is unverified and import is manual.",
     "tags": [
       "pixel-art",
-      "environment",
-      "craft"
+      "items",
+      "icons"
     ],
     "preview": null,
     "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzIyMjQxMjkyLnBuZw==/original/Zhkyad.png",
-      "sourceUrl": "https://szadiart.itch.io/craftland-complete",
-      "alt": "Publisher screenshot of a pixel-art craftland island with trees, water and a small settlement.",
-      "credit": "Szadi art.",
-      "checkedAt": "2026-10-25T02:24:23.000Z",
-      "note": "Observed as an original PNG in this product's public itch.io gallery. Linked from img.itch.zone; no artwork or paid pack files were copied. This preview check does not refresh price or license verification."
-    },
-    "licenseNote": "The page allows personal and commercial use, edits, and selling works made with the assets. It forbids logo or trademark use and resale of the original or modified assets. Credit is not required.",
-    "priceNote": "USD purchase panel showed $19.99 crossed out to $7.99. No paid download was made.",
+    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT.",
+    "priceNote": "USD purchase panel showed $7 crossed out to a $3.50 minimum. Pay-what-you-want above that minimum is still a paid sale, not free.",
     "licenseTier": null,
     "curation": {
       "quality": 4,
       "value": 4,
       "completeness": 4,
       "reputation": 4,
-      "rationale": "Szadi lists PNG and PSD in a 42 MB ZIP at 60% off $19.99. Six perfect ratings are a small sample; completeness is from the named files, not an archive audit."
+      "rationale": "A large listed set of 16\u00d716 item sprites under CC0, with 14 ratings at 4.9. Completeness is strong from the named PNG and ZIP, without a file-by-file audit."
+    }
+  },
+  {
+    "id": "henrysoftware-pixel-effects",
+    "title": "Pixel Effects!",
+    "author": "Henry Software",
+    "summary": "35 animated pixel effects by Henry Software, with PNG files and a named Unity example. The page lists a CC0 asset license and an MIT code license.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "VFX",
+    "type": "deal",
+    "originalPrice": 7,
+    "salePrice": 3.5,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-11-02T20:58:00.000Z",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "radarScore": 74,
+    "dealScore": 72,
+    "source": "itch.io",
+    "sourceUrl": "https://henrysoftware.itch.io/pixel-effects",
+    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-effects",
+    "license": "CC0",
+    "licenseUrl": "https://henrysoftware.itch.io/pixel-effects",
+    "commercialUse": true,
+    "lastChecked": "2026-10-26T02:07:50.000Z",
+    "addedAt": "2026-10-24",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "PNG files and a Unity example are named. No native Unity package filename was verified, so engine compatibility stays unverified and setup is manual.",
+    "tags": [
+      "pixel-art",
+      "vfx",
+      "effects"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT.",
+    "priceNote": "USD purchase panel showed $7 crossed out to a $3.50 minimum. The minimum is a paid price, not a free claim.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "The page documents 35 animated effects, a PNG delivery and a Unity example, with 25 ratings at 4.8 and a CC0 asset license. The example was not imported, so this does not establish a tested native project."
+    }
+  },
+  {
+    "id": "o-lobster-another-metroidvania-asset-pack",
+    "title": "Another Metroidvania Asset Pack - FULL SET",
+    "author": "o-lobster",
+    "summary": "A 16\u00d716 modular metroidvania tileset by o-lobster, with PNG files named on the page and a commercial license that forbids resale of the raw files.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "type": "deal",
+    "originalPrice": 4.99,
+    "salePrice": 0.99,
+    "discountPercent": 80,
+    "currency": "USD",
+    "expiresAt": "2026-10-31T17:09:00.000Z",
+    "rating": 5,
+    "reviewCount": 23,
+    "radarScore": 71,
+    "dealScore": 75,
+    "source": "itch.io",
+    "sourceUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
+    "canonicalSourceUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
+    "license": "Creator license",
+    "licenseUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
+    "commercialUse": true,
+    "lastChecked": "2026-10-26T02:07:50.000Z",
+    "addedAt": "2026-10-24",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "PNG files are named. No native engine package was listed, so compatibility is unverified and import is manual.",
+    "tags": [
+      "pixel-art",
+      "metroidvania",
+      "tileset"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The page allows commercial and non-commercial game projects and edits. It forbids reselling, redistributing or repackaging the asset files, edited or not.",
+    "priceNote": "USD purchase panel showed $4.99 crossed out to $0.99. This is a paid sale, not a free claim.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "A modular 16\u00d716 set with a named ZIP, PNG files, 23 ratings at 5 and a clear commercial license. The 80 percent reduction is taken from the purchase panel. Files were not opened."
+    }
+  },
+  {
+    "id": "hawtpixel-font-bundle",
+    "title": "Hawtpixel Font Bundle",
+    "author": "Hawtpixel - Darrell Flood",
+    "summary": "A commercial font bundle sold as one ZIP, with styles from cartoon to science fiction. The purchase price is $19.99, down from $199.99.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "type": "deal",
+    "originalPrice": 199.99,
+    "salePrice": 19.99,
+    "discountPercent": 90,
+    "currency": "USD",
+    "expiresAt": "2026-11-02T03:00:00.000Z",
+    "rating": 5,
+    "reviewCount": 38,
+    "radarScore": 66,
+    "dealScore": 75,
+    "source": "itch.io",
+    "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
+    "canonicalSourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
+    "license": "Creator commercial license",
+    "licenseUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
+    "commercialUse": true,
+    "lastChecked": "2026-10-26T02:07:50.000Z",
+    "addedAt": "2026-10-11",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "The page lists one ZIP, Hawtpixel Font Firesale 650 Font Bundle.zip. No engine project was listed, and the archive was not opened.",
+    "tags": [
+      "fonts",
+      "ui",
+      "typeface"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzMwNjgwODU3LnBuZw==/original/OPOqWz.png",
+      "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
+      "alt": "Publisher image for the Hawtpixel Font Bundle product page.",
+      "credit": "Hawtpixel - Darrell Flood",
+      "checkedAt": "2026-10-15T02:29:35.724Z",
+      "note": "Exact static original PNG observed again on this product page gallery on img.itch.zone. No artwork or paid archive was copied."
+    },
+    "licenseNote": "The page states a one-time payment for unlimited commercial projects and installs, with no renewal or subscription. The archive was not downloaded.",
+    "priceNote": "USD purchase panel showed $199.99 crossed out to $19.99. No currency conversion or paid download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 3,
+      "reputation": 4,
+      "rationale": "The product lists one 69 MB ZIP of commercial fonts and shows 5.0 from 37 ratings. The purchase panel price is $199.99 to $19.99, a 90% reduction. Quality and value stay strong for that rating sample; completeness is adequate because the archive was not opened. No engine test was performed."
+    }
+  },
+  {
+    "id": "henrysoftware-pixel-mob",
+    "title": "Pixel Mob",
+    "author": "Henry Software",
+    "summary": "Eighty animated 16\u00d716 monsters supplied as PNG files, plus a Unity example. The page marks the artwork CC0 and the example code MIT. The ZIP was not opened.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 7,
+    "salePrice": 3.5,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-11-02T20:58:00.000Z",
+    "rating": 4.6,
+    "reviewCount": 28,
+    "radarScore": 68,
+    "dealScore": 73,
+    "source": "itch.io",
+    "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
+    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-mob",
+    "license": "CC0 and MIT",
+    "licenseUrl": "https://henrysoftware.itch.io/pixel-mob",
+    "commercialUse": true,
+    "lastChecked": "2026-10-26T02:07:50.000Z",
+    "addedAt": "2026-10-12",
+    "formats": [
+      "PNG",
+      "ZIP"
+    ],
+    "engines": [
+      "Unity"
+    ],
+    "engineNote": "The page lists PNG files and a Unity example inside PixelMobs.zip. The example was not opened, so this is not a tested Unity project or a .unitypackage.",
+    "tags": [
+      "monsters",
+      "pixel art",
+      "characters",
+      "unity"
+    ],
+    "featured": false,
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzkwNjQyNi5wbmc=/original/T7GMlK.png",
+      "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
+      "alt": "Static publisher image observed on the Pixel Mob product page.",
+      "credit": "Henry Software",
+      "checkedAt": "2026-10-12T01:32:57.945Z",
+      "note": "Exact static original PNG observed in this product page gallery on img.itch.zone. No artwork or paid archive was copied."
+    },
+    "licenseNote": "The itch asset-license field is Creative Commons Zero 1.0 for the artwork. The code-license field for the Unity example is MIT. Keep the MIT notice with that example code.",
+    "priceNote": "USD purchase panel showed $7 crossed out to $3.50. No currency conversion or paid download was performed.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 3.5,
+      "reputation": 4,
+      "rationale": "50% off, to $3.50, for 80 animated 16\u00d716 monsters rated 4.6/5 from 28 ratings. PNG files and a Unity example are named. The description is short and the ZIP was not opened, so completeness is adequate."
     }
   }
 ]

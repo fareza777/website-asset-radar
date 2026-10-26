@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-miscellaneous-trees-remix",
+  "sourceUrl": "https://opengameart.org/content/miscellaneous-trees-remix",
+  "checkedAt": "2026-10-26T01:31:32.666Z",
+  "httpStatus": 200,
+  "pageSha256": "f2dcfa72dda442226385fa8e24ac75590a3325b5bf94db4b7eeea7388023f17c",
+  "title": "Miscellaneous Trees (remix)",
+  "authors": [
+    "AntumDeluge"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "rubberduck, Jordan Irwin (AntumDeluge) Miscellaneous Trees (remix) by AntumDeluge. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/miscellaneous-trees-remix Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/misc_trees_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/misc_trees_0.png",
+  "downloadSha256": "dbf5de9488fca4835ecc035757c64819079ee0132d46fc596b01afd5134f631d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "misc_trees_0.png",
+  "previewSha256": "dbf5de9488fca4835ecc035757c64819079ee0132d46fc596b01afd5134f631d",
+  "sourceTags": [
+    "32x32",
+    "tile",
+    "tileset",
+    "orthogonal",
+    "stendhal",
+    "plant",
+    "tree",
+    "fruit",
+    "Flora"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

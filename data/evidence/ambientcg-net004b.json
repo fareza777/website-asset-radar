@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:44:38.787Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Net004B&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "3460a6bf0fe64d041d35e2363366206952a3067f7a0ac4941b549746613a7b1e",
+  "apiSha256": "fc67c003dd0ea1978946aea592ce0c01cc8d27e046dcd57304a615c62c86ac6d",
   "apiMetadata": {
     "assetId": "Net004B",
     "dataType": "Material",
@@ -139,10 +139,10 @@
     "earlyReleaseDate": "2024-01-05 10:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 7042,
-    "downloadCountMonth": 730,
-    "downloadCountWeek": 198,
-    "popularityScore": 2.4354391768466668,
+    "downloadCount": 7630,
+    "downloadCountMonth": 996,
+    "downloadCountWeek": 261,
+    "popularityScore": 2.5225174118551292,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -161,7 +161,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Color.jpg?32000&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Displacement.jpg?47846&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_NormalDX.jpg?59831&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Roughness.jpg?90204&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Opacity.jpg?23620",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Color.jpg?43641&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Displacement.jpg?7363&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_NormalDX.jpg?11794&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Roughness.jpg?29576&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Opacity.jpg?66548",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -172,7 +172,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Color.jpg?46391,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Displacement.jpg?75363,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_NormalDX.jpg?82710,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Roughness.jpg?91444,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Opacity.jpg?66797&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Color.jpg?83884,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Displacement.jpg?69219,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_NormalDX.jpg?81380,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Roughness.jpg?4346,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Net004B/Net004B_SQ_Opacity.jpg?96318&texture_name=Color,Displacement,Normal,Roughness,Opacity",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -190,5 +190,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Net004B.webp",
   "previewSha256": "a04397135d7144a9904d6fb2593dc3f410dc5ad367d6f3e5359f5c5b65cf2abe",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-26T02:08:29.724Z"
 }
