@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T16:00:24.938Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=PavingStones137&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "70f204c7112e840f5e221fde0cb51d76e5efea697aa8393f5e4b8c3d45c4252f",
+  "apiSha256": "0cffa5f15be8daca8968a24208eb1b4a2308dc7438126b847ea618d36e04eba4",
   "apiMetadata": {
     "assetId": "PavingStones137",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2023-10-27 18:00:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 18651,
-    "downloadCountMonth": 1113,
-    "downloadCountWeek": 333,
-    "popularityScore": 4.465178259616126,
+    "downloadCount": 19593,
+    "downloadCountMonth": 1520,
+    "downloadCountWeek": 401,
+    "popularityScore": 4.564562304196366,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Color.jpg?74019&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Displacement.jpg?99387&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_NormalDX.jpg?27678&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Roughness.jpg?30336&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_AmbientOcclusion.jpg?11668",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Color.jpg?27364&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Displacement.jpg?17470&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_NormalDX.jpg?33451&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Roughness.jpg?89755&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_AmbientOcclusion.jpg?17106",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Color.jpg?16364,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Displacement.jpg?7213,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_NormalDX.jpg?98836,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Roughness.jpg?67259,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_AmbientOcclusion.jpg?22050&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Color.jpg?42572,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Displacement.jpg?39816,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_NormalDX.jpg?38809,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_Roughness.jpg?7351,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/PavingStones137/PavingStones137_SQ_AmbientOcclusion.jpg?37782&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -191,5 +191,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/PavingStones137.webp",
   "previewSha256": "c134b5c0c03df556ea66e4799bba8b98ba139004aa1c62c8060b59eff00f6f0a",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-27T02:08:39.973Z"
 }

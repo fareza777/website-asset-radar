@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-backgrounditem",
+  "sourceUrl": "https://opengameart.org/content/backgrounditem",
+  "checkedAt": "2026-10-27T01:31:53.225Z",
+  "httpStatus": 200,
+  "pageSha256": "5c416a0cfce54126d35d88dbd54d134f2a35a52cd3383470eb273ffb2d39fc11",
+  "title": "BackGroundItem",
+  "authors": [
+    "MalYuLaing"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "BackGroundItem by MalYuLaing. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/backgrounditem Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/jianzhu3-1_0.png",
+    "https://opengameart.org/sites/default/files/jianzhu3.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/jianzhu3-1_0.png",
+  "downloadSha256": "82bbe2a737fd4ffed4606377909a8389599ef03c532d1ac8e2c7e247249fdb89",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "jianzhu3-1_0.png",
+  "previewSha256": "82bbe2a737fd4ffed4606377909a8389599ef03c532d1ac8e2c7e247249fdb89",
+  "sourceTags": [
+    "Sprite"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

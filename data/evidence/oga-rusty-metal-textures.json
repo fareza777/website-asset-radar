@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-rusty-metal-textures",
+  "sourceUrl": "https://opengameart.org/content/rusty-metal-textures",
+  "checkedAt": "2026-10-27T01:12:24.050Z",
+  "httpStatus": 200,
+  "pageSha256": "64ee4f3544e925e56f8b0e99176f8d6fa0794cadf9533f63d418eaf0f6fd3549",
+  "title": "Rusty Metal Textures",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please credit me in art assets (or wherever appropriate.) Rusty Metal Textures by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/rusty-metal-textures Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/10-25-26_0.jpg",
+    "https://opengameart.org/sites/default/files/10-25-26a.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/10-25-26_0.jpg",
+  "downloadSha256": "b7bb7b273ecefa71a883d4fb0202cd58d2f23131d92d186515ca24a8d43849f1",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "10-25-26_0.jpg",
+  "previewSha256": "b7bb7b273ecefa71a883d4fb0202cd58d2f23131d92d186515ca24a8d43849f1",
+  "sourceTags": [
+    "metal",
+    "rusty"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-space-warriors",
+  "sourceUrl": "https://opengameart.org/content/space-warriors",
+  "checkedAt": "2026-10-27T01:32:53.251Z",
+  "httpStatus": 200,
+  "pageSha256": "b571c367633f6b24be0578baa424350d882ac3cb5be8dd1f9a4920dfb2aba5d6",
+  "title": "space warriors",
+  "authors": [
+    "pyranostudios"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "space warriors by pyranostudios. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/space-warriors Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/moonwolf.png",
+    "https://opengameart.org/sites/default/files/whytecut.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/moonwolf.png",
+  "downloadSha256": "fff1db5ea24a4847762487e30c067305c8cd3437eb349b308e0873f584d8195a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "moonwolf.png",
+  "previewSha256": "fff1db5ea24a4847762487e30c067305c8cd3437eb349b308e0873f584d8195a",
+  "sourceTags": [
+    "scifi",
+    "science fiction",
+    "space",
+    "warrior",
+    "armor"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

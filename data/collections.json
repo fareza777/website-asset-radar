@@ -24,7 +24,7 @@
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus a CC0 potion sheet, magdum's CC-BY potion icons, and a CC0 ghost by ZaninDevelopers. Credit magdum. Styles and setup vary by pack.",
+    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, and a CC0 lava backdrop. Credit magdum. Styles vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -38,11 +38,12 @@
       "oga-potion-bottles",
       "oga-ultimate-potions-pack-2d",
       "oga-basic-potion-set",
-      "oga-animated-creepy-ghost-sprite"
+      "oga-animated-creepy-ghost-sprite",
+      "oga-lava-background-6-screen-resolutions"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-26T02:07:50.000Z"
+    "updatedAt": "2026-10-27T02:10:30.000Z"
   },
   {
     "id": "wild-by-nature",
@@ -136,7 +137,7 @@
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Space-station and modular sci-fi models, 2D shooter art, blasters, planet backgrounds, UI, and sound effects, plus CC-BY space backdrops and laser sprites. Credit that backdrop pack and choose one visual direction.",
+    "description": "Sci-fi models, 2D shooter art, blasters, planets, UI, and SFX, plus CC-BY space backdrops, laser sprites, and a CC0 space-warrior sheet. Credit CC-BY authors and pick one visual direction.",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
@@ -148,11 +149,12 @@
       "kenney-skyboxes-space",
       "kenney-space-shooter-remastered",
       "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
-      "oga-lasers-and-beams"
+      "oga-lasers-and-beams",
+      "oga-space-warriors"
     ],
     "cover": "kenney-space-station-kit",
     "color": "blue",
-    "updatedAt": "2026-10-09T15:58:30.077Z"
+    "updatedAt": "2026-10-27T02:10:30.000Z"
   },
   {
     "id": "one-more-jump",
@@ -206,7 +208,7 @@
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pixel and fantasy UI, cursors, board-game icons, reward medals, and interaction sounds, plus a bone-hand cursor, basic RPG icons, and CC0 black-and-white HP and super bars. Select the pieces that suit your interface.",
+    "description": "Pixel and fantasy UI, cursors, medals, and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, and a CC0 spooky nine-slice window. Pick the pieces that suit your UI.",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -220,11 +222,12 @@
       "kenney-board-game-icons",
       "oga-animated-bone-hand-cursor",
       "oga-basic-rpg-icons",
-      "oga-black-and-white-hp-and-super-bars"
+      "oga-black-and-white-hp-and-super-bars",
+      "oga-spooky-9-slice-window"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
     "color": "mint",
-    "updatedAt": "2026-10-16T02:27:40.000Z"
+    "updatedAt": "2026-10-27T02:10:30.000Z"
   },
   {
     "id": "an-underground-world",
@@ -320,7 +323,7 @@
   {
     "id": "a-few-heroes",
     "name": "A few heroes",
-    "description": "CC0 toon and modular figures with pixel sheets, plus extra Puck and Sara class sheets by bart, a CC0 wizard sheet by Dan Ryder, and a CC0 alien character by Lyricsz. Credit each CC-BY author, then import the sheets yourself.",
+    "description": "CC0 toon and modular figures with pixel sheets, Puck and Sara class sheets, a wizard sheet, an alien sprite, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
     "assetIds": [
       "kenney-toon-characters",
       "kenney-modular-characters",
@@ -336,11 +339,12 @@
       "oga-2d-wizard-character-pixel-sprite-sheet-with-boader",
       "oga-tiny-16-expanded-character-sprites",
       "oga-twelve-16x18-rpg-sprites-plus-base",
-      "oga-mani"
+      "oga-mani",
+      "oga-character-base-rpg-2d"
     ],
     "cover": "kenney-toon-characters",
     "color": "lime",
-    "updatedAt": "2026-10-16T02:27:40.000Z"
+    "updatedAt": "2026-10-27T02:10:30.000Z"
   },
   {
     "id": "cozy-space-pieces",
