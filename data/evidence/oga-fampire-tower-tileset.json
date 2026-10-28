@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-fampire-tower-tileset",
+  "sourceUrl": "https://opengameart.org/content/fampire-tower-tileset",
+  "checkedAt": "2026-10-28T01:32:25.687Z",
+  "httpStatus": 200,
+  "pageSha256": "d5cfc5d21a4fc72b74ee8966f263fe5e1f8ab2a3168b119b401c219a66b5e870",
+  "title": "Fampire tower tileset",
+  "authors": [
+    "devnewton"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Dave Newton Fampire tower tileset by devnewton. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/fampire-tower-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tower_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tower_0.zip",
+  "downloadSha256": "0b3a5482d722c27ecc4d0b3ae15710dc33f95a877ac4a6147999a7494fd9cde7",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 8,
+  "licenseFiles": [],
+  "previewFile": "tower/sky.png",
+  "previewSha256": "baaa5732b99c532beb212d3e56a1756869c699e020b312bd4e5bf6d3c599f532",
+  "sourceTags": [
+    "lava",
+    "vampire"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

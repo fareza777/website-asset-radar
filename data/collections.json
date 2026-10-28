@@ -2,7 +2,7 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY 16×16 farm, autumn, and village packs and a town loop. Credit those packs and pick one art direction.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY 16×16 farm, autumn, and village packs, a town loop, and CC0 cupcake props. Credit those packs and pick one art direction.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
@@ -15,16 +15,17 @@
       "oga-cozy-farm-village-lite-16x16-cottage-cobblestone-baker",
       "oga-cozy-farm-lite-16x16-top-down-farm-tiles-crops-farmer-hen",
       "oga-cozy-farm-autumn-lite-16x16-autumn-tiles-trees-path",
-      "oga-main-street-pixelville-looping"
+      "oga-main-street-pixelville-looping",
+      "oga-cupcakes-7-cupcakes"
     ],
     "cover": "kenney-tiny-town",
     "color": "peach",
-    "updatedAt": "2026-10-14T02:24:00.000Z"
+    "updatedAt": "2026-10-28T02:15:00.000Z"
   },
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, and a CC0 lava backdrop. Credit magdum. Styles vary by pack.",
+    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, a CC0 lava backdrop, and devnewton's CC-BY vampire tower tiles. Credit magdum and devnewton. Styles vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -39,11 +40,12 @@
       "oga-ultimate-potions-pack-2d",
       "oga-basic-potion-set",
       "oga-animated-creepy-ghost-sprite",
-      "oga-lava-background-6-screen-resolutions"
+      "oga-lava-background-6-screen-resolutions",
+      "oga-fampire-tower-tileset"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-27T02:10:30.000Z"
+    "updatedAt": "2026-10-28T02:15:00.000Z"
   },
   {
     "id": "wild-by-nature",
@@ -159,7 +161,7 @@
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, castle and generic tiles, a 1-bit 16×16 pack, and a separate CC0 24×24 Lospec jam tileset. Match palette and tile size before combining packs.",
+    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, castle and generic tiles, a 1-bit 16×16 pack, a CC0 24×24 Lospec jam tileset, and a CC0 coin sprite. Match palette and tile size before combining packs.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -174,13 +176,13 @@
       "kenney-platformer-art-extended-tileset",
       "oga-a-platformer-in-the-forest",
       "oga-castle-platformer",
-      "oga-generic-platformer-tiles",
       "oga-1-bit-platformer-pack-0",
-      "oga-t-lospec-jam-pixel-art-stuff"
+      "oga-t-lospec-jam-pixel-art-stuff",
+      "oga-coin-0"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
     "color": "peach",
-    "updatedAt": "2026-10-16T02:27:40.000Z"
+    "updatedAt": "2026-10-28T02:15:00.000Z"
   },
   {
     "id": "small-pixels-big-quests",
@@ -208,7 +210,7 @@
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pixel and fantasy UI, cursors, medals, and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, and a CC0 spooky nine-slice window. Pick the pieces that suit your UI.",
+    "description": "Pixel and fantasy UI, cursors, medals, and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, a CC0 spooky nine-slice window, and CC0 animated kaomoji emotes. Pick the pieces that suit your UI.",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -223,11 +225,12 @@
       "oga-animated-bone-hand-cursor",
       "oga-basic-rpg-icons",
       "oga-black-and-white-hp-and-super-bars",
-      "oga-spooky-9-slice-window"
+      "oga-spooky-9-slice-window",
+      "oga-animated-kaomoji-emotes-30-japanese-emoticons"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
     "color": "mint",
-    "updatedAt": "2026-10-27T02:10:30.000Z"
+    "updatedAt": "2026-10-28T02:15:00.000Z"
   },
   {
     "id": "an-underground-world",

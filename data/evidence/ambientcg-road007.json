@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T05:56:45.876Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Road007&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "c26c76c29554cb11d4392371b1f1e72738a7eb79a6a1c2b3c18ecfa40f71b565",
+  "apiSha256": "4294c9c4635e6a701315fecfc6f3af26e6b1f0b0d28bf78dbae4e14b24f0c900",
   "apiMetadata": {
     "assetId": "Road007",
     "dataType": "Material",
@@ -153,10 +153,10 @@
     "earlyReleaseDate": "2019-12-08 00:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 489524,
-    "downloadCountMonth": 5054,
-    "downloadCountWeek": 1553,
-    "popularityScore": 31.11544787456501,
+    "downloadCount": 495184,
+    "downloadCountMonth": 8086,
+    "downloadCountWeek": 1856,
+    "popularityScore": 31.167554965700273,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -175,7 +175,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Color.jpg?54565&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Displacement.jpg?32361&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_NormalDX.jpg?64702&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Roughness.jpg?92887",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Color.jpg?78871&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Displacement.jpg?90486&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_NormalDX.jpg?50720&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Roughness.jpg?4805",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -186,7 +186,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Color.jpg?4278,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Displacement.jpg?14120,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_NormalDX.jpg?99601,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Roughness.jpg?91204&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Color.jpg?72810,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Displacement.jpg?11087,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_NormalDX.jpg?4095,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road007/Road007_SQ_Roughness.jpg?94653&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -204,5 +204,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Road007.webp",
   "previewSha256": "4242aec189e164c52d3d3e3b5574077a52b7f46e2d4f3040afbbc84a7ef0a10e",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-28T02:13:53.644Z"
 }

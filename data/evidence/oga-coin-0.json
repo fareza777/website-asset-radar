@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-coin-0",
+  "sourceUrl": "https://opengameart.org/content/coin-0",
+  "checkedAt": "2026-10-28T01:31:25.323Z",
+  "httpStatus": 200,
+  "pageSha256": "8a59e224a7f0dc1cd4e419f64800494ffa2abfeb7bb3c01f9983cb9dae0b8099",
+  "title": "coin",
+  "authors": [
+    "Nia Mi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "coin by Nia Mi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/coin-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/coin_8.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/coin_8.png",
+  "downloadSha256": "0e46d9c05000b1db1b016690f5d39cb2b4c03a1fcb9db506e26ad235fc9947f4",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "coin_8.png",
+  "previewSha256": "0e46d9c05000b1db1b016690f5d39cb2b4c03a1fcb9db506e26ad235fc9947f4",
+  "sourceTags": [
+    "items",
+    "Platformer",
+    "gold",
+    "treasure",
+    "money",
+    "collect",
+    "pickup"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T08:27:56.990Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Pizza004&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "291ba9bf1e2af8ee730da10e79ffc115ff30542fe71d3e29cd9d244634ca5df7",
+  "apiSha256": "b3c71171415cd961daa1fb39b42fa0caedf0330e50a08abb7dfc808888a06dce",
   "apiMetadata": {
     "assetId": "Pizza004",
     "dataType": "Material",
@@ -147,10 +147,10 @@
     "earlyReleaseDate": "2026-03-17 22:47:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 2992,
-    "downloadCountMonth": 812,
-    "downloadCountWeek": 227,
-    "popularityScore": 5.819323047188362,
+    "downloadCount": 3715,
+    "downloadCountMonth": 1099,
+    "downloadCountWeek": 301,
+    "popularityScore": 6.334863745216237,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -169,7 +169,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Color.jpg?90104&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Displacement.jpg?69580&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_NormalDX.jpg?89111&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Roughness.jpg?31253&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Opacity.jpg?98818&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_AmbientOcclusion.jpg?5146",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Color.jpg?47542&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Displacement.jpg?80742&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_NormalDX.jpg?64485&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Roughness.jpg?12849&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Opacity.jpg?55058&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_AmbientOcclusion.jpg?44352",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -180,7 +180,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Color.jpg?33095,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Displacement.jpg?97339,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_NormalDX.jpg?758,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Roughness.jpg?98518,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Opacity.jpg?69779,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_AmbientOcclusion.jpg?82852&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Color.jpg?24901,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Displacement.jpg?51441,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_NormalDX.jpg?73559,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Roughness.jpg?87547,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_Opacity.jpg?25734,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Pizza004/Pizza004_SQ_AmbientOcclusion.jpg?84235&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -198,5 +198,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Pizza004.webp",
   "previewSha256": "9a53dbbad2b2d320c6633812cb957d5badc0173886fb66c3c9d48b5f52fa0dfd",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-28T02:13:53.644Z"
 }
