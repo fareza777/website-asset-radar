@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T08:29:23.637Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Road014C&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "8b90fe3224af75abee8d3b93250ef554a2779eb7e11353ac163b8d797c924ed3",
+  "apiSha256": "7c0b0a03aef86ef4a10f074ca7acb7a00bb35c234771fb8e7f3e2ee61aa002fc",
   "apiMetadata": {
     "assetId": "Road014C",
     "dataType": "Material",
@@ -151,10 +151,10 @@
     "earlyReleaseDate": "2026-03-04 18:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 5217,
-    "downloadCountMonth": 1150,
-    "downloadCountWeek": 305,
-    "popularityScore": 8.879046553917021,
+    "downloadCount": 6390,
+    "downloadCountMonth": 1642,
+    "downloadCountWeek": 442,
+    "popularityScore": 9.601475208803144,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -173,7 +173,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Color.jpg?96711&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Displacement.jpg?74019&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_NormalDX.jpg?71683&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Roughness.jpg?48617&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_AmbientOcclusion.jpg?75408",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Color.jpg?59130&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Displacement.jpg?153&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_NormalDX.jpg?10893&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Roughness.jpg?69193&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_AmbientOcclusion.jpg?85639",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -184,7 +184,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Color.jpg?20904,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Displacement.jpg?5310,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_NormalDX.jpg?5516,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Roughness.jpg?3985,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_AmbientOcclusion.jpg?55792&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Color.jpg?74230,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Displacement.jpg?44676,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_NormalDX.jpg?35556,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_Roughness.jpg?41121,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Road014C/Road014C_SQ_AmbientOcclusion.jpg?7874&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -202,5 +202,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Road014C.webp",
   "previewSha256": "497bc21814917647067143b18d81fb7467f0d570678c7436b9e4a60f79dfd76e",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-29T02:18:25.284Z"
 }

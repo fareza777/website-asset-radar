@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-idle-characters",
+  "sourceUrl": "https://opengameart.org/content/idle-characters",
+  "checkedAt": "2026-10-29T01:31:18.816Z",
+  "httpStatus": 200,
+  "pageSha256": "68109c4e216c2ac9e434ddc95f4962ebcdba5a1aabe6e548dc370a9dad493548",
+  "title": "idle characters",
+  "authors": [
+    "ALezTheDEV"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "idle characters by ALezTheDEV. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/idle-characters Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/idle%20players.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/idle%20players.zip",
+  "downloadSha256": "3e87ca3593574065809c5a55c4f44e29a93c422f246a8d0c1393960f4cdf93f3",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 6,
+  "licenseFiles": [],
+  "previewFile": "idle_players5.png",
+  "previewSha256": "d77e5e6504cb59553cf01929f20953aa974bf327712d379b5f670cfa8ac91990",
+  "sourceTags": [
+    "Character",
+    "idle"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:01:27.092Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rock061&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "dd7b3037bbed10b7ac70f0f4531e056c74fb426f37ac0ac700811d7a5495d559",
+  "apiSha256": "d4047ff34450f7de9549238fa48fb63d4aec01c8ad0ff0c3337a4d572d31fe9d",
   "apiMetadata": {
     "assetId": "Rock061",
     "dataType": "Material",
@@ -139,10 +139,10 @@
     "earlyReleaseDate": "2025-04-14 17:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 23440,
-    "downloadCountMonth": 2417,
-    "downloadCountWeek": 870,
-    "popularityScore": 11.868504604981773,
+    "downloadCount": 26231,
+    "downloadCountMonth": 4030,
+    "downloadCountWeek": 1014,
+    "popularityScore": 12.604885842534909,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -161,7 +161,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Color.jpg?48935&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Displacement.jpg?76949&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_NormalDX.jpg?44758&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Roughness.jpg?86925&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_AmbientOcclusion.jpg?94218",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Color.jpg?70431&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Displacement.jpg?78382&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_NormalDX.jpg?885&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Roughness.jpg?8505&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_AmbientOcclusion.jpg?62857",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -172,7 +172,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Color.jpg?94737,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Displacement.jpg?21932,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_NormalDX.jpg?57675,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Roughness.jpg?39089,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_AmbientOcclusion.jpg?22081&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Color.jpg?58940,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Displacement.jpg?67455,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_NormalDX.jpg?97942,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_Roughness.jpg?5068,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rock061/Rock061_SQ_AmbientOcclusion.jpg?34870&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -190,5 +190,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rock061.webp",
   "previewSha256": "cef0221fee03061919e25def15e56edaab41afb773becbddd69efde51494d8b4",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-29T02:18:25.284Z"
 }

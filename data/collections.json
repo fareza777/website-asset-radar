@@ -25,7 +25,7 @@
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, a CC0 lava backdrop, and devnewton's CC-BY vampire tower tiles. Credit magdum and devnewton. Styles vary by pack.",
+    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, devnewton's CC-BY vampire tower tiles, and CC0 stone door tiles. Credit magdum and devnewton. Styles vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -41,11 +41,12 @@
       "oga-basic-potion-set",
       "oga-animated-creepy-ghost-sprite",
       "oga-lava-background-6-screen-resolutions",
-      "oga-fampire-tower-tileset"
+      "oga-fampire-tower-tileset",
+      "oga-opening-stone-door-way"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-28T02:15:00.000Z"
+    "updatedAt": "2026-10-29T02:15:00.000Z"
   },
   {
     "id": "wild-by-nature",
@@ -326,7 +327,7 @@
   {
     "id": "a-few-heroes",
     "name": "A few heroes",
-    "description": "CC0 toon and modular figures with pixel sheets, Puck and Sara class sheets, a wizard sheet, an alien sprite, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
+    "description": "CC0 toon and modular figures with pixel sheets, idle and NPC townsfolk, a foreshortening head reference, Puck and Sara class sheets, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
     "assetIds": [
       "kenney-toon-characters",
       "kenney-modular-characters",
@@ -339,15 +340,15 @@
       "oga-puck-thief",
       "oga-sara-overland",
       "oga-sara-wizard",
-      "oga-2d-wizard-character-pixel-sprite-sheet-with-boader",
       "oga-tiny-16-expanded-character-sprites",
-      "oga-twelve-16x18-rpg-sprites-plus-base",
-      "oga-mani",
-      "oga-character-base-rpg-2d"
+      "oga-character-base-rpg-2d",
+      "oga-idle-characters",
+      "oga-npc-characters-additional",
+      "oga-foreshortening-female-head"
     ],
     "cover": "kenney-toon-characters",
     "color": "lime",
-    "updatedAt": "2026-10-27T02:10:30.000Z"
+    "updatedAt": "2026-10-29T02:15:00.000Z"
   },
   {
     "id": "cozy-space-pieces",
