@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-2d-rpg-item-icons",
+  "sourceUrl": "https://opengameart.org/content/2d-rpg-item-icons",
+  "checkedAt": "2026-10-31T01:30:32.343Z",
+  "httpStatus": 200,
+  "pageSha256": "a19f7d964cf8ee6556f0a7cd78d469d996a41e3c8c2dc706c447230ef68455f8",
+  "title": "2D RPG Item Icons",
+  "authors": [
+    "Kit"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "2D RPG Item Icons by Kit. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/2d-rpg-item-icons Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/rpg_inventory.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/rpg_inventory.zip",
+  "downloadSha256": "66690683d2ad3b5ba791466f889734f314af4d87ad2d818c885d9d8baffc1b3c",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 52,
+  "licenseFiles": [],
+  "previewFile": "RPG Inventory/Items Icon.png",
+  "previewSha256": "2a5f6fcc9368e95beae6f271e7224fc4fd086b47562bb71c6fa678ad0f64bbf1",
+  "sourceTags": [
+    "hud",
+    "icons rpg",
+    "items",
+    "User Interface"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:56:03.934Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=RoofingTiles012C&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "d47ed961b12634f51aea9ec2a54675ae105ed76174f35841e721966212e06dde",
+  "apiSha256": "eee8ad716f9f2312f915ed0bbc75a8f5596e8641e6a7147bd4aa0d567248ea72",
   "apiMetadata": {
     "assetId": "RoofingTiles012C",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2023-12-04 08:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 13750,
-    "downloadCountMonth": 1037,
-    "downloadCountWeek": 348,
-    "popularityScore": 3.677773268425138,
+    "downloadCount": 14915,
+    "downloadCountMonth": 1578,
+    "downloadCountWeek": 389,
+    "popularityScore": 3.82791657533951,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Color.jpg?63996&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Displacement.jpg?46447&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_NormalDX.jpg?95069&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Roughness.jpg?12758&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Opacity.jpg?30639&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_AmbientOcclusion.jpg?57277",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Color.jpg?46157&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Displacement.jpg?32971&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_NormalDX.jpg?59044&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Roughness.jpg?85472&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Opacity.jpg?46961&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_AmbientOcclusion.jpg?88056",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Color.jpg?46866,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Displacement.jpg?76263,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_NormalDX.jpg?19800,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Roughness.jpg?63289,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Opacity.jpg?5060,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_AmbientOcclusion.jpg?30315&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Color.jpg?78360,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Displacement.jpg?48836,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_NormalDX.jpg?2821,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Roughness.jpg?17713,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_Opacity.jpg?91828,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/RoofingTiles012C/RoofingTiles012C_SQ_AmbientOcclusion.jpg?79788&texture_name=Color,Displacement,Normal,Roughness,Opacity,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -191,5 +191,6 @@
   "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/RoofingTiles012C.webp",
   "previewSha256": "f3d45c007d8d62f4b7091c107cd96ffade94bac81c789dd19407eba5582cd011",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-10-31T02:09:01.256Z"
 }

@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-insect-sounds",
+  "sourceUrl": "https://opengameart.org/content/insect-sounds",
+  "checkedAt": "2026-10-31T01:08:19.147Z",
+  "httpStatus": 200,
+  "pageSha256": "06571a22edaf08874a9c290e3c6f27c1dcfd2dceebb2a195dc0158a4956bec4a",
+  "title": "Insect Sounds",
+  "authors": [
+    "fvcalderan"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Insect Sounds by fvcalderan. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/insect-sounds Preview resized and converted to WebP; original waveform visualization.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/insect.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/insect.zip",
+  "downloadSha256": "0f8ca68f133143231b6cc602896e1ed3b72a380b1025e044de05c7a7c9dfe8c1",
+  "formats": [
+    "OGG"
+  ],
+  "inspectedFiles": 6,
+  "licenseFiles": [],
+  "previewFile": "insect5.ogg",
+  "previewSha256": "0f4783cef08deb28d6dc508894b85ae179aec1c69cd4b775bbf97f86efef4e13",
+  "sourceTags": [
+    "insect",
+    "insects",
+    "attack",
+    "death",
+    "effect",
+    "bug",
+    "ant",
+    "beetle"
+  ],
+  "artTypes": [
+    "Sound Effect"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-prototype-platformer",
+  "sourceUrl": "https://opengameart.org/content/prototype-platformer",
+  "checkedAt": "2026-10-31T01:29:31.235Z",
+  "httpStatus": 200,
+  "pageSha256": "c6abe556f57bc514de9e4828421299f3c99cc7cec57fd707a0eabe4308505364",
+  "title": "Prototype Platformer",
+  "authors": [
+    "PhoxSillanpaa"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Prototype Platformer by PhoxSillanpaa. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/prototype-platformer Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/basicplatformersprite.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/basicplatformersprite.png",
+  "downloadSha256": "b9f2c888af6a21f8e8290ba31d0f4241b1638b36656b602c66968a4281d62f35",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "basicplatformersprite.png",
+  "previewSha256": "b9f2c888af6a21f8e8290ba31d0f4241b1638b36656b602c66968a4281d62f35",
+  "sourceTags": [
+    "Platformer",
+    "32x32"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

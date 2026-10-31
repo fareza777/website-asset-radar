@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-alien-skin-texture",
+  "sourceUrl": "https://opengameart.org/content/alien-skin-texture",
+  "checkedAt": "2026-10-31T01:08:48.657Z",
+  "httpStatus": 200,
+  "pageSha256": "cc04e27b83be7a42eb19fda23997d0122edd9226ac46c9c67486d2f774b0324d",
+  "title": "Alien Skin Texture",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please credit me and my website in the \"Art\" section of your game...or wherever appropriate. Alien Skin Texture by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/alien-skin-texture Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/11-15-24c_2.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/11-15-24c_2.jpg",
+  "downloadSha256": "129fc0b9a487907229428f006206680f8d8dab5074614029ffe9f86775d8b024",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "11-15-24c_2.jpg",
+  "previewSha256": "129fc0b9a487907229428f006206680f8d8dab5074614029ffe9f86775d8b024",
+  "sourceTags": [
+    "alien",
+    "skin",
+    "abstract",
+    "reptilian"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

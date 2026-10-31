@@ -51,7 +51,7 @@
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Outdoor models, boats, fish, skies, and 2D forest scenery, plus apple trees by kiner_s20, AntumDeluge's CC-BY tree remix, a cicada loop, LumioLab's CC-BY dark woods, and C-MAN's CC-BY tree. Credit them. Setup is manual.",
+    "description": "Outdoor models, boats, fish, skies, and 2D forest scenery, plus apple trees by kiner_s20, AntumDeluge's CC-BY tree remix, cicada and CC0 insect loops, LumioLab's CC-BY dark woods, and C-MAN's CC-BY tree. Credit them. Setup is manual.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
@@ -65,14 +65,14 @@
       "oga-trees-bushes",
       "oga-scenery-with-apple-trees",
       "oga-cicada-sounds",
-      "oga-32x32-tileset",
+      "oga-insect-sounds",
       "oga-dark-woods-free-sampler-spooky-pixel-art-trees-glowing-mushrooms",
       "oga-top-down-tree",
       "oga-miscellaneous-trees-remix"
     ],
     "cover": "kenney-nature-kit",
     "color": "mint",
-    "updatedAt": "2026-10-26T02:07:50.000Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "the-finishing-touches",
@@ -140,7 +140,7 @@
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Sci-fi models, 2D shooter art, blasters, planets, UI, and SFX, plus CC-BY space backdrops, laser sprites, and a CC0 space-warrior sheet. Credit CC-BY authors and pick one visual direction.",
+    "description": "Sci-fi models, shooter art, blasters, planets, UI, and SFX, plus CC-BY space backdrops, lasers, Eric Matyas's CC-BY alien skin, and a CC0 space-warrior sheet. Credit CC-BY authors.",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
@@ -153,16 +153,17 @@
       "kenney-space-shooter-remastered",
       "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
       "oga-lasers-and-beams",
-      "oga-space-warriors"
+      "oga-space-warriors",
+      "oga-alien-skin-texture"
     ],
     "cover": "kenney-space-station-kit",
     "color": "blue",
-    "updatedAt": "2026-10-27T02:10:30.000Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel and illustrated platformer art, forest tiles, expansion packs, control prompts, castle and generic tiles, a 1-bit 16×16 pack, a CC0 24×24 Lospec jam tileset, and a CC0 coin sprite. Match palette and tile size before combining packs.",
+    "description": "Pixel platformer art, forest tiles, expansions, control prompts, castle tiles, a CC0 prototype platformer sheet, 1-bit 16×16 art, and a CC0 Lospec jam tileset. Match palette and tile size before combining.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -179,16 +180,16 @@
       "oga-castle-platformer",
       "oga-1-bit-platformer-pack-0",
       "oga-t-lospec-jam-pixel-art-stuff",
-      "oga-coin-0"
+      "oga-prototype-platformer"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
     "color": "peach",
-    "updatedAt": "2026-10-28T02:15:00.000Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
-    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, item icons, and tiny characters. Sizes differ; credit the CC-BY roguelike sheet and pick one palette.",
+    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, CC0 item icons from Kit, and tiny characters. Sizes differ; credit the CC-BY roguelike sheet and pick one palette.",
     "assetIds": [
       "kenney-micro-roguelike",
       "kenney-roguelike-rpg-pack",
@@ -201,17 +202,17 @@
       "kenney-pico-8-city",
       "oga-dungeon-crawl-32x32-tiles-supplemental",
       "oga-roguelike-tiles-large-collection",
-      "oga-16x16-rpg-items",
+      "oga-2d-rpg-item-icons",
       "oga-tiny-characters-set"
     ],
     "cover": "kenney-micro-roguelike",
     "color": "blue",
-    "updatedAt": "2026-10-09T15:58:30.077Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pixel and fantasy UI, cursors, medals, and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, a CC0 spooky nine-slice window, and CC0 animated kaomoji emotes. Pick the pieces that suit your UI.",
+    "description": "Pixel and fantasy UI, cursors, medals, and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, a CC0 spooky nine-slice window, CC0 kaomoji emotes, and Vircon32's CC-BY 2048 board tiles. Pick the pieces that suit your UI.",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -222,16 +223,16 @@
       "kenney-digital-audio",
       "kenney-fantasy-ui-borders",
       "kenney-medals",
-      "kenney-board-game-icons",
       "oga-animated-bone-hand-cursor",
       "oga-basic-rpg-icons",
       "oga-black-and-white-hp-and-super-bars",
       "oga-spooky-9-slice-window",
-      "oga-animated-kaomoji-emotes-30-japanese-emoticons"
+      "oga-animated-kaomoji-emotes-30-japanese-emoticons",
+      "oga-2048-board-and-tiles"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
     "color": "mint",
-    "updatedAt": "2026-10-28T02:15:00.000Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "an-underground-world",
@@ -281,7 +282,7 @@
   {
     "id": "material-essentials",
     "name": "Material essentials",
-    "description": "CC0 brick, plaster, stone, concrete, metal, wood, fabric, and flooring textures from ambientCG and Poly Haven. Import the maps and build materials manually.",
+    "description": "CC0 brick, plaster, stone, concrete, metal, wood, fabric, and flooring textures from ambientCG and Poly Haven, plus johndekale's CC0 4K seamless brick wall. Import the maps and build materials manually.",
     "assetIds": [
       "ambientcg-bricks105",
       "ambientcg-concrete048",
@@ -298,11 +299,11 @@
       "polyhaven-plaster-stone-wall-02",
       "polyhaven-rectangular-parquet",
       "polyhaven-cobblestone-floor-06",
-      "ambientcg-diamondplate008b"
+      "oga-4k-brick-wall-seamless"
     ],
     "cover": "ambientcg-bricks105",
     "color": "mint",
-    "updatedAt": "2026-10-10T02:22:00.000Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "snow-on-the-ground",
@@ -327,14 +328,14 @@
   {
     "id": "a-few-heroes",
     "name": "A few heroes",
-    "description": "CC0 toon and modular figures with pixel sheets, idle and NPC townsfolk, a foreshortening head reference, Puck and Sara class sheets, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
+    "description": "CC0 toon and modular figures with pixel sheets, idle and NPC townsfolk, a CC0 bear warrior, a foreshortening head reference, Puck and Sara class sheets, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
     "assetIds": [
       "kenney-toon-characters",
       "kenney-modular-characters",
       "oga-dwarf-miner-run",
       "oga-fumiko-complete-charset",
       "oga-animated-rogue",
-      "oga-10-basic-rpg-enemies",
+      "oga-bear-warrior",
       "oga-puck-overland",
       "oga-puck-wizard",
       "oga-puck-thief",
@@ -348,7 +349,7 @@
     ],
     "cover": "kenney-toon-characters",
     "color": "lime",
-    "updatedAt": "2026-10-29T02:15:00.000Z"
+    "updatedAt": "2026-10-31T02:11:00.000Z"
   },
   {
     "id": "cozy-space-pieces",

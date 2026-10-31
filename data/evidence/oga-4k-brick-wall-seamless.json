@@ -1,0 +1,47 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-4k-brick-wall-seamless",
+  "sourceUrl": "https://opengameart.org/content/4k-brick-wall-seamless",
+  "checkedAt": "2026-10-31T01:09:42.525Z",
+  "httpStatus": 200,
+  "pageSha256": "e7a87adb9ddf2b2cf1728fb585da0f1e08860188a32cf8c57ee1b67f0f2ad6fc",
+  "title": "4K brick wall (seamless)",
+  "authors": [
+    "johndekale"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "CCO 4K brick wall (seamless) by johndekale. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/4k-brick-wall-seamless Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/4k_bricks_albedo.png",
+    "https://opengameart.org/sites/default/files/4k_bricks_normal.png",
+    "https://opengameart.org/sites/default/files/oa4kbricks.png",
+    "https://opengameart.org/sites/default/files/roughness_4k_brick.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/4k_bricks_albedo.png",
+  "downloadSha256": "6a6179450d4846be9bbfd886ed0f4cee330bb26b8d2341b1bd9eb6f416f4b847",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "4k_bricks_albedo.png",
+  "previewSha256": "6a6179450d4846be9bbfd886ed0f4cee330bb26b8d2341b1bd9eb6f416f4b847",
+  "sourceTags": [
+    "brick",
+    "wall",
+    "brick wall",
+    "stone",
+    "red brick",
+    "4k",
+    "normal",
+    "normal map",
+    "AO",
+    "Ambient Occlusion",
+    "PBR"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
