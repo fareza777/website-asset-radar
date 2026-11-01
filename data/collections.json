@@ -2,7 +2,7 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY 16×16 farm, autumn, and village packs, a town loop, and CC0 cupcake props. Credit those packs and pick one art direction.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY farm and village packs, Daniel Cook CC-BY PlanetCute ramp and roof tiles, a town loop, and CC0 cupcakes. Credit CC-BY packs and pick one art direction.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
@@ -16,16 +16,18 @@
       "oga-cozy-farm-lite-16x16-top-down-farm-tiles-crops-farmer-hen",
       "oga-cozy-farm-autumn-lite-16x16-autumn-tiles-trees-path",
       "oga-main-street-pixelville-looping",
-      "oga-cupcakes-7-cupcakes"
+      "oga-cupcakes-7-cupcakes",
+      "oga-planetcute-ramp-westpng",
+      "oga-planetcute-roof-southpng"
     ],
     "cover": "kenney-tiny-town",
     "color": "peach",
-    "updatedAt": "2026-10-28T02:15:00.000Z"
+    "updatedAt": "2026-11-01T02:12:00.000Z"
   },
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, devnewton's CC-BY vampire tower tiles, and CC0 stone door tiles. Credit magdum and devnewton. Styles vary by pack.",
+    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost and witch, devnewton's CC-BY vampire tower, and CC0 stone doors. Credit CC-BY authors. Styles vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -38,15 +40,15 @@
       "kenney-scribble-dungeons",
       "oga-potion-bottles",
       "oga-ultimate-potions-pack-2d",
-      "oga-basic-potion-set",
       "oga-animated-creepy-ghost-sprite",
       "oga-lava-background-6-screen-resolutions",
       "oga-fampire-tower-tileset",
-      "oga-opening-stone-door-way"
+      "oga-opening-stone-door-way",
+      "oga-witch"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-10-29T02:15:00.000Z"
+    "updatedAt": "2026-11-01T02:12:00.000Z"
   },
   {
     "id": "wild-by-nature",
@@ -163,7 +165,7 @@
   {
     "id": "one-more-jump",
     "name": "One more jump",
-    "description": "Pixel platformer art, forest tiles, expansions, control prompts, castle tiles, a CC0 prototype platformer sheet, 1-bit 16×16 art, and a CC0 Lospec jam tileset. Match palette and tile size before combining.",
+    "description": "Pixel platformer art, forest tiles, expansions, control prompts, castle tiles, a CC0 cartoony style tile, a CC0 prototype sheet, and 1-bit 16×16 art. Match palette and tile size before combining.",
     "assetIds": [
       "kenney-pixel-platformer",
       "kenney-pico-8-platformer",
@@ -179,12 +181,12 @@
       "oga-a-platformer-in-the-forest",
       "oga-castle-platformer",
       "oga-1-bit-platformer-pack-0",
-      "oga-t-lospec-jam-pixel-art-stuff",
-      "oga-prototype-platformer"
+      "oga-prototype-platformer",
+      "oga-cartoony-style-tile"
     ],
     "cover": "kenney-pixel-platformer-farm-expansion",
     "color": "peach",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-01T02:12:00.000Z"
   },
   {
     "id": "small-pixels-big-quests",

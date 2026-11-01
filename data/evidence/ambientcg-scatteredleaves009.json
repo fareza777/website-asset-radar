@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T05:55:15.215Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=ScatteredLeaves009&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "ecb8789e548ca3f093055fa39386ac70c2da6b275866191f4dea180b98e58693",
+  "apiSha256": "6a55519fc02842f6b3e72022df49ebf57975d3b3e8d527a18a4bff926603b675",
   "apiMetadata": {
     "assetId": "ScatteredLeaves009",
     "dataType": "Material",
@@ -149,10 +149,10 @@
     "earlyReleaseDate": "2026-07-13 22:00:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 6080,
-    "downloadCountMonth": 2958,
-    "downloadCountWeek": 910,
-    "popularityScore": 33.53768297418753,
+    "downloadCount": 9830,
+    "downloadCountMonth": 4732,
+    "downloadCountWeek": 1196,
+    "popularityScore": 39.018417276437106,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -171,7 +171,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Color.jpg?25762&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Displacement.jpg?98814&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_NormalDX.jpg?78825&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Roughness.jpg?55624&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_AmbientOcclusion.jpg?72216",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Color.jpg?59589&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Displacement.jpg?59968&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_NormalDX.jpg?49297&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Roughness.jpg?17918&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_AmbientOcclusion.jpg?83111",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -182,7 +182,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Color.jpg?65110,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Displacement.jpg?96414,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_NormalDX.jpg?73255,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Roughness.jpg?50483,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_AmbientOcclusion.jpg?34775&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Color.jpg?18186,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Displacement.jpg?3943,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_NormalDX.jpg?58686,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_Roughness.jpg?8515,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/ScatteredLeaves009/ScatteredLeaves009_SQ_AmbientOcclusion.jpg?15892&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -197,8 +197,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/ScatteredLeaves009.webp",
   "previewSha256": "78b367e6919fc5a89703c702ad55efb24898f7f6e2e878aaef9d0728f12082f6",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-01T02:10:21.466Z"
 }

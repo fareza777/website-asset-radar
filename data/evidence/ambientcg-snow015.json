@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T08:35:12.953Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Snow015&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "c6d6f0e7a04ccd4f7d99d36dabfa3d09dd19ca771a20e8673e0963fbf35a94c3",
+  "apiSha256": "d046a70616a4c9217c1cce8e6dbdafef8a48b7b92bd582f2b1ae5018ae3b2a63",
   "apiMetadata": {
     "assetId": "Snow015",
     "dataType": "Material",
@@ -151,10 +151,10 @@
     "earlyReleaseDate": "2026-02-01 10:30:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 14130,
-    "downloadCountMonth": 3094,
-    "downloadCountWeek": 927,
-    "popularityScore": 18.971295774933903,
+    "downloadCount": 17897,
+    "downloadCountMonth": 4770,
+    "downloadCountWeek": 1323,
+    "popularityScore": 21.26650667192867,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -173,7 +173,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Color.jpg?3826&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Displacement.jpg?16933&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_NormalDX.jpg?83628&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Roughness.jpg?52711&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_AmbientOcclusion.jpg?2764",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Color.jpg?18792&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Displacement.jpg?84785&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_NormalDX.jpg?1435&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Roughness.jpg?66989&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_AmbientOcclusion.jpg?95787",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -184,7 +184,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Color.jpg?77483,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Displacement.jpg?41800,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_NormalDX.jpg?21975,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Roughness.jpg?3895,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_AmbientOcclusion.jpg?64578&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Color.jpg?12827,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Displacement.jpg?81319,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_NormalDX.jpg?20745,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_Roughness.jpg?37708,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Snow015/Snow015_SQ_AmbientOcclusion.jpg?33820&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -199,8 +199,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Snow015.webp",
   "previewSha256": "724af11c17275a57dbc3b774f3837e5a2ee7425fb7922b2072cf0b131187a43f",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-01T02:10:21.466Z"
 }

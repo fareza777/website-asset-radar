@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:09:48.185Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Styrofoam004&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "39a0261231d846a1e8129f3792d599c99e53b3d044723bffb3b162f342e90476",
+  "apiSha256": "18698adc568bb3694d174c6fb705a5fd60d9c6698e5170bc25a66600aac0b130",
   "apiMetadata": {
     "assetId": "Styrofoam004",
     "dataType": "Material",
@@ -150,10 +150,10 @@
     "earlyReleaseDate": "2025-02-12 22:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 8663,
-    "downloadCountMonth": 1642,
-    "downloadCountWeek": 592,
-    "popularityScore": 4.403413430655531,
+    "downloadCount": 9937,
+    "downloadCountMonth": 2000,
+    "downloadCountWeek": 411,
+    "popularityScore": 4.7221039239864755,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -172,7 +172,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Color.jpg?42320&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Displacement.jpg?21890&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_NormalDX.jpg?35086&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Roughness.jpg?73489&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_AmbientOcclusion.jpg?89209",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Color.jpg?43875&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Displacement.jpg?12872&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_NormalDX.jpg?2448&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Roughness.jpg?78131&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_AmbientOcclusion.jpg?82567",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -183,7 +183,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Color.jpg?10144,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Displacement.jpg?26111,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_NormalDX.jpg?30248,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Roughness.jpg?75775,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_AmbientOcclusion.jpg?66961&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Color.jpg?76459,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Displacement.jpg?17509,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_NormalDX.jpg?2838,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_Roughness.jpg?94947,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Styrofoam004/Styrofoam004_SQ_AmbientOcclusion.jpg?30816&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -198,8 +198,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Styrofoam004.webp",
   "previewSha256": "c2c3d720bcb0491d6fadd737a143557462a169bd97d0c05f7dfc7678cebec2d5",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-01T02:10:21.466Z"
 }

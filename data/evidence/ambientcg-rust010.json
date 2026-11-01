@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:30:38.485Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rust010&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "529c0389ce57934798c0ade4f07c31e494122e06815fbdb3e3c70fead6e81131",
+  "apiSha256": "61e18c121ae61f4adab8d23d7055c34fd5e7bed98414ef5818f8fecf13c66940",
   "apiMetadata": {
     "assetId": "Rust010",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2024-08-01 18:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 11830,
-    "downloadCountMonth": 1188,
-    "downloadCountWeek": 327,
-    "popularityScore": 4.221259920618815,
+    "downloadCount": 13299,
+    "downloadCountMonth": 1840,
+    "downloadCountWeek": 498,
+    "popularityScore": 4.4927413114703665,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Color.jpg?55740&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Displacement.jpg?17109&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_NormalDX.jpg?37496&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Roughness.jpg?94088&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_AmbientOcclusion.jpg?53350",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Color.jpg?98934&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Displacement.jpg?14564&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_NormalDX.jpg?49762&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Roughness.jpg?27682&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_AmbientOcclusion.jpg?24586",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Color.jpg?88654,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Displacement.jpg?16116,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_NormalDX.jpg?45438,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Roughness.jpg?770,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_AmbientOcclusion.jpg?69765&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Color.jpg?72691,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Displacement.jpg?21107,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_NormalDX.jpg?33194,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_Roughness.jpg?57423,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rust010/Rust010_SQ_AmbientOcclusion.jpg?24276&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -188,8 +188,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rust010.webp",
   "previewSha256": "1b4f2b9cff782231c980a2fba8498d92702e73cec7ccb33f5492855f2039af61",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-01T02:10:21.466Z"
 }

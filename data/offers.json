@@ -25,7 +25,7 @@
     "license": "Creator license",
     "licenseUrl": "https://zaebucca.itch.io/adventure-begins",
     "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
+    "lastChecked": "2026-11-01T02:15:31.375Z",
     "addedAt": "2026-10-24",
     "formats": [
       "PNG"
@@ -49,65 +49,6 @@
       "completeness": 4,
       "reputation": 4,
       "rationale": "Three named content ZIPs cover overworld, characters and interiors, with 80 ratings at 4.9 and an explicit commercial license. Value is strong at half of $14.99; the archives were not audited file by file."
-    }
-  },
-  {
-    "id": "etahoshi-fantasy-minimal-gui",
-    "title": "Fantasy Minimal Pixel Art GUI by etahoshi",
-    "author": "ETA",
-    "summary": "A minimalist fantasy pixel-art GUI by ETA, sold as a ZIP. The page publishes a CC0 dedication covering commercial use.",
-    "categories": [
-      "UI"
-    ],
-    "dimension": "2D",
-    "assetType": "UI Kits",
-    "type": "deal",
-    "originalPrice": 9.99,
-    "salePrice": 4.99,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-10-31T06:20:00.000Z",
-    "rating": 4.9,
-    "reviewCount": 22,
-    "radarScore": 74,
-    "dealScore": 72,
-    "source": "itch.io",
-    "sourceUrl": "https://etahoshi.itch.io/minimal-fantasy-gui-by-eta",
-    "canonicalSourceUrl": "https://etahoshi.itch.io/minimal-fantasy-gui-by-eta",
-    "license": "CC0",
-    "licenseUrl": "https://etahoshi.itch.io/minimal-fantasy-gui-by-eta",
-    "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
-    "addedAt": "2026-10-25",
-    "formats": [
-      "ZIP"
-    ],
-    "engines": [],
-    "engineNote": "The listed download is a ZIP. No native engine package filename was verified, so compatibility stays unverified and import is manual.",
-    "tags": [
-      "pixel-art",
-      "ui",
-      "fantasy"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzE2NTcxNzM2LnBuZw==/original/l1Vuae.png",
-      "sourceUrl": "https://etahoshi.itch.io/minimal-fantasy-gui-by-eta",
-      "alt": "Publisher screenshot of a minimalist fantasy pixel-art game interface with windows, bars and icons.",
-      "credit": "ETA",
-      "checkedAt": "2026-10-25T01:07:03.000Z",
-      "note": "Observed as an original PNG in this product's public itch.io gallery. Linked from img.itch.zone; no artwork or paid pack files were copied. This preview check does not refresh price or license verification."
-    },
-    "licenseNote": "The product page quotes CC0 1.0 Universal and allows copying, modification, distribution and commercial use without permission. Credit is requested as appreciation.",
-    "priceNote": "USD purchase panel showed $9.99 crossed out to $4.99. No paid download was made.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "A documented fantasy pixel GUI with 22 ratings at 4.9 and an on-page CC0 dedication. Completeness is strong from the named ZIP, without a file-by-file audit of paid contents."
     }
   },
   {
@@ -136,7 +77,7 @@
     "license": "CC0",
     "licenseUrl": "https://oddpotatodev.itch.io/godot-3d-pixelart-starter-kit",
     "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
+    "lastChecked": "2026-11-01T02:15:31.375Z",
     "addedAt": "2026-10-25",
     "formats": [
       "ZIP"
@@ -196,7 +137,7 @@
     "license": "CC0",
     "licenseUrl": "https://henrysoftware.itch.io/pixel-item",
     "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
+    "lastChecked": "2026-11-01T02:15:31.375Z",
     "addedAt": "2026-10-24",
     "formats": [
       "PNG"
@@ -247,7 +188,7 @@
     "license": "CC0",
     "licenseUrl": "https://henrysoftware.itch.io/pixel-effects",
     "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
+    "lastChecked": "2026-11-01T02:15:31.375Z",
     "addedAt": "2026-10-24",
     "formats": [
       "PNG"
@@ -273,57 +214,6 @@
     }
   },
   {
-    "id": "o-lobster-another-metroidvania-asset-pack",
-    "title": "Another Metroidvania Asset Pack - FULL SET",
-    "author": "o-lobster",
-    "summary": "A 16×16 modular metroidvania tileset by o-lobster, with PNG files named on the page and a commercial license that forbids resale of the raw files.",
-    "categories": [
-      "Platformer"
-    ],
-    "dimension": "2D",
-    "assetType": "Tilesets",
-    "type": "deal",
-    "originalPrice": 4.99,
-    "salePrice": 0.99,
-    "discountPercent": 80,
-    "currency": "USD",
-    "expiresAt": "2026-10-31T17:09:00.000Z",
-    "rating": 5,
-    "reviewCount": 23,
-    "radarScore": 71,
-    "dealScore": 75,
-    "source": "itch.io",
-    "sourceUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
-    "canonicalSourceUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
-    "license": "Creator license",
-    "licenseUrl": "https://o-lobster.itch.io/another-metroidvania-asset-pack-full-set",
-    "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
-    "addedAt": "2026-10-24",
-    "formats": [
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "PNG files are named. No native engine package was listed, so compatibility is unverified and import is manual.",
-    "tags": [
-      "pixel-art",
-      "metroidvania",
-      "tileset"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The page allows commercial and non-commercial game projects and edits. It forbids reselling, redistributing or repackaging the asset files, edited or not.",
-    "priceNote": "USD purchase panel showed $4.99 crossed out to $0.99. This is a paid sale, not a free claim.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "A modular 16×16 set with a named ZIP, PNG files, 23 ratings at 5 and a clear commercial license. The 80 percent reduction is taken from the purchase panel. Files were not opened."
-    }
-  },
-  {
     "id": "hawtpixel-font-bundle",
     "title": "Hawtpixel Font Bundle",
     "author": "Hawtpixel - Darrell Flood",
@@ -340,7 +230,7 @@
     "currency": "USD",
     "expiresAt": "2026-11-02T03:00:00.000Z",
     "rating": 5,
-    "reviewCount": 38,
+    "reviewCount": 39,
     "radarScore": 66,
     "dealScore": 75,
     "source": "itch.io",
@@ -349,7 +239,7 @@
     "license": "Creator commercial license",
     "licenseUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
     "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
+    "lastChecked": "2026-11-01T02:15:31.375Z",
     "addedAt": "2026-10-11",
     "formats": [
       "ZIP"
@@ -409,7 +299,7 @@
     "license": "CC0 and MIT",
     "licenseUrl": "https://henrysoftware.itch.io/pixel-mob",
     "commercialUse": true,
-    "lastChecked": "2026-10-28T02:16:54.017Z",
+    "lastChecked": "2026-11-01T02:15:31.375Z",
     "addedAt": "2026-10-12",
     "formats": [
       "PNG",

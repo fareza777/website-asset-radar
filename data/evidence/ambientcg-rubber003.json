@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:58:16.544Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Rubber003&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "92f6b2f84f4101d051cfb81049c17ba3578d65c4f8cdf2998c40ef6982a9d9cf",
+  "apiSha256": "e754b905ffaef1cb580e380da43c97f136fe424e687528eb99102d979ceddefe",
   "apiMetadata": {
     "assetId": "Rubber003",
     "dataType": "Material",
@@ -137,10 +137,10 @@
     "earlyReleaseDate": "2023-11-13 19:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 14575,
-    "downloadCountMonth": 1230,
-    "downloadCountWeek": 410,
-    "popularityScore": 3.7962771355011835,
+    "downloadCount": 16358,
+    "downloadCountMonth": 2246,
+    "downloadCountWeek": 518,
+    "popularityScore": 4.052633935458683,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -159,7 +159,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Color.jpg?53966&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Displacement.jpg?83089&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_NormalDX.jpg?8594&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Roughness.jpg?36060",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Color.jpg?92118&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Displacement.jpg?58062&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_NormalDX.jpg?45921&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Roughness.jpg?1001",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -170,7 +170,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Color.jpg?96270,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Displacement.jpg?5589,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_NormalDX.jpg?77953,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Roughness.jpg?59961&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Color.jpg?53206,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Displacement.jpg?23140,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_NormalDX.jpg?8840,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Rubber003/Rubber003_SQ_Roughness.jpg?44614&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -185,8 +185,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Rubber003.webp",
   "previewSha256": "0849c1243112d8aaca8c96277291f79e737f4cbc2f4d898f6bb52b62d8edbb74",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-01T02:10:21.466Z"
 }
