@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T16:03:00.118Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Tatami005&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "28d38e791dc6fbdcec4d319401ef6a327b3d81354ed3ff37f87db57f307a9de0",
+  "apiSha256": "f6f5dc0e595d9c237a03e71580c2ff6c4996c2546ecb3e4facf5ce409718897a",
   "apiMetadata": {
     "assetId": "Tatami005",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2023-09-29 08:34:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 9448,
-    "downloadCountMonth": 833,
-    "downloadCountWeek": 241,
-    "popularityScore": 2.7138265365175593,
+    "downloadCount": 10394,
+    "downloadCountMonth": 1187,
+    "downloadCountWeek": 300,
+    "popularityScore": 2.8339923534336364,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Color.jpg?34685&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Displacement.jpg?94166&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_NormalDX.jpg?31515&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Roughness.jpg?86238&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_AmbientOcclusion.jpg?28384",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Color.jpg?69303&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Displacement.jpg?78876&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_NormalDX.jpg?92993&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Roughness.jpg?49943&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_AmbientOcclusion.jpg?45761",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Color.jpg?98642,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Displacement.jpg?51699,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_NormalDX.jpg?48286,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Roughness.jpg?51686,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_AmbientOcclusion.jpg?5068&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Color.jpg?7198,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Displacement.jpg?79839,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_NormalDX.jpg?70659,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_Roughness.jpg?20503,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tatami005/Tatami005_SQ_AmbientOcclusion.jpg?4965&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -188,8 +188,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Tatami005.webp",
   "previewSha256": "9fd663107b8a923ad1d49e0487dfb5ab5be22cbdc10b2aacde0480903c8e823c",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-02T02:09:28.271Z"
 }

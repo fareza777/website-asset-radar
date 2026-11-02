@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T16:07:00.623Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Tiles130&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "c11e31ab6eef6778b5f18aef99f3b1287170f61559faab6cce5bb4da61d277e5",
+  "apiSha256": "68d7b007695484ef7b3e3e03078e5e6e2085c57426198b33b4ae0d57ae8766da",
   "apiMetadata": {
     "assetId": "Tiles130",
     "dataType": "Material",
@@ -177,10 +177,10 @@
     "earlyReleaseDate": "2023-08-31 00:00:00",
     "creationMethod": "PBRPhotogrammetry",
     "category": null,
-    "downloadCount": 37559,
-    "downloadCountMonth": 1696,
-    "downloadCountWeek": 487,
-    "popularityScore": 7.506627395780189,
+    "downloadCount": 39660,
+    "downloadCountMonth": 2588,
+    "downloadCountWeek": 692,
+    "popularityScore": 7.689535502145288,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -199,7 +199,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Color.jpg?91454&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Displacement.jpg?22829&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_NormalDX.jpg?31508&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Roughness.jpg?54821&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_AmbientOcclusion.jpg?4297",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Color.jpg?71120&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Displacement.jpg?97208&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_NormalDX.jpg?77435&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Roughness.jpg?84361&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_AmbientOcclusion.jpg?50522",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -210,7 +210,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Color.jpg?38915,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Displacement.jpg?81503,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_NormalDX.jpg?57339,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Roughness.jpg?78156,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_AmbientOcclusion.jpg?28687&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Color.jpg?99254,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Displacement.jpg?24615,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_NormalDX.jpg?77675,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_Roughness.jpg?49851,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles130/Tiles130_SQ_AmbientOcclusion.jpg?34263&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -225,8 +225,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Tiles130.webp",
   "previewSha256": "6a8b39970ccfe4de9b7bd0a2a78d5e54bc4168260d1c0ed23e03400e4337e891",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-02T02:09:28.271Z"
 }

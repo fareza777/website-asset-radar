@@ -2,7 +2,7 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY farm and village packs, Daniel Cook CC-BY PlanetCute ramp and roof tiles, a town loop, and CC0 cupcakes. Credit CC-BY packs and pick one art direction.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY farm and village packs, Daniel Cook CC-BY PlanetCute ramp, roof, and shadow tiles, a town loop, and CC0 cupcakes. Credit CC-BY packs and pick one art direction.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
@@ -18,16 +18,17 @@
       "oga-main-street-pixelville-looping",
       "oga-cupcakes-7-cupcakes",
       "oga-planetcute-ramp-westpng",
-      "oga-planetcute-roof-southpng"
+      "oga-planetcute-roof-southpng",
+      "oga-planetcute-shadow-south-westpng"
     ],
     "cover": "kenney-tiny-town",
     "color": "peach",
-    "updatedAt": "2026-11-01T02:12:00.000Z"
+    "updatedAt": "2026-11-02T02:11:00.000Z"
   },
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost and witch, devnewton's CC-BY vampire tower, and CC0 stone doors. Credit CC-BY authors. Styles vary by pack.",
+    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, witch, and pumpkin man, devnewton's CC-BY vampire tower, and CC0 stone doors. Credit CC-BY authors. Styles vary by pack.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -41,14 +42,14 @@
       "oga-potion-bottles",
       "oga-ultimate-potions-pack-2d",
       "oga-animated-creepy-ghost-sprite",
-      "oga-lava-background-6-screen-resolutions",
       "oga-fampire-tower-tileset",
       "oga-opening-stone-door-way",
-      "oga-witch"
+      "oga-witch",
+      "oga-pumpkin-man"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-11-01T02:12:00.000Z"
+    "updatedAt": "2026-11-02T02:11:00.000Z"
   },
   {
     "id": "wild-by-nature",
@@ -191,7 +192,7 @@
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
-    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, CC0 item icons from Kit, and tiny characters. Sizes differ; credit the CC-BY roguelike sheet and pick one palette.",
+    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, CC0 item and tool icons, and tiny characters. Sizes differ; credit the CC-BY roguelike sheet and pick one palette.",
     "assetIds": [
       "kenney-micro-roguelike",
       "kenney-roguelike-rpg-pack",
@@ -205,11 +206,12 @@
       "oga-dungeon-crawl-32x32-tiles-supplemental",
       "oga-roguelike-tiles-large-collection",
       "oga-2d-rpg-item-icons",
-      "oga-tiny-characters-set"
+      "oga-tiny-characters-set",
+      "oga-tiny-tools-weapons-potions"
     ],
     "cover": "kenney-micro-roguelike",
     "color": "blue",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-02T02:11:00.000Z"
   },
   {
     "id": "menus-with-feeling",

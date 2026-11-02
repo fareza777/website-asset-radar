@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:46:48.356Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=SurfaceImperfections020&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "aac0984ace8c198e5a131fe5380bc681789f1ff827eb0cb93c360e0e75d1716e",
+  "apiSha256": "92849b5c981a5db7e403db0353f9038a04c4371163f45bb1927663892bcac596",
   "apiMetadata": {
     "assetId": "SurfaceImperfections020",
     "dataType": "Material",
@@ -124,10 +124,10 @@
     "earlyReleaseDate": "2023-12-19 21:40:00",
     "creationMethod": "PBRApproximated",
     "category": null,
-    "downloadCount": 9214,
-    "downloadCountMonth": 891,
-    "downloadCountWeek": 240,
-    "popularityScore": 2.826635389526192,
+    "downloadCount": 10404,
+    "downloadCountMonth": 1430,
+    "downloadCountWeek": 388,
+    "popularityScore": 3.002300822359091,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -146,7 +146,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Color.jpg?50088&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Displacement.jpg?31869&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_NormalDX.jpg?11581&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Roughness.jpg?82977&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Opacity.jpg?63683",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Color.jpg?4792&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Displacement.jpg?39084&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_NormalDX.jpg?56239&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Roughness.jpg?53486&opacity_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Opacity.jpg?73167",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -157,7 +157,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Color.jpg?97521,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Displacement.jpg?29101,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_NormalDX.jpg?76708,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Roughness.jpg?16587,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Opacity.jpg?97984&texture_name=Color,Displacement,Normal,Roughness,Opacity",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Color.jpg?40277,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Displacement.jpg?73610,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_NormalDX.jpg?12385,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Roughness.jpg?48600,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/SurfaceImperfections020/SurfaceImperfections020_SQ_Opacity.jpg?35110&texture_name=Color,Displacement,Normal,Roughness,Opacity",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -172,8 +172,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/SurfaceImperfections020.webp",
   "previewSha256": "d781605d575fa370b8bde77475c25b5b9a2a60fc03eb8aece71c9a9b48210427",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-02T02:09:28.271Z"
 }

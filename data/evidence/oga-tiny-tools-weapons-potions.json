@@ -1,0 +1,45 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tiny-tools-weapons-potions",
+  "sourceUrl": "https://opengameart.org/content/tiny-tools-weapons-potions",
+  "checkedAt": "2026-11-02T01:10:02.270Z",
+  "httpStatus": 200,
+  "pageSha256": "0d5787a59fabc5efcf478d53df71b6fec2b7cfc5364b4fd4ef87467b3056b8a8",
+  "title": "Tiny Tools, Weapons & Potions",
+  "authors": [
+    "pixelartmaker"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Pixel art by hoanglam.bk57 (simplepixelart.com) Tiny Tools, Weapons & Potions by pixelartmaker. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/tiny-tools-weapons-potions Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tiny-tools-and-items.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tiny-tools-and-items.zip",
+  "downloadSha256": "81aa5b6791f0af2c2c769e1424d1b1a62ddaf3e2f57a302b3f07fa51aa8ec725",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 32,
+  "licenseFiles": [
+    "tiny-tools-and-items/LICENSE.txt"
+  ],
+  "previewFile": "tiny-tools-and-items/4x/beverage-vending-machine.png",
+  "previewSha256": "4fe570bf6aec0575e8dd6d04c7b0d90ae4f46c136a18b7ba165b52273f9e137b",
+  "sourceTags": [
+    "items",
+    "tools",
+    "weapons",
+    "potion",
+    "coin",
+    "pickaxe",
+    "axe",
+    "sword",
+    "RPG",
+    "inventory"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
