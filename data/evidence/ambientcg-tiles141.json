@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T05:48:03.102Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Tiles141&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "70d6ca733d492c1f11a2e2e7055bbaa535f88335d68c3394a7454b4b629f620c",
+  "apiSha256": "86489865136442e7e63882e8479542e6479d6237729f153c2c2b21352babecf2",
   "apiMetadata": {
     "assetId": "Tiles141",
     "dataType": "Material",
@@ -147,10 +147,10 @@
     "earlyReleaseDate": "2026-06-20 17:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 19067,
-    "downloadCountMonth": 6729,
-    "downloadCountWeek": 1895,
-    "popularityScore": 71.79647988124019,
+    "downloadCount": 28196,
+    "downloadCountMonth": 10693,
+    "downloadCountWeek": 2913,
+    "popularityScore": 80.77123944001156,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -169,7 +169,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Color.jpg?21219&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Displacement.jpg?33196&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_NormalDX.jpg?71094&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Roughness.jpg?40968",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Color.jpg?22856&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Displacement.jpg?80247&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_NormalDX.jpg?5310&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Roughness.jpg?7940",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -180,7 +180,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Color.jpg?7942,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Displacement.jpg?75936,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_NormalDX.jpg?13384,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Roughness.jpg?25119&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Color.jpg?86603,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Displacement.jpg?23341,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_NormalDX.jpg?96182,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Tiles141/Tiles141_SQ_Roughness.jpg?17384&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -195,8 +195,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Tiles141.webp",
   "previewSha256": "1d69f5d31070d7ac4facb04601f0b28bb6621502c75c9cc13f4f3a03d86f923c",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-03T01:58:16.936Z"
 }

@@ -192,7 +192,7 @@
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
-    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, CC0 item and tool icons, and tiny characters. Sizes differ; credit the CC-BY roguelike sheet and pick one palette.",
+    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, CC0 item and tool icons, CC-BY food icons, CC0 potion rescales, and tiny characters. Sizes differ; credit CC-BY packs and pick one palette.",
     "assetIds": [
       "kenney-micro-roguelike",
       "kenney-roguelike-rpg-pack",
@@ -207,11 +207,13 @@
       "oga-roguelike-tiles-large-collection",
       "oga-2d-rpg-item-icons",
       "oga-tiny-characters-set",
-      "oga-tiny-tools-weapons-potions"
+      "oga-tiny-tools-weapons-potions",
+      "oga-pixel-food-icons",
+      "oga-3-potions-w-32x32-rescales"
     ],
     "cover": "kenney-micro-roguelike",
     "color": "blue",
-    "updatedAt": "2026-11-02T02:11:00.000Z"
+    "updatedAt": "2026-11-03T01:36:00.000Z"
   },
   {
     "id": "menus-with-feeling",
@@ -286,7 +288,7 @@
   {
     "id": "material-essentials",
     "name": "Material essentials",
-    "description": "CC0 brick, plaster, stone, concrete, metal, wood, fabric, and flooring textures from ambientCG and Poly Haven, plus johndekale's CC0 4K seamless brick wall. Import the maps and build materials manually.",
+    "description": "CC0 brick, plaster, stone, concrete, metal, wood, fabric, and flooring from ambientCG and Poly Haven, plus CC0 bark, CC0 procedural surfaces, CC-BY ground tiles, and a CC0 4K brick wall. Import maps manually.",
     "assetIds": [
       "ambientcg-bricks105",
       "ambientcg-concrete048",
@@ -296,18 +298,18 @@
       "ambientcg-tiles141",
       "ambientcg-marble012",
       "ambientcg-pavingstones151",
+      "ambientcg-bark016",
       "polyhaven-red-oak-veneer",
       "polyhaven-brick-floor-04",
-      "polyhaven-coated-pine",
-      "polyhaven-patterned-terracotta-tiling",
       "polyhaven-plaster-stone-wall-02",
-      "polyhaven-rectangular-parquet",
       "polyhaven-cobblestone-floor-06",
-      "oga-4k-brick-wall-seamless"
+      "oga-4k-brick-wall-seamless",
+      "oga-ground-textures-seamless-0",
+      "oga-8-seamless-procedural-textures-marble-moss-lava-stone-sand-ice-rust-wood"
     ],
     "cover": "ambientcg-bricks105",
     "color": "mint",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-03T01:36:00.000Z"
   },
   {
     "id": "snow-on-the-ground",
@@ -332,7 +334,7 @@
   {
     "id": "a-few-heroes",
     "name": "A few heroes",
-    "description": "CC0 toon and modular figures with pixel sheets, idle and NPC townsfolk, a CC0 bear warrior, a foreshortening head reference, Puck and Sara class sheets, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
+    "description": "CC0 toon and modular figures with pixel sheets, idle and NPC townsfolk, a CC0 bear warrior, CC-BY blue elf, Puck and Sara class sheets, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
     "assetIds": [
       "kenney-toon-characters",
       "kenney-modular-characters",
@@ -340,6 +342,7 @@
       "oga-fumiko-complete-charset",
       "oga-animated-rogue",
       "oga-bear-warrior",
+      "oga-blue-elf",
       "oga-puck-overland",
       "oga-puck-wizard",
       "oga-puck-thief",
@@ -348,12 +351,11 @@
       "oga-tiny-16-expanded-character-sprites",
       "oga-character-base-rpg-2d",
       "oga-idle-characters",
-      "oga-npc-characters-additional",
-      "oga-foreshortening-female-head"
+      "oga-npc-characters-additional"
     ],
     "cover": "kenney-toon-characters",
     "color": "lime",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-03T01:36:00.000Z"
   },
   {
     "id": "cozy-space-pieces",

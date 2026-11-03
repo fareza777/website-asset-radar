@@ -1,0 +1,47 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-8-seamless-procedural-textures-marble-moss-lava-stone-sand-ice-rust-wood",
+  "sourceUrl": "https://opengameart.org/content/8-seamless-procedural-textures-marble-moss-lava-stone-sand-ice-rust-wood",
+  "checkedAt": "2026-11-03T01:10:03.454Z",
+  "httpStatus": 200,
+  "pageSha256": "05d5b7b62ec18f7d0d68dd0d77828888cf1ae71991271a7d56d338957bb80260",
+  "title": "8 Seamless Procedural Textures (marble, moss, lava, stone, sand, ice, rust, wood)",
+  "authors": [
+    "SetrovStudio"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Setrov Studio 8 Seamless Procedural Textures (marble, moss, lava, stone, sand, ice, rust, wood) by SetrovStudio. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/8-seamless-procedural-textures-marble-moss-lava-stone-sand-ice-rust-wood Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/setrov-free-8-textures-cc0-opengameart.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/setrov-free-8-textures-cc0-opengameart.zip",
+  "downloadSha256": "b357e5ba3deb3acaec2e7aa0841aeea16d2ed82e0df794370a863653788c46a0",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 10,
+  "licenseFiles": [
+    "LICENSE.txt"
+  ],
+  "previewFile": "textures/ice_marble.png",
+  "previewSha256": "545c86a3133e4b059ae91dfb914188ce29f8bc83ab2e0b06a28d7ff72176cbd7",
+  "sourceTags": [
+    "seamless",
+    "tileable",
+    "texture",
+    "marble",
+    "moss",
+    "lava",
+    "stone",
+    "sand",
+    "ice",
+    "rust",
+    "Wood",
+    "procedural"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

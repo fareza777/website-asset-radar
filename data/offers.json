@@ -112,229 +112,54 @@
     }
   },
   {
-    "id": "henrysoftware-pixel-item",
-    "title": "Pixel Item!",
-    "author": "Henry Software",
-    "summary": "Hundreds of 16×16 item sprites by Henry Software, sold as a PNG sheet and ZIP. The page lists a CC0 asset license and an MIT code license.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Icons",
-    "type": "deal",
-    "originalPrice": 7,
-    "salePrice": 3.5,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-02T20:58:00.000Z",
-    "rating": 4.9,
-    "reviewCount": 14,
-    "radarScore": 73,
-    "dealScore": 72,
-    "source": "itch.io",
-    "sourceUrl": "https://henrysoftware.itch.io/pixel-item",
-    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-item",
-    "license": "CC0",
-    "licenseUrl": "https://henrysoftware.itch.io/pixel-item",
-    "commercialUse": true,
-    "lastChecked": "2026-11-01T02:15:31.375Z",
-    "addedAt": "2026-10-24",
-    "formats": [
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "Listed content formats only. No native engine package was named, so engine compatibility is unverified and import is manual.",
-    "tags": [
-      "pixel-art",
-      "items",
-      "icons"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT.",
-    "priceNote": "USD purchase panel showed $7 crossed out to a $3.50 minimum. Pay-what-you-want above that minimum is still a paid sale, not free.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "A large listed set of 16×16 item sprites under CC0, with 14 ratings at 4.9. Completeness is strong from the named PNG and ZIP, without a file-by-file audit."
-    }
-  },
-  {
-    "id": "henrysoftware-pixel-effects",
-    "title": "Pixel Effects!",
-    "author": "Henry Software",
-    "summary": "35 animated pixel effects by Henry Software, with PNG files and a named Unity example. The page lists a CC0 asset license and an MIT code license.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "VFX",
-    "type": "deal",
-    "originalPrice": 7,
-    "salePrice": 3.5,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-02T20:58:00.000Z",
-    "rating": 4.8,
-    "reviewCount": 25,
-    "radarScore": 74,
-    "dealScore": 72,
-    "source": "itch.io",
-    "sourceUrl": "https://henrysoftware.itch.io/pixel-effects",
-    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-effects",
-    "license": "CC0",
-    "licenseUrl": "https://henrysoftware.itch.io/pixel-effects",
-    "commercialUse": true,
-    "lastChecked": "2026-11-01T02:15:31.375Z",
-    "addedAt": "2026-10-24",
-    "formats": [
-      "PNG"
-    ],
-    "engines": [],
-    "engineNote": "PNG files and a Unity example are named. No native Unity package filename was verified, so engine compatibility stays unverified and setup is manual.",
-    "tags": [
-      "pixel-art",
-      "vfx",
-      "effects"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and the code license as MIT.",
-    "priceNote": "USD purchase panel showed $7 crossed out to a $3.50 minimum. The minimum is a paid price, not a free claim.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "The page documents 35 animated effects, a PNG delivery and a Unity example, with 25 ratings at 4.8 and a CC0 asset license. The example was not imported, so this does not establish a tested native project."
-    }
-  },
-  {
-    "id": "hawtpixel-font-bundle",
-    "title": "Hawtpixel Font Bundle",
-    "author": "Hawtpixel - Darrell Flood",
-    "summary": "A commercial font bundle sold as one ZIP, with styles from cartoon to science fiction. The purchase price is $19.99, down from $199.99.",
+    "id": "chequered-ink-all-fonts-pack",
+    "title": "All Fonts Pack",
+    "author": "Chequered Ink",
+    "summary": "Over 1200 commercial OTF and TTF font styles by Chequered Ink in one 23 MB sorted ZIP. The page documents full commercial use for small businesses and names the archive on the product page.",
     "categories": [
       "UI"
     ],
     "dimension": "2D",
     "assetType": "UI Kits",
     "type": "deal",
-    "originalPrice": 199.99,
-    "salePrice": 19.99,
+    "originalPrice": 190,
+    "salePrice": 19,
     "discountPercent": 90,
     "currency": "USD",
-    "expiresAt": "2026-11-02T03:00:00.000Z",
+    "expiresAt": "2026-11-30T23:59:00.000Z",
     "rating": 5,
-    "reviewCount": 39,
-    "radarScore": 66,
-    "dealScore": 75,
+    "reviewCount": 155,
+    "radarScore": 84,
+    "dealScore": 90,
     "source": "itch.io",
-    "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-    "canonicalSourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
+    "sourceUrl": "https://ci.itch.io/all-fonts-pack",
+    "canonicalSourceUrl": "https://ci.itch.io/all-fonts-pack",
     "license": "Creator commercial license",
-    "licenseUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
+    "licenseUrl": "https://ci.itch.io/all-fonts-pack",
     "commercialUse": true,
-    "lastChecked": "2026-11-01T02:15:31.375Z",
-    "addedAt": "2026-10-11",
+    "lastChecked": "2026-11-03T02:01:03.000Z",
+    "addedAt": "2026-11-03",
     "formats": [
       "ZIP"
     ],
     "engines": [],
-    "engineNote": "The page lists one ZIP, Hawtpixel Font Firesale 650 Font Bundle.zip. No engine project was listed, and the archive was not opened.",
+    "engineNote": "The page lists Chequered Ink All Fonts Pack Sorted.zip with OTF and TTF inside. No engine project was verified; install fonts manually.",
     "tags": [
       "fonts",
       "ui",
-      "typeface"
+      "typography"
     ],
-    "featured": false,
     "preview": null,
     "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzMwNjgwODU3LnBuZw==/original/OPOqWz.png",
-      "sourceUrl": "https://hawtpixel.itch.io/hawtpixel-font-firesale",
-      "alt": "Publisher image for the Hawtpixel Font Bundle product page.",
-      "credit": "Hawtpixel - Darrell Flood",
-      "checkedAt": "2026-10-15T02:29:35.724Z",
-      "note": "Exact static original PNG observed again on this product page gallery on img.itch.zone. No artwork or paid archive was copied."
-    },
-    "licenseNote": "The page states a one-time payment for unlimited commercial projects and installs, with no renewal or subscription. The archive was not downloaded.",
-    "priceNote": "USD purchase panel showed $199.99 crossed out to $19.99. No currency conversion or paid download was performed.",
+    "licenseNote": "The page states pay-once unlimited commercial use for qualifying small businesses and links separate license terms. The archive was not downloaded.",
+    "priceNote": "USD purchase panel showed $190 crossed out to $19. No paid download was made.",
     "licenseTier": null,
     "curation": {
       "quality": 4,
-      "value": 4,
-      "completeness": 3,
-      "reputation": 4,
-      "rationale": "The product lists one 69 MB ZIP of commercial fonts and shows 5.0 from 37 ratings. The purchase panel price is $199.99 to $19.99, a 90% reduction. Quality and value stay strong for that rating sample; completeness is adequate because the archive was not opened. No engine test was performed."
-    }
-  },
-  {
-    "id": "henrysoftware-pixel-mob",
-    "title": "Pixel Mob",
-    "author": "Henry Software",
-    "summary": "Eighty animated 16×16 monsters supplied as PNG files, plus a Unity example. The page marks the artwork CC0 and the example code MIT. The ZIP was not opened.",
-    "categories": [
-      "RPG"
-    ],
-    "dimension": "2D",
-    "assetType": "Characters",
-    "type": "deal",
-    "originalPrice": 7,
-    "salePrice": 3.5,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-02T20:58:00.000Z",
-    "rating": 4.6,
-    "reviewCount": 28,
-    "radarScore": 68,
-    "dealScore": 73,
-    "source": "itch.io",
-    "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
-    "canonicalSourceUrl": "https://henrysoftware.itch.io/pixel-mob",
-    "license": "CC0 and MIT",
-    "licenseUrl": "https://henrysoftware.itch.io/pixel-mob",
-    "commercialUse": true,
-    "lastChecked": "2026-11-01T02:15:31.375Z",
-    "addedAt": "2026-10-12",
-    "formats": [
-      "PNG",
-      "ZIP"
-    ],
-    "engines": [
-      "Unity"
-    ],
-    "engineNote": "The page lists PNG files and a Unity example inside PixelMobs.zip. The example was not opened, so this is not a tested Unity project or a .unitypackage.",
-    "tags": [
-      "monsters",
-      "pixel art",
-      "characters",
-      "unity"
-    ],
-    "featured": false,
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://img.itch.zone/aW1nLzkwNjQyNi5wbmc=/original/T7GMlK.png",
-      "sourceUrl": "https://henrysoftware.itch.io/pixel-mob",
-      "alt": "Static publisher image observed on the Pixel Mob product page.",
-      "credit": "Henry Software",
-      "checkedAt": "2026-10-12T01:32:57.945Z",
-      "note": "Exact static original PNG observed in this product page gallery on img.itch.zone. No artwork or paid archive was copied."
-    },
-    "licenseNote": "The itch asset-license field is Creative Commons Zero 1.0 for the artwork. The code-license field for the Unity example is MIT. Keep the MIT notice with that example code.",
-    "priceNote": "USD purchase panel showed $7 crossed out to $3.50. No currency conversion or paid download was performed.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4.5,
-      "completeness": 3.5,
-      "reputation": 4,
-      "rationale": "50% off, to $3.50, for 80 animated 16×16 monsters rated 4.6/5 from 28 ratings. PNG files and a Unity example are named. The description is short and the ZIP was not opened, so completeness is adequate."
+      "value": 5,
+      "completeness": 5,
+      "reputation": 5,
+      "rationale": "1200+ named font styles in one sorted ZIP with 155 ratings at 5.0 and explicit commercial terms. Value is exceptional at 90% off $190; individual font files were not audited."
     }
   }
 ]
