@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pixel-characters-xvii-era",
+  "sourceUrl": "https://opengameart.org/content/pixel-characters-xvii-era",
+  "checkedAt": "2026-11-03T07:10:11.179Z",
+  "httpStatus": 200,
+  "pageSha256": "a307a4ed5d26e247fca6ac170fc4fe5c7d75ed409452fad98542042cd5be5585",
+  "title": "Pixel Characters (XVII era)",
+  "authors": [
+    "PIxelPeon"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Pixel Characters (XVII era) by PIxelPeon. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/pixel-characters-xvii-era Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/enemy_guard_01.png",
+    "https://opengameart.org/sites/default/files/enemy_monk_01.png",
+    "https://opengameart.org/sites/default/files/main_character_0.png",
+    "https://opengameart.org/sites/default/files/main_character_alt.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/enemy_guard_01.png",
+  "downloadSha256": "c5a33c9b2e2c7c8beabb58ecef821ff8757c1a1f82bbd74278c8045f4b0d02a4",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "enemy_guard_01.png",
+  "previewSha256": "c5a33c9b2e2c7c8beabb58ecef821ff8757c1a1f82bbd74278c8045f4b0d02a4",
+  "sourceTags": [
+    "pixelart",
+    "pixel",
+    "characters",
+    "pirate",
+    "Enemy"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T15:50:08.304Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=Travertine009&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "a905e7c9782be3dfd7f102e19a67cd55ff8e7d3dd7fcfb13ed2ac20ead7f4a02",
+  "apiSha256": "caea3d200439db45739d27d92565906acae0d7dc27552d400709e52cc9fc8a2d",
   "apiMetadata": {
     "assetId": "Travertine009",
     "dataType": "Material",
@@ -140,10 +140,10 @@
     "earlyReleaseDate": "2023-12-14 22:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 112954,
-    "downloadCountMonth": 8052,
-    "downloadCountWeek": 2611,
-    "popularityScore": 23.13717530150124,
+    "downloadCount": 129350,
+    "downloadCountMonth": 18594,
+    "downloadCountWeek": 5377,
+    "popularityScore": 25.579519746481527,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -162,7 +162,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Color.jpg?79199&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Displacement.jpg?67235&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_NormalDX.jpg?33560&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Roughness.jpg?56291&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_AmbientOcclusion.jpg?4715",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Color.jpg?97331&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Displacement.jpg?5953&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_NormalDX.jpg?54539&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Roughness.jpg?71216&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_AmbientOcclusion.jpg?22817",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -173,7 +173,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Color.jpg?99146,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Displacement.jpg?48964,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_NormalDX.jpg?57615,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Roughness.jpg?73162,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_AmbientOcclusion.jpg?55142&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Color.jpg?43735,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Displacement.jpg?72672,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_NormalDX.jpg?2815,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_Roughness.jpg?98666,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Travertine009/Travertine009_SQ_AmbientOcclusion.jpg?27645&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -188,8 +188,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/Travertine009.webp",
   "previewSha256": "c7a50a61c1b0acb83670141d989764e5d32c47a202729c8c8815e3d24b2f1542",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-03T07:41:17.162Z"
 }

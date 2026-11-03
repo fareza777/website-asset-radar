@@ -80,7 +80,7 @@
   {
     "id": "the-finishing-touches",
     "name": "The finishing touches",
-    "description": "Kenney UI kits, prompts, medals, cursors, and interface audio, plus CC0 Golden UI, keyboard prompts, a vampire-hand cursor, and a CC-BY cozy space icon set. Styles differ, so choose one interface direction and credit the CC-BY set.",
+    "description": "Kenney UI kits, prompts, medals, cursors and interface audio, plus CC0 Golden UI, keyboard prompts, a vampire-hand cursor, CC-BY cozy space icons and 40 CC-BY UI sounds. Styles differ; pick one direction and credit the CC-BY authors.",
     "assetIds": [
       "kenney-ui-pack",
       "kenney-ui-pack-rpg-expansion",
@@ -96,16 +96,17 @@
       "oga-free-keyboard-and-controllers-prompts-pack",
       "oga-ui-pieces",
       "oga-vampire-hand-cursor",
-      "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars"
+      "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
+      "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg"
     ],
     "cover": "kenney-ui-pack",
     "color": "lime",
-    "updatedAt": "2026-10-11T02:23:30.000Z"
+    "updatedAt": "2026-11-03T07:14:00.000Z"
   },
   {
     "id": "a-town-of-your-own",
     "name": "A town of your own",
-    "description": "3D town and interior props, characters, and a separate 2D UI pack for fantasy prototypes. Materials and layouts need manual setup.",
+    "description": "3D town, street and interior props, characters, and a separate 2D UI pack for prototypes. All Kenney CC0; materials, grids and layouts need manual setup.",
     "assetIds": [
       "kenney-fantasy-town-kit",
       "kenney-mini-market",
@@ -114,16 +115,18 @@
       "kenney-ui-pack-adventure",
       "kenney-modular-buildings",
       "kenney-mini-characters",
-      "kenney-building-kit"
+      "kenney-building-kit",
+      "kenney-city-kit-commercial",
+      "kenney-retro-urban-kit"
     ],
     "cover": "kenney-fantasy-town-kit",
     "color": "peach",
-    "updatedAt": "2026-10-09T06:51:35.303Z"
+    "updatedAt": "2026-11-03T07:14:00.000Z"
   },
   {
     "id": "the-night-shift",
     "name": "The night shift",
-    "description": "Choose 2D factory tiles, an industrial parallax background, or 3D industrial, road, and railway models, with CC0 metal and concrete surfaces. Materials need manual setup.",
+    "description": "Choose 2D factory tiles, an industrial parallax background, or 3D industrial, road, and railway models, with CC0 metal, concrete and corrugated steel surfaces. Materials need manual setup.",
     "assetIds": [
       "kenney-factory-kit",
       "kenney-city-kit-industrial",
@@ -134,11 +137,12 @@
       "ambientcg-metal063",
       "ambientcg-concrete034",
       "ambientcg-asphalt033",
-      "oga-industrial-parallax-background"
+      "oga-industrial-parallax-background",
+      "ambientcg-corrugatedsteel009"
     ],
     "cover": "kenney-factory-kit",
     "color": "mint",
-    "updatedAt": "2026-10-09T15:58:30.077Z"
+    "updatedAt": "2026-11-03T07:14:00.000Z"
   },
   {
     "id": "somewhere-in-orbit",
@@ -378,5 +382,27 @@
     "cover": "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
     "color": "lime",
     "updatedAt": "2026-10-25T02:25:00.000Z"
+  },
+  {
+    "id": "below-the-waterline",
+    "name": "Below the waterline",
+    "description": "2D seafloor, reef and floating-island tiles, Kenney watercraft and pirate sets, divers, XVI-century crew, and a hand-painted water texture. Credit rapidpunches for the dolphin tiles; grids and styles vary.",
+    "assetIds": [
+      "kenney-watercraft-kit",
+      "kenney-pirate-kit",
+      "kenney-fish-pack",
+      "kenney-pirate-pack",
+      "kenney-monochrome-pirates",
+      "oga-underwater-diving-pack",
+      "oga-seafloor-tiles-blue-24x24",
+      "oga-ocean-background-0",
+      "oga-dolphin-baby-and-ocean-tiles",
+      "oga-pixel-characters-xvii-era",
+      "oga-the-field-of-the-floating-islands",
+      "oga-hand-painted-water-texture-2k"
+    ],
+    "cover": "kenney-watercraft-kit",
+    "color": "blue",
+    "updatedAt": "2026-11-03T07:14:00.000Z"
   }
 ]

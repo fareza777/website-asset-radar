@@ -1,0 +1,47 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg",
+  "sourceUrl": "https://opengameart.org/content/cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg",
+  "checkedAt": "2026-11-03T06:49:41.325Z",
+  "httpStatus": 200,
+  "pageSha256": "bb65df79476c039e0bf0d963669029c51f6b5e41ca2f0578f7da6bfe76fec736",
+  "title": "Cozy UI Sound Effects Mini Bundle (40 sounds, WAV+OGG)",
+  "authors": [
+    "jelyqs"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "\"Cozy UI Sound Effects Mini Bundle (40 sounds, WAV+OGG)\" by Thu Nguyen, licensed CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Full versions: https://jelyqs.itch.io Cozy UI Sound Effects Mini Bundle (40 sounds, WAV+OGG) by jelyqs. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg Preview resized and converted to WebP; original waveform visualization.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/oga-cozy-ui-sfx_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/oga-cozy-ui-sfx_0.zip",
+  "downloadSha256": "04d6f318cb0b7bad3bcc18000adb58edefadb55c20d634795967202b9c55fe1c",
+  "formats": [
+    "MP3",
+    "OGG",
+    "WAV"
+  ],
+  "inspectedFiles": 84,
+  "licenseFiles": [
+    "LICENSE-CC-BY-4.0.txt"
+  ],
+  "previewFile": "cozy-ui-sfx-vol2-mini/ogg/mini_cancel_1.ogg",
+  "previewSha256": "516db81dcce909ee90a486ca8057f60bf3575624d1d887ecc7a65a24e5db82e2",
+  "sourceTags": [
+    "ui",
+    "sfx",
+    "cozy",
+    "casual",
+    "click",
+    "interface",
+    "menu",
+    "ogg",
+    "wav",
+    "code-made"
+  ],
+  "artTypes": [
+    "Sound Effect"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
