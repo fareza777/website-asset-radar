@@ -1,0 +1,26 @@
+{
+  "id": "pixelfrog-tiny-swords-warfare",
+  "sourceUrl": "https://pixelfrog-assets.itch.io/tiny-swords-warfare",
+  "checkedAt": "2026-11-04T02:39:14.000Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 30,
+    "salePrice": 15,
+    "currency": "USD",
+    "licenseTier": null,
+    "note": "USD purchase panel showed $30.00 crossed out to $15.00; the structured Offer price is 15 USD. No paid download was made."
+  },
+  "license": {
+    "name": "Creator commercial license",
+    "url": "https://pixelfrog-assets.itch.io/tiny-swords-warfare",
+    "commercialUse": true,
+    "note": "The page states 'Feel free to use this asset pack in both personal and commercial projects, modifying the assets as needed', crediting not required but welcome, and 'You may not redistribute, resell, or repackage the assets, even if the files are modified'. No paid download was made."
+  },
+  "expiresAt": "2027-04-30T16:33:00.000Z",
+  "expiryEvidenceUrl": "https://pixelfrog-assets.itch.io/tiny-swords-warfare",
+  "expiryNote": "The product page's own structured Offer data gives priceValidUntil 2027-04-30T16:33:00Z (explicit UTC). No countdown or relative date was used.",
+  "rating": 5,
+  "reviewCount": 7,
+  "productNote": "The page lists Warfare_001.zip at 2.9 MB, marks the product 'In development' with a roadmap, and states 'All assets are PNG images. Aseprite files included as well. Animations speed: 10fps or 100ms.' The archive was not downloaded or opened."
+}

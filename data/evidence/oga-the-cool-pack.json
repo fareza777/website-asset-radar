@@ -1,0 +1,32 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-the-cool-pack",
+  "sourceUrl": "https://opengameart.org/content/the-cool-pack",
+  "checkedAt": "2026-11-04T02:16:51.153Z",
+  "httpStatus": 200,
+  "pageSha256": "003147b94ea225c15934c15c8d7610206d6244dec01ee347f50f543af6905e22",
+  "title": "the cool pack",
+  "authors": [
+    "musher3004"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "the cool pack by musher3004. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/the-cool-pack Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/cool_miner_pack_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/cool_miner_pack_0.png",
+  "downloadSha256": "a0c8a5e9cfd00d80a236d45d2ec73410f87588bfcf48d724a0e3c1714b1c147c",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "cool_miner_pack_0.png",
+  "previewSha256": "a0c8a5e9cfd00d80a236d45d2ec73410f87588bfcf48d724a0e3c1714b1c147c",
+  "sourceTags": [],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

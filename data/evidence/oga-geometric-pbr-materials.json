@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-geometric-pbr-materials",
+  "sourceUrl": "https://opengameart.org/content/geometric-pbr-materials",
+  "checkedAt": "2026-11-04T02:31:35.672Z",
+  "httpStatus": 200,
+  "pageSha256": "d2308deec44bc6bada22ee565302cbefa3eddb839effb1764b41e781cabaa9de",
+  "title": "Geometric PBR materials",
+  "authors": [
+    "KillGorack"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Geometric PBR materials by KillGorack. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/geometric-pbr-materials Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/eddieblanket.zip",
+    "https://opengameart.org/sites/default/files/lattice_2.zip",
+    "https://opengameart.org/sites/default/files/lattice.zip",
+    "https://opengameart.org/sites/default/files/mosaic_b.zip",
+    "https://opengameart.org/sites/default/files/mosaic.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/eddieblanket.zip",
+  "downloadSha256": "beccf6b0b443d7c34e8bfd2694c017ec1e83212c7c45892a71c79c0132deb12a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 8,
+  "licenseFiles": [],
+  "previewFile": "EddieBlanket/EddieBlanket_diffuse.png",
+  "previewSha256": "e783b92263e7272bbcee439257f3941df9281b4ada6e299aea620c0a1ca72c80",
+  "sourceTags": [
+    "PBR",
+    "material",
+    "Materials"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

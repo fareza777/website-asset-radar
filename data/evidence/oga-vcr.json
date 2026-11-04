@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-vcr",
+  "sourceUrl": "https://opengameart.org/content/vcr",
+  "checkedAt": "2026-11-04T02:42:11.519Z",
+  "httpStatus": 200,
+  "pageSha256": "e2bbe69aaaed35d038a7e54cb8277abcdfda810132ce27f7f5a669124c4e42fe",
+  "title": "VCR",
+  "authors": [
+    "knekko"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "CC0 - no attribution required VCR by knekko. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/vcr Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/vcr-01_2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/vcr-01_2.png",
+  "downloadSha256": "6020fbbd06643deceb0fb37e54075c711de4046f9e0d825f306a61f75f5f7c97",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "vcr-01_2.png",
+  "previewSha256": "6020fbbd06643deceb0fb37e54075c711de4046f9e0d825f306a61f75f5f7c97",
+  "sourceTags": [
+    "VCR",
+    "vhs",
+    "retro",
+    "pixel-art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

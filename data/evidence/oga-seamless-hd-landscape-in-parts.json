@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-seamless-hd-landscape-in-parts",
+  "sourceUrl": "https://opengameart.org/content/seamless-hd-landscape-in-parts",
+  "checkedAt": "2026-11-04T02:56:36.539Z",
+  "httpStatus": 200,
+  "pageSha256": "8614d48d95e85daddb09102b85d6d10a8da27cf03525096b3a7eafc2186f6498",
+  "title": "Seamless HD landscape in parts",
+  "authors": [
+    "PWL"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Credit as PWL is appreciated. Seamless HD landscape in parts by PWL. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/seamless-hd-landscape-in-parts Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/landscape_4.png",
+    "https://opengameart.org/sites/default/files/seamless_hd_landscape.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/seamless_hd_landscape.zip",
+  "downloadSha256": "b4b87a72e853c1bb08308e44f8b7a313c0a8311294ac7c469a20832eec2114c5",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 7,
+  "licenseFiles": [],
+  "previewFile": "landscape.png",
+  "previewSha256": "9fdf57c85490720c57f0774222af725479b3a4180822924b73aac76de281ed8c",
+  "sourceTags": [
+    "landscape",
+    "parallax",
+    "background"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

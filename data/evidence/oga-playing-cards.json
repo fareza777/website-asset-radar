@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-playing-cards",
+  "sourceUrl": "https://opengameart.org/content/playing-cards",
+  "checkedAt": "2026-11-04T02:54:15.613Z",
+  "httpStatus": 200,
+  "pageSha256": "1cc1acf5e2573add413b56246b2ff51b0b9a5d61076650437d73158d4e064d54",
+  "title": "Playing Cards",
+  "authors": [
+    "Sharm"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Lanea Zimmerman Playing Cards by Sharm. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/playing-cards Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/cards_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/cards_0.zip",
+  "downloadSha256": "c7e956cc0e39b61b29412ecd35e2402926bbbb431b5bf2b7c1dda67a4845060d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 56,
+  "licenseFiles": [],
+  "previewFile": "base.png",
+  "previewSha256": "3c9c487cc905adf256a647dc16c1b642d8228c963b8fa416ef245fc3f749392f",
+  "sourceTags": [
+    "playing cards",
+    "face cards",
+    "poker",
+    "Cards"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

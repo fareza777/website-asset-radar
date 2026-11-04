@@ -1,0 +1,43 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-weapon-slash-effect",
+  "sourceUrl": "https://opengameart.org/content/weapon-slash-effect",
+  "checkedAt": "2026-11-04T03:02:11.462Z",
+  "httpStatus": 200,
+  "pageSha256": "e24c67b1a559c28933bdc2db19ee3d37bca1e277cc9b6dd33a2e757dcaa71184",
+  "title": "Weapon Slash - Effect",
+  "authors": [
+    "Cethiel"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Weapon Slash - Effect by Cethiel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/weapon-slash-effect Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Everything_0.zip",
+    "https://opengameart.org/sites/default/files/Classic.zip",
+    "https://opengameart.org/sites/default/files/Alternative%201%20Purple.zip",
+    "https://opengameart.org/sites/default/files/Alternative%202%20Blue.zip",
+    "https://opengameart.org/sites/default/files/Alternative%203%20Fire.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Everything_0.zip",
+  "downloadSha256": "163eb4e4d41385f3b888e7176c6da077d0e7fa7c101da96bbaa4645a2ec9d673",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 125,
+  "licenseFiles": [],
+  "previewFile": "Big_Preview.png",
+  "previewSha256": "afddd2c18619c607ec73ce80f18ed71cbdc08e532d82d0ad61d06e7464274a40",
+  "sourceTags": [
+    "effect",
+    "magic",
+    "slash",
+    "hit",
+    "fire",
+    "damage"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

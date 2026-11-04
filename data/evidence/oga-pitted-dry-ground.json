@@ -1,0 +1,52 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pitted-dry-ground",
+  "sourceUrl": "https://opengameart.org/content/pitted-dry-ground",
+  "checkedAt": "2026-11-04T02:37:51.777Z",
+  "httpStatus": 200,
+  "pageSha256": "14c85b3a0199b7eaceb2a4bd7a3c5a31efd9a3807e677303112fa00fcb7ff319",
+  "title": "Pitted Dry Ground",
+  "authors": [
+    "TheDikTatorTot"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Pitted Dry Ground by TheDikTatorTot. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/pitted-dry-ground Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/pitted_dirt_1_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_1.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_2_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_2.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_3_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_3.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_4_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_4.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_5_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_5_0.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_6_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_6.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_7_128.png",
+    "https://opengameart.org/sites/default/files/pitted_dirt_7.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/pitted_dirt_1_128.png",
+  "downloadSha256": "9a925ec2146bac344ee8805031b163824f29752ac05966b07dfd044b0effacd0",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "pitted_dirt_1_128.png",
+  "previewSha256": "9a925ec2146bac344ee8805031b163824f29752ac05966b07dfd044b0effacd0",
+  "sourceTags": [
+    "128x128",
+    "382x382",
+    "ps1",
+    "psx",
+    "ground",
+    "dirt"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

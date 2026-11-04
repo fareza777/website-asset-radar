@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-houses-collection",
+  "sourceUrl": "https://opengameart.org/content/houses-collection",
+  "checkedAt": "2026-11-04T02:39:23.765Z",
+  "httpStatus": 200,
+  "pageSha256": "f6a75d8e563217160b2cc4b22e6a4c75711b2a9fb5af3545460e1aff75128b36",
+  "title": "Houses Collection",
+  "authors": [
+    "Thabisocn"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Houses Collection by Thabisocn. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/houses-collection Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/houses_collection.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/houses_collection.zip",
+  "downloadSha256": "5a92610b72521469e46beaba8a9b77abad7887ddfcd97540d6d0cb853883037c",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 8,
+  "licenseFiles": [],
+  "previewFile": "Housecollection.png",
+  "previewSha256": "bb08bf983c95996f070395c96b9c8ead5ae25b05abffda10dd163c7928dbecc1",
+  "sourceTags": [
+    "house",
+    "buildings",
+    "spriter2d",
+    "home"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

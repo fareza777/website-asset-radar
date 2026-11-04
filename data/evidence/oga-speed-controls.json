@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-speed-controls",
+  "sourceUrl": "https://opengameart.org/content/speed-controls",
+  "checkedAt": "2026-11-04T02:17:45.657Z",
+  "httpStatus": 200,
+  "pageSha256": "805e08bf72db31f83464f962ae3c8f26eec587ed54499f332d4af239bd485320",
+  "title": "Speed controls",
+  "authors": [
+    "lucius39"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Created by lucius39 (lm.xaa.pl) Speed controls by lucius39. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/speed-controls Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/normal_8.png",
+    "https://opengameart.org/sites/default/files/paused_0.png",
+    "https://opengameart.org/sites/default/files/speed2x_0.png",
+    "https://opengameart.org/sites/default/files/speed4x_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/normal_8.png",
+  "downloadSha256": "a2b55e601b47fc8a7065eb847f91ee31af728f54c29a5d8b9aff4a8f7c2ee562",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "normal_8.png",
+  "previewSha256": "a2b55e601b47fc8a7065eb847f91ee31af728f54c29a5d8b9aff4a8f7c2ee562",
+  "sourceTags": [
+    "speed",
+    "ui",
+    "controls",
+    "icons"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

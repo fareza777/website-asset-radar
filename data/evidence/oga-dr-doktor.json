@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-dr-doktor",
+  "sourceUrl": "https://opengameart.org/content/dr-doktor",
+  "checkedAt": "2026-11-04T03:03:24.179Z",
+  "httpStatus": 200,
+  "pageSha256": "f5975ec8af6f62bfe1e6198260df46a67d0ba99fee0402038d081bb434623858",
+  "title": "Dr. Doktor",
+  "authors": [
+    "knekko"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Released as public domain, no attribution required. Dr. Doktor by knekko. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/dr-doktor Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/drdoktor.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/drdoktor.png",
+  "downloadSha256": "7c18b93330dcf92b5ae4b24fb58bd6e471a3cb2e72c265b86e8d4a31fdb4fdbc",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "drdoktor.png",
+  "previewSha256": "7c18b93330dcf92b5ae4b24fb58bd6e471a3cb2e72c265b86e8d4a31fdb4fdbc",
+  "sourceTags": [
+    "mad scientist",
+    "fps",
+    "wolfenstein"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

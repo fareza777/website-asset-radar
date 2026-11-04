@@ -1,0 +1,44 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-seamless-ground-textures",
+  "sourceUrl": "https://opengameart.org/content/seamless-ground-textures",
+  "checkedAt": "2026-11-04T02:19:26.259Z",
+  "httpStatus": 200,
+  "pageSha256": "63e5c87d89c5dd6ef82e3ec40dd3069e39173fdfdcdbf2627aaa207baacd0576",
+  "title": "Seamless ground textures",
+  "authors": [
+    "EmoPreben"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Seamless ground textures by EmoPreben. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/seamless-ground-textures Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/earth_wtwigs_01.png",
+    "https://opengameart.org/sites/default/files/earth_wtwigs_02.png",
+    "https://opengameart.org/sites/default/files/gravel_01.png",
+    "https://opengameart.org/sites/default/files/gravel_02.png",
+    "https://opengameart.org/sites/default/files/leaves_5.png",
+    "https://opengameart.org/sites/default/files/leaves_boosted.png",
+    "https://opengameart.org/sites/default/files/greenanddry_grass_2k.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/earth_wtwigs_01.png",
+  "downloadSha256": "ce927c8ff943f51207584c9d8bba32740bad535e463b2f6b95778c33ccbd9803",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "earth_wtwigs_01.png",
+  "previewSha256": "ce927c8ff943f51207584c9d8bba32740bad535e463b2f6b95778c33ccbd9803",
+  "sourceTags": [
+    "ground",
+    "dirt",
+    "leaves",
+    "twigs",
+    "earth"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

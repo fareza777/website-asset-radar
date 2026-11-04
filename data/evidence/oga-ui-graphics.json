@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-ui-graphics",
+  "sourceUrl": "https://opengameart.org/content/ui-graphics",
+  "checkedAt": "2026-11-04T02:35:11.511Z",
+  "httpStatus": 200,
+  "pageSha256": "596cc46bfb5dfd1ea0c94caa1e6adbc5a13a2a696c9224a1de08ec58c7482359",
+  "title": "ui graphics",
+  "authors": [
+    "doushite"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "ui graphics by doushite. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/ui-graphics Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/simple_2.png",
+    "https://opengameart.org/sites/default/files/win86.png",
+    "https://opengameart.org/sites/default/files/win96.png",
+    "https://opengameart.org/sites/default/files/winlos_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/simple_2.png",
+  "downloadSha256": "7386ecf6a2b06062212c48ca906afbf6660c2e0017509762799602e906becb51",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "simple_2.png",
+  "previewSha256": "7386ecf6a2b06062212c48ca906afbf6660c2e0017509762799602e906becb51",
+  "sourceTags": [
+    "ui",
+    "gui",
+    "graphical user interface",
+    "User Interface",
+    "Pixel Art"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

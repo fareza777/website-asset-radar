@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-enemy-eagle",
+  "sourceUrl": "https://opengameart.org/content/enemy-eagle",
+  "checkedAt": "2026-11-04T02:31:09.329Z",
+  "httpStatus": 200,
+  "pageSha256": "6a5ec7e051ef42b04c64caf17f733904d90924b7973572eaa388c375405819d6",
+  "title": "Enemy Eagle",
+  "authors": [
+    "GlitchesDunArtist"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "©copyright, GlitchesDun Enemy Eagle by GlitchesDunArtist. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/enemy-eagle Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/eagle.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/eagle.zip",
+  "downloadSha256": "2f8cd97ebb37d00efe1b3960bb9cfa27b1d0cc6a5bd9f770a01775853f91a7ba",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 4,
+  "licenseFiles": [],
+  "previewFile": "Eagle/Assets/Sprite.png",
+  "previewSha256": "dd373e5fbe65a8f9939be02a4c72b2e768ae14adb03391687855ea0c061d5468",
+  "sourceTags": [
+    "eagle",
+    "Enemy",
+    "flying",
+    "bird"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

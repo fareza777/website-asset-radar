@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-explolsion-v2",
+  "sourceUrl": "https://opengameart.org/content/explolsion-v2",
+  "checkedAt": "2026-11-04T02:46:14.454Z",
+  "httpStatus": 200,
+  "pageSha256": "989832d52fc452f48aba01702312cc62a6eda3d6443538ef074313d5195b62cd",
+  "title": "Explolsion V2",
+  "authors": [
+    "davididev"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Attribute davididev or davididev.com if you use this Explolsion V2 by davididev. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/explolsion-v2 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/explosion2spritesheet.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/explosion2spritesheet.png",
+  "downloadSha256": "05c65d149194d8fdd44e70f502e114c96112a259f2b5e57647ecb65ad921df3e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "explosion2spritesheet.png",
+  "previewSha256": "05c65d149194d8fdd44e70f502e114c96112a259f2b5e57647ecb65ad921df3e",
+  "sourceTags": [
+    "explosion",
+    "particle"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,47 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-brick-building-set-2",
+  "sourceUrl": "https://opengameart.org/content/brick-building-set-2",
+  "checkedAt": "2026-11-04T02:23:41.040Z",
+  "httpStatus": 200,
+  "pageSha256": "b7472f0325fff7254c31e016438260af6200647fec278f2808aa0cd5242e1ce1",
+  "title": "Brick Building Set 2",
+  "authors": [
+    "TheDikTatorTot"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Brick Building Set 2 by TheDikTatorTot. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/brick-building-set-2 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/blue_brick_1_128px_0.png",
+    "https://opengameart.org/sites/default/files/blue_brick_1_382px.png",
+    "https://opengameart.org/sites/default/files/old_wood_front_door_1_128px.png",
+    "https://opengameart.org/sites/default/files/old_wood_front_door_1_328px.png",
+    "https://opengameart.org/sites/default/files/window_1_128px.png",
+    "https://opengameart.org/sites/default/files/window_1_382px.png",
+    "https://opengameart.org/sites/default/files/wood_panels_1_128px.png",
+    "https://opengameart.org/sites/default/files/wood_panels_1_328px.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/blue_brick_1_128px_0.png",
+  "downloadSha256": "e6f7d09d046cb249e9804d057465bb9623f4b7f207d8d5ed253ecb973f3685b2",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "blue_brick_1_128px_0.png",
+  "previewSha256": "e6f7d09d046cb249e9804d057465bb9623f4b7f207d8d5ed253ecb973f3685b2",
+  "sourceTags": [
+    "128x128",
+    "ps1",
+    "psx",
+    "brick",
+    "wall",
+    "Window",
+    "door"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

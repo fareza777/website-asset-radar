@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-seamless-brick-tiles",
+  "sourceUrl": "https://opengameart.org/content/seamless-brick-tiles",
+  "checkedAt": "2026-11-04T02:28:58.585Z",
+  "httpStatus": 200,
+  "pageSha256": "273795078a2c0acbef5554a3113d7b69b962b4cd53c0e19dd5b7a3a886ce9d07",
+  "title": "Seamless Brick Tiles",
+  "authors": [
+    "ZaninDevelopers"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "No credit is necessary, but is always appreciated. And, if possible, please leave a link to your project in the comments. Seamless Brick Tiles by ZaninDevelopers. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/seamless-brick-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/bricktilezanin.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/bricktilezanin.zip",
+  "downloadSha256": "52e4d4b90e6cc94422cdb17a708dbddc28481ffcd2acfacefe3f95666bf4afb7",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 4,
+  "licenseFiles": [],
+  "previewFile": "RuinNightBrick.png",
+  "previewSha256": "83b093f42c061992850d538970b73c20fd6fb4a0b65ee717d3fcde4a18777c3c",
+  "sourceTags": [
+    "brick",
+    "tile",
+    "seamless",
+    "ruins",
+    "wall"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

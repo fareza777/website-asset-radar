@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-y2k-water-texture",
+  "sourceUrl": "https://opengameart.org/content/y2k-water-texture",
+  "checkedAt": "2026-11-04T02:49:27.013Z",
+  "httpStatus": 200,
+  "pageSha256": "397350838abc968c59e8f3b27da5e13b7da7897c769c756c7cf11d8f42c618b8",
+  "title": "Y2K Water Texture",
+  "authors": [
+    "GGBotNet"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Y2K Water Texture by GGBotNet. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/y2k-water-texture Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/y2k_water_texture.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/y2k_water_texture.png",
+  "downloadSha256": "e59507c3d7206d6deba6ad6e9dc87d3f0a9b7c866ca0cd21b78f1120c710ce91",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "y2k_water_texture.png",
+  "previewSha256": "e59507c3d7206d6deba6ad6e9dc87d3f0a9b7c866ca0cd21b78f1120c710ce91",
+  "sourceTags": [
+    "water",
+    "seamless",
+    "y2k",
+    "blue",
+    "ocean",
+    "sea",
+    "1024"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

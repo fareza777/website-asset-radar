@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-assorted-matcaps",
+  "sourceUrl": "https://opengameart.org/content/assorted-matcaps",
+  "checkedAt": "2026-11-04T02:25:06.124Z",
+  "httpStatus": 200,
+  "pageSha256": "92f99fb7e61bcf116e512b75f4b51859617f79bb781df95c4fa2b7a2f9f49461",
+  "title": "Assorted Matcaps",
+  "authors": [
+    "hecko"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Assorted Matcaps by hecko. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/assorted-matcaps Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/assorted_matcaps.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/assorted_matcaps.zip",
+  "downloadSha256": "c12c0c29c684caab060361ac06322548ae01ae2c43be3e93296822a83646fba0",
+  "formats": [
+    "BLEND",
+    "PNG"
+  ],
+  "inspectedFiles": 16,
+  "licenseFiles": [],
+  "previewFile": "assorted matcaps/10_green_yellow_shine_rimlight_acid_glowing.png",
+  "previewSha256": "7a6dfc4f52764cfea095b15d9391c15ee5d32f4c0832fdba1cd01acc243c49dd",
+  "sourceTags": [
+    "matcap",
+    "sphere",
+    "colorful",
+    "rainbow"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

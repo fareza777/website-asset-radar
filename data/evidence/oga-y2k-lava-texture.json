@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-y2k-lava-texture",
+  "sourceUrl": "https://opengameart.org/content/y2k-lava-texture",
+  "checkedAt": "2026-11-04T02:46:33.859Z",
+  "httpStatus": 200,
+  "pageSha256": "db282c999e771e6c691f8a21cd050eae311307dc9ca6d60230ee151d8c1f2508",
+  "title": "Y2K Lava Texture",
+  "authors": [
+    "GGBotNet"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Y2K Lava Texture by GGBotNet. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/y2k-lava-texture Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/y2k_lava_texture.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/y2k_lava_texture.png",
+  "downloadSha256": "cfd5498d2802dadbb0ec5e59322e5d7eacc426bec6e5abdfa5a322dca562f722",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "y2k_lava_texture.png",
+  "previewSha256": "cfd5498d2802dadbb0ec5e59322e5d7eacc426bec6e5abdfa5a322dca562f722",
+  "sourceTags": [
+    "lava",
+    "seamless",
+    "y2k",
+    "1024",
+    "magma",
+    "flame",
+    "fire"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

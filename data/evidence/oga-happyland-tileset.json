@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-happyland-tileset",
+  "sourceUrl": "https://opengameart.org/content/happyland-tileset",
+  "checkedAt": "2026-11-04T03:03:46.988Z",
+  "httpStatus": 200,
+  "pageSha256": "9565ea38b12f76027f82605eded716b4a6caca83b531a1a59c8368d85847704f",
+  "title": "Happyland tileset",
+  "authors": [
+    "Buch"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com Happyland tileset by Buch. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/happyland-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tileset_8.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tileset_8.png",
+  "downloadSha256": "69ab49e732259b30a88c09d9afead0d6861238ecbebf6537d8169fb999ef216a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tileset_8.png",
+  "previewSha256": "69ab49e732259b30a88c09d9afead0d6861238ecbebf6537d8169fb999ef216a",
+  "sourceTags": [
+    "tileset",
+    "outdoor",
+    "grass",
+    "water",
+    "Rock",
+    "pixelart"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

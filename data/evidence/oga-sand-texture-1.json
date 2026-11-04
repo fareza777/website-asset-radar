@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-sand-texture-1",
+  "sourceUrl": "https://opengameart.org/content/sand-texture-1",
+  "checkedAt": "2026-11-04T02:40:41.687Z",
+  "httpStatus": 200,
+  "pageSha256": "a7ceb5d95817857d2fed08276974f65a3e3ebcb92d2f405ccba97cfb906a67f5",
+  "title": "Sand Texture",
+  "authors": [
+    "Bing Soy"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Sand Texture by Bing Soy. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/sand-texture-1 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/new_piskel_5_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/new_piskel_5_1.png",
+  "downloadSha256": "b4a4c99c20c798c3cb66e8ec618d2b349b63d51fecd0ddb91ee22011dbbbe6f7",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "new_piskel_5_1.png",
+  "previewSha256": "b4a4c99c20c798c3cb66e8ec618d2b349b63d51fecd0ddb91ee22011dbbbe6f7",
+  "sourceTags": [
+    "pixel textures",
+    "sand",
+    "beach",
+    "pixel",
+    "pixelated"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

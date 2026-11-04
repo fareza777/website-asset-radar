@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-metroid-infiltrator-map-set",
+  "sourceUrl": "https://opengameart.org/content/metroid-infiltrator-map-set",
+  "checkedAt": "2026-11-04T02:37:21.115Z",
+  "httpStatus": 200,
+  "pageSha256": "1fff8b1a4a304f199dee06491fe969c3f569ba79128550f24c13d07c47b827d7",
+  "title": "Metroid / Infiltrator Map Set",
+  "authors": [
+    "Earthia"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Metroid / Infiltrator Map Set by Earthia. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/metroid-infiltrator-map-set Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/infiltrator_-_map.png",
+    "https://opengameart.org/sites/default/files/infiltrator_-_map_512.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/infiltrator_-_map.png",
+  "downloadSha256": "5b76d714c28a549454efc1319ec360048ec847b47410afb0319370bbb15cbde5",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "infiltrator_-_map.png",
+  "previewSha256": "5b76d714c28a549454efc1319ec360048ec847b47410afb0319370bbb15cbde5",
+  "sourceTags": [
+    "Map"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

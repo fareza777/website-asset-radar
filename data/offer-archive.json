@@ -4336,5 +4336,132 @@
     },
     "reason": "verification_required",
     "archivedAt": "2026-11-03T06:34:57.740Z"
+  },
+  {
+    "offer": {
+      "id": "deadrevolver-pixel-prototype-player-sprites",
+      "title": "Pixel Prototype Player Sprites",
+      "author": "Dead Revolver",
+      "summary": "Prototype 96x84px player rig with walk, run, combat, climbing and fishing animations. The page names PixelPrototypePlayer.zip at 3.4 MB holding the .aseprite sources, one sprite sheet and per-animation PNG frames.",
+      "categories": [
+        "Platformer"
+      ],
+      "dimension": "2D",
+      "assetType": "Characters",
+      "type": "deal",
+      "originalPrice": 9.99,
+      "salePrice": 4.99,
+      "discountPercent": 50,
+      "currency": "USD",
+      "expiresAt": "2026-11-03T22:00:00.000Z",
+      "rating": 4.9,
+      "reviewCount": 177,
+      "radarScore": 77,
+      "dealScore": 73,
+      "source": "itch.io",
+      "sourceUrl": "https://deadrevolver.itch.io/pixel-prototype-player-sprites",
+      "canonicalSourceUrl": "https://deadrevolver.itch.io/pixel-prototype-player-sprites",
+      "license": "CC0",
+      "licenseUrl": "https://deadrevolver.itch.io/pixel-prototype-player-sprites",
+      "commercialUse": true,
+      "lastChecked": "2026-11-03T06:40:46.740Z",
+      "addedAt": "2026-11-03",
+      "formats": [
+        "ZIP",
+        "PNG",
+        "ASEPRITE"
+      ],
+      "engines": [
+        "Unity",
+        "Godot",
+        "Unreal",
+        "GameMaker"
+      ],
+      "engineNote": "The page names a ZIP containing PNG frames and the original Aseprite files. PNG imports with manual sprite and animation setup in Unity, Godot, Unreal or GameMaker; no native engine project, rig or performance was verified.",
+      "tags": [
+        "pixel art",
+        "sprites",
+        "animation",
+        "character",
+        "prototype"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and states the files can be modified or used personally and commercially with no crediting required. The paid archive was not downloaded.",
+      "priceNote": "USD purchase panel showed $9.99 crossed out to $4.99 with a 50% Off badge. The pay-once minimum for the pack is $4.99 USD; no paid file was acquired.",
+      "licenseTier": null,
+      "curation": {
+        "quality": 4,
+        "value": 4,
+        "completeness": 4,
+        "reputation": 4,
+        "rationale": "The listing documents a 3.4 MB archive with Aseprite sources, one combined sprite sheet and per-animation PNG folders, plus 4.9/5 across 177 ratings and a long public update log. Contents are publisher-listed only; the paid archive was not opened or tested in an engine, so grades stay strong rather than exceptional."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-11-04T02:03:10.267Z"
+  },
+  {
+    "offer": {
+      "id": "deadrevolver-pixel-ui-hud-pack",
+      "title": "Pixel UI & HUD",
+      "author": "Dead Revolver",
+      "summary": "Pixel interface kit whose contents sections list buttons, banners, cursors, tooltips, panels, grids, value bars, a skill tree, a minimap and style themes. Two ZIP uploads are named, a 2.5 MB kit and a 10 MB Unity demo.",
+      "categories": [
+        "UI"
+      ],
+      "dimension": "2D",
+      "assetType": "UI Kits",
+      "type": "deal",
+      "originalPrice": 4.99,
+      "salePrice": 2.49,
+      "discountPercent": 50,
+      "currency": "USD",
+      "expiresAt": "2026-11-03T22:00:00.000Z",
+      "rating": 5,
+      "reviewCount": 46,
+      "radarScore": 73,
+      "dealScore": 70,
+      "source": "itch.io",
+      "sourceUrl": "https://deadrevolver.itch.io/pixel-ui-hud-pack",
+      "canonicalSourceUrl": "https://deadrevolver.itch.io/pixel-ui-hud-pack",
+      "license": "Creator commercial license",
+      "licenseUrl": "https://deadrevolver.itch.io/pixel-ui-hud-pack",
+      "commercialUse": true,
+      "lastChecked": "2026-11-03T06:40:46.740Z",
+      "addedAt": "2026-11-03",
+      "formats": [
+        "ZIP",
+        "PNG"
+      ],
+      "engines": [
+        "Unity",
+        "Godot",
+        "Unreal",
+        "GameMaker"
+      ],
+      "engineNote": "Two ZIP uploads are named: Pixel UI & HUD.zip 2.5 MB and Pixel UI & HUD - Unity Demo.zip 10 MB. The demo is a ZIP rather than a named engine package, so integration is manual in Unity, Godot, Unreal or GameMaker. A creator reply names Sprites/Panels/Blue/PanelLarge.png inside the pack.",
+      "tags": [
+        "ui",
+        "hud",
+        "pixel art",
+        "interface",
+        "buttons"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "licenseNote": "The page states the kit can be modified or used personally and commercially with no crediting required, and lists Royalty Free among its tags. No separate license URL is published on the product, so the product page itself is the license evidence.",
+      "priceNote": "USD purchase panel showed $4.99 crossed out to $2.49 with a 50% Off badge. The pay-once minimum is $2.49 USD and includes both listed archives; no paid file was acquired.",
+      "licenseTier": null,
+      "curation": {
+        "quality": 4,
+        "value": 4,
+        "completeness": 4,
+        "reputation": 4,
+        "rationale": "The page documents thirteen named element groups including a skill tree, minimap and value bars, ships a separate demo archive, and holds 5.0/5 across 46 ratings. Contents remain publisher-listed; the paid ZIPs were not opened, and no engine integration or draw-call behaviour was tested."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-11-04T02:03:10.267Z"
   }
 ]

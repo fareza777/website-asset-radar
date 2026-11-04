@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-farm-theme-platformer",
+  "sourceUrl": "https://opengameart.org/content/farm-theme-platformer",
+  "checkedAt": "2026-11-04T02:42:53.160Z",
+  "httpStatus": 200,
+  "pageSha256": "148a18ea8ec2fe42023355887ada8a7bcc8cea0fa72b228e329d6dc05259f1ad",
+  "title": "Farm theme platformer",
+  "authors": [
+    "NeotoonDev"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Farm theme platformer by NeotoonDev. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/farm-theme-platformer Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/platformer_sprite_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/platformer_sprite_pack.zip",
+  "downloadSha256": "ae0a168559983478d9a2970a1396c51e44db780ad7d933a1a7aac0e18f44b79d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 4,
+  "licenseFiles": [],
+  "previewFile": "Platformer Sprite Pack/Tilemaps/character.png",
+  "previewSha256": "e5573a4f9859a2cf6d78415c6508d3c8c5dee11fc5345ca468683944c700cc03",
+  "sourceTags": [
+    "simple",
+    "farm"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

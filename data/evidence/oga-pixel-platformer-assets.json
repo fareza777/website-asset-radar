@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pixel-platformer-assets",
+  "sourceUrl": "https://opengameart.org/content/pixel-platformer-assets",
+  "checkedAt": "2026-11-04T02:56:53.733Z",
+  "httpStatus": 200,
+  "pageSha256": "caddc1db361847da46174c67abc784e7983cbbdd1db745f7306a9a9205809d7f",
+  "title": "Pixel Platformer Assets",
+  "authors": [
+    "macadamchris"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Pixel Platformer Assets by macadamchris. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/pixel-platformer-assets Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/PixelPlatformerArt.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/PixelPlatformerArt.zip",
+  "downloadSha256": "343d9e03470091d9ecc2bce6dcfc7c56be4b60b725ceb1938b7b75d8bc164e9e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 34,
+  "licenseFiles": [],
+  "previewFile": "PixelPlatformerArt/Tilesets/Grass_And_Trees.png",
+  "previewSha256": "e4696aa45d421016569d50891658e5b7e58d24e861dcefffeaa7bd3829788977",
+  "sourceTags": [
+    "pixelart",
+    "sprites"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

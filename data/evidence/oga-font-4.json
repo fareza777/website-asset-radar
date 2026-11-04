@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-font-4",
+  "sourceUrl": "https://opengameart.org/content/font-4",
+  "checkedAt": "2026-11-04T02:35:51.216Z",
+  "httpStatus": 200,
+  "pageSha256": "52a2f9d62ac4112ca4aa156fd7d6e8d18c97d3bb2a789ea1968c7323869a306e",
+  "title": ".font",
+  "authors": [
+    "st0m4rv3r"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Would be nice (but not required) to add a tiny credit somewhere, like gray text in the corner on gray bg or in the credits: .font / DotFont by stom Thanks a lot if you do! .font by st0m4rv3r. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/font-4 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/font_23.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/font_23.png",
+  "downloadSha256": "deb9c552ad6591766ab62a1590173d07466a92b0f29315329e91c9be2cdf4e24",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "font_23.png",
+  "previewSha256": "deb9c552ad6591766ab62a1590173d07466a92b0f29315329e91c9be2cdf4e24",
+  "sourceTags": [
+    "font",
+    "bitmap"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

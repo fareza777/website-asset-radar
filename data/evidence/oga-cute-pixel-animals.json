@@ -1,0 +1,45 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cute-pixel-animals",
+  "sourceUrl": "https://opengameart.org/content/cute-pixel-animals",
+  "checkedAt": "2026-11-04T02:13:31.706Z",
+  "httpStatus": 200,
+  "pageSha256": "8aeee6eb162d2bfd3382c9d7762fa36f8f6db458b92e51fb730b28fb6dfa341e",
+  "title": "Cute Pixel Animals",
+  "authors": [
+    "pixelartmaker"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Pixel art by hoanglam.bk57 (simplepixelart.com) Cute Pixel Animals by pixelartmaker. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/cute-pixel-animals Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/cute-animals.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/cute-animals.zip",
+  "downloadSha256": "79d0078d79379b2d72d14c9096caedb73e28b0f43059757b9e5342f5d1f9a10a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 68,
+  "licenseFiles": [
+    "cute-animals/LICENSE.txt"
+  ],
+  "previewFile": "cute-animals/4x/round-calico-cat.png",
+  "previewSha256": "10fbd545990c441bbb4f0af5511f67d56d7ab45a227eeb81828bdc387bf2b11a",
+  "sourceTags": [
+    "animals",
+    "cute",
+    "cat",
+    "dog",
+    "bird",
+    "Fish",
+    "farm",
+    "pets",
+    "critters",
+    "pixel"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

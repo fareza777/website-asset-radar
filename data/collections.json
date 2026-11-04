@@ -106,7 +106,7 @@
   {
     "id": "a-town-of-your-own",
     "name": "A town of your own",
-    "description": "3D town, street and interior props, characters, and a separate 2D UI pack for prototypes. All Kenney CC0; materials, grids and layouts need manual setup.",
+    "description": "3D town, street and interior props and characters from Kenney CC0, plus CC-BY 2D village scenery, isometric buildings, a bakery, a main-menu background and a CC0 isometric village tileset. Credit lucius39 and khaledpng.",
     "assetIds": [
       "kenney-fantasy-town-kit",
       "kenney-mini-market",
@@ -117,16 +117,22 @@
       "kenney-mini-characters",
       "kenney-building-kit",
       "kenney-city-kit-commercial",
-      "kenney-retro-urban-kit"
+      "kenney-retro-urban-kit",
+      "oga-village-scenery",
+      "oga-a-set-of-isometric-buildings",
+      "oga-bakery-isometric",
+      "oga-citybuilder-main-menu-background",
+      "oga-houses-collection",
+      "oga-isometric-village-builder"
     ],
     "cover": "kenney-fantasy-town-kit",
     "color": "peach",
-    "updatedAt": "2026-11-03T07:14:00.000Z"
+    "updatedAt": "2026-11-04T02:51:15.000Z"
   },
   {
     "id": "the-night-shift",
     "name": "The night shift",
-    "description": "Choose 2D factory tiles, an industrial parallax background, or 3D industrial, road, and railway models, with CC0 metal, concrete and corrugated steel surfaces. Materials need manual setup.",
+    "description": "2D factory tiles, industrial parallax and 3D industrial, road and railway models, with CC0 metal, concrete and steel surfaces plus low-res steam animation, seamless iron and naval ship metal. Materials and sheets need manual setup.",
     "assetIds": [
       "kenney-factory-kit",
       "kenney-city-kit-industrial",
@@ -138,16 +144,19 @@
       "ambientcg-concrete034",
       "ambientcg-asphalt033",
       "oga-industrial-parallax-background",
-      "ambientcg-corrugatedsteel009"
+      "ambientcg-corrugatedsteel009",
+      "oga-animated-steam",
+      "oga-zortch-2-more-rejected-textures-pack-2",
+      "oga-gray-naval-ship-textures"
     ],
     "cover": "kenney-factory-kit",
     "color": "mint",
-    "updatedAt": "2026-11-03T07:14:00.000Z"
+    "updatedAt": "2026-11-04T02:51:15.000Z"
   },
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Sci-fi models, shooter art, blasters, planets, UI, and SFX, plus CC-BY space backdrops, lasers, Eric Matyas's CC-BY alien skin, and a CC0 space-warrior sheet. Credit CC-BY authors.",
+    "description": "Sci-fi models, shooter art, blasters, planets, UI and SFX, plus CC-BY space backdrops, lasers, an alien skin, a CC0 space-warrior sheet, a CC0 crimson moon sprite and a PS1 metal crate for retro cockpit props. Credit CC-BY authors.",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
@@ -161,11 +170,13 @@
       "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
       "oga-lasers-and-beams",
       "oga-space-warriors",
-      "oga-alien-skin-texture"
+      "oga-alien-skin-texture",
+      "oga-pixel-art-firey-crimson-moon",
+      "oga-psx-styled-metal-crate"
     ],
     "cover": "kenney-space-station-kit",
     "color": "blue",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-04T02:51:15.000Z"
   },
   {
     "id": "one-more-jump",
@@ -222,7 +233,7 @@
   {
     "id": "menus-with-feeling",
     "name": "Menus with feeling",
-    "description": "Pixel and fantasy UI, cursors, medals, and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, a CC0 spooky nine-slice window, CC0 kaomoji emotes, and Vircon32's CC-BY 2048 board tiles. Pick the pieces that suit your UI.",
+    "description": "Pixel and fantasy UI, cursors, medals and interface sounds, plus bone-hand and RPG icons, CC0 HP bars, a spooky nine-slice window, kaomoji emotes, 2048 tiles and CC-BY birthstone icons. Pick the pieces that suit your UI.",
     "assetIds": [
       "kenney-ui-pack-pixel-adventure",
       "kenney-pixel-ui-pack",
@@ -238,16 +249,17 @@
       "oga-black-and-white-hp-and-super-bars",
       "oga-spooky-9-slice-window",
       "oga-animated-kaomoji-emotes-30-japanese-emoticons",
-      "oga-2048-board-and-tiles"
+      "oga-2048-board-and-tiles",
+      "oga-birthstones-matrix-and-cut"
     ],
     "cover": "kenney-ui-pack-pixel-adventure",
     "color": "mint",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-04T02:47:30.000Z"
   },
   {
     "id": "an-underground-world",
     "name": "An underground world",
-    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, and RPG sounds, plus separate 2D mine and block tiles. Art direction differs by pack; assemble layouts in your engine.",
+    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, RPG sounds, plus 2D mine, block and ruined-cathedral tiles, Techno Dungeons II and a CC0 zombie. Credit CC-BY authors.",
     "assetIds": [
       "kenney-modular-dungeon-kit",
       "kenney-modular-cave-kit",
@@ -260,16 +272,19 @@
       "ambientcg-rock063",
       "kenney-retro-textures-fantasy",
       "oga-mine-game-graphics",
-      "oga-more-blocks"
+      "oga-more-blocks",
+      "oga-ruined-cathedral-tileset",
+      "oga-super-dead-merc-techno-dungeons-ii",
+      "oga-pixelated-malformed-zombie-0"
     ],
     "cover": "kenney-modular-dungeon-kit",
     "color": "blue",
-    "updatedAt": "2026-10-10T02:22:00.000Z"
+    "updatedAt": "2026-11-04T02:47:30.000Z"
   },
   {
     "id": "the-outside-world",
     "name": "The outside world",
-    "description": "Forest and survival models from Kenney, with CC0 grass, soil, rock, wood, bark, and leaf-litter textures from Poly Haven and ambientCG. Assemble materials in your engine.",
+    "description": "Forest and survival models from Kenney with CC0 grass, soil, rock and bark materials, CC0 pitted dry ground and 32x32 pixel nature textures, plus CC-BY-4.0 cute pixel animals. Credit pixelartmaker; grids and materials are manual.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-mini-forest",
@@ -283,11 +298,14 @@
       "ambientcg-rock064",
       "polyhaven-leaf-scattered-gravel",
       "ambientcg-bark003",
-      "ambientcg-ground008"
+      "ambientcg-ground008",
+      "oga-16-cool-pixelated-nature-textures-32x32",
+      "oga-cute-pixel-animals",
+      "oga-pitted-dry-ground"
     ],
     "cover": "kenney-mini-forest",
     "color": "mint",
-    "updatedAt": "2026-10-16T02:27:40.000Z"
+    "updatedAt": "2026-11-04T02:51:15.000Z"
   },
   {
     "id": "material-essentials",
@@ -364,7 +382,7 @@
   {
     "id": "cozy-space-pieces",
     "name": "Cozy space pieces",
-    "description": "CC-BY pixel packs from one space series: tiles, ships, interiors, planet surfaces, furniture, crew, effects, portraits, icons and backdrops. Credit Spaceyyy or Bramble & Byte and roberto mellado, then assemble them yourself.",
+    "description": "CC-BY pixel packs from one space series: tiles, ships, interiors, planet surfaces, furniture, crew, effects, portraits, icons and backdrops, plus a CC0 pixel space background. Credit Spaceyyy, Bramble & Byte and roberto mellado.",
     "assetIds": [
       "oga-cozy-space-platformer-16-px-side-view-tiles-astronaut-and-enemies",
       "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
@@ -377,16 +395,17 @@
       "oga-cozy-space-station-walking-crew-animated-top-down-characters",
       "oga-cozy-space-interiors-16-px-top-down-sci-fi-tileset",
       "oga-cozy-space-planet-top-down-planet-surface-tiles-and-props-16-px",
-      "oga-cozy-space-furniture-23-top-down-props-16-px-grid"
+      "oga-cozy-space-furniture-23-top-down-props-16-px-grid",
+      "oga-pixel-space-background"
     ],
     "cover": "oga-cozy-space-ships-24-top-down-spaceships-lasers-and-explosions",
     "color": "lime",
-    "updatedAt": "2026-10-25T02:25:00.000Z"
+    "updatedAt": "2026-11-04T02:47:30.000Z"
   },
   {
     "id": "below-the-waterline",
     "name": "Below the waterline",
-    "description": "2D seafloor, reef and floating-island tiles, Kenney watercraft and pirate sets, divers, XVI-century crew, and a hand-painted water texture. Credit rapidpunches for the dolphin tiles; grids and styles vary.",
+    "description": "2D seafloor, reef and floating-island tiles, Kenney watercraft and pirate sets, divers, XVI-century crew, a hand-painted water texture, pixel beach sand and naval ship metal. Credit rapidpunches and the CC-BY authors; grids vary.",
     "assetIds": [
       "kenney-watercraft-kit",
       "kenney-pirate-kit",
@@ -399,10 +418,37 @@
       "oga-dolphin-baby-and-ocean-tiles",
       "oga-pixel-characters-xvii-era",
       "oga-the-field-of-the-floating-islands",
-      "oga-hand-painted-water-texture-2k"
+      "oga-hand-painted-water-texture-2k",
+      "oga-sand-texture-1",
+      "oga-gray-naval-ship-textures"
     ],
     "cover": "kenney-watercraft-kit",
     "color": "blue",
-    "updatedAt": "2026-11-03T07:14:00.000Z"
+    "updatedAt": "2026-11-04T02:51:15.000Z"
+  },
+  {
+    "id": "ps1-style-surfaces",
+    "name": "PS1-style surfaces",
+    "description": "CC0 low-resolution seamless textures for a retro 3D look: brick buildings and walls, dry ground, sand, lava, kitchen tile, naval and industrial metal, steam and matcap spheres. Filter and scale decide the era; import maps manually.",
+    "assetIds": [
+      "oga-brick-building-1",
+      "oga-brick-building-set-2",
+      "oga-seamless-brick-tiles",
+      "oga-hand-painted-brick-wall",
+      "oga-pitted-dry-ground",
+      "oga-sand-texture-1",
+      "oga-y2k-lava-texture",
+      "oga-fancy-kitchen-tile",
+      "oga-gray-naval-ship-textures",
+      "oga-zortch-2-more-rejected-textures-pack-2",
+      "oga-psx-styled-metal-crate",
+      "oga-animated-steam",
+      "oga-the-cool-pack",
+      "oga-assorted-matcaps",
+      "oga-16-cool-pixelated-building-construction-textures-32x32"
+    ],
+    "cover": "oga-psx-styled-metal-crate",
+    "color": "mint",
+    "updatedAt": "2026-11-04T02:51:15.000Z"
   }
 ]

@@ -1,0 +1,69 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-yet-another-photo-texture-pack",
+  "sourceUrl": "https://opengameart.org/content/yet-another-photo-texture-pack",
+  "checkedAt": "2026-11-04T02:30:22.355Z",
+  "httpStatus": 200,
+  "pageSha256": "cc8767946adf3a23654ad559239172132c5e135c7b4ad562f777527abd6c2bdc",
+  "title": "Yet Another Photo Texture Pack",
+  "authors": [
+    "Drummyfish"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "not needed, you can credit Drummyfish if you want Yet Another Photo Texture Pack by Drummyfish. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/yet-another-photo-texture-pack Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/photo_textures3.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/photo_textures3.zip",
+  "downloadSha256": "7adc8e36d7022c86aeb28b4e0e910e24df0d0994c99a5ba4ea89dc451cad4ea0",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 84,
+  "licenseFiles": [],
+  "previewFile": "grass_flowers.jpg",
+  "previewSha256": "a7818b3d6e726d37c8e7a667c14942ddf28a3b3c8ad1a8ec6fdbfac7f0fc2e41",
+  "sourceTags": [
+    "building",
+    "grass",
+    "mud",
+    "concrete",
+    "books",
+    "door",
+    "Window",
+    "garage",
+    "fence",
+    "Wood",
+    "carpet",
+    "granite",
+    "grave",
+    "marble",
+    "road",
+    "flowers",
+    "cracks",
+    "wall",
+    "house",
+    "sand",
+    "manhole",
+    "sidewalk",
+    "slate",
+    "tiles",
+    "ash",
+    "cobblestone",
+    "stone",
+    "Rock",
+    "solar panel",
+    "planks",
+    "Fish",
+    "water",
+    "waterfall",
+    "roof",
+    "roots",
+    "cliff"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

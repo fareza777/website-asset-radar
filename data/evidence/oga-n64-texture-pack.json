@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-n64-texture-pack",
+  "sourceUrl": "https://opengameart.org/content/n64-texture-pack",
+  "checkedAt": "2026-11-04T02:55:09.422Z",
+  "httpStatus": 200,
+  "pageSha256": "0115fbfaeb45c64402505554be139a6485cec3b22a4f315011debeb157f3b204",
+  "title": "N64 Texture Pack",
+  "authors": [
+    "n64guy"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Public domain. Credit as n64guy would be nice but not necessary. N64 Texture Pack by n64guy. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/n64-texture-pack Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/files_3.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/files_3.zip",
+  "downloadSha256": "94ff6f1ba60334e71cbd3a4f3d68d1845b1b0a50d6bd6a6af64898fbb04d9a4e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 34,
+  "licenseFiles": [],
+  "previewFile": "Alien flesh 2.png",
+  "previewSha256": "98fbcdcd66474c39b1f0180d70de8d794cc1783d0145491a730a1e507f909ac5",
+  "sourceTags": [
+    "nintendo 64",
+    "retro",
+    "N64",
+    "32x32",
+    "32x16"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

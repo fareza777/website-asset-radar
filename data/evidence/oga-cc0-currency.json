@@ -1,0 +1,47 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cc0-currency",
+  "sourceUrl": "https://opengameart.org/content/cc0-currency",
+  "checkedAt": "2026-11-04T02:54:27.566Z",
+  "httpStatus": 200,
+  "pageSha256": "c36d3ddb01ff2cd68dc747f1e4973bea72fef01d663809c4a4b9d86bb32e75b5",
+  "title": "CC0 Currency",
+  "authors": [
+    "ZaninDevelopers"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "No credit is necessary, though it would be cool if you left a link to your game if you use this, totally not required though. CC0 Currency by ZaninDevelopers. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/cc0-currency Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/updatedgem.png",
+    "https://opengameart.org/sites/default/files/updatedcoin.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/updatedgem.png",
+  "downloadSha256": "3b17fd8a4dc0bb20657dcbe1b4d42cc967e8fc5d93df7211914fcf51b844d592",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "updatedgem.png",
+  "previewSha256": "3b17fd8a4dc0bb20657dcbe1b4d42cc967e8fc5d93df7211914fcf51b844d592",
+  "sourceTags": [
+    "gems",
+    "gem",
+    "coins",
+    "coin",
+    "money",
+    "currency",
+    "diamond",
+    "simple",
+    "pixel",
+    "8bit",
+    "classic",
+    "gold",
+    "token"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

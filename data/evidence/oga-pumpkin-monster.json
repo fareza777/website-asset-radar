@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-pumpkin-monster",
+  "sourceUrl": "https://opengameart.org/content/pumpkin-monster",
+  "checkedAt": "2026-11-04T02:59:04.851Z",
+  "httpStatus": 200,
+  "pageSha256": "233c771c5fa6342a05dc5e7b76ce9fdf9a5ca4d3dc2446ceef30370ed98d5323",
+  "title": "Pumpkin monster",
+  "authors": [
+    "Reemax"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Pumpkin monster by Tuomo Untinen Pumpkin monster by Reemax. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/pumpkin-monster Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/pumpkin_monster_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/pumpkin_monster_0.png",
+  "downloadSha256": "6716b48b1f321926d9a89e279abf3de2a215321ff110402ebb7688d7c2c62f3c",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "pumpkin_monster_0.png",
+  "previewSha256": "6716b48b1f321926d9a89e279abf3de2a215321ff110402ebb7688d7c2c62f3c",
+  "sourceTags": [
+    "32x32",
+    "LPC",
+    "RPG",
+    "monster",
+    "pumpkin",
+    "Halloween"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-animated-steam",
+  "sourceUrl": "https://opengameart.org/content/animated-steam",
+  "checkedAt": "2026-11-04T02:41:51.999Z",
+  "httpStatus": 200,
+  "pageSha256": "105d138ecfd561ec55e32e79264bc16928c399854e9bdd9e22de06a6052e6d44",
+  "title": "Animated steam",
+  "authors": [
+    "hatmix"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Animated steam by hatmix. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/animated-steam Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/steam_wall_sheet.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/steam_wall_sheet.png",
+  "downloadSha256": "5a665659c46fb27264719a3443f13f3036027f89131c55dc67a9b3b9e4b56f3d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "steam_wall_sheet.png",
+  "previewSha256": "5a665659c46fb27264719a3443f13f3036027f89131c55dc67a9b3b9e4b56f3d",
+  "sourceTags": [
+    "spritesheet",
+    "animation",
+    "smoke",
+    "steam"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-bakery-isometric",
+  "sourceUrl": "https://opengameart.org/content/bakery-isometric",
+  "checkedAt": "2026-11-04T02:28:18.778Z",
+  "httpStatus": 200,
+  "pageSha256": "a5b5645356ed9de81dbb1d6fc9f5f3deafe5a26559bc408f764d39b45972c136",
+  "title": "bakery isometric",
+  "authors": [
+    "khaledpng"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "bakery isometric by khaledpng. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/bakery-isometric Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/bakery.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/bakery.png",
+  "downloadSha256": "fa0f7b58bbce729b1a3a6452602bb4d23f4bc89b6dec5beda69253179971a50f",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "bakery.png",
+  "previewSha256": "fa0f7b58bbce729b1a3a6452602bb4d23f4bc89b6dec5beda69253179971a50f",
+  "sourceTags": [
+    "Isometric",
+    "pixel"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

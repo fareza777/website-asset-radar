@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-roadcollection",
+  "sourceUrl": "https://opengameart.org/content/roadcollection",
+  "checkedAt": "2026-11-04T02:41:35.473Z",
+  "httpStatus": 200,
+  "pageSha256": "744fe0ffea6a29f304f6a2476f5e6eb6f0a4144b69cfbb41dbb7fb043dd24be9",
+  "title": "RoadCollection",
+  "authors": [
+    "Thabisocn"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "RoadCollection by Thabisocn. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/roadcollection Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/roadcollection_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/roadcollection_0.png",
+  "downloadSha256": "627af7805176d11a7bb5b6b56121740566f5a9c5e44fed711b6b0442e8f1f385",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "roadcollection_0.png",
+  "previewSha256": "627af7805176d11a7bb5b6b56121740566f5a9c5e44fed711b6b0442e8f1f385",
+  "sourceTags": [
+    "pixelart",
+    "city road",
+    "street signs",
+    "signs",
+    "traffic light",
+    "traffic"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

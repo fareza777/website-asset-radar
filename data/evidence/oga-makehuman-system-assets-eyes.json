@@ -1,0 +1,49 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-makehuman-system-assets-eyes",
+  "sourceUrl": "https://opengameart.org/content/makehuman-system-assets-eyes",
+  "checkedAt": "2026-11-04T02:44:14.597Z",
+  "httpStatus": 200,
+  "pageSha256": "9d920cc6d4d240256d01206f1c8d68666d580687874fc43f88092934b1b6a859",
+  "title": "MakeHuman System Assets (Eyes)",
+  "authors": [
+    "hardboileduser"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Makehuman system assets (eyes) by makehuman_system licensed CC0: https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html MakeHuman System Assets (Eyes) by hardboileduser. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/makehuman-system-assets-eyes Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/blue_eye.png",
+    "https://opengameart.org/sites/default/files/bluegreen_eye.png",
+    "https://opengameart.org/sites/default/files/brown_eye.png",
+    "https://opengameart.org/sites/default/files/brownlight_eye.png",
+    "https://opengameart.org/sites/default/files/deepblue_eye.png",
+    "https://opengameart.org/sites/default/files/green_eye.png",
+    "https://opengameart.org/sites/default/files/grey_eye.png",
+    "https://opengameart.org/sites/default/files/ice_eye.png",
+    "https://opengameart.org/sites/default/files/lightblue_eye.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/blue_eye.png",
+  "downloadSha256": "572ddc93ab3e177100619ec7c00b2574540cfb382805afc2e450788117f6140c",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "blue_eye.png",
+  "previewSha256": "572ddc93ab3e177100619ec7c00b2574540cfb382805afc2e450788117f6140c",
+  "sourceTags": [
+    "base",
+    "human",
+    "male",
+    "female",
+    "eye",
+    "eyeball",
+    "reference",
+    "Educational"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-village-scenery",
+  "sourceUrl": "https://opengameart.org/content/village-scenery",
+  "checkedAt": "2026-11-04T02:14:55.262Z",
+  "httpStatus": 200,
+  "pageSha256": "b8dcd86d37972a738e9c4dc34b5b6aeab1c3ff96351793f71ea33a58f8de944d",
+  "title": "Village scenery",
+  "authors": [
+    "lucius39"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "\"Village scenery\" by lucius39 (http://lm.xaa.pl) Village scenery by lucius39. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/village-scenery Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/village_scenery_2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/village_scenery_2.png",
+  "downloadSha256": "0cb861d9e3bb5adf9c012aade61c04ee30454ef722afc6e94563af0c85aed91b",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "village_scenery_2.png",
+  "previewSha256": "0cb861d9e3bb5adf9c012aade61c04ee30454ef722afc6e94563af0c85aed91b",
+  "sourceTags": [
+    "scenery",
+    "background",
+    "main menu"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

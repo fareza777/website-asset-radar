@@ -51,125 +51,6 @@
     }
   },
   {
-    "id": "deadrevolver-pixel-prototype-player-sprites",
-    "title": "Pixel Prototype Player Sprites",
-    "author": "Dead Revolver",
-    "summary": "Prototype 96x84px player rig with walk, run, combat, climbing and fishing animations. The page names PixelPrototypePlayer.zip at 3.4 MB holding the .aseprite sources, one sprite sheet and per-animation PNG frames.",
-    "categories": [
-      "Platformer"
-    ],
-    "dimension": "2D",
-    "assetType": "Characters",
-    "type": "deal",
-    "originalPrice": 9.99,
-    "salePrice": 4.99,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-03T22:00:00.000Z",
-    "rating": 4.9,
-    "reviewCount": 177,
-    "radarScore": 77,
-    "dealScore": 73,
-    "source": "itch.io",
-    "sourceUrl": "https://deadrevolver.itch.io/pixel-prototype-player-sprites",
-    "canonicalSourceUrl": "https://deadrevolver.itch.io/pixel-prototype-player-sprites",
-    "license": "CC0",
-    "licenseUrl": "https://deadrevolver.itch.io/pixel-prototype-player-sprites",
-    "commercialUse": true,
-    "lastChecked": "2026-11-03T06:40:46.740Z",
-    "addedAt": "2026-11-03",
-    "formats": [
-      "ZIP",
-      "PNG",
-      "ASEPRITE"
-    ],
-    "engines": [
-      "Unity",
-      "Godot",
-      "Unreal",
-      "GameMaker"
-    ],
-    "engineNote": "The page names a ZIP containing PNG frames and the original Aseprite files. PNG imports with manual sprite and animation setup in Unity, Godot, Unreal or GameMaker; no native engine project, rig or performance was verified.",
-    "tags": [
-      "pixel art",
-      "sprites",
-      "animation",
-      "character",
-      "prototype"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The product page lists the asset license as Creative Commons Zero v1.0 Universal and states the files can be modified or used personally and commercially with no crediting required. The paid archive was not downloaded.",
-    "priceNote": "USD purchase panel showed $9.99 crossed out to $4.99 with a 50% Off badge. The pay-once minimum for the pack is $4.99 USD; no paid file was acquired.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "The listing documents a 3.4 MB archive with Aseprite sources, one combined sprite sheet and per-animation PNG folders, plus 4.9/5 across 177 ratings and a long public update log. Contents are publisher-listed only; the paid archive was not opened or tested in an engine, so grades stay strong rather than exceptional."
-    }
-  },
-  {
-    "id": "deadrevolver-pixel-ui-hud-pack",
-    "title": "Pixel UI & HUD",
-    "author": "Dead Revolver",
-    "summary": "Pixel interface kit whose contents sections list buttons, banners, cursors, tooltips, panels, grids, value bars, a skill tree, a minimap and style themes. Two ZIP uploads are named, a 2.5 MB kit and a 10 MB Unity demo.",
-    "categories": [
-      "UI"
-    ],
-    "dimension": "2D",
-    "assetType": "UI Kits",
-    "type": "deal",
-    "originalPrice": 4.99,
-    "salePrice": 2.49,
-    "discountPercent": 50,
-    "currency": "USD",
-    "expiresAt": "2026-11-03T22:00:00.000Z",
-    "rating": 5,
-    "reviewCount": 46,
-    "radarScore": 73,
-    "dealScore": 70,
-    "source": "itch.io",
-    "sourceUrl": "https://deadrevolver.itch.io/pixel-ui-hud-pack",
-    "canonicalSourceUrl": "https://deadrevolver.itch.io/pixel-ui-hud-pack",
-    "license": "Creator commercial license",
-    "licenseUrl": "https://deadrevolver.itch.io/pixel-ui-hud-pack",
-    "commercialUse": true,
-    "lastChecked": "2026-11-03T06:40:46.740Z",
-    "addedAt": "2026-11-03",
-    "formats": [
-      "ZIP",
-      "PNG"
-    ],
-    "engines": [
-      "Unity",
-      "Godot",
-      "Unreal",
-      "GameMaker"
-    ],
-    "engineNote": "Two ZIP uploads are named: Pixel UI & HUD.zip 2.5 MB and Pixel UI & HUD - Unity Demo.zip 10 MB. The demo is a ZIP rather than a named engine package, so integration is manual in Unity, Godot, Unreal or GameMaker. A creator reply names Sprites/Panels/Blue/PanelLarge.png inside the pack.",
-    "tags": [
-      "ui",
-      "hud",
-      "pixel art",
-      "interface",
-      "buttons"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "licenseNote": "The page states the kit can be modified or used personally and commercially with no crediting required, and lists Royalty Free among its tags. No separate license URL is published on the product, so the product page itself is the license evidence.",
-    "priceNote": "USD purchase panel showed $4.99 crossed out to $2.49 with a 50% Off badge. The pay-once minimum is $2.49 USD and includes both listed archives; no paid file was acquired.",
-    "licenseTier": null,
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 4,
-      "rationale": "The page documents thirteen named element groups including a skill tree, minimap and value bars, ships a separate demo archive, and holds 5.0/5 across 46 ratings. Contents remain publisher-listed; the paid ZIPs were not opened, and no engine integration or draw-call behaviour was tested."
-    }
-  },
-  {
     "id": "finalbossblues-fantasy-rpg-icons",
     "title": "1000+ Fantasy RPG Icons",
     "author": "finalbossblues",
@@ -226,6 +107,115 @@
       "completeness": 4,
       "reputation": 4,
       "rationale": "The listing documents 1000+ icons in two colour variants across named item, weapon, armour, consumable, currency, resource and faction groups, in 8.8 MB of publisher-listed archives, at 4.8/5 across 30 ratings. Value is graded exceptional because $3.60 is far below the usual price for a documented icon set of this scope; the ZIPs themselves were not opened, so quality and completeness stay at 4/5."
+    }
+  },
+  {
+    "id": "pixelfrog-tiny-swords-warfare",
+    "title": "Tiny Swords: Warfare",
+    "author": "Pixel Frog",
+    "summary": "Combat expansion for Tiny Swords: warriors with their own weapons, animations and fighting styles in 5 unit colours, plus siege weapons, military buildings and fortifications. PNG images with Aseprite files, one 2.9 MB ZIP.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 30,
+    "salePrice": 15,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2027-04-30T16:33:00.000Z",
+    "rating": 5,
+    "reviewCount": 7,
+    "radarScore": 64,
+    "dealScore": 75,
+    "source": "itch.io",
+    "sourceUrl": "https://pixelfrog-assets.itch.io/tiny-swords-warfare",
+    "canonicalSourceUrl": "https://pixelfrog-assets.itch.io/tiny-swords-warfare",
+    "license": "Creator commercial license",
+    "licenseUrl": "https://pixelfrog-assets.itch.io/tiny-swords-warfare",
+    "commercialUse": true,
+    "lastChecked": "2026-11-04T02:39:14.000Z",
+    "addedAt": "2026-11-04",
+    "formats": [
+      "ZIP",
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "No engine project is named on the page; it documents PNG images plus Aseprite source files, so atlas slicing and import settings are manual work in Unity, Godot, GameMaker or any 2D engine.",
+    "tags": [
+      "characters",
+      "pixel art",
+      "units",
+      "buildings",
+      "medieval",
+      "top-down"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The page states 'Feel free to use this asset pack in both personal and commercial projects, modifying the assets as needed', crediting not required but welcome, and 'You may not redistribute, resell, or repackage the assets, even if the files are modified'. No paid download was made.",
+    "priceNote": "USD purchase panel showed $30.00 crossed out to $15.00; the structured Offer price is 15 USD. No paid download was made.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 5,
+      "completeness": 3,
+      "reputation": 4,
+      "rationale": "Pixel Frog's documented combat set - multiple warrior types with per-unit animations in 5 faction colours, siege weapons, military buildings and fortifications, PNG plus Aseprite source - is half the $30 list price at $15, which is far below the usual cost for a documented pack of this scope from this publisher. Completeness is graded 3 because the page marks the product 'In development' with content still on the roadmap, and the ZIP was not opened."
+    }
+  },
+  {
+    "id": "zegley-top-down-character-template",
+    "title": "2D Pixel Art Top-Down Character Template",
+    "author": "ZeggyGames",
+    "summary": "One 8-directional top-down character template with completed animation sets for walk, idle, run, sword attack, dash, mining, woodcutting, defence, parry, ranged attack and sword combo, sold as a single 486 kB ZIP.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 7.5,
+    "salePrice": 4.95,
+    "discountPercent": 34,
+    "currency": "USD",
+    "expiresAt": "2026-11-04T18:00:00.000Z",
+    "rating": 4.9,
+    "reviewCount": 75,
+    "radarScore": 67,
+    "dealScore": 73,
+    "source": "itch.io",
+    "sourceUrl": "https://zegley.itch.io/2d-pixel-art-top-down-character-template",
+    "canonicalSourceUrl": "https://zegley.itch.io/2d-pixel-art-top-down-character-template",
+    "license": "Creator commercial license",
+    "licenseUrl": "https://zegley.itch.io/2d-pixel-art-top-down-character-template",
+    "commercialUse": true,
+    "lastChecked": "2026-11-04T02:39:14.000Z",
+    "addedAt": "2026-11-04",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [],
+    "engineNote": "The page does not list the inner file formats or a named engine project; it is tagged 'Project template' and 'Isometric', so inspect the ZIP and set up pivots, sorting and sprite atlases in your engine manually.",
+    "tags": [
+      "characters",
+      "pixel art",
+      "animation",
+      "top-down",
+      "8-direction",
+      "template"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The page states the asset may be used in unlimited projects including non-game projects, both free and commercial, may be modified at your discretion, may not be redistributed, resold or shared as modified versions, and may not be used to train AI/ML models. No paid download was made.",
+    "priceNote": "USD purchase panel showed $7.50 crossed out to $4.95; the structured Offer price is 4.95 USD. No paid download was made.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 5,
+      "completeness": 3,
+      "reputation": 4,
+      "rationale": "The listing documents a complete 8-directional state machine for one character - eleven named animation groups including mining, woodcutting, parry and a sword combo - at 4.9/5 across 75 ratings, and $4.95 is well below the usual price for a documented directional template of this scope. Completeness stays at 3 because it is a single character and the ZIP contents were not opened."
     }
   }
 ]

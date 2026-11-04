@@ -1,0 +1,45 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-simple-duotone-tileset",
+  "sourceUrl": "https://opengameart.org/content/simple-duotone-tileset",
+  "checkedAt": "2026-11-04T03:07:13.827Z",
+  "httpStatus": 200,
+  "pageSha256": "3a787b3e7ab08f2bb4796e14a5058403ed569468bca93814c16979caf24b49bf",
+  "title": "Simple duotone tileset",
+  "authors": [
+    "Eris"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Simple duotone tileset by Eris. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/simple-duotone-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/simpleGraphics_tiles32x32_0.png",
+    "https://opengameart.org/sites/default/files/simpleGraphics_tiles16x16.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/simpleGraphics_tiles32x32_0.png",
+  "downloadSha256": "c837ba2d8dbfa1286865069fe42b5cfe4746509f6e3a68617c0aff94f8905534",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "simpleGraphics_tiles32x32_0.png",
+  "previewSha256": "c837ba2d8dbfa1286865069fe42b5cfe4746509f6e3a68617c0aff94f8905534",
+  "sourceTags": [
+    "simple",
+    "duotone",
+    "tiles",
+    "pixel",
+    "16x16",
+    "32x32",
+    "minimalistic",
+    "platform",
+    "sidescroller",
+    "brawler",
+    "retro"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

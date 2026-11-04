@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-dungeon-pack-0",
+  "sourceUrl": "https://opengameart.org/content/dungeon-pack-0",
+  "checkedAt": "2026-11-04T02:25:57.118Z",
+  "httpStatus": 200,
+  "pageSha256": "ec00fb0082b995d4edbe962107cfec1c46aecd18ad42dff242c88fbb35d89dfb",
+  "title": "Dungeon Pack",
+  "authors": [
+    "FunnyDude"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "License Information: - License Type: CC0 - is Attribution Required: No - is Commercial Use Allowed: Yes - is Modification Allowed: Yes Dungeon Pack by FunnyDude. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/dungeon-pack-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/dungeon_pack.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/dungeon_pack.zip",
+  "downloadSha256": "10e7b05e16d3b53585ee881fca8a31bbddf92734a4308045b412e08a092ff0a0",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 7,
+  "licenseFiles": [],
+  "previewFile": "dungeon_pack/dungeon_pack_sheet.png",
+  "previewSha256": "6d33c7bcb541b57705e4f7496bc6cba487229241fdd194b75a0a88a13459d840",
+  "sourceTags": [
+    "Pixel Art",
+    "dungeon",
+    "pixel textures"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

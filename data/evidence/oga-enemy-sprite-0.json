@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-enemy-sprite-0",
+  "sourceUrl": "https://opengameart.org/content/enemy-sprite-0",
+  "checkedAt": "2026-11-04T03:06:53.889Z",
+  "httpStatus": 200,
+  "pageSha256": "7a120f46e964b322b03b8efb29c8cf9e46dea5fec0c6b7fc549ae30af8ee9a70",
+  "title": "Enemy Sprite",
+  "authors": [
+    "Teapot"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Enemy Sprite by Teapot. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/enemy-sprite-0 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/enemy_10.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/enemy_10.png",
+  "downloadSha256": "c270b7c4f96022e8a8704de266c7c007c98aae1c6816cf7d6812336022bcb449",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "enemy_10.png",
+  "previewSha256": "c270b7c4f96022e8a8704de266c7c007c98aae1c6816cf7d6812336022bcb449",
+  "sourceTags": [
+    "Enemy",
+    "wizard"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

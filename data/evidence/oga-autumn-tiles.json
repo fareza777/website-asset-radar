@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-autumn-tiles",
+  "sourceUrl": "https://opengameart.org/content/autumn-tiles",
+  "checkedAt": "2026-11-04T02:18:24.254Z",
+  "httpStatus": 200,
+  "pageSha256": "6ab6768704dd653a57bc12bc7c4d3b817e923fff3eadbf335a2f984243920ded",
+  "title": "Autumn Tiles",
+  "authors": [
+    "Hyperwebster"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Autumn Tiles by Hyperwebster. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/autumn-tiles Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/hyperwebster_2_0.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/hyperwebster_2_0.zip",
+  "downloadSha256": "6265e8ec686f0d57964b1c3b2b8e8efadc34f2b8d93c3ca63ff55930ed29ea6a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 13,
+  "licenseFiles": [],
+  "previewFile": "assets/tileset_expanded.png",
+  "previewSha256": "615add466fbbe39e5c0eb02e72bcf914c414e8ec75d952df6a76b6cce9750b03",
+  "sourceTags": [
+    "8x8",
+    "autumn",
+    "colorful"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

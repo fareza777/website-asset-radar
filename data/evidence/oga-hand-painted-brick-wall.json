@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-hand-painted-brick-wall",
+  "sourceUrl": "https://opengameart.org/content/hand-painted-brick-wall",
+  "checkedAt": "2026-11-04T02:14:05.330Z",
+  "httpStatus": 200,
+  "pageSha256": "12f780387d86f46fd02e1cba2c6d2e860db14d845947264bd8d01fb96e0c1130",
+  "title": "Hand painted brick wall",
+  "authors": [
+    "PamNawi"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Hand painted brick wall by PamNawi. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/hand-painted-brick-wall Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/stonewall_0.png",
+    "https://opengameart.org/sites/default/files/stonewall2.png",
+    "https://opengameart.org/sites/default/files/stonewall3.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/stonewall_0.png",
+  "downloadSha256": "bcb986dafb04e1912e9486e20b82cd22eab6fbdd64c26eb2655989a5dbee6b8d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "stonewall_0.png",
+  "previewSha256": "bcb986dafb04e1912e9486e20b82cd22eab6fbdd64c26eb2655989a5dbee6b8d",
+  "sourceTags": [
+    "handpainted",
+    "brick wall",
+    "bricks",
+    "brick walls",
+    "seamless"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
