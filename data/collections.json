@@ -54,14 +54,12 @@
   {
     "id": "wild-by-nature",
     "name": "Wild by nature",
-    "description": "Outdoor models, boats, fish, skies, and 2D forest scenery, plus apple trees by kiner_s20, AntumDeluge's CC-BY tree remix, cicada and CC0 insect loops, LumioLab's CC-BY dark woods, and C-MAN's CC-BY tree. Credit them. Setup is manual.",
+    "description": "Outdoor models, skies and 2D forest scenery: Ian Peter's CC0 tree, C-MAN and AntumDeluge tree remixes, kiner_s20 and Victor22 apple trees, plus cicada, CC0 insect loops and LumioLab's dark woods.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-survival-kit",
       "kenney-pirate-kit",
-      "kenney-impact-sounds",
       "kenney-mini-forest",
-      "kenney-watercraft-kit",
       "kenney-skyboxes",
       "kenney-fish-pack",
       "oga-forest-background",
@@ -71,11 +69,13 @@
       "oga-insect-sounds",
       "oga-dark-woods-free-sampler-spooky-pixel-art-trees-glowing-mushrooms",
       "oga-top-down-tree",
-      "oga-miscellaneous-trees-remix"
+      "oga-miscellaneous-trees-remix",
+      "oga-tree-23",
+      "oga-apple-tree-0"
     ],
     "cover": "kenney-nature-kit",
     "color": "mint",
-    "updatedAt": "2026-10-31T02:11:00.000Z"
+    "updatedAt": "2026-11-05T03:08:12.133Z"
   },
   {
     "id": "the-finishing-touches",
@@ -147,11 +147,12 @@
       "ambientcg-corrugatedsteel009",
       "oga-animated-steam",
       "oga-zortch-2-more-rejected-textures-pack-2",
-      "oga-gray-naval-ship-textures"
+      "oga-gray-naval-ship-textures",
+      "ambientcg-concrete049"
     ],
     "cover": "kenney-factory-kit",
     "color": "mint",
-    "updatedAt": "2026-11-04T02:51:15.000Z"
+    "updatedAt": "2026-11-05T03:08:12.133Z"
   },
   {
     "id": "somewhere-in-orbit",
@@ -405,7 +406,7 @@
   {
     "id": "below-the-waterline",
     "name": "Below the waterline",
-    "description": "2D seafloor, reef and floating-island tiles, Kenney watercraft and pirate sets, divers, XVI-century crew, a hand-painted water texture, pixel beach sand and naval ship metal. Credit rapidpunches and the CC-BY authors; grids vary.",
+    "description": "2D seafloor, reef and floating-island tiles, Kenney watercraft and pirate sets, divers, XVI-century crew, hand-painted water, pixel beach sand and naval ship metal. Grids vary.",
     "assetIds": [
       "kenney-watercraft-kit",
       "kenney-pirate-kit",
@@ -420,11 +421,12 @@
       "oga-the-field-of-the-floating-islands",
       "oga-hand-painted-water-texture-2k",
       "oga-sand-texture-1",
-      "oga-gray-naval-ship-textures"
+      "oga-gray-naval-ship-textures",
+      "oga-fish-db32"
     ],
     "cover": "kenney-watercraft-kit",
     "color": "blue",
-    "updatedAt": "2026-11-04T02:51:15.000Z"
+    "updatedAt": "2026-11-05T03:08:12.133Z"
   },
   {
     "id": "ps1-style-surfaces",
@@ -450,5 +452,30 @@
     "cover": "oga-psx-styled-metal-crate",
     "color": "mint",
     "updatedAt": "2026-11-04T02:51:15.000Z"
+  },
+  {
+    "id": "the-isometric-view",
+    "name": "The isometric view",
+    "description": "Kenney isometric miniature and tile sets with OpenGameArt isometric plants, buildings and village pieces from rubberduck, Seth Galbraith, lucius39 and khaledpng. Grids and scale vary.",
+    "assetIds": [
+      "kenney-isometric-miniature-farm",
+      "kenney-isometric-miniature-dungeon",
+      "kenney-isometric-miniature-library",
+      "kenney-isometric-miniature-bases",
+      "kenney-isometric-miniature-prototype",
+      "kenney-isometric-tiles-landscape",
+      "kenney-isometric-tiles-buildings",
+      "kenney-isometric-tiles-city",
+      "kenney-isometric-tiles-vehicles",
+      "kenney-isometric-blocks",
+      "oga-free-isometric-plants-pack",
+      "oga-isometric-64x64-medieval-building-tileset",
+      "oga-a-set-of-isometric-buildings",
+      "oga-bakery-isometric",
+      "oga-isometric-village-builder"
+    ],
+    "cover": "kenney-isometric-miniature-farm",
+    "color": "blue",
+    "updatedAt": "2026-11-05T03:08:12.133Z"
   }
 ]
