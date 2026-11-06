@@ -28,7 +28,7 @@
   {
     "id": "into-the-dungeon",
     "name": "Into the dungeon",
-    "description": "2D dungeons, 3D castles, potion icons, UI, runes, and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, witch, and pumpkin man, devnewton's CC-BY vampire tower, and CC0 stone doors. Credit CC-BY authors. Styles vary by pack.",
+    "description": "2D dungeons, 3D castles, potion icons, UI, runes and RPG audio, plus CC0 potions, magdum's CC-BY icons, a CC0 ghost, witch, pumpkin man and slime enemy, devnewton's CC-BY vampire tower and CC0 stone doors. Credit CC-BY authors.",
     "assetIds": [
       "kenney-tiny-dungeon",
       "kenney-mini-dungeon",
@@ -37,7 +37,6 @@
       "kenney-rpg-audio",
       "kenney-fantasy-ui-borders",
       "kenney-rune-pack",
-      "kenney-retro-textures-fantasy",
       "kenney-scribble-dungeons",
       "oga-potion-bottles",
       "oga-ultimate-potions-pack-2d",
@@ -45,11 +44,12 @@
       "oga-fampire-tower-tileset",
       "oga-opening-stone-door-way",
       "oga-witch",
-      "oga-pumpkin-man"
+      "oga-pumpkin-man",
+      "oga-tower-defense-slime-enemy"
     ],
     "cover": "kenney-tiny-dungeon",
     "color": "blue",
-    "updatedAt": "2026-11-02T02:11:00.000Z"
+    "updatedAt": "2026-11-06T03:17:11Z"
   },
   {
     "id": "wild-by-nature",
@@ -132,7 +132,7 @@
   {
     "id": "the-night-shift",
     "name": "The night shift",
-    "description": "2D factory tiles, industrial parallax and 3D industrial, road and railway models, with CC0 metal, concrete and steel surfaces plus low-res steam animation, seamless iron and naval ship metal. Materials and sheets need manual setup.",
+    "description": "2D factory tiles, industrial parallax and 3D industrial, road and railway models, with CC0 metal, concrete, steel and worn paving surfaces plus steam animation and naval ship metal. Materials need manual setup.",
     "assetIds": [
       "kenney-factory-kit",
       "kenney-city-kit-industrial",
@@ -148,11 +148,12 @@
       "oga-animated-steam",
       "oga-zortch-2-more-rejected-textures-pack-2",
       "oga-gray-naval-ship-textures",
-      "ambientcg-concrete049"
+      "ambientcg-concrete049",
+      "ambientcg-pavingstones152"
     ],
     "cover": "kenney-factory-kit",
     "color": "mint",
-    "updatedAt": "2026-11-05T03:08:12.133Z"
+    "updatedAt": "2026-11-06T03:17:11Z"
   },
   {
     "id": "somewhere-in-orbit",
@@ -337,7 +338,7 @@
   {
     "id": "snow-on-the-ground",
     "name": "Snow on the ground",
-    "description": "CC0 snow, slush, and snowy asphalt textures from Poly Haven and ambientCG for winter ground. These are separate materials, not one tileset. Import the maps in your engine.",
+    "description": "CC0 snow, ice, slush and snowy-asphalt materials from Poly Haven and ambientCG for winter ground. Separate materials, not one tileset; ice maps need their own shader setup. Import maps in your engine.",
     "assetIds": [
       "polyhaven-snow-floor",
       "polyhaven-asphalt-snow",
@@ -348,11 +349,17 @@
       "ambientcg-snow011",
       "ambientcg-snow010a",
       "ambientcg-snow006",
-      "ambientcg-snow005"
+      "ambientcg-snow005",
+      "polyhaven-snow-01",
+      "polyhaven-snow-02",
+      "polyhaven-snow-03",
+      "polyhaven-snow-field-aerial",
+      "ambientcg-ice001",
+      "ambientcg-ice003"
     ],
     "cover": "polyhaven-snow-floor",
     "color": "blue",
-    "updatedAt": "2026-10-15T02:27:05.000Z"
+    "updatedAt": "2026-11-06T03:17:11Z"
   },
   {
     "id": "a-few-heroes",

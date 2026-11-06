@@ -1,0 +1,46 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tower-defense-slime-enemy",
+  "sourceUrl": "https://opengameart.org/content/tower-defense-slime-enemy",
+  "checkedAt": "2026-11-06T02:39:42.671Z",
+  "httpStatus": 200,
+  "pageSha256": "fe1bea4498746d4233f3e2d091d1c590f4b6ef44a24b44ea7b02a20abdd93c45",
+  "title": "Tower defense slime enemy",
+  "authors": [
+    "Tisroc"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Tower defense slime enemy by Tisroc. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tower-defense-slime-enemy Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/common_slime_1_idle_0.png",
+    "https://opengameart.org/sites/default/files/common_slime_2_walk_0.png",
+    "https://opengameart.org/sites/default/files/common_slime_3_hurt_0.png",
+    "https://opengameart.org/sites/default/files/common_slime_4_death_0.png",
+    "https://opengameart.org/sites/default/files/common_slime_5_attack_0.png",
+    "https://opengameart.org/sites/default/files/common_slime_animations_spritesheet_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/common_slime_1_idle_0.png",
+  "downloadSha256": "5b0852fc755f82c6772f855692841ccbdefe5447d6f814f5ac7a5330a39ac7f0",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "common_slime_1_idle_0.png",
+  "previewSha256": "5b0852fc755f82c6772f855692841ccbdefe5447d6f814f5ac7a5330a39ac7f0",
+  "sourceTags": [
+    "Sprite",
+    "tower defense",
+    "Pixel Art",
+    "animated",
+    "hand drawn",
+    "slime",
+    "enemy monster",
+    "top down"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
