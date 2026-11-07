@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-caution-signs",
+  "sourceUrl": "https://opengameart.org/content/caution-signs",
+  "checkedAt": "2026-11-07T02:35:20.418Z",
+  "httpStatus": 200,
+  "pageSha256": "673d0cd1f40c44ebd80e2f054dddef5fcb94e8201664770508866801727bc30f",
+  "title": "caution signs",
+  "authors": [
+    "bleutailfly"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "caution signs by bleutailfly. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/caution-signs Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/caution_ns_0.png",
+    "https://opengameart.org/sites/default/files/caution_sign_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/caution_ns_0.png",
+  "downloadSha256": "2d8f42a2970ffdefef57ba456348c0e4868792ed89434ac847b992055ccb57cf",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "caution_ns_0.png",
+  "previewSha256": "2d8f42a2970ffdefef57ba456348c0e4868792ed89434ac847b992055ccb57cf",
+  "sourceTags": [
+    "32x32",
+    "tiles",
+    "caution signs",
+    "stendhal"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

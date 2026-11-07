@@ -1,0 +1,26 @@
+{
+  "id": "fab-scifi-beast06-bull",
+  "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+  "checkedAt": "2026-11-07T02:09:05Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 814454.55,
+    "salePrice": 0,
+    "currency": "IDR",
+    "licenseTier": "Personal",
+    "note": "Product page price tier shows IDR 814,454.55 with discountPercentage 100 and discountedPrice 0; the JSON-LD Offer reports the same currency and amount."
+  },
+  "license": {
+    "name": "Fab Standard",
+    "url": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "note": "The Fab Standard summary permits commercial and private use, modification and commercial distribution of projects, prohibits standalone redistribution and requires no publisher credit."
+  },
+  "expiresAt": "2026-11-17T14:59:00Z",
+  "expiryEvidenceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the Professional tier reports the same window.",
+  "rating": 5,
+  "reviewCount": 17,
+  "productNote": "Read the exact product description, included-format list, price tiers and gallery image. The page states sound and effects are not included. No asset files or engine behaviour were downloaded or tested."
+}

@@ -208169,6 +208169,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-06T02:40:42.626Z",
     "id": "oga-tree-man",
     "title": "tree man",
     "author": "xenoze",
@@ -208176,16 +208188,16 @@
       "xenoze"
     ],
     "summary": "tree man: environments by xenoze. JPG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
-    "assetType": "Environments",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
+    "assetType": "Environments",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/tree-man",
     "license": "CC-BY-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
     "attribution": "xenoze tree man by xenoze. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/tree-man Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
     "verificationUrl": "https://opengameart.org/content/tree-man",
     "verifiedAt": "2026-11-06",
     "addedAt": "2026-11-06",
@@ -208207,6 +208219,227 @@
       "license": "CC-BY-3.0",
       "sha256": "700d00cfb5a6deba91a822b66ff86e650981351e6ebed16253b1be111e0ea20b",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-07T02:15:11.389Z",
+    "id": "oga-cozy-pixel-ui-kit-mini-panels-buttons-bars-slots",
+    "title": "Cozy Pixel UI Kit Mini (panels, buttons, bars, slots)",
+    "author": "jelyqs",
+    "authors": [
+      "jelyqs"
+    ],
+    "summary": "Cozy Pixel UI Kit Mini (panels, buttons, bars, slots): ui kits by jelyqs. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/cozy-pixel-ui-kit-mini-panels-buttons-bars-slots",
+    "license": "CC-BY-4.0",
+    "attribution": "\"Cozy Pixel UI Kit Mini (panels, buttons, bars, slots)\" by Thu Nguyen, licensed CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Full versions: https://jelyqs.itch.io Cozy Pixel UI Kit Mini (panels, buttons, bars, slots) by jelyqs. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/cozy-pixel-ui-kit-mini-panels-buttons-bars-slots Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/cozy-pixel-ui-kit-mini-panels-buttons-bars-slots",
+    "verifiedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "1e21f137900768f08eeb9f50e67cbc4883aabc0480699629de28a1a6e87f8225",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "Pixel Art",
+      "ui",
+      "gui",
+      "cozy",
+      "buttons",
+      "panels",
+      "slots",
+      "health bar",
+      "png",
+      "code-made"
+    ],
+    "preview": "/previews/oga-cozy-pixel-ui-kit-mini-panels-buttons-bars-slots.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/oga-cozy-ui-kit.zip",
+      "file": "free-cozy-pixel-ui-kit-mini/dialog_parchment.png",
+      "license": "CC-BY-4.0",
+      "sha256": "2329ed77cdfbc1e71100eba3d99c5dcce4692e8041689c3fd2ef0d0cb2a0ed7e",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-07T02:15:51.230Z",
+    "id": "oga-retro-styled-textures",
+    "title": "Retro-Styled Textures",
+    "author": "MalikArsYasakani",
+    "authors": [
+      "MalikArsYasakani"
+    ],
+    "summary": "Retro-Styled Textures: textures by MalikArsYasakani. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "3D",
+      "RPG"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/retro-styled-textures",
+    "license": "CC0",
+    "attribution": "CC0 Public Domain Retro-Styled Textures by MalikArsYasakani. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/retro-styled-textures Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/retro-styled-textures",
+    "verifiedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "a436d865741b8e387280d05113679c99263946e4aecd459cf52ab8412e87c0b7",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "psx",
+      "ps1",
+      "noai",
+      "retro",
+      "y2k",
+      "2000s",
+      "fps",
+      "90s",
+      "medieval",
+      "Sci-Fi",
+      "industrial"
+    ],
+    "preview": "/previews/oga-retro-styled-textures.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/retro-styled_textures_school_project.zip",
+      "file": "Retro-Styled Textures School Project/Example Render.png",
+      "license": "CC0",
+      "sha256": "1e261de8dd3f436f7f3217b92634aef7a4f89628be89ea952d940f3f5f8fe290",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-07T02:35:20.418Z",
+    "id": "oga-caution-signs",
+    "title": "caution signs",
+    "author": "bleutailfly",
+    "authors": [
+      "bleutailfly"
+    ],
+    "summary": "caution signs: tilesets by bleutailfly. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/caution-signs",
+    "license": "CC0",
+    "attribution": "caution signs by bleutailfly. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/caution-signs Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/caution-signs",
+    "verifiedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "673d0cd1f40c44ebd80e2f054dddef5fcb94e8201664770508866801727bc30f",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "32x32",
+      "tiles",
+      "caution signs",
+      "stendhal"
+    ],
+    "preview": "/previews/oga-caution-signs.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/caution_ns_0.png",
+      "file": "caution_ns_0.png",
+      "license": "CC0",
+      "sha256": "2d8f42a2970ffdefef57ba456348c0e4868792ed89434ac847b992055ccb57cf",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-tree-at-sunset",
+    "title": "Tree at Sunset",
+    "author": "ChickenRoost",
+    "authors": [
+      "ChickenRoost"
+    ],
+    "summary": "Tree at Sunset: environments by ChickenRoost. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "assetType": "Environments",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/tree-at-sunset",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Tree at Sunset by ChickenRoost. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/tree-at-sunset Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/tree-at-sunset",
+    "verifiedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "e99b9a705280e9a4db43eb9a2adb0373d79825555eab11665964f33583493b9f",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "tree",
+      "sunset",
+      "bg"
+    ],
+    "preview": "/previews/oga-tree-at-sunset.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/tree_at_sunset_-_painting_0.png",
+      "file": "tree_at_sunset_-_painting_0.png",
+      "license": "CC-BY-4.0",
+      "sha256": "290bb593c4ed2f07226dffc494cb0fdaa17771be8100d35e3e53f629cd4a7062",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
     },
     "type": "free",
     "originalPrice": null,
@@ -208219,6 +208452,6 @@
     "radarScore": 50,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-06T02:40:42.626Z"
+    "lastChecked": "2026-11-07T02:37:11.331Z"
   }
 ]

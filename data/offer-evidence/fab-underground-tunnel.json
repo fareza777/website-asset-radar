@@ -1,0 +1,26 @@
+{
+  "id": "fab-underground-tunnel",
+  "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+  "checkedAt": "2026-11-07T02:09:05Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 1810120.27,
+    "salePrice": 0,
+    "currency": "IDR",
+    "licenseTier": "Personal",
+    "note": "Product page price tier shows IDR 1,810,120.27 with discountPercentage 100 and discountedPrice 0; the JSON-LD Offer agrees on currency and amount."
+  },
+  "license": {
+    "name": "Fab Standard",
+    "url": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "note": "The Fab Standard summary permits commercial and private use, modification and commercial distribution of projects, prohibits standalone redistribution and requires no publisher credit."
+  },
+  "expiresAt": "2026-11-17T14:59:00Z",
+  "expiryEvidenceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the same window applies to the Professional tier.",
+  "rating": 5,
+  "reviewCount": 18,
+  "productNote": "Read the exact product description, included-format list, price tiers and gallery image. No asset files, archive contents or engine behaviour were downloaded or tested."
+}

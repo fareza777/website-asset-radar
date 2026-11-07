@@ -4643,5 +4643,60 @@
     },
     "reason": "verification_required",
     "archivedAt": "2026-11-06T03:17:12.461Z"
+  },
+  {
+    "offer": {
+      "id": "chequered-ink-all-fonts-pack",
+      "title": "All Fonts Pack",
+      "author": "Chequered Ink",
+      "summary": "Over 1200 commercial OTF and TTF font styles by Chequered Ink in one 23 MB sorted ZIP. The page documents full commercial use for small businesses and names the archive on the product page.",
+      "categories": [
+        "UI"
+      ],
+      "dimension": "2D",
+      "assetType": "UI Kits",
+      "type": "deal",
+      "originalPrice": 190,
+      "salePrice": 19,
+      "discountPercent": 90,
+      "currency": "USD",
+      "expiresAt": "2026-11-30T23:59:00.000Z",
+      "rating": 5,
+      "reviewCount": 156,
+      "radarScore": 84,
+      "dealScore": 90,
+      "source": "itch.io",
+      "sourceUrl": "https://ci.itch.io/all-fonts-pack",
+      "canonicalSourceUrl": "https://ci.itch.io/all-fonts-pack",
+      "license": "Creator commercial license",
+      "licenseUrl": "https://ci.itch.io/all-fonts-pack",
+      "commercialUse": true,
+      "lastChecked": "2026-11-05T02:47:35Z",
+      "addedAt": "2026-11-03",
+      "formats": [
+        "ZIP"
+      ],
+      "engines": [],
+      "engineNote": "The page lists Chequered Ink All Fonts Pack Sorted.zip with OTF and TTF inside. No engine project was verified; install fonts manually.",
+      "tags": [
+        "fonts",
+        "ui",
+        "typography"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "licenseNote": "The page states pay-once unlimited commercial use for qualifying small businesses and links separate license terms. The archive was not downloaded.",
+      "priceNote": "USD purchase panel showed $190 crossed out to $19. No paid download was made.",
+      "licenseTier": null,
+      "curation": {
+        "quality": 4,
+        "value": 5,
+        "completeness": 5,
+        "reputation": 5,
+        "rationale": "1200+ named font styles in one sorted 23 MB ZIP with 156 ratings at 5.0 and an explicit pay-once commercial grant. Value is exceptional at 90% off $190; the small-business eligibility cap is a licence qualification, not a usage restriction on projects. Individual font files were not audited."
+      }
+    },
+    "reason": "verification_required",
+    "archivedAt": "2026-11-07T03:05:19.830Z"
   }
 ]

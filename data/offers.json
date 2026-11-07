@@ -1,53 +1,198 @@
 [
   {
-    "id": "chequered-ink-all-fonts-pack",
-    "title": "All Fonts Pack",
-    "author": "Chequered Ink",
-    "summary": "Over 1200 commercial OTF and TTF font styles by Chequered Ink in one 23 MB sorted ZIP. The page documents full commercial use for small businesses and names the archive on the product page.",
+    "id": "fab-underground-tunnel",
+    "title": "Underground Tunnel",
+    "author": "MacKenzie Shirk",
+    "summary": "Photogrammetry tunnel network with a central junction that opens to the surface. Most tunnel pieces are modular with optional connection sockets; the junction itself is not. Authored with baked lighting.",
     "categories": [
-      "UI"
+      "3D",
+      "RPG",
+      "Survival"
     ],
-    "dimension": "2D",
-    "assetType": "UI Kits",
-    "type": "deal",
-    "originalPrice": 190,
-    "salePrice": 19,
-    "discountPercent": 90,
-    "currency": "USD",
-    "expiresAt": "2026-11-30T23:59:00.000Z",
+    "dimension": "3D",
+    "assetType": "Environments",
+    "type": "limited_free",
+    "originalPrice": 1810120.27,
+    "salePrice": 0,
+    "discountPercent": 100,
+    "currency": "IDR",
+    "expiresAt": "2026-11-17T14:59:00Z",
     "rating": 5,
-    "reviewCount": 156,
-    "radarScore": 84,
-    "dealScore": 90,
-    "source": "itch.io",
-    "sourceUrl": "https://ci.itch.io/all-fonts-pack",
-    "canonicalSourceUrl": "https://ci.itch.io/all-fonts-pack",
-    "license": "Creator commercial license",
-    "licenseUrl": "https://ci.itch.io/all-fonts-pack",
+    "reviewCount": 18,
+    "radarScore": 62,
+    "dealScore": 84,
+    "source": "Fab",
+    "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+    "canonicalSourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
     "commercialUse": true,
-    "lastChecked": "2026-11-05T02:47:35Z",
-    "addedAt": "2026-11-03",
+    "lastChecked": "2026-11-07T02:09:05Z",
+    "addedAt": "2026-11-07",
     "formats": [
-      "ZIP"
+      "Unreal Engine"
     ],
-    "engines": [],
-    "engineNote": "The page lists Chequered Ink All Fonts Pack Sorted.zip with OTF and TTF inside. No engine project was verified; install fonts manually.",
+    "engines": [
+      "Unreal"
+    ],
+    "engineNote": "Fab lists Unreal Engine as the only included format for this product, so it is recorded as an Unreal package rather than an interchange-format import. The scene uses baked lighting written for UE4; the page states UE5 users must disable Lumen. No project was opened or performance-tested.",
     "tags": [
-      "fonts",
-      "ui",
-      "typography"
+      "tunnel",
+      "photogrammetry",
+      "industrial",
+      "modular",
+      "horror"
     ],
     "preview": null,
     "thumbnailPermission": null,
-    "licenseNote": "The page states pay-once unlimited commercial use for qualifying small businesses and links separate license terms. The archive was not downloaded.",
-    "priceNote": "USD purchase panel showed $190 crossed out to $19. No paid download was made.",
-    "licenseTier": null,
+    "publisherPreview": {
+      "url": "https://media.fab.com/image_previews/gallery_images/85114f63-719a-4842-967d-530f9536b010/39eecac3-ebc0-4708-9803-d1aa2be42cf0.png",
+      "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+      "alt": "Publisher gallery image of a photogrammetry underground tunnel junction with surface access.",
+      "credit": "MacKenzie Shirk",
+      "checkedAt": "2026-11-07T02:09:05Z",
+      "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
+    },
+    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live price tier displays IDR 1,810,120.27 with a 100% discount to free from 3 Nov 2026 15:00Z to 17 Nov 2026 14:59Z. The EULA summary page names Personal and Professional tiers without restating a numeric revenue threshold; eligibility is checked at checkout.",
+    "licenseTier": "Personal",
     "curation": {
       "quality": 4,
       "value": 5,
-      "completeness": 5,
-      "reputation": 5,
-      "rationale": "1200+ named font styles in one sorted 23 MB ZIP with 156 ratings at 5.0 and an explicit pay-once commercial grant. Value is exceptional at 90% off $190; the small-business eligibility cap is a licence qualification, not a usage restriction on projects. Individual font files were not audited."
+      "completeness": 3,
+      "reputation": 3.5,
+      "rationale": "A coherent photoreal tunnel environment with a documented modular layout, connection sockets and a video demonstration, carried by 18 marketplace ratings averaging 5.0; the sample is small, so its rating contribution is moderated. Contents are publisher-listed only — the paid archive was not downloaded or audited, which caps completeness. An individual creator, not a monitored featured publisher, limits reputation evidence."
+    }
+  },
+  {
+    "id": "fab-scifi-beast06-bull",
+    "title": "SciFi Beast06 Bull",
+    "author": "Shumniy",
+    "summary": "Low-poly animated beast character with 29 animations, three skins per item and an Epic-compatible skeleton, published for Unreal Engine and Unity. Sound and effects are not included.",
+    "categories": [
+      "3D",
+      "RPG",
+      "Platformer"
+    ],
+    "dimension": "3D",
+    "assetType": "Characters",
+    "type": "limited_free",
+    "originalPrice": 814454.55,
+    "salePrice": 0,
+    "discountPercent": 100,
+    "currency": "IDR",
+    "expiresAt": "2026-11-17T14:59:00Z",
+    "rating": 5,
+    "reviewCount": 17,
+    "radarScore": 67,
+    "dealScore": 76,
+    "source": "Fab",
+    "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+    "canonicalSourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "lastChecked": "2026-11-07T02:09:05Z",
+    "addedAt": "2026-11-07",
+    "formats": [
+      "Unreal Engine",
+      "Unity"
+    ],
+    "engines": [
+      "Unreal",
+      "Unity"
+    ],
+    "engineNote": "Fab's included-format list names both Unreal Engine and Unity for this product; the Unreal side is documented against an Epic skeleton. Animation retargeting, material setup and the Unity package layout were not opened or tested in either engine.",
+    "tags": [
+      "character",
+      "animated",
+      "low-poly",
+      "monster",
+      "pbr"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://media.fab.com/image_previews/gallery_images/07996b90-a133-4a5f-a034-7baf4dbf8597/2627b26b-19f4-4a9d-a329-7e7b205ab0ea.jpg",
+      "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+      "alt": "Publisher gallery image of the low-poly SciFi Beast06 Bull character.",
+      "credit": "Shumniy",
+      "checkedAt": "2026-11-07T02:09:05Z",
+      "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
+    },
+    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live price tier displays IDR 814,454.55 discounted 100% to free; the page also records a lower prior price of IDR 407,136.76 from an earlier campaign, which is kept here rather than presented as the list price.",
+    "licenseTier": "Personal",
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 4,
+      "reputation": 3,
+      "rationale": "The listing documents a specific scope — one animated creature, 29 animations and three skins per item — which supports a strong contents grade, and 17 ratings average 5.0 with the small-sample moderation applied. Scope is a single character rather than a full kit, so value is strong rather than exceptional. An individual creator with no separate publisher profile limits reputation."
+    }
+  },
+  {
+    "id": "fab-3d-platformer-game-bundle",
+    "title": "3D Platformer Game Bundle",
+    "author": "Raul Jaramillo",
+    "summary": "Blueprint-based platformer movement systems for Unreal Engine covering rail grinding, ziplines, a homing attack and dash pads, with a changelog noting an update to UE 5.6.",
+    "categories": [
+      "Platformer",
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Tools & Plugins",
+    "type": "limited_free",
+    "originalPrice": 1176514.82,
+    "salePrice": 0,
+    "discountPercent": 100,
+    "currency": "IDR",
+    "expiresAt": "2026-11-17T14:59:00Z",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "radarScore": 57,
+    "dealScore": 73,
+    "source": "Fab",
+    "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
+    "canonicalSourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "lastChecked": "2026-11-07T02:09:05Z",
+    "addedAt": "2026-11-07",
+    "formats": [
+      "Unreal Engine"
+    ],
+    "engines": [
+      "Unreal"
+    ],
+    "engineNote": "Fab lists Unreal Engine as the only included format, so this is an Unreal Blueprint collection rather than an interchange-format import. Input mapping, project settings and migration to engine versions other than the documented UE 5.6 were not tested.",
+    "tags": [
+      "platformer",
+      "blueprint",
+      "movement",
+      "gameplay",
+      "zipline"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://media.fab.com/image_previews/gallery_images/d25a202e-5cbd-433a-b1c6-387eb1311363/e9608a2d-4255-451c-bb81-b99736aef3b3.png",
+      "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
+      "alt": "Publisher gallery image of the 3D platformer bundle showing rail grinding and dash-pad mechanics.",
+      "credit": "Raul Jaramillo",
+      "checkedAt": "2026-11-07T02:09:05Z",
+      "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
+    },
+    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live price tier displays IDR 1,176,514.82 discounted 100% to free; a lower prior price of IDR 588,166.89 is recorded on the page from an earlier campaign.",
+    "licenseTier": "Personal",
+    "curation": {
+      "quality": 3.5,
+      "value": 4,
+      "completeness": 3,
+      "reputation": 3,
+      "rationale": "Four named mechanics with a changelog that records a UE 5.6 update give a documented, usable scope, but the marketplace average is 4.4 over 13 ratings — below the other two products here, and the small sample is moderated further. Contents are publisher-listed only, so completeness stays adequate. An individual creator without a monitored publisher profile limits reputation."
     }
   }
 ]

@@ -261,7 +261,7 @@
   {
     "id": "an-underground-world",
     "name": "An underground world",
-    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, RPG sounds, plus 2D mine, block and ruined-cathedral tiles, Techno Dungeons II and a CC0 zombie. Credit CC-BY authors.",
+    "description": "Modular dungeon and cave models, an isometric miniature dungeon, stone textures, RPG sounds, plus 2D mine, block and ruined-cathedral tiles, Techno Dungeons II, a CC0 zombie and mine hazard signage. Credit CC-BY authors.",
     "assetIds": [
       "kenney-modular-dungeon-kit",
       "kenney-modular-cave-kit",
@@ -277,11 +277,12 @@
       "oga-more-blocks",
       "oga-ruined-cathedral-tileset",
       "oga-super-dead-merc-techno-dungeons-ii",
-      "oga-pixelated-malformed-zombie-0"
+      "oga-pixelated-malformed-zombie-0",
+      "oga-caution-signs"
     ],
     "cover": "kenney-modular-dungeon-kit",
     "color": "blue",
-    "updatedAt": "2026-11-04T02:47:30.000Z"
+    "updatedAt": "2026-11-07T03:03:18.000Z"
   },
   {
     "id": "the-outside-world",
@@ -438,7 +439,7 @@
   {
     "id": "ps1-style-surfaces",
     "name": "PS1-style surfaces",
-    "description": "CC0 low-resolution seamless textures for a retro 3D look: brick buildings and walls, dry ground, sand, lava, kitchen tile, naval and industrial metal, steam and matcap spheres. Filter and scale decide the era; import maps manually.",
+    "description": "CC0 low-resolution seamless textures and retro-styled sets for a PS1-era 3D look: brick walls, dry ground, sand, lava, kitchen tile, naval metal, steam and matcaps. Filter and scale decide the era.",
     "assetIds": [
       "oga-brick-building-1",
       "oga-brick-building-set-2",
@@ -454,11 +455,12 @@
       "oga-animated-steam",
       "oga-the-cool-pack",
       "oga-assorted-matcaps",
-      "oga-16-cool-pixelated-building-construction-textures-32x32"
+      "oga-16-cool-pixelated-building-construction-textures-32x32",
+      "oga-retro-styled-textures"
     ],
     "cover": "oga-psx-styled-metal-crate",
     "color": "mint",
-    "updatedAt": "2026-11-04T02:51:15.000Z"
+    "updatedAt": "2026-11-07T03:03:18.000Z"
   },
   {
     "id": "the-isometric-view",

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T02:02:46.267Z",
+  "generatedAt": "2026-11-07T02:02:02.439Z",
   "checks": [
     {
       "id": "synty",
       "url": "https://syntystore.com/",
       "status": "permission_review",
-      "attemptedAt": "2026-11-06T02:02:23.963Z",
+      "attemptedAt": "2026-11-07T02:01:41.611Z",
       "checkedAt": null,
       "httpStatus": null,
       "fingerprint": null,
@@ -17,10 +17,10 @@
       "id": "kenney",
       "url": "https://kenney.nl/assets",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:23.965Z",
-      "checkedAt": "2026-11-06T02:02:26.517Z",
+      "attemptedAt": "2026-11-07T02:01:41.612Z",
+      "checkedAt": "2026-11-07T02:01:44.749Z",
       "httpStatus": 200,
-      "fingerprint": "a93acf2bb9b984e9f8080077e7921d85500d55d4526f362881fd65a7f5821996",
+      "fingerprint": "32356d5e4725cc69a45822fdad49ec1de65095e9de332c53db9a93f78b034279",
       "productUrls": [
         "https://kenney.nl/assets/city-kit-industrial",
         "https://kenney.nl/assets/city-kit-roads",
@@ -39,15 +39,15 @@
         "https://kenney.nl/assets/tiny-city",
         "https://kenney.nl/assets/tiny-factory"
       ],
-      "changed": false,
+      "changed": true,
       "note": "Public index observed. A changed fingerprint is a review signal, not verified pricing, license or release evidence."
     },
     {
       "id": "quaternius",
       "url": "https://quaternius.com/",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:26.517Z",
-      "checkedAt": "2026-11-06T02:02:28.584Z",
+      "attemptedAt": "2026-11-07T02:01:44.749Z",
+      "checkedAt": "2026-11-07T02:01:47.185Z",
       "httpStatus": 200,
       "fingerprint": "08e5253d78638fa046b50e5c687c4546d08228b0696570be8702244a3120ccaf",
       "productUrls": [
@@ -142,8 +142,8 @@
       "id": "naturemanufacture",
       "url": "https://naturemanufacture.com/",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:28.585Z",
-      "checkedAt": "2026-11-06T02:02:32.081Z",
+      "attemptedAt": "2026-11-07T02:01:47.185Z",
+      "checkedAt": "2026-11-07T02:01:50.953Z",
       "httpStatus": 200,
       "fingerprint": "603da244a0dcdb01e82ee24fdac31602f11cfd074a6b0bedc30703cdb5c9829a",
       "productUrls": [
@@ -158,8 +158,8 @@
       "id": "polyperfect",
       "url": "https://www.polyperfect.com/products",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:32.081Z",
-      "checkedAt": "2026-11-06T02:02:34.329Z",
+      "attemptedAt": "2026-11-07T02:01:50.953Z",
+      "checkedAt": "2026-11-07T02:01:53.062Z",
       "httpStatus": 200,
       "fingerprint": "0b8538d8448dbf4cc6dd559f3b17b180a570fff4f12c04d97dbd5b6eedb1c5c9",
       "productUrls": [
@@ -172,8 +172,8 @@
       "id": "kaykit",
       "url": "https://kaylousberg.com/game-assets",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:34.329Z",
-      "checkedAt": "2026-11-06T02:02:37.541Z",
+      "attemptedAt": "2026-11-07T02:01:53.062Z",
+      "checkedAt": "2026-11-07T02:01:55.417Z",
       "httpStatus": 200,
       "fingerprint": "e4d4069808d3254cde69680550715eefb77a2fcb52cea7f4f17455fb2a14da03",
       "productUrls": [
@@ -203,19 +203,19 @@
       "id": "infinity-pbr",
       "url": "https://infinitypbr.com/",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:37.541Z",
-      "checkedAt": "2026-11-06T02:02:40.014Z",
+      "attemptedAt": "2026-11-07T02:01:55.417Z",
+      "checkedAt": "2026-11-07T02:01:57.569Z",
       "httpStatus": 200,
       "fingerprint": "b3d582ea3da16bb685125edf03f921d48360386d9e42676664510701e1ded663",
       "productUrls": [],
-      "changed": true,
+      "changed": false,
       "note": "Public index observed. A changed fingerprint is a review signal, not verified pricing, license or release evidence."
     },
     {
       "id": "craftpix",
       "url": "https://craftpix.net/freebies/",
       "status": "permission_review",
-      "attemptedAt": "2026-11-06T02:02:40.014Z",
+      "attemptedAt": "2026-11-07T02:01:57.569Z",
       "checkedAt": null,
       "httpStatus": null,
       "fingerprint": null,
@@ -226,10 +226,10 @@
     {
       "id": "ansimuz",
       "url": "https://ansimuz.itch.io/",
-      "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:40.014Z",
+      "status": "blocked",
+      "attemptedAt": "2026-11-07T02:01:57.569Z",
       "checkedAt": "2026-11-06T02:02:43.141Z",
-      "httpStatus": 200,
+      "httpStatus": null,
       "fingerprint": "306d29b23bbebe89b364853927812ad067e80af873a098fb07fa1d0e2d6305bb",
       "productUrls": [
         "https://ansimuz.itch.io/16-bit-secret-room-mystery-props-pack-new-rooms-added-regularly",
@@ -383,22 +383,22 @@
         "https://ansimuz.itch.io/tiny-rpg-witch-enemy",
         "https://ansimuz.itch.io/tinyrpg-collection"
       ],
-      "changed": true,
-      "note": "Public index observed. A changed fingerprint is a review signal, not verified pricing, license or release evidence."
+      "changed": false,
+      "note": "Index unavailable (429); no bypass attempted."
     },
     {
       "id": "pixel-frog",
       "url": "https://pixelfrog-assets.itch.io/",
       "status": "checked",
-      "attemptedAt": "2026-11-06T02:02:43.141Z",
-      "checkedAt": "2026-11-06T02:02:46.267Z",
+      "attemptedAt": "2026-11-07T02:01:59.728Z",
+      "checkedAt": "2026-11-07T02:02:02.439Z",
       "httpStatus": 200,
       "fingerprint": "711504c7e4091d4353435a5968d9314ae940605711b952d420b2f769e848424f",
       "productUrls": [
         "https://pixelfrog-assets.itch.io/tiny-swords",
         "https://pixelfrog-assets.itch.io/tiny-swords-warfare"
       ],
-      "changed": true,
+      "changed": false,
       "note": "Public index observed. A changed fingerprint is a review signal, not verified pricing, license or release evidence."
     }
   ]
