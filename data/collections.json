@@ -486,5 +486,23 @@
     "cover": "kenney-isometric-miniature-farm",
     "color": "blue",
     "updatedAt": "2026-11-05T03:08:12.133Z"
+  },
+  {
+    "id": "retro-arcade-classics",
+    "name": "Retro arcade classics",
+    "description": "Pixel-art arcade cabinets, shoot-em-ups, racing, retro characters and animated backgrounds. Mix and match for classic arcade-style games; styles vary so pick one palette.",
+    "assetIds": [
+      "kenney-mini-arcade",
+      "kenney-pixel-shmup",
+      "kenney-pixel-vehicle-pack",
+      "kenney-animated-characters-retro",
+      "kenney-pattern-pack-pixel",
+      "kenney-pixel-line-platformer",
+      "oga-arcade-platformer-assets",
+      "oga-animated-lofi-pixel-art-background-320x180"
+    ],
+    "cover": "kenney-mini-arcade",
+    "color": "lime",
+    "updatedAt": "2026-11-08T02:37:40.315Z"
   }
 ]
