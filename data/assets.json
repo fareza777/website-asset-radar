@@ -208401,6 +208401,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-07T02:37:11.331Z",
     "id": "oga-tree-at-sunset",
     "title": "Tree at Sunset",
     "author": "ChickenRoost",
@@ -208408,16 +208420,16 @@
       "ChickenRoost"
     ],
     "summary": "Tree at Sunset: environments by ChickenRoost. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
-    "assetType": "Environments",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
+    "assetType": "Environments",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/tree-at-sunset",
     "license": "CC-BY-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "Tree at Sunset by ChickenRoost. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/tree-at-sunset Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "verificationUrl": "https://opengameart.org/content/tree-at-sunset",
     "verifiedAt": "2026-11-07",
     "addedAt": "2026-11-07",
@@ -208440,7 +208452,62 @@
       "license": "CC-BY-4.0",
       "sha256": "290bb593c4ed2f07226dffc494cb0fdaa17771be8100d35e3e53f629cd4a7062",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
-    },
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-08T02:47:06.987Z",
+    "id": "oga-sixshooterindicator",
+    "title": "SixShooterIndicator",
+    "author": "awesomeduck",
+    "authors": [
+      "awesomeduck"
+    ],
+    "summary": "SixShooterIndicator: ui kits by awesomeduck. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/sixshooterindicator",
+    "license": "CC0",
+    "attribution": "SixShooterIndicator by awesomeduck. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/sixshooterindicator Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/sixshooterindicator",
+    "verifiedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "5872f6d56f3743f04d4d660066db2a3dd1511574ec6e5f805f1efb9c56bd94ce",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "gui",
+      "32x64"
+    ],
+    "preview": "/previews/oga-sixshooterindicator.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/Bullets.zip",
+      "file": "SixShooterIndicator_0.png",
+      "license": "CC0",
+      "sha256": "beeb9261dbb16eeaa84e87fe87b08f2efacb98811bcccd3c5d3da3abb6b247df",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -208452,6 +208519,154 @@
     "radarScore": 50,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-07T02:37:11.331Z"
+    "lastChecked": "2026-11-08T02:47:37.227Z",
+    "id": "oga-roman-elk-spritesheet",
+    "title": "Roman Elk Spritesheet",
+    "author": "pyranostudios",
+    "authors": [
+      "pyranostudios"
+    ],
+    "summary": "Roman Elk Spritesheet: characters by pyranostudios. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/roman-elk-spritesheet",
+    "license": "CC-BY-4.0",
+    "attribution": "Elk Legionary used with permission from Prismatic: Nox's Gate Roman Elk Spritesheet by pyranostudios. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/roman-elk-spritesheet Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/roman-elk-spritesheet",
+    "verifiedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "5fb843409ba12afd0e3783c5e1afd8b8dcbe79b8f9eba57c3358235480440bf2",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "Enemy",
+      "animal",
+      "roman",
+      "soldier"
+    ],
+    "preview": "/previews/oga-roman-elk-spritesheet.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/elklegionary_0.png",
+      "file": "elklegionary_0.png",
+      "license": "CC-BY-4.0",
+      "sha256": "8e71b32d76b235ed806bac6760cc3e71ec634fd465c086201fcb1523c7eb42eb",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-08T02:47:58.982Z",
+    "id": "oga-axe-4",
+    "title": "Axe",
+    "author": "veeru5656",
+    "authors": [
+      "veeru5656"
+    ],
+    "summary": "Axe: icons by veeru5656. JPG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "Icons",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/axe-4",
+    "license": "CC0",
+    "attribution": "Axe by veeru5656. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/axe-4 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/axe-4",
+    "verifiedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "d4b9993485a4bf3d188b35a3bc0ef66f30d3c820a1979be9c80e38e2706fe6d8",
+    "formats": [
+      "JPG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "axe",
+      "Icon",
+      "weapon"
+    ],
+    "preview": "/previews/oga-axe-4.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/axe_0.zip",
+      "file": "Axe.jpg",
+      "license": "CC0",
+      "sha256": "227d707fc29c4ea94a6d1efc11cd6c8d2e92ab88c604d17bb6f5ebc6b31cb24d",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-simple-pixel-art-tile",
+    "title": "simple pixel art tile",
+    "author": "AdebGameSoft",
+    "authors": [
+      "AdebGameSoft"
+    ],
+    "summary": "simple pixel art tile: tilesets by AdebGameSoft. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "assetType": "Tilesets",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/simple-pixel-art-tile",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "simple pixel art tile by AdebGameSoft. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/simple-pixel-art-tile Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/simple-pixel-art-tile",
+    "verifiedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "7f9101128c4019cf65f4c101327c4d4ec2eb751f2e3cdf9e57289b8f088d481a",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "pixelart",
+      "Platformer"
+    ],
+    "preview": "/previews/oga-simple-pixel-art-tile.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/Forest_32.png",
+      "file": "Forest_32.png",
+      "license": "CC0",
+      "sha256": "6a428bcb30c6c72e54f4dce21feba62d702cfa46faf533b402c750b6aece64c1",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-08T02:48:17.049Z"
   }
 ]
