@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-sixshooterindicator",
+  "sourceUrl": "https://opengameart.org/content/sixshooterindicator",
+  "checkedAt": "2026-11-08T02:47:06.987Z",
+  "httpStatus": 200,
+  "pageSha256": "5872f6d56f3743f04d4d660066db2a3dd1511574ec6e5f805f1efb9c56bd94ce",
+  "title": "SixShooterIndicator",
+  "authors": [
+    "awesomeduck"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "SixShooterIndicator by awesomeduck. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/sixshooterindicator Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Bullets_0.png",
+    "https://opengameart.org/sites/default/files/Bullets.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Bullets.zip",
+  "downloadSha256": "f2180d0e2152a8354efb8afbcce5c6dd8bd1b2c38f048ae19424ec758164dbe8",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 7,
+  "licenseFiles": [],
+  "previewFile": "SixShooterIndicator_0.png",
+  "previewSha256": "beeb9261dbb16eeaa84e87fe87b08f2efacb98811bcccd3c5d3da3abb6b247df",
+  "sourceTags": [
+    "gui",
+    "32x64"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

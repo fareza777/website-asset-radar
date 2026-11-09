@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-simple-pixel-art-tile",
+  "sourceUrl": "https://opengameart.org/content/simple-pixel-art-tile",
+  "checkedAt": "2026-11-08T02:48:17.049Z",
+  "httpStatus": 200,
+  "pageSha256": "7f9101128c4019cf65f4c101327c4d4ec2eb751f2e3cdf9e57289b8f088d481a",
+  "title": "simple pixel art tile",
+  "authors": [
+    "AdebGameSoft"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "simple pixel art tile by AdebGameSoft. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/simple-pixel-art-tile Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Forest_32.png",
+    "https://opengameart.org/sites/default/files/Forest_64_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Forest_32.png",
+  "downloadSha256": "6a428bcb30c6c72e54f4dce21feba62d702cfa46faf533b402c750b6aece64c1",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "Forest_32.png",
+  "previewSha256": "6a428bcb30c6c72e54f4dce21feba62d702cfa46faf533b402c750b6aece64c1",
+  "sourceTags": [
+    "pixelart",
+    "Platformer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

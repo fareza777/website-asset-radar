@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-roman-elk-spritesheet",
+  "sourceUrl": "https://opengameart.org/content/roman-elk-spritesheet",
+  "checkedAt": "2026-11-08T02:47:37.227Z",
+  "httpStatus": 200,
+  "pageSha256": "5fb843409ba12afd0e3783c5e1afd8b8dcbe79b8f9eba57c3358235480440bf2",
+  "title": "Roman Elk Spritesheet",
+  "authors": [
+    "pyranostudios"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Elk Legionary used with permission from Prismatic: Nox's Gate Roman Elk Spritesheet by pyranostudios. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/roman-elk-spritesheet Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/elklegionary_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/elklegionary_0.png",
+  "downloadSha256": "8e71b32d76b235ed806bac6760cc3e71ec634fd465c086201fcb1523c7eb42eb",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "elklegionary_0.png",
+  "previewSha256": "8e71b32d76b235ed806bac6760cc3e71ec634fd465c086201fcb1523c7eb42eb",
+  "sourceTags": [
+    "Enemy",
+    "animal",
+    "roman",
+    "soldier"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
