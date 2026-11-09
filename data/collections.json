@@ -95,13 +95,13 @@
       "oga-golden-ui",
       "oga-free-keyboard-and-controllers-prompts-pack",
       "oga-ui-pieces",
-      "oga-vampire-hand-cursor",
       "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
-      "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg"
+      "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg",
+      "oga-cute-penguin-4k-pixel-loading-bar-retro-ui-progress-bar"
     ],
     "cover": "kenney-ui-pack",
     "color": "lime",
-    "updatedAt": "2026-11-03T07:14:00.000Z"
+    "updatedAt": "2026-11-09T02:33:18.045Z"
   },
   {
     "id": "a-town-of-your-own",
@@ -328,13 +328,13 @@
       "polyhaven-brick-floor-04",
       "polyhaven-plaster-stone-wall-02",
       "polyhaven-cobblestone-floor-06",
-      "oga-4k-brick-wall-seamless",
       "oga-ground-textures-seamless-0",
-      "oga-8-seamless-procedural-textures-marble-moss-lava-stone-sand-ice-rust-wood"
+      "oga-8-seamless-procedural-textures-marble-moss-lava-stone-sand-ice-rust-wood",
+      "ambientcg-planks040"
     ],
     "cover": "ambientcg-bricks105",
     "color": "mint",
-    "updatedAt": "2026-11-03T01:36:00.000Z"
+    "updatedAt": "2026-11-09T02:33:18.045Z"
   },
   {
     "id": "snow-on-the-ground",
@@ -499,10 +499,34 @@
       "kenney-pattern-pack-pixel",
       "kenney-pixel-line-platformer",
       "oga-arcade-platformer-assets",
-      "oga-animated-lofi-pixel-art-background-320x180"
+      "oga-animated-lofi-pixel-art-background-320x180",
+      "oga-explosion-set-1-m484-games",
+      "oga-bullet-collection-2-m484-games",
+      "oga-free-pixel-effects-pack",
+      "oga-mine-game-graphics"
     ],
     "cover": "kenney-mini-arcade",
     "color": "lime",
-    "updatedAt": "2026-11-08T02:37:40.315Z"
+    "updatedAt": "2026-11-09T02:33:18.045Z"
+  },
+  {
+    "id": "tiny-palettes",
+    "name": "Tiny palettes",
+    "description": "One-bit, duotone and pico-8-style tilesets, roguelike maps and input prompts built on ultra-limited color palettes. A fast route to a cohesive retro look; each pack has its own palette rules, so check the included files before mixing.",
+    "assetIds": [
+      "kenney-1-bit-pack",
+      "kenney-1-bit-platformer-pack",
+      "kenney-micro-roguelike",
+      "kenney-pico-8-platformer",
+      "kenney-pico-8-city",
+      "kenney-input-prompts-pixel-1-bit",
+      "oga-1-bit-platformer-pack-0",
+      "oga-pico-8-overworld-tileset",
+      "oga-tileset-1bit-color",
+      "oga-simple-duotone-tileset"
+    ],
+    "cover": "kenney-1-bit-pack",
+    "color": "blue",
+    "updatedAt": "2026-11-09T02:33:18.045Z"
   }
 ]

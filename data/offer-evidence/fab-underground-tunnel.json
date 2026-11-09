@@ -1,15 +1,15 @@
 {
   "id": "fab-underground-tunnel",
   "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-  "checkedAt": "2026-11-07T02:09:05Z",
+  "checkedAt": "2026-11-09T02:26:50.322Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1810120.27,
+    "originalPrice": 1809462.87,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "Product page price tier shows IDR 1,810,120.27 with discountPercentage 100 and discountedPrice 0; the JSON-LD Offer agrees on currency and amount."
+    "note": "Product page price data shows IDR 1,809,462.87 with discountPercentage 100 and discountedPrice 0; the JSON-LD Offer agrees on currency IDR and amount. discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset. The JSON-LD AggregateRating shows ratingValue 5 with reviewCount 3 (the displayed count differs from the 18 observed on 7 Nov)."
   },
   "license": {
     "name": "Fab Standard",
@@ -21,6 +21,6 @@
   "expiryEvidenceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
   "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the same window applies to the Professional tier.",
   "rating": 5,
-  "reviewCount": 18,
+  "reviewCount": 3,
   "productNote": "Read the exact product description, included-format list, price tiers and gallery image. No asset files, archive contents or engine behaviour were downloaded or tested."
 }
