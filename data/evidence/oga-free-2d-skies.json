@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-free-2d-skies",
+  "sourceUrl": "https://opengameart.org/content/free-2d-skies",
+  "checkedAt": "2026-11-10T02:41:12.689Z",
+  "httpStatus": 200,
+  "pageSha256": "d5ddb69492a7aab32fdb329479ea6375b87c2b84be6595f768a613e5c434eb21",
+  "title": "Free 2D skies",
+  "authors": [
+    "Nerdzmasterz"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Free 2D skies by Nerdzmasterz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/free-2d-skies Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/skiesfree.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/skiesfree.zip",
+  "downloadSha256": "61cb37257803c9628a34f8598a141b1df1fe19d90a3a538741d047dd89e547cc",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 3,
+  "licenseFiles": [],
+  "previewFile": "DeepSea.png",
+  "previewSha256": "9a3ddc781c208f579d587b5c68f0ba0aad4017ce44f008d31cfd8b2f18655b7b",
+  "sourceTags": [
+    "pixel",
+    "sky",
+    "Platformer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

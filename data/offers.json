@@ -194,5 +194,71 @@
       "reputation": 3,
       "rationale": "Four named mechanics with a changelog that records a UE 5.6 update give a documented, usable scope, but the marketplace average is 4.4 over 13 ratings — below the other two products here, and the small sample is moderated further. Contents are publisher-listed only, so completeness stays adequate. An individual creator without a monitored publisher profile limits reputation."
     }
+  },
+  {
+    "id": "winlu-fantasy-tileset-dungeon",
+    "title": "Winlu Fantasy Tileset - Dungeon",
+    "author": "WinLu",
+    "authors": [
+      "WinLu"
+    ],
+    "summary": "A 48x48 pixel-art dungeon tileset covering caves, crystal caverns, sewers, tombs and lava halls, with spike and fire traps, hidden doors and animated portals. The separate non-RPG Maker texture files need manual assembly.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "type": "deal",
+    "originalPrice": 25,
+    "salePrice": 17.5,
+    "discountPercent": 30,
+    "currency": "USD",
+    "expiresAt": "2026-11-30T18:10:00Z",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "radarScore": 76,
+    "dealScore": 72,
+    "source": "itch.io",
+    "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
+    "canonicalSourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
+    "license": "Creator license",
+    "licenseUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
+    "commercialUse": true,
+    "lastChecked": "2026-11-10T02:07:34.520Z",
+    "addedAt": "2026-11-10",
+    "formats": [
+      "ZIP"
+    ],
+    "engines": [
+      "RPG Maker"
+    ],
+    "engineNote": "The listing documents RPG Maker use plus a separate 'Non_RPGMaker_textures.zip' for other engines. Only ZIP packages are listed, so no native engine project, material/shader set or performance result is claimed; extract and import the sheets manually. Archives were not downloaded or tested.",
+    "tags": [
+      "dungeon",
+      "tileset",
+      "fantasy",
+      "pixel art",
+      "48x48"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzExOTAwNzEzLnBuZw==/original/rjR9Dm.png",
+      "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
+      "alt": "Publisher gallery image from Winlu's fantasy dungeon tileset page showing stone wall, floor and prop tiles.",
+      "credit": "WinLu",
+      "checkedAt": "2026-11-10T02:07:34.520Z",
+      "note": "Observed as the first image in this exact product's public itch.io gallery during the same permitted fetch. Linked, not copied; this image check does not refresh price or license verification."
+    },
+    "licenseNote": "Creator terms on the product page: usable in commercial projects, editable and modifiable, credit optional, redistribution or resale of the pack prohibited. Not CC0.",
+    "priceNote": "USD 25.00 reduced to a USD 17.50 minimum ('or more' pay-what-you-want) for the paid pack. Displayed in USD; no currency conversion applied.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4.5,
+      "value": 4.5,
+      "completeness": 4.5,
+      "reputation": 4,
+      "rationale": "Documented breadth (caves, crystal caverns, sewers, tombs, lava halls, traps, hidden doors, animated portals) with a 4.8/5 display from 16 marketplace ratings and three separate downloads including other-engine textures. Two sibling Winlu tilesets previously passed full price and license verification at the same 30% tier. Grades are strong rather than exceptional because the paid archives were not audited."
+    }
   }
 ]

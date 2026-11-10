@@ -208958,6 +208958,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-09T02:33:11.784Z",
     "id": "oga-pixel-art-animations-and-enemies-from-gop-go-go-project",
     "title": "Pixel art animations and enemies from 'Gop go go' project",
     "author": "madmedicsoft",
@@ -208965,16 +208977,16 @@
       "madmedicsoft"
     ],
     "summary": "Pixel art animations and enemies from 'Gop go go' project: vfx by madmedicsoft. PNG content verified from a free CC0 download. Import and set up in your project.",
-    "assetType": "VFX",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
+    "assetType": "VFX",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/pixel-art-animations-and-enemies-from-gop-go-go-project",
     "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "attribution": "you may use , modify without any restrictions Pixel art animations and enemies from 'Gop go go' project by madmedicsoft. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/pixel-art-animations-and-enemies-from-gop-go-go-project Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "verificationUrl": "https://opengameart.org/content/pixel-art-animations-and-enemies-from-gop-go-go-project",
     "verifiedAt": "2026-11-09",
     "addedAt": "2026-11-09",
@@ -208996,6 +209008,207 @@
       "license": "CC0",
       "sha256": "232df1e1c659ae4bafe4bf02098f1e041a56b464979f3cf1023f368ad3b25cde",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-10T02:21:12.891Z",
+    "id": "oga-castle-4",
+    "title": "castle",
+    "author": "Kate.vici",
+    "authors": [
+      "Kate.vici"
+    ],
+    "summary": "castle: environments by Kate.vici. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Environments",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/castle-4",
+    "license": "CC-BY-4.0",
+    "attribution": "castle by Kate.vici. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/castle-4 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/castle-4",
+    "verifiedAt": "2026-11-10",
+    "addedAt": "2026-11-10",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "b76c3a07b58695ccb07b8b7d6eaac0c7162c83b6c8b52efda1c8d15bb24ebd7c",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "building"
+    ],
+    "preview": "/previews/oga-castle-4.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/castle_1.zip",
+      "file": "castle/2/1.png",
+      "license": "CC-BY-4.0",
+      "sha256": "b7cd9cf110a7e767679e63047e65d8ccfb9eaf9622daa6d2b45394888a954836",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-10T02:40:43.449Z",
+    "id": "oga-corporate-building",
+    "title": "Corporate Building",
+    "author": "GileanBenton",
+    "authors": [
+      "GileanBenton"
+    ],
+    "summary": "Corporate Building: environments by GileanBenton. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Environments",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/corporate-building",
+    "license": "CC-BY-4.0",
+    "attribution": "Credit is appreciated if you use this asset. Corporate Building by GileanBenton. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/corporate-building Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/corporate-building",
+    "verifiedAt": "2026-11-10",
+    "addedAt": "2026-11-10",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "296519c7cd5d1a4d1ee785a1d04d36fee40ba6d40039b0e1e213bb1289efde04",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "building",
+      "office"
+    ],
+    "preview": "/previews/oga-corporate-building.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/Gilean%27s%20Corporate%20Building.png",
+      "file": "Gilean's Corporate Building.png",
+      "license": "CC-BY-4.0",
+      "sha256": "7b4888b63ab04e43d10022dc14478fe2a1fe14e00285838ecc24b4fff07872bc",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-10T02:41:12.689Z",
+    "id": "oga-free-2d-skies",
+    "title": "Free 2D skies",
+    "author": "Nerdzmasterz",
+    "authors": [
+      "Nerdzmasterz"
+    ],
+    "summary": "Free 2D skies: tilesets by Nerdzmasterz. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/free-2d-skies",
+    "license": "CC0",
+    "attribution": "Free 2D skies by Nerdzmasterz. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/free-2d-skies Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/free-2d-skies",
+    "verifiedAt": "2026-11-10",
+    "addedAt": "2026-11-10",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "d5ddb69492a7aab32fdb329479ea6375b87c2b84be6595f768a613e5c434eb21",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "pixel",
+      "sky",
+      "Platformer"
+    ],
+    "preview": "/previews/oga-free-2d-skies.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/skiesfree.zip",
+      "file": "DeepSea.png",
+      "license": "CC0",
+      "sha256": "9a3ddc781c208f579d587b5c68f0ba0aad4017ce44f008d31cfd8b2f18655b7b",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-september-minijam-disappointing-apocalypse",
+    "title": "September minijam (Disappointing apocalypse)",
+    "author": "Garfunkel",
+    "authors": [
+      "Garfunkel"
+    ],
+    "summary": "September minijam (Disappointing apocalypse): icons by Garfunkel. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "assetType": "Icons",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/september-minijam-disappointing-apocalypse",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "September minijam (Disappointing apocalypse) by Garfunkel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/september-minijam-disappointing-apocalypse Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/september-minijam-disappointing-apocalypse",
+    "verifiedAt": "2026-11-10",
+    "addedAt": "2026-11-10",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "bb7631355a0408f71c2f7f9b88a1af323c576a0eb3ef29aed1e2fea546bb752c",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "Map",
+      "dying",
+      "icons"
+    ],
+    "preview": "/previews/oga-september-minijam-disappointing-apocalypse.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/disappointing%20apocalypse.zip",
+      "file": "disappointing apocalypse/victim_dying.png",
+      "license": "CC0",
+      "sha256": "8fddbb80fea6712054134c52deea49ac517e7d572a51012e6779011ac0a5ee4c",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
     },
     "type": "free",
     "originalPrice": null,
@@ -209008,6 +209221,6 @@
     "radarScore": 53,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-09T02:33:11.784Z"
+    "lastChecked": "2026-11-10T02:41:24.155Z"
   }
 ]

@@ -1,0 +1,34 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-castle-4",
+  "sourceUrl": "https://opengameart.org/content/castle-4",
+  "checkedAt": "2026-11-10T02:21:12.891Z",
+  "httpStatus": 200,
+  "pageSha256": "b76c3a07b58695ccb07b8b7d6eaac0c7162c83b6c8b52efda1c8d15bb24ebd7c",
+  "title": "castle",
+  "authors": [
+    "Kate.vici"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "castle by Kate.vici. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/castle-4 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/castle_1.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/castle_1.zip",
+  "downloadSha256": "844419c8e09ae669d06a3629db1affb69771ebab4e398ce8b5d4ade515b0ee2d",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 16,
+  "licenseFiles": [],
+  "previewFile": "castle/2/1.png",
+  "previewSha256": "b7cd9cf110a7e767679e63047e65d8ccfb9eaf9622daa6d2b45394888a954836",
+  "sourceTags": [
+    "building"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
