@@ -1,0 +1,42 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-512x512-explosion",
+  "sourceUrl": "https://opengameart.org/content/512x512-explosion",
+  "checkedAt": "2026-11-11T02:16:32.954Z",
+  "httpStatus": 200,
+  "pageSha256": "0586defd746dc62951ca2b9c864d3e4277efbe71b2863f0d90ec409dc8f5f489",
+  "title": "512x512 explosion",
+  "authors": [
+    "johndekale"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "CC0 512x512 explosion by johndekale. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/512x512-explosion Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/explosion_512.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/explosion_512.zip",
+  "downloadSha256": "1b82d7aa069d253c97c760a909bd0592300caedac26b860124316d2e2c536a83",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 60,
+  "licenseFiles": [],
+  "previewFile": "0019.png",
+  "previewSha256": "545d6a21fa542200b36fe11f4818eba2e16fe93212e7d06a8b4cd4d82a75e41d",
+  "sourceTags": [
+    "explosion",
+    "fire",
+    "smoke",
+    "smoke fade",
+    "512",
+    "512px",
+    "512x512",
+    "png",
+    ".png"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -158,7 +158,7 @@
   {
     "id": "somewhere-in-orbit",
     "name": "Somewhere in orbit",
-    "description": "Sci-fi models, shooter art, blasters, planets, UI and SFX, plus CC-BY space backdrops, lasers, an alien skin, a CC0 space-warrior sheet, a CC0 crimson moon sprite and a PS1 metal crate for retro cockpit props. Credit CC-BY authors.",
+    "description": "Sci-fi kits, simple-space tiles, an alien UFO pack, blasters, planets, UI and SFX, plus CC-BY backdrops and lasers, a CC0 space warrior, a crimson moon sprite and a PS1 metal crate. Credit CC-BY authors.",
     "assetIds": [
       "kenney-space-kit",
       "kenney-modular-space-kit",
@@ -169,16 +169,17 @@
       "kenney-planets",
       "kenney-skyboxes-space",
       "kenney-space-shooter-remastered",
+      "kenney-simple-space",
+      "kenney-alien-ufo-pack",
       "oga-cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas",
       "oga-lasers-and-beams",
       "oga-space-warriors",
-      "oga-alien-skin-texture",
       "oga-pixel-art-firey-crimson-moon",
       "oga-psx-styled-metal-crate"
     ],
     "cover": "kenney-space-station-kit",
     "color": "blue",
-    "updatedAt": "2026-11-04T02:51:15.000Z"
+    "updatedAt": "2026-11-11T03:09:08Z"
   },
   {
     "id": "one-more-jump",
@@ -490,7 +491,7 @@
   {
     "id": "retro-arcade-classics",
     "name": "Retro arcade classics",
-    "description": "Pixel-art arcade cabinets, shoot-em-ups, racing, retro characters and animated backgrounds. Mix and match for classic arcade-style games; styles vary so pick one palette.",
+    "description": "Pixel arcade cabinets, shoot-em-ups, racing tiles, space shooters, retro characters and looping animated backgrounds. Styles vary, so pick one palette and keep sprite scales consistent.",
     "assetIds": [
       "kenney-mini-arcade",
       "kenney-pixel-shmup",
@@ -498,21 +499,25 @@
       "kenney-animated-characters-retro",
       "kenney-pattern-pack-pixel",
       "kenney-pixel-line-platformer",
+      "kenney-racing-kit",
+      "kenney-space-shooter-extension",
       "oga-arcade-platformer-assets",
       "oga-animated-lofi-pixel-art-background-320x180",
       "oga-explosion-set-1-m484-games",
       "oga-bullet-collection-2-m484-games",
       "oga-free-pixel-effects-pack",
-      "oga-mine-game-graphics"
+      "oga-mine-game-graphics",
+      "oga-aircraft-carriers-for-shmup-games",
+      "oga-main-street-pixelville-looping"
     ],
     "cover": "kenney-mini-arcade",
     "color": "lime",
-    "updatedAt": "2026-11-09T02:33:18.045Z"
+    "updatedAt": "2026-11-11T03:09:08Z"
   },
   {
     "id": "tiny-palettes",
     "name": "Tiny palettes",
-    "description": "One-bit, duotone and pico-8-style tilesets, roguelike maps and input prompts built on ultra-limited color palettes. A fast route to a cohesive retro look; each pack has its own palette rules, so check the included files before mixing.",
+    "description": "One-bit, duotone, monochrome and pico-8-style tilesets, roguelike maps, HUD bars and input prompts on ultra-limited palettes. Each pack has its own palette rules, so check the files before mixing.",
     "assetIds": [
       "kenney-1-bit-pack",
       "kenney-1-bit-platformer-pack",
@@ -520,13 +525,39 @@
       "kenney-pico-8-platformer",
       "kenney-pico-8-city",
       "kenney-input-prompts-pixel-1-bit",
+      "kenney-monochrome-rpg",
+      "kenney-monochrome-pirates",
       "oga-1-bit-platformer-pack-0",
       "oga-pico-8-overworld-tileset",
       "oga-tileset-1bit-color",
-      "oga-simple-duotone-tileset"
+      "oga-simple-duotone-tileset",
+      "oga-black-and-white-hp-and-super-bars"
     ],
     "cover": "kenney-1-bit-pack",
     "color": "blue",
-    "updatedAt": "2026-11-09T02:33:18.045Z"
+    "updatedAt": "2026-11-11T03:09:08Z"
+  },
+  {
+    "id": "sparks-and-smoke",
+    "name": "Sparks and Smoke",
+    "description": "CC0 particles, smoke, splats, light masks and frame-by-frame explosions, plus CC-BY lasers and a 512 px blast. Shader sheets suit additive effects; the sprite sets are hand-keyed frames.",
+    "assetIds": [
+      "kenney-particle-pack",
+      "kenney-smoke-particles",
+      "kenney-splat-pack",
+      "kenney-light-masks",
+      "kenney-pattern-pack",
+      "kenney-pattern-pack-lines",
+      "oga-animated-explosions",
+      "oga-explosion-animations",
+      "oga-2d-explosion-animations-frame-by-frame",
+      "oga-animated-particle-effects-2",
+      "oga-25-special-effects-rendered-with-blender",
+      "oga-512x512-explosion",
+      "oga-lasers-and-beams"
+    ],
+    "cover": "kenney-particle-pack",
+    "color": "peach",
+    "updatedAt": "2026-11-11T03:09:08Z"
   }
 ]

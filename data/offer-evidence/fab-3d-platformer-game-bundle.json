@@ -1,15 +1,15 @@
 {
   "id": "fab-3d-platformer-game-bundle",
   "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-  "checkedAt": "2026-11-09T02:26:54.504Z",
+  "checkedAt": "2026-11-11T02:16:26Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1176087.53,
+    "originalPrice": 1177731.08,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "Product page price data shows IDR 1,176,087.53 with discountPercentage 100 and discountedPrice 0; the JSON-LD Offer agrees on currency IDR and amount. discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset. The page rendered a 4.5-out-of-5 average but no aggregate rating count was observable in the static fetch, so rating fields are null this check."
+    "note": "The exact product page's own price data shows the Personal tier at IDR 1177731.08 with discountPercentage 100 and discountedPrice 0, and the Professional tier at IDR 1177731.08 discounted to 0. discountEndDate 2026-11-17T14:59:00Z is stated with an explicit UTC offset. The embedded listing data reports averageRating 0.0 and reviewCount 0; with no rating count the offer keeps null rating fields."
   },
   "license": {
     "name": "Fab Standard",
@@ -19,8 +19,8 @@
   },
   "expiresAt": "2026-11-17T14:59:00Z",
   "expiryEvidenceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the Professional tier reports the same window.",
+  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the Professional tier reports the same window, and the campaign started 2026-11-03T15:00:00Z.",
   "rating": null,
   "reviewCount": null,
-  "productNote": "Read the exact product description, included-format list, changelog, price tiers and gallery image. No asset files or engine behaviour were downloaded or tested."
+  "productNote": "Read the exact product description, included-format list (Unreal Engine:\"uasset\", \"uproject\", \"uplugin\"), price tiers and gallery images. Seller credited as Raul Jaramillo. No asset files, archive contents or engine behaviour were downloaded or tested."
 }

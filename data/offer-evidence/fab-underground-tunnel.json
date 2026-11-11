@@ -1,15 +1,15 @@
 {
   "id": "fab-underground-tunnel",
   "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-  "checkedAt": "2026-11-09T02:26:50.322Z",
+  "checkedAt": "2026-11-11T02:16:22Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1809462.87,
+    "originalPrice": 1811991.56,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "Product page price data shows IDR 1,809,462.87 with discountPercentage 100 and discountedPrice 0; the JSON-LD Offer agrees on currency IDR and amount. discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset. The JSON-LD AggregateRating shows ratingValue 5 with reviewCount 3 (the displayed count differs from the 18 observed on 7 Nov)."
+    "note": "The exact product page's own price data shows the Personal tier at IDR 1811991.56 with discountPercentage 100 and discountedPrice 0, and the Professional tier at IDR 3624164.33 discounted to 0. discountEndDate 2026-11-17T14:59:00Z is stated with an explicit UTC offset. The embedded listing data reports averageRating 5.0 and reviewCount 3; the offer reproduces 5.0 over 3 ratings."
   },
   "license": {
     "name": "Fab Standard",
@@ -19,8 +19,8 @@
   },
   "expiresAt": "2026-11-17T14:59:00Z",
   "expiryEvidenceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the same window applies to the Professional tier.",
+  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the Professional tier reports the same window, and the campaign started 2026-11-03T15:00:00Z.",
   "rating": 5,
   "reviewCount": 3,
-  "productNote": "Read the exact product description, included-format list, price tiers and gallery image. No asset files, archive contents or engine behaviour were downloaded or tested."
+  "productNote": "Read the exact product description, included-format list (Unreal Engine:\"uasset\", \"uproject\", \"uplugin\"), price tiers and gallery images. Seller credited as MacKenzie Shirk. No asset files, archive contents or engine behaviour were downloaded or tested."
 }

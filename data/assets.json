@@ -209170,6 +209170,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-10T02:41:24.155Z",
     "id": "oga-september-minijam-disappointing-apocalypse",
     "title": "September minijam (Disappointing apocalypse)",
     "author": "Garfunkel",
@@ -209177,16 +209189,16 @@
       "Garfunkel"
     ],
     "summary": "September minijam (Disappointing apocalypse): icons by Garfunkel. PNG content verified from a free CC0 download. Import and set up in your project.",
-    "assetType": "Icons",
     "categories": [
       "UI"
     ],
     "dimension": "2D",
+    "assetType": "Icons",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/september-minijam-disappointing-apocalypse",
     "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "attribution": "September minijam (Disappointing apocalypse) by Garfunkel. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/september-minijam-disappointing-apocalypse Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "verificationUrl": "https://opengameart.org/content/september-minijam-disappointing-apocalypse",
     "verifiedAt": "2026-11-10",
     "addedAt": "2026-11-10",
@@ -209209,6 +209221,106 @@
       "license": "CC0",
       "sha256": "8fddbb80fea6712054134c52deea49ac517e7d572a51012e6779011ac0a5ee4c",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-11T02:16:32.954Z",
+    "id": "oga-512x512-explosion",
+    "title": "512x512 explosion",
+    "author": "johndekale",
+    "authors": [
+      "johndekale"
+    ],
+    "summary": "512x512 explosion: vfx by johndekale. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "VFX",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/512x512-explosion",
+    "license": "CC0",
+    "attribution": "CC0 512x512 explosion by johndekale. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/512x512-explosion Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/512x512-explosion",
+    "verifiedAt": "2026-11-11",
+    "addedAt": "2026-11-11",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "0586defd746dc62951ca2b9c864d3e4277efbe71b2863f0d90ec409dc8f5f489",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "explosion",
+      "fire",
+      "smoke",
+      "smoke fade",
+      "512",
+      "512px",
+      "512x512",
+      "png",
+      ".png"
+    ],
+    "preview": "/previews/oga-512x512-explosion.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/explosion_512.zip",
+      "file": "0019.png",
+      "license": "CC0",
+      "sha256": "545d6a21fa542200b36fe11f4818eba2e16fe93212e7d06a8b4cd4d82a75e41d",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-tree-9",
+    "title": "Tree",
+    "author": "idoh40",
+    "authors": [
+      "idoh40"
+    ],
+    "summary": "Tree: environments by idoh40. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "assetType": "Environments",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/tree-9",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Tree by idoh40. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tree-9 Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/tree-9",
+    "verifiedAt": "2026-11-11",
+    "addedAt": "2026-11-11",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "7015b4ecbac7bb562473a037838c9f6137c284d28b3c202cbee0d8b7bf96959a",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "tree"
+    ],
+    "preview": "/previews/oga-tree-9.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/tree_12.png",
+      "file": "tree_12.png",
+      "license": "CC0",
+      "sha256": "a5b018e87f556d774c9f422ded80e8ecfcf1fda8dd4e92766ba906e38ab12823",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
     },
     "type": "free",
     "originalPrice": null,
@@ -209221,6 +209333,6 @@
     "radarScore": 53,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-10T02:41:24.155Z"
+    "lastChecked": "2026-11-11T02:36:57.992Z"
   }
 ]
