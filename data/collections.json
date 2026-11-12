@@ -210,8 +210,9 @@
   {
     "id": "small-pixels-big-quests",
     "name": "Small pixels, big quests",
-    "description": "Pixel RPG environments, caves, interiors, characters, and audio, with extra dungeon tiles, CC0 item and tool icons, CC-BY food icons, CC0 potion rescales, and tiny characters. Sizes differ; credit CC-BY packs and pick one palette.",
+    "description": "Pixel RPG sets: a CC0 32x32 base tileset with editable .ase sources, Kenney roguelike, cave, indoor and dungeon tiles, CC0 item and tool icons, CC-BY food icons, potion rescales, tiny characters. Palettes and tile sizes differ.",
     "assetIds": [
+      "oga-tilesets-base-rpg-2d",
       "kenney-micro-roguelike",
       "kenney-roguelike-rpg-pack",
       "kenney-roguelike-caves-dungeons",
@@ -220,7 +221,6 @@
       "kenney-rpg-audio",
       "kenney-monochrome-rpg",
       "kenney-rpg-urban-pack",
-      "kenney-pico-8-city",
       "oga-dungeon-crawl-32x32-tiles-supplemental",
       "oga-roguelike-tiles-large-collection",
       "oga-2d-rpg-item-icons",
@@ -231,7 +231,7 @@
     ],
     "cover": "kenney-micro-roguelike",
     "color": "blue",
-    "updatedAt": "2026-11-03T01:36:00.000Z"
+    "updatedAt": "2026-11-12T02:54:27Z"
   },
   {
     "id": "menus-with-feeling",

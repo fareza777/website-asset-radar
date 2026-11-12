@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-stone-textures-seamless",
+  "sourceUrl": "https://opengameart.org/content/stone-textures-seamless",
+  "checkedAt": "2026-11-12T02:16:54.576Z",
+  "httpStatus": 200,
+  "pageSha256": "ca54c8184bdd988e94492636c21b2566c8f7da0a5783a46aa8f9f746ec08e61c",
+  "title": "Stone Textures (Seamless)",
+  "authors": [
+    "Eric Matyas"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Please credit me in the art assets section of your game...or wherever is appropriate. Stone Textures (Seamless) by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/stone-textures-seamless Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/11-8-26b_1.jpg",
+    "https://opengameart.org/sites/default/files/10-5-26b_0.jpg",
+    "https://opengameart.org/sites/default/files/9-28-20b.jpg"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/11-8-26b_1.jpg",
+  "downloadSha256": "72b228e002081a7a835f48db171acbe63186c6f573203028b8d930301dd09ab2",
+  "formats": [
+    "JPG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "11-8-26b_1.jpg",
+  "previewSha256": "72b228e002081a7a835f48db171acbe63186c6f573203028b8d930301dd09ab2",
+  "sourceTags": [
+    "stone",
+    "Rock",
+    "texture",
+    "seamless",
+    "tileable"
+  ],
+  "artTypes": [
+    "Texture"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -1,0 +1,38 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-tilesets-base-rpg-2d",
+  "sourceUrl": "https://opengameart.org/content/tilesets-base-rpg-2d",
+  "checkedAt": "2026-11-12T02:17:26.283Z",
+  "httpStatus": 200,
+  "pageSha256": "b0b8c5893f104846558e41e9834924787566c8b0bb5adb93cdc9dcf616660b48",
+  "title": "Tilesets Base RPG 2D",
+  "authors": [
+    "nqxo"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Tilesets Base RPG 2D by nqxo. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tilesets-base-rpg-2d Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/rpg-tileset-base-nqxo.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/rpg-tileset-base-nqxo.zip",
+  "downloadSha256": "b48b4a085d58b693024ebc0868a240317e9d3b3938fca76a010a66e4f6552c3a",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 9,
+  "licenseFiles": [],
+  "previewFile": "spring-tileset.png",
+  "previewSha256": "b3bf78bb2d0870931e573c48faeb9fa18b45fd8efefc85bf03d2636cf1344ea8",
+  "sourceTags": [
+    "pixelart",
+    "tilesets",
+    ".png",
+    ".ase",
+    "32x32"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

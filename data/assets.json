@@ -209284,6 +209284,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-11T02:36:57.992Z",
     "id": "oga-tree-9",
     "title": "Tree",
     "author": "idoh40",
@@ -209291,16 +209303,16 @@
       "idoh40"
     ],
     "summary": "Tree: environments by idoh40. PNG content verified from a free CC0 download. Import and set up in your project.",
-    "assetType": "Environments",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
+    "assetType": "Environments",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/tree-9",
     "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "attribution": "Tree by idoh40. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tree-9 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "verificationUrl": "https://opengameart.org/content/tree-9",
     "verifiedAt": "2026-11-11",
     "addedAt": "2026-11-11",
@@ -209321,6 +209333,278 @@
       "license": "CC0",
       "sha256": "a5b018e87f556d774c9f422ded80e8ecfcf1fda8dd4e92766ba906e38ab12823",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-12T02:16:54.576Z",
+    "id": "oga-stone-textures-seamless",
+    "title": "Stone Textures (Seamless)",
+    "author": "Eric Matyas",
+    "authors": [
+      "Eric Matyas"
+    ],
+    "summary": "Stone Textures (Seamless): textures by Eric Matyas. JPG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Textures",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/stone-textures-seamless",
+    "license": "CC-BY-3.0",
+    "attribution": "Please credit me in the art assets section of your game...or wherever is appropriate. Stone Textures (Seamless) by Eric Matyas. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/stone-textures-seamless Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/stone-textures-seamless",
+    "verifiedAt": "2026-11-12",
+    "addedAt": "2026-11-12",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "ca54c8184bdd988e94492636c21b2566c8f7da0a5783a46aa8f9f746ec08e61c",
+    "formats": [
+      "JPG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "stone",
+      "Rock",
+      "texture",
+      "seamless",
+      "tileable"
+    ],
+    "preview": "/previews/oga-stone-textures-seamless.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/11-8-26b_1.jpg",
+      "file": "11-8-26b_1.jpg",
+      "license": "CC-BY-3.0",
+      "sha256": "72b228e002081a7a835f48db171acbe63186c6f573203028b8d930301dd09ab2",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-12T02:17:26.283Z",
+    "id": "oga-tilesets-base-rpg-2d",
+    "title": "Tilesets Base RPG 2D",
+    "author": "nqxo",
+    "authors": [
+      "nqxo"
+    ],
+    "summary": "Tilesets Base RPG 2D: tilesets by nqxo. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/tilesets-base-rpg-2d",
+    "license": "CC0",
+    "attribution": "Tilesets Base RPG 2D by nqxo. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tilesets-base-rpg-2d Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/tilesets-base-rpg-2d",
+    "verifiedAt": "2026-11-12",
+    "addedAt": "2026-11-12",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "b0b8c5893f104846558e41e9834924787566c8b0bb5adb93cdc9dcf616660b48",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "pixelart",
+      "tilesets",
+      ".png",
+      ".ase",
+      "32x32"
+    ],
+    "preview": "/previews/oga-tilesets-base-rpg-2d.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/rpg-tileset-base-nqxo.zip",
+      "file": "spring-tileset.png",
+      "license": "CC0",
+      "sha256": "b3bf78bb2d0870931e573c48faeb9fa18b45fd8efefc85bf03d2636cf1344ea8",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-12T02:36:46.381Z",
+    "id": "oga-ground-vehicles-for-target-blank-ver",
+    "title": "Ground Vehicles for target-Blank ver.",
+    "author": "kurohina",
+    "authors": [
+      "kurohina"
+    ],
+    "summary": "Ground Vehicles for target-Blank ver.: characters by kurohina. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/ground-vehicles-for-target-blank-ver",
+    "license": "CC-BY-4.0",
+    "attribution": "Ground Vehicles for target-Blank ver. by kurohina. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/ground-vehicles-for-target-blank-ver Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/ground-vehicles-for-target-blank-ver",
+    "verifiedAt": "2026-11-12",
+    "addedAt": "2026-11-12",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "a2fa50b50c344088a9f0a25a0e395abb7c0d503ae4142ac69779866db82dfc5c",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "missiles",
+      "military vehicle",
+      "target",
+      "shooting target"
+    ],
+    "preview": "/previews/oga-ground-vehicles-for-target-blank-ver.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/target_tank_blank_strip3.png",
+      "file": "target_tank_blank_strip3.png",
+      "license": "CC-BY-4.0",
+      "sha256": "1a106feeabc09be5bae67f34f6594f9ea1d47c27cf35185f503a785311a2dc8b",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-12T02:37:36.193Z",
+    "id": "oga-pocket-hero-teen-pixel-art",
+    "title": "Pocket Hero Teen Pixel Art",
+    "author": "jocolloman",
+    "authors": [
+      "jocolloman"
+    ],
+    "summary": "Pocket Hero Teen Pixel Art: characters by jocolloman. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/pocket-hero-teen-pixel-art",
+    "license": "CC-BY-4.0",
+    "attribution": "Copyright 2021 Joseph Collard Pocket Hero Teen Pixel Art by jocolloman. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/pocket-hero-teen-pixel-art Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/pocket-hero-teen-pixel-art",
+    "verifiedAt": "2026-11-12",
+    "addedAt": "2026-11-12",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "58a29ceaa5e81d1586907ebea263ed28e129d8baf98689c14c78f85dbd18c5ed",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "Pixel Art",
+      "Character",
+      "run",
+      "eat",
+      "read"
+    ],
+    "preview": "/previews/oga-pocket-hero-teen-pixel-art.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/teen-sprites_0.png",
+      "file": "teen-sprites_0.png",
+      "license": "CC-BY-4.0",
+      "sha256": "56d75b6e4a738bfcbb86fef071b3a323217128f15f9b4be4522f6ac1cb94577d",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-zombie-lab-abomination-2d",
+    "title": "Zombie Lab Abomination 2D",
+    "author": "RazielS2",
+    "authors": [
+      "RazielS2"
+    ],
+    "summary": "Zombie Lab Abomination 2D: characters by RazielS2. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "assetType": "Characters",
+    "categories": [
+      "RPG",
+      "Survival"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/zombie-lab-abomination-2d",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Public Domain aka \"do what you want\". If there is any problem dm me directly. Zombie Lab Abomination 2D by RazielS2. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/zombie-lab-abomination-2d Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/zombie-lab-abomination-2d",
+    "verifiedAt": "2026-11-12",
+    "addedAt": "2026-11-12",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "444b1a1f4cf0ec17de2f5c7c3f34293b9b54f29ee26ea7532b5963ae8f1339a0",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "zombie",
+      "Zombies",
+      "lab",
+      "laboratory",
+      "chicken",
+      "abomination",
+      "science",
+      "scientist",
+      "Pixel Art"
+    ],
+    "preview": "/previews/oga-zombie-lab-abomination-2d.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/lab_abomination.png",
+      "file": "lab_abomination.png",
+      "license": "CC0",
+      "sha256": "7c7ad14f85735dedfa4b6e3b03ba9e3fff854eaa887f94fd9bcb219ef576901b",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
     },
     "type": "free",
     "originalPrice": null,
@@ -209333,6 +209617,6 @@
     "radarScore": 53,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-11T02:36:57.992Z"
+    "lastChecked": "2026-11-12T02:38:19.315Z"
   }
 ]
