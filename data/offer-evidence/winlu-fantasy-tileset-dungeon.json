@@ -1,7 +1,7 @@
 {
   "id": "winlu-fantasy-tileset-dungeon",
   "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
-  "checkedAt": "2026-11-11T02:16:20Z",
+  "checkedAt": "2026-11-13T02:20:59Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
@@ -9,18 +9,18 @@
     "salePrice": 17.5,
     "currency": "USD",
     "licenseTier": null,
-    "note": "The purchase panel shows \"On Sale! 30% Off\" with $25.00 crossed out to $17.50 USD, and the page's structured Offer reports price 17.5 in USD."
+    "note": "The purchase panel shows \"On Sale! 30% Off\" with $25 crossed out to $17.5 USD, and the exact product's structured Offer reports price 17.5 in USD. The panel adds \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim."
   },
   "license": {
     "name": "Creator license",
     "url": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
     "commercialUse": true,
-    "note": "The product page states: \"License: This asset pack can be used in commercial projects. Credit is not necessary, but highly appreciated. You are not allowed to redistribute or resell the asset.\" Credit is optional, and redistribution or resale of the asset itself is not permitted."
+    "note": "The creator's own \"License:\" block on this exact product page states, verbatim: \"This asset pack can be used in commercial projects.\" \"You can edit and modify it.\" \"Credit is not necessary, but highly appreciated.\" \"You are not allowed to redistribute or resell the asset.\" Commercial project use is therefore permitted and modification is allowed, while standalone resale or redistribution of the asset files is prohibited. Not CC0."
   },
   "expiresAt": "2026-11-30T18:10:00Z",
   "expiryEvidenceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
-  "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-30T18:10:00.000Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
+  "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-30T18:10:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
   "rating": 4.8,
   "reviewCount": 16,
-  "productNote": "Displayed as \"Rated 4.8 out of 5 stars\" with 16 total ratings. The page lists Winlu Fantasy Dungeon.zip 5.7 MB Non_RPGMaker_textures.zip 16 MB Winlu Master Sample_maps.zip 44 kBas the included downloads. No paid archive was downloaded."
+  "productNote": "Winlu Fantasy Dungeon.zip 5.7 MB, Non_RPGMaker_textures.zip 16 MB and Winlu Master Sample_maps.zip 44 kB are the listed downloads. Displayed as \"Rated 4.8 out of 5 stars\" with 16 total ratings. No paid archive was downloaded or inspected."
 }

@@ -1,26 +1,26 @@
 {
   "id": "fab-3d-platformer-game-bundle",
   "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-  "checkedAt": "2026-11-11T02:16:26Z",
+  "checkedAt": "2026-11-13T02:20:57Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1177731.08,
+    "originalPrice": 1185621.49,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "The exact product page's own price data shows the Personal tier at IDR 1177731.08 with discountPercentage 100 and discountedPrice 0, and the Professional tier at IDR 1177731.08 discounted to 0. discountEndDate 2026-11-17T14:59:00Z is stated with an explicit UTC offset. The embedded listing data reports averageRating 0.0 and reviewCount 0; with no rating count the offer keeps null rating fields."
+    "note": "The exact listing's own price data shows the Personal tier at IDR 1185621.49 with discountPercentage 100 and discountedPrice 0; 1 pricing tier(s) are published and every tier reports discountedPrice 0 under the same campaign window. The structured Product offer repeats price 1185621.49 in IDR."
   },
   "license": {
     "name": "Fab Standard",
     "url": "https://www.fab.com/eula",
     "commercialUse": true,
-    "note": "The Fab Standard summary permits commercial and private use, modification and commercial distribution of projects, prohibits standalone redistribution and requires no publisher credit."
+    "note": "The Fab Standard License summary states you may use the assets commercially or privately, modify them for your Projects, commercially distribute Projects with the assets incorporated, and share them with collaborators. You may not resell or redistribute the asset standalone. Both pricing tiers (Personal and Professional) grant the same scope of rights, and no publisher credit is required. Read directly from the Fab EULA page during this run."
   },
   "expiresAt": "2026-11-17T14:59:00Z",
   "expiryEvidenceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the Professional tier reports the same window, and the campaign started 2026-11-03T15:00:00Z.",
+  "expiryNote": "The product's own tier data states discountStartDate 2026-11-03T15:00:00Z and discountEndDate 2026-11-17T14:59:00Z, both with an explicit UTC offset, and the discounted price and currency match the observed listing data.",
   "rating": null,
   "reviewCount": null,
-  "productNote": "Read the exact product description, included-format list (Unreal Engine:\"uasset\", \"uproject\", \"uplugin\"), price tiers and gallery images. Seller credited as Raul Jaramillo. No asset files, archive contents or engine behaviour were downloaded or tested."
+  "productNote": "Seller credited as Raul Jaramillo. The listing's own included-format data covers Unity uasset/uproject and related engine files. The published rating count is 0, so no marketplace rating is reproduced. No asset files, archive contents or engine behaviour were downloaded or tested."
 }

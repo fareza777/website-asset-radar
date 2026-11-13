@@ -1,26 +1,26 @@
 {
   "id": "fab-underground-tunnel",
   "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-  "checkedAt": "2026-11-11T02:16:22Z",
+  "checkedAt": "2026-11-13T02:20:54Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1811991.56,
+    "originalPrice": 1824131.3,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "The exact product page's own price data shows the Personal tier at IDR 1811991.56 with discountPercentage 100 and discountedPrice 0, and the Professional tier at IDR 3624164.33 discounted to 0. discountEndDate 2026-11-17T14:59:00Z is stated with an explicit UTC offset. The embedded listing data reports averageRating 5.0 and reviewCount 3; the offer reproduces 5.0 over 3 ratings."
+    "note": "The exact listing's own price data shows the Personal tier at IDR 1824131.3 with discountPercentage 100 and discountedPrice 0; 2 pricing tier(s) are published and every tier reports discountedPrice 0 under the same campaign window. The structured Product offer repeats price 1824131.3 in IDR."
   },
   "license": {
     "name": "Fab Standard",
     "url": "https://www.fab.com/eula",
     "commercialUse": true,
-    "note": "The Fab Standard summary permits commercial and private use, modification and commercial distribution of projects, prohibits standalone redistribution and requires no publisher credit."
+    "note": "The Fab Standard License summary states you may use the assets commercially or privately, modify them for your Projects, commercially distribute Projects with the assets incorporated, and share them with collaborators. You may not resell or redistribute the asset standalone. Both pricing tiers (Personal and Professional) grant the same scope of rights, and no publisher credit is required. Read directly from the Fab EULA page during this run."
   },
   "expiresAt": "2026-11-17T14:59:00Z",
   "expiryEvidenceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-  "expiryNote": "The product's own Personal-tier price data states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset; the Professional tier reports the same window, and the campaign started 2026-11-03T15:00:00Z.",
+  "expiryNote": "The product's own tier data states discountStartDate 2026-11-03T15:00:00Z and discountEndDate 2026-11-17T14:59:00Z, both with an explicit UTC offset, and the discounted price and currency match the observed listing data.",
   "rating": 5,
   "reviewCount": 3,
-  "productNote": "Read the exact product description, included-format list (Unreal Engine:\"uasset\", \"uproject\", \"uplugin\"), price tiers and gallery images. Seller credited as MacKenzie Shirk. No asset files, archive contents or engine behaviour were downloaded or tested."
+  "productNote": "Seller credited as MacKenzie Shirk. The listing's own included-format data covers Unreal Engine uasset/uproject files. The listing reproduces its published rating over 3 ratings. No asset files, archive contents or engine behaviour were downloaded or tested."
 }

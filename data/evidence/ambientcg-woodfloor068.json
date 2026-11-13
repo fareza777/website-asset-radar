@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T08:41:05.444Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=WoodFloor068&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "7cb8f38f6dd4c08ae6691230b7138127596f600c33fae41f09d9c730c72d5e20",
+  "apiSha256": "05a3fca12b85be4491fa7123c7cd5ee7ba5ec4afd2bdf33064cf1d880fdad3e2",
   "apiMetadata": {
     "assetId": "WoodFloor068",
     "dataType": "Material",
@@ -183,10 +183,10 @@
     "earlyReleaseDate": "2025-11-21 12:00:00",
     "creationMethod": "PBRMultiAngle",
     "category": null,
-    "downloadCount": 7430,
-    "downloadCountMonth": 1280,
-    "downloadCountWeek": 345,
-    "popularityScore": 7.802317449464265,
+    "downloadCount": 10197,
+    "downloadCountMonth": 2494,
+    "downloadCountWeek": 680,
+    "popularityScore": 9.14115147347131,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -205,7 +205,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Color.jpg?76827&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Displacement.jpg?92891&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_NormalDX.jpg?55974&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Roughness.jpg?7469",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Color.jpg?32629&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Displacement.jpg?74698&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_NormalDX.jpg?21407&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Roughness.jpg?81189",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -216,7 +216,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Color.jpg?37782,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Displacement.jpg?4279,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_NormalDX.jpg?69290,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Roughness.jpg?33665&texture_name=Color,Displacement,Normal,Roughness",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Color.jpg?14631,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Displacement.jpg?48196,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_NormalDX.jpg?81736,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor068/WoodFloor068_SQ_Roughness.jpg?70126&texture_name=Color,Displacement,Normal,Roughness",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -231,8 +231,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/WoodFloor068.webp",
   "previewSha256": "1bb000830f0203c0d9f746816aa3bd4b748b5999736730350d3ed937b1e660ee",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-13T03:01:51.235Z"
 }

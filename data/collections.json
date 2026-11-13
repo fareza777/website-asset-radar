@@ -517,7 +517,7 @@
   {
     "id": "tiny-palettes",
     "name": "Tiny palettes",
-    "description": "One-bit, duotone, monochrome and pico-8-style tilesets, roguelike maps, HUD bars and input prompts on ultra-limited palettes. Each pack has its own palette rules, so check the files before mixing.",
+    "description": "One-bit, duotone, monochrome and pico-8-style tilesets, roguelike maps, HUD bars, input prompts and a 2-bit radio prop on ultra-limited palettes. Each pack has its own rules, so check the files first.",
     "assetIds": [
       "kenney-1-bit-pack",
       "kenney-1-bit-platformer-pack",
@@ -531,16 +531,17 @@
       "oga-pico-8-overworld-tileset",
       "oga-tileset-1bit-color",
       "oga-simple-duotone-tileset",
-      "oga-black-and-white-hp-and-super-bars"
+      "oga-black-and-white-hp-and-super-bars",
+      "oga-2bit-radio"
     ],
     "cover": "kenney-1-bit-pack",
     "color": "blue",
-    "updatedAt": "2026-11-11T03:09:08Z"
+    "updatedAt": "2026-11-13T02:29:30Z"
   },
   {
     "id": "sparks-and-smoke",
     "name": "Sparks and Smoke",
-    "description": "CC0 particles, smoke, splats, light masks and frame-by-frame explosions, plus CC-BY lasers and a 512 px blast. Shader sheets suit additive effects; the sprite sets are hand-keyed frames.",
+    "description": "CC0 particles, smoke, splats, light masks and frame-by-frame explosions, plus CC-BY lasers, a 512 px blast and CC-BY explosion frames. Shader sheets suit additive effects; sprite sets are hand-keyed.",
     "assetIds": [
       "kenney-particle-pack",
       "kenney-smoke-particles",
@@ -554,10 +555,28 @@
       "oga-animated-particle-effects-2",
       "oga-25-special-effects-rendered-with-blender",
       "oga-512x512-explosion",
-      "oga-lasers-and-beams"
+      "oga-lasers-and-beams",
+      "oga-explosions-0"
     ],
     "cover": "kenney-particle-pack",
     "color": "peach",
-    "updatedAt": "2026-11-11T03:09:08Z"
+    "updatedAt": "2026-11-13T02:29:30Z"
+  },
+  {
+    "id": "game-day",
+    "name": "Game Day",
+    "description": "Top-down sports tiles and characters, 3D minigolf and racing kits, pixel ski slopes, plus CC-BY animated basketball players and parallax courts. Kenney sets are CC0; credit the Pixel Baller authors.",
+    "assetIds": [
+      "kenney-sports-pack",
+      "kenney-racing-pack",
+      "kenney-racing-kit",
+      "kenney-minigolf-kit",
+      "kenney-tiny-ski",
+      "oga-pixel-baller-basketball-player-sprite-pack",
+      "oga-pixel-courts-basketball-court-backgrounds-tiles"
+    ],
+    "cover": "kenney-sports-pack",
+    "color": "mint",
+    "updatedAt": "2026-11-13T02:29:30Z"
   }
 ]

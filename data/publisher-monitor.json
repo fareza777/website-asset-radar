@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T02:02:11.699Z",
+  "generatedAt": "2026-11-13T02:02:54.164Z",
   "checks": [
     {
       "id": "synty",
       "url": "https://syntystore.com/",
       "status": "permission_review",
-      "attemptedAt": "2026-11-12T02:01:48.857Z",
+      "attemptedAt": "2026-11-13T02:02:35.988Z",
       "checkedAt": null,
       "httpStatus": null,
       "fingerprint": null,
@@ -17,8 +17,8 @@
       "id": "kenney",
       "url": "https://kenney.nl/assets",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:01:48.866Z",
-      "checkedAt": "2026-11-12T02:01:51.530Z",
+      "attemptedAt": "2026-11-13T02:02:35.989Z",
+      "checkedAt": "2026-11-13T02:02:38.507Z",
       "httpStatus": 200,
       "fingerprint": "8f73b351ceb97d9547b71c21b4ddb788bad3001ec77de806d20396b479ee682a",
       "productUrls": [
@@ -46,8 +46,8 @@
       "id": "quaternius",
       "url": "https://quaternius.com/",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:01:51.530Z",
-      "checkedAt": "2026-11-12T02:01:53.814Z",
+      "attemptedAt": "2026-11-13T02:02:38.507Z",
+      "checkedAt": "2026-11-13T02:02:40.561Z",
       "httpStatus": 200,
       "fingerprint": "cb697b4ca54b38f14acc21954b7a9b1b24a9b0220e078fb3182d238be2b18c8e",
       "productUrls": [
@@ -136,15 +136,15 @@
         "https://quaternius.com/packs/universalbasecharacters.html",
         "https://quaternius.com/packs/zombieapocalypsekit.html"
       ],
-      "changed": true,
+      "changed": false,
       "note": "Public index observed. A changed fingerprint is a review signal, not verified pricing, license or release evidence."
     },
     {
       "id": "naturemanufacture",
       "url": "https://naturemanufacture.com/",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:01:53.814Z",
-      "checkedAt": "2026-11-12T02:01:57.552Z",
+      "attemptedAt": "2026-11-13T02:02:40.561Z",
+      "checkedAt": "2026-11-13T02:02:43.983Z",
       "httpStatus": 200,
       "fingerprint": "603da244a0dcdb01e82ee24fdac31602f11cfd074a6b0bedc30703cdb5c9829a",
       "productUrls": [
@@ -159,8 +159,8 @@
       "id": "polyperfect",
       "url": "https://www.polyperfect.com/products",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:01:57.552Z",
-      "checkedAt": "2026-11-12T02:01:59.847Z",
+      "attemptedAt": "2026-11-13T02:02:43.983Z",
+      "checkedAt": "2026-11-13T02:02:46.167Z",
       "httpStatus": 200,
       "fingerprint": "0b8538d8448dbf4cc6dd559f3b17b180a570fff4f12c04d97dbd5b6eedb1c5c9",
       "productUrls": [
@@ -173,8 +173,8 @@
       "id": "kaykit",
       "url": "https://kaylousberg.com/game-assets",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:01:59.847Z",
-      "checkedAt": "2026-11-12T02:02:02.248Z",
+      "attemptedAt": "2026-11-13T02:02:46.167Z",
+      "checkedAt": "2026-11-13T02:02:48.444Z",
       "httpStatus": 200,
       "fingerprint": "e4d4069808d3254cde69680550715eefb77a2fcb52cea7f4f17455fb2a14da03",
       "productUrls": [
@@ -204,10 +204,10 @@
       "id": "infinity-pbr",
       "url": "https://infinitypbr.com/",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:02:02.248Z",
-      "checkedAt": "2026-11-12T02:02:05.680Z",
+      "attemptedAt": "2026-11-13T02:02:48.444Z",
+      "checkedAt": "2026-11-13T02:02:50.376Z",
       "httpStatus": 200,
-      "fingerprint": "0a9c3a67336f029e977bca10118b7e5ffcf60ffd89ca70fe583beff831f971e1",
+      "fingerprint": "e17ed690d72da9ce87f338f69c45a68f822e31c92b67e6caf94493fe5b2ab190",
       "productUrls": [],
       "changed": true,
       "note": "Public index observed. A changed fingerprint is a review signal, not verified pricing, license or release evidence."
@@ -216,7 +216,7 @@
       "id": "craftpix",
       "url": "https://craftpix.net/freebies/",
       "status": "permission_review",
-      "attemptedAt": "2026-11-12T02:02:05.680Z",
+      "attemptedAt": "2026-11-13T02:02:50.376Z",
       "checkedAt": null,
       "httpStatus": null,
       "fingerprint": null,
@@ -228,8 +228,8 @@
       "id": "ansimuz",
       "url": "https://ansimuz.itch.io/",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:02:05.680Z",
-      "checkedAt": "2026-11-12T02:02:08.632Z",
+      "attemptedAt": "2026-11-13T02:02:50.376Z",
+      "checkedAt": "2026-11-13T02:02:52.406Z",
       "httpStatus": 200,
       "fingerprint": "8c456213d9d13e3c12b137e9a46d2e7aa12dd5c4770949946977738ed2fb6cab",
       "productUrls": [
@@ -391,8 +391,8 @@
       "id": "pixel-frog",
       "url": "https://pixelfrog-assets.itch.io/",
       "status": "checked",
-      "attemptedAt": "2026-11-12T02:02:08.632Z",
-      "checkedAt": "2026-11-12T02:02:11.698Z",
+      "attemptedAt": "2026-11-13T02:02:52.406Z",
+      "checkedAt": "2026-11-13T02:02:54.164Z",
       "httpStatus": 200,
       "fingerprint": "711504c7e4091d4353435a5968d9314ae940605711b952d420b2f769e848424f",
       "productUrls": [

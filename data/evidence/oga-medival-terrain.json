@@ -1,0 +1,34 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-medival-terrain",
+  "sourceUrl": "https://opengameart.org/content/medival-terrain",
+  "checkedAt": "2026-11-13T02:31:55.713Z",
+  "httpStatus": 200,
+  "pageSha256": "5e1b0825d4129d6f0327734a8d95ad7922c3d378456b2951889fc9a3a876aff9",
+  "title": "Medival terrain",
+  "authors": [
+    "codeprof"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Medival terrain by codeprof. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/medival-terrain Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/medival_terrain_1.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/medival_terrain_1.zip",
+  "downloadSha256": "474a08213a42acda6737820530d4d9133415ef521aca2c3884c40cb0322f0eec",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 16,
+  "licenseFiles": [],
+  "previewFile": "hill.png",
+  "previewSha256": "158977e319d4c3808833947ab6e487ac58fe6ff913e1b29fed55ea07ee963e13",
+  "sourceTags": [
+    "medival"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -3,7 +3,7 @@
   "checkedAt": "2026-10-09T10:04:26.913Z",
   "httpStatus": 200,
   "apiUrl": "https://ambientcg.com/api/v2/full_json?id=WoodFloor067B&include=tagData,displayData,downloadData,mapData,imageData",
-  "apiSha256": "6a7bfa036345b85152936a90a93052e435ab549da9279966326012b6be523336",
+  "apiSha256": "149a75962e2120af475e2cef0a392dcb17986da268e533bd94248eff039d1b55",
   "apiMetadata": {
     "assetId": "WoodFloor067B",
     "dataType": "Material",
@@ -139,10 +139,10 @@
     "earlyReleaseDate": "2025-08-14 17:00:00",
     "creationMethod": "PBRProcedural",
     "category": null,
-    "downloadCount": 9952,
-    "downloadCountMonth": 1102,
-    "downloadCountWeek": 311,
-    "popularityScore": 7.516318609386364,
+    "downloadCount": 12322,
+    "downloadCountMonth": 2164,
+    "downloadCountWeek": 572,
+    "popularityScore": 8.251026536449373,
     "dataTypeName": "Material",
     "dataTypeDescription": "A photo texture with PBR maps.",
     "creationMethodName": "Height field photogrammetry",
@@ -161,7 +161,7 @@
     "previousAssetId": null,
     "previewLinks": [
       {
-        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Color.jpg?30325&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Displacement.jpg?76664&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_NormalDX.jpg?43223&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Roughness.jpg?82997&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_AmbientOcclusion.jpg?67293",
+        "url": "https://releases.pbr.one/main/material-shading.html#normal_type=directx&color_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Color.jpg?85524&displacement_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Displacement.jpg?75724&normal_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_NormalDX.jpg?82745&roughness_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Roughness.jpg?23868&ambientocclusion_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_AmbientOcclusion.jpg?99415",
         "name": {
           "id": 4,
           "slug": "pbr-one-material-shading",
@@ -172,7 +172,7 @@
         "iconName": ""
       },
       {
-        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Color.jpg?49937,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Displacement.jpg?82695,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_NormalDX.jpg?4675,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Roughness.jpg?86956,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_AmbientOcclusion.jpg?18850&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
+        "url": "https://releases.pbr.one/main/texture-tiling.html#texture_url=https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Color.jpg?69117,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Displacement.jpg?92243,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_NormalDX.jpg?85356,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_Roughness.jpg?26290,https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/WoodFloor067B/WoodFloor067B_SQ_AmbientOcclusion.jpg?9959&texture_name=Color,Displacement,Normal,Roughness,Ambient Occlusion",
         "name": {
           "id": 3,
           "slug": "pbr-one-material-maps",
@@ -187,8 +187,9 @@
     "hasUsd": false
   },
   "licenseEvidenceUrl": "https://docs.ambientcg.com/license/",
-  "licensePageSha256": "60138e09b277c89977841462634b36e99d7bae5b77174777813502069c59461c",
+  "licensePageSha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
   "previewFile": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-WEBP/WoodFloor067B.webp",
   "previewSha256": "9d8e6b97df824d19c9ea6567675bf0c67dadd1973fe972483f9eb710fe2930ad",
-  "formatEvidence": "Official API download attributes; full archives not inspected."
+  "formatEvidence": "Official API download attributes; full archives not inspected.",
+  "lastLinkCheckAt": "2026-11-13T03:01:51.235Z"
 }

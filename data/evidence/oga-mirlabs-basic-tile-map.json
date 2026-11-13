@@ -1,0 +1,40 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-mirlabs-basic-tile-map",
+  "sourceUrl": "https://opengameart.org/content/mirlabs-basic-tile-map",
+  "checkedAt": "2026-11-13T02:31:36.436Z",
+  "httpStatus": 200,
+  "pageSha256": "a0ae44b3d55e99ea26ee0cdce8c7ead371920493376a4817f91ea7f710c94969",
+  "title": "MirLabs - Basic Tile Map",
+  "authors": [
+    "MirLabs"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Just add me in the credits :p every little helps. MirLabs - Basic Tile Map by MirLabs. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/mirlabs-basic-tile-map Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/mirlabs-basictilesets.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/mirlabs-basictilesets.zip",
+  "downloadSha256": "07d529bb0b931707091dc92fd4c19be7ba94648df150f13131bd155c669b278e",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 9,
+  "licenseFiles": [],
+  "previewFile": "MirLabs-BasicTileSets/BasicTileSets/GrassTileMap.png",
+  "previewSha256": "18d1beea3f8aa6ebabd90b8f6212d3b0460a7e959e1ee45c8e9f8875dc399fba",
+  "sourceTags": [
+    "Map Tileset",
+    "map tiles",
+    "water",
+    "sand",
+    "grass",
+    "Rock",
+    "32x32"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
