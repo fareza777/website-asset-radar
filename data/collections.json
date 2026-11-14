@@ -556,11 +556,12 @@
       "oga-25-special-effects-rendered-with-blender",
       "oga-512x512-explosion",
       "oga-lasers-and-beams",
-      "oga-explosions-0"
+      "oga-explosions-0",
+      "kenney-pattern-pack-extra"
     ],
     "cover": "kenney-particle-pack",
     "color": "peach",
-    "updatedAt": "2026-11-13T02:29:30Z"
+    "updatedAt": "2026-11-14T02:43:06Z"
   },
   {
     "id": "game-day",
@@ -573,10 +574,42 @@
       "kenney-minigolf-kit",
       "kenney-tiny-ski",
       "oga-pixel-baller-basketball-player-sprite-pack",
-      "oga-pixel-courts-basketball-court-backgrounds-tiles"
+      "oga-pixel-courts-basketball-court-backgrounds-tiles",
+      "kenney-boardgame-pack",
+      "kenney-playing-cards-pack",
+      "kenney-board-game-icons",
+      "kenney-board-game-info",
+      "kenney-rolling-ball-assets",
+      "polyhaven-baseball-playground",
+      "oga-playing-cards"
     ],
     "cover": "kenney-sports-pack",
     "color": "mint",
-    "updatedAt": "2026-11-13T02:29:30Z"
+    "updatedAt": "2026-11-14T02:43:06Z"
+  },
+  {
+    "id": "the-sound-check",
+    "name": "The sound check",
+    "description": "Impacts, interface blips, ambience and short loops from Kenney CC0 packs and OpenGameArt submissions. Each page lists its own license, so check attribution before shipping.",
+    "assetIds": [
+      "kenney-impact-sounds",
+      "kenney-interface-sounds",
+      "kenney-ui-audio",
+      "kenney-digital-audio",
+      "kenney-sci-fi-sounds",
+      "kenney-rpg-audio",
+      "kenney-music-jingles",
+      "kenney-casino-audio",
+      "kenney-voiceover-pack-fighter",
+      "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg",
+      "oga-cicada-sounds",
+      "oga-insect-sounds",
+      "oga-slime-hero",
+      "oga-the-goblins-of-pixeltown-looping",
+      "oga-main-street-pixelville-looping"
+    ],
+    "cover": "kenney-impact-sounds",
+    "color": "lime",
+    "updatedAt": "2026-11-14T02:43:06Z"
   }
 ]

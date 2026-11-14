@@ -327,5 +327,150 @@
       "reputation": 3,
       "rationale": "Strong observed evidence: the page documents 1000+ tiles plus animations at HD isometric resolution, rated 4.9 over 8 ratings, moderated toward the neutral prior for a small sample. Value is exceptional at half the $29.99 list price for a 170 MB graphics set. Completeness stays adequate because only the archive name and size are published, and the page discloses no movement code or enemy AI. Reputation 3 for an individual creator with 8 ratings and no verified publisher profile."
     }
+  },
+  {
+    "id": "pizzadoggy-psx-mega-pack-2",
+    "title": "PSX Mega Pack II",
+    "author": "Pizza Doggy",
+    "authors": [
+      "Pizza Doggy"
+    ],
+    "summary": "Retro-PSX library of 540+ low-poly models and textures: modular interiors and exteriors, buildings, machinery, props, decals, items and weapons. The page lists FBX, GLB, OBJ, DAE and Blend exports in a 629 MB build.",
+    "categories": [
+      "3D",
+      "Survival"
+    ],
+    "dimension": "3D",
+    "assetType": "3D Models",
+    "type": "deal",
+    "originalPrice": 19.95,
+    "salePrice": 11.97,
+    "discountPercent": 40,
+    "currency": "EUR",
+    "expiresAt": "2026-11-29T22:00:00Z",
+    "rating": 4.9,
+    "reviewCount": 204,
+    "radarScore": 74,
+    "dealScore": 77,
+    "source": "itch.io",
+    "sourceUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+    "canonicalSourceUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+    "license": "Creator custom license",
+    "licenseUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+    "commercialUse": true,
+    "lastChecked": "2026-11-14T02:13:22Z",
+    "addedAt": "2026-11-14",
+    "formats": [
+      "FBX",
+      "GLB",
+      "OBJ",
+      "DAE",
+      "BLEND"
+    ],
+    "engines": [],
+    "engineNote": "The product page names FBX, GLB, OBJ, DAE and Blend files and says the pack is used in Godot, Unity and Unreal projects. No engine project or .unitypackage/.upk container is listed, so this is documented importable content rather than a native package. Materials, rigging and scene setup may need rework per engine; no in-engine performance test was run.",
+    "tags": [
+      "psx",
+      "ps1",
+      "retro",
+      "low-poly",
+      "3d",
+      "environments",
+      "props",
+      "weapons",
+      "textures"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzI1MzQwODgwLnBuZw==/original/IOuboj.png",
+      "sourceUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+      "alt": "Publisher gallery image from the PSX Mega Pack II page showing a low-poly retro interior scene built from the pack.",
+      "credit": "Pizza Doggy",
+      "checkedAt": "2026-11-14T02:13:22Z",
+      "note": "Observed as the first image in this exact product's public itch.io gallery during the same permitted fetch. Linked from itch.io's media CDN; no artwork or paid archive was copied into the repository. Linking the preview does not refresh price or license verification."
+    },
+    "licenseNote": "The page ships License Agreement.pdf (5.4 MB) with the purchase; that paid file was not downloaded. The creator answers licensing questions on this exact product page: \"You can use these assets in your game projects and their marketing material. You're only not allowed to redistribute them (share publicly/re-sell), even if you made changes to them. You can also ask for permission to use them for something outside of that.\" A buyer comment quotes the agreement as \"Use the assets in any game (commercial or not)\" and \"Want to use them in other digital media? Just ask!\", and the creator replies \"It's a custom license, as the CC licenses didn't exactly suit my needs at the time.\" Commercial game use is therefore permitted and standalone redistribution or resale is not; this is not CC0.",
+    "priceNote": "EUR purchase panel showed 19.95€ crossed out to 11.97€ at \"On Sale! 40% Off\", and the exact product's structured Offer reports price 11.97 in EUR. The panel adds \"or more\" and the page states you must purchase at or above the minimum price, so this is a paid reduction, not a free claim. The 629 MB pack was not downloaded.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 5,
+      "completeness": 4,
+      "reputation": 4,
+      "rationale": "Quality 4: 4.9 stars over 204 published ratings, moderated toward the neutral prior, for a product with eight documented updates; the archive itself was not audited. Completeness 4: the page publishes named content groups, a 540+ asset count, five file formats, a contents file and the 629 MB build size. Value 5: 11.97 EUR for that scope at 40% off the listed 19.95 EUR. Reputation 4: an established itch creator with a related pack family and a large recent rating sample."
+    }
+  },
+  {
+    "id": "smallscaleint-character-creator-2d-fantasy",
+    "title": "Character Creator 2D - Fantasy",
+    "author": "SmallScaleInt",
+    "authors": [
+      "SmallScaleInt"
+    ],
+    "summary": "A 2D character customization system for top-down and isometric games: a 435 MB Unity package, an 800 MB stand-alone Windows build and a 35 MB demo, with interchangeable bodies, heads, gear, weapons, mounts and 8-direction animations.",
+    "categories": [
+      "RPG",
+      "Survival"
+    ],
+    "dimension": "2D",
+    "assetType": "Tools & Plugins",
+    "type": "deal",
+    "originalPrice": 39.99,
+    "salePrice": 19.99,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-11-30T06:26:00Z",
+    "rating": 4.9,
+    "reviewCount": 9,
+    "radarScore": 67,
+    "dealScore": 76,
+    "source": "itch.io",
+    "sourceUrl": "https://smallscaleint.itch.io/character-creator-2d-fantasy",
+    "canonicalSourceUrl": "https://smallscaleint.itch.io/character-creator-2d-fantasy",
+    "license": "Creator commercial license",
+    "licenseUrl": "https://smallscaleint.itch.io/character-creator-2d-fantasy",
+    "commercialUse": true,
+    "lastChecked": "2026-11-14T02:13:24Z",
+    "addedAt": "2026-11-14",
+    "formats": [
+      "UNITYPACKAGE",
+      "ZIP"
+    ],
+    "engines": [
+      "Unity"
+    ],
+    "engineNote": "The purchase includes CharacterCreatorFantasy-2026-v.1.3.unitypackage, a publisher-listed Unity package, so Unity is recorded as native packaging rather than a tested integration. The stand-alone ZIP is a Windows executable build; the page states some Unity-only features such as exporting a character controller, saving presets and creating animation clips are unavailable there, and that it does not run on Mac or Android. No engine performance test was run.",
+    "tags": [
+      "2d",
+      "characters",
+      "spritesheets",
+      "fantasy",
+      "rpg",
+      "isometric",
+      "top-down",
+      "animations",
+      "asset-pack"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1nLzIxNjc2NDI1LnBuZw==/original/ut39Lr.png",
+      "sourceUrl": "https://smallscaleint.itch.io/character-creator-2d-fantasy",
+      "alt": "Publisher gallery image from the Character Creator 2D - Fantasy page showing modular 2D fantasy characters assembled from interchangeable parts.",
+      "credit": "SmallScaleInt",
+      "checkedAt": "2026-11-14T02:13:24Z",
+      "note": "Observed as the first image in this exact product's public itch.io gallery during the same permitted fetch. Linked from itch.io's media CDN; no artwork or paid archive was copied into the repository. Linking the preview does not refresh price or license verification."
+    },
+    "licenseNote": "The product page's own \"Licensing\" section states verbatim: \"You may use any spritesheets or characters generated with this tool in your own games or interactive projects. However, redistribution or resale of generated assets (e.g., as packs or standalone content on marketplaces) is not allowed.\" In the comments the creator adds that generated sheets may be edited but not re-distributed as game assets, and confirms \"its fully within the license to use the assets in your commercial game projects.\" Commercial project use is permitted; standalone resale or redistribution is not. Not CC0.",
+    "priceNote": "USD purchase panel showed $39.99 crossed out to $19.99 at \"On Sale! 50% Off\", and the exact product's structured Offer reports price 19.99 in USD. The panel adds \"or more\" and the page requires purchase at or above the minimum price, so this is a paid reduction, not a free claim. No paid archive was downloaded. The page also lists a separate 20-item autumn-sale bundle at $89.99.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 5,
+      "completeness": 4,
+      "reputation": 3,
+      "rationale": "Quality 4: rated 4.9 over 9 ratings, moderated toward the neutral prior; the page documents part counts and a tutorial, but the 435 MB package was not opened. Completeness 4: contents are itemised (3 body types, 25+ heads, 19+ chests, 35+ weapons, 5+ mounts, 8-direction animation) with no file audit. Value 5: half the $39.99 list price for the packaged tool and stand-alone build. Reputation 3: an individual creator with a second promotion here but only 9 ratings."
+    }
   }
 ]

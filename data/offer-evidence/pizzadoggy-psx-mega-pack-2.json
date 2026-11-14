@@ -1,0 +1,26 @@
+{
+  "id": "pizzadoggy-psx-mega-pack-2",
+  "sourceUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+  "checkedAt": "2026-11-14T02:13:22Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 19.95,
+    "salePrice": 11.97,
+    "currency": "EUR",
+    "licenseTier": null,
+    "note": "The purchase panel reads \"Buy Now On Sale! 40% Off 19.95€ 11.97€ EUR or more\" and the exact product's structured Offer reports price 11.97 with priceCurrency EUR. The panel adds \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim."
+  },
+  "license": {
+    "name": "Creator custom license",
+    "url": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+    "commercialUse": true,
+    "note": "The full agreement ships as License Agreement.pdf (5.4 MB) inside the purchase and that paid file was not downloaded. On this exact product page the creator states, verbatim: \"You can use these assets in your game projects and their marketing material. You're only not allowed to redistribute them (share publicly/re-sell), even if you made changes to them. You can also ask for permission to use them for something outside of that.\" A buyer comment quotes the agreement itself as \"Use the assets in any game (commercial or not)\" and \"Want to use them in other digital media? Just ask!\", and the creator confirms \"It's a custom license, as the CC licenses didn't exactly suit my needs at the time.\" Commercial use in games and their marketing is therefore permitted; standalone redistribution or resale of the asset files is not. Not CC0."
+  },
+  "expiresAt": "2026-11-29T22:00:00Z",
+  "expiryEvidenceUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
+  "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-29T22:00:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
+  "rating": 4.9,
+  "reviewCount": 204,
+  "productNote": "Displayed as \"Rated 4.9 out of 5 stars\" with 204 total ratings. Listed files: PSX Mega Pack II v1.8 629 MB, Contents | PSX Mega Pack II 15 kB, PSX Mega Pack II [Sample].zip 29 MB and License Agreement.pdf 5.4 MB. The description documents 540+ 3D assets across modular interiors and exteriors, structures and buildings, machinery and tools, props and decals, items and weapons, available in .fbx, .glb, .obj, .dae and .blend, with itch tags 3D, Asset Pack, Characters, No AI, Pixel Art, ps1, PSX (PlayStation), Retro, Sprites and Textures, and a devlog noting updates through 1.8 (Nov 29, 2025). Category path Game assets. No paid archive was downloaded or inspected."
+}
