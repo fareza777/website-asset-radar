@@ -1,26 +1,26 @@
 {
   "id": "fab-3d-platformer-game-bundle",
   "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-  "checkedAt": "2026-11-13T02:20:57Z",
+  "checkedAt": "2026-11-15T02:11:01Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1185621.49,
+    "originalPrice": 1183865.03,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "The exact listing's own price data shows the Personal tier at IDR 1185621.49 with discountPercentage 100 and discountedPrice 0; 1 pricing tier(s) are published and every tier reports discountedPrice 0 under the same campaign window. The structured Product offer repeats price 1185621.49 in IDR."
+    "note": "The listing's own Personal priceTier reports price 1183865.03 IDR with discountPercentage 100 and discountedPrice 0 for the campaign window 2026-11-03T15:00:00Z to 2026-11-17T14:59:00Z, and the Professional tier is discounted to 0 in the same window. The structured Product Offer repeats the same IDR amount as its price, so the two views agree. Prices are tier amounts before tax and drift with the IDR conversion of the USD list price."
   },
   "license": {
     "name": "Fab Standard",
     "url": "https://www.fab.com/eula",
     "commercialUse": true,
-    "note": "The Fab Standard License summary states you may use the assets commercially or privately, modify them for your Projects, commercially distribute Projects with the assets incorporated, and share them with collaborators. You may not resell or redistribute the asset standalone. Both pricing tiers (Personal and Professional) grant the same scope of rights, and no publisher credit is required. Read directly from the Fab EULA page during this run."
+    "note": "Fab Standard License summary re-read on this run: you may use the assets commercially or privately, modify them into your Projects, commercially distribute Projects with the assets incorporated, and share them with collaborators; you may not resell or redistribute the asset standalone. Both pricing tiers (Personal and Professional) grant the same scope of rights and no publisher credit is required. Fab Standard is not CC0."
   },
   "expiresAt": "2026-11-17T14:59:00Z",
   "expiryEvidenceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-  "expiryNote": "The product's own tier data states discountStartDate 2026-11-03T15:00:00Z and discountEndDate 2026-11-17T14:59:00Z, both with an explicit UTC offset, and the discounted price and currency match the observed listing data.",
-  "rating": null,
-  "reviewCount": null,
-  "productNote": "Seller credited as Raul Jaramillo. The listing's own included-format data covers Unity uasset/uproject and related engine files. The published rating count is 0, so no marketplace rating is reproduced. No asset files, archive contents or engine behaviour were downloaded or tested."
+  "expiryNote": "The listing's own priceTier states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset, and its discounted price and currency match the observed tier data.",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "productNote": "Raul Jaramillo is credited as the listing seller. Formats shown in the listing's own included-format data: Unreal Engine. Asset files, archive contents and engine behaviour were not downloaded or tested."
 }

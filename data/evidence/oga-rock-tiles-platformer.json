@@ -1,0 +1,41 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-rock-tiles-platformer",
+  "sourceUrl": "https://opengameart.org/content/rock-tiles-platformer",
+  "checkedAt": "2026-11-15T02:30:12.459Z",
+  "httpStatus": 200,
+  "pageSha256": "2a261a332f0fbb7325087146ef9e0ad0983798cacdfd40193c23e04d069de50c",
+  "title": "Rock tiles - Platformer",
+  "authors": [
+    "AmauryH"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Amaury Hanser - www.amauryhanser.com Rock tiles - Platformer by AmauryH. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/rock-tiles-platformer Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/Tileset-Rock-Platformer.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/Tileset-Rock-Platformer.zip",
+  "downloadSha256": "f13ecbafe11cca023323d7cf34d5e58b044b94f8e8e02ce652536a1d4df9c778",
+  "formats": [
+    "JPG",
+    "PNG"
+  ],
+  "inspectedFiles": 64,
+  "licenseFiles": [],
+  "previewFile": "Tileset-Rock-Platformer/256/tile-rock-00-256.png",
+  "previewSha256": "60190fed9f1b27557158849b54a3451b18320cb36d4b900b4af8f0cd4ca95faf",
+  "sourceTags": [
+    "Rock",
+    "tiles",
+    "tile",
+    "tileset",
+    "Platformer",
+    "roguelike",
+    "rogue"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}
