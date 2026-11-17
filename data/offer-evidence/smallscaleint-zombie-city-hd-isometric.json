@@ -1,7 +1,7 @@
 {
   "id": "smallscaleint-zombie-city-hd-isometric",
   "sourceUrl": "https://smallscaleint.itch.io/zombie-city-hd-isometric-tileset",
-  "checkedAt": "2026-11-15T02:10:11Z",
+  "checkedAt": "2026-11-17T02:13:01Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
@@ -9,18 +9,18 @@
     "salePrice": 14.99,
     "currency": "USD",
     "licenseTier": null,
-    "note": "The purchase panel reads \"Buy Now On Sale! 50% Off $29.99 $14.99 USD or more\" and the exact product's structured Offer reports price 14.99 with priceCurrency USD, so both views agree. \"or more\" means the stated minimum must be paid; this is a paid reduction, not a free claim."
+    "note": "The purchase panel reads \"Buy Now On Sale! 50% Off $29.99 $14.99 USD or more\" and the exact product's structured Offer reports price 14.99 USD, so both views agree. \"or more\" means the stated minimum must be paid; this is a paid reduction, not a free claim."
   },
   "license": {
     "name": "Creator commercial license",
     "url": "https://smallscaleint.itch.io/zombie-city-hd-isometric-tileset",
     "commercialUse": true,
-    "note": "The exact product page states a \"Standard Commercial License\": use in unlimited commercial or personal game projects, no attribution or credit required, and free modification/recolor/re-export for your own project. It explicitly excludes reselling, redistributing or sublicensing the raw asset files and excludes use in stock-asset or asset-pack resale platforms. Commercial project use is permitted; standalone redistribution is not. Not CC0."
+    "note": "The exact product page states a Standard Commercial License: use in unlimited commercial or personal game projects, no attribution or credit required, and free modification, recoloring or re-export for your own project. It excludes reselling, redistributing or sublicensing the raw asset files and excludes stock-asset or asset-pack resale platforms. Commercial project use is permitted; standalone redistribution is not. Not CC0."
   },
   "expiresAt": "2026-11-30T06:26:00Z",
   "expiryEvidenceUrl": "https://smallscaleint.itch.io/zombie-city-hd-isometric-tileset",
   "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-30T06:26:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
   "rating": 4.9,
   "reviewCount": 8,
-  "productNote": "Displayed as \"Rated 4.9 out of 5 stars\" with 8 total ratings; the structured AggregateRating agrees at 4.9 over 8. The single listed download is 2D HD Zombie City Tileset.rar 170 MB. The page lists an \"AUTUMN SALE\" bundle of this pack plus 19 more for $89.99 USD and discloses that the example video scene is not included, was built in Unity from pack assets only, and that no audio is included. The archive was not downloaded or inspected."
+  "productNote": "Displayed as Rated 4.9 over 8 ratings; the structured AggregateRating agrees. The single listed download is 2D HD Zombie City Tileset.rar 170 MB. The page discloses that the example video scene is not included, was built in Unity from pack assets only, and that no audio is included. The archive was not downloaded or inspected."
 }

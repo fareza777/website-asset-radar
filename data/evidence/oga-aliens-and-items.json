@@ -1,0 +1,47 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-aliens-and-items",
+  "sourceUrl": "https://opengameart.org/content/aliens-and-items",
+  "checkedAt": "2026-11-17T02:58:44.842Z",
+  "httpStatus": 200,
+  "pageSha256": "a0e50e46e137412a92308e6fa89c4b06c5cd97c57f91dbfa3cb57b7a4e33e254",
+  "title": "Aliens and Items",
+  "authors": [
+    "marionline"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Aliens and Items by marionline. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/aliens-and-items Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/newspaper.png",
+    "https://opengameart.org/sites/default/files/newspaper_alien.png",
+    "https://opengameart.org/sites/default/files/book_8.png",
+    "https://opengameart.org/sites/default/files/bookalien_1.png",
+    "https://opengameart.org/sites/default/files/bookalien_2.png",
+    "https://opengameart.org/sites/default/files/bookalien_3.png",
+    "https://opengameart.org/sites/default/files/frog_4.png",
+    "https://opengameart.org/sites/default/files/frog_submarine.png",
+    "https://opengameart.org/sites/default/files/vending_machine_alien.png",
+    "https://opengameart.org/sites/default/files/vending_machine_alien2.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/newspaper.png",
+  "downloadSha256": "809dfa0c00259bbb398c0d3b2229588724ec8896fff3675a48d9e8ad352029c3",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "newspaper.png",
+  "previewSha256": "809dfa0c00259bbb398c0d3b2229588724ec8896fff3675a48d9e8ad352029c3",
+  "sourceTags": [
+    "alien",
+    "Enemy",
+    "extraterrestrial",
+    "OHRRPGCE",
+    "OHR"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

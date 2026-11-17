@@ -78,32 +78,6 @@
     "updatedAt": "2026-11-15T02:27:55Z"
   },
   {
-    "id": "the-finishing-touches",
-    "name": "The finishing touches",
-    "description": "Kenney UI kits, prompts, medals, cursors and interface audio, plus CC0 Golden UI, keyboard prompts, a vampire-hand cursor, CC-BY cozy space icons and 40 CC-BY UI sounds. Styles differ; pick one direction and credit the CC-BY authors.",
-    "assetIds": [
-      "kenney-ui-pack",
-      "kenney-ui-pack-rpg-expansion",
-      "kenney-game-icons",
-      "kenney-input-prompts",
-      "kenney-interface-sounds",
-      "kenney-music-jingles",
-      "kenney-game-icons-expansion",
-      "kenney-cursor-pack",
-      "kenney-medals",
-      "kenney-input-prompts-pixel-1-bit",
-      "oga-golden-ui",
-      "oga-free-keyboard-and-controllers-prompts-pack",
-      "oga-ui-pieces",
-      "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
-      "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg",
-      "oga-cute-penguin-4k-pixel-loading-bar-retro-ui-progress-bar"
-    ],
-    "cover": "kenney-ui-pack",
-    "color": "lime",
-    "updatedAt": "2026-11-09T02:33:18.045Z"
-  },
-  {
     "id": "a-town-of-your-own",
     "name": "A town of your own",
     "description": "3D town, street and interior props and characters from Kenney CC0, plus CC-BY 2D village scenery, isometric buildings, a bakery, a main-menu background and a CC0 isometric village tileset. Credit lucius39 and khaledpng.",
@@ -364,32 +338,6 @@
     "updatedAt": "2026-11-06T03:17:11Z"
   },
   {
-    "id": "a-few-heroes",
-    "name": "A few heroes",
-    "description": "CC0 toon and modular figures with pixel sheets, idle and NPC townsfolk, a CC0 bear warrior, CC-BY blue elf, Puck and Sara class sheets, and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
-    "assetIds": [
-      "kenney-toon-characters",
-      "kenney-modular-characters",
-      "oga-dwarf-miner-run",
-      "oga-fumiko-complete-charset",
-      "oga-animated-rogue",
-      "oga-bear-warrior",
-      "oga-blue-elf",
-      "oga-puck-overland",
-      "oga-puck-wizard",
-      "oga-puck-thief",
-      "oga-sara-overland",
-      "oga-sara-wizard",
-      "oga-tiny-16-expanded-character-sprites",
-      "oga-character-base-rpg-2d",
-      "oga-idle-characters",
-      "oga-npc-characters-additional"
-    ],
-    "cover": "kenney-toon-characters",
-    "color": "lime",
-    "updatedAt": "2026-11-03T01:36:00.000Z"
-  },
-  {
     "id": "cozy-space-pieces",
     "name": "Cozy space pieces",
     "description": "CC-BY pixel packs from one space series: tiles, ships, interiors, planet surfaces, furniture, crew, effects, portraits, icons and backdrops, plus a CC0 pixel space background. Credit Spaceyyy, Bramble & Byte and roberto mellado.",
@@ -611,5 +559,77 @@
     "cover": "kenney-impact-sounds",
     "color": "lime",
     "updatedAt": "2026-11-14T02:43:06Z"
+  },
+  {
+    "id": "the-finishing-touches",
+    "name": "The finishing touches",
+    "description": "Kenney UI kits, prompts, medals, cursors and interface audio, plus CC0 Golden UI, a CC0 buttons pack and 2-bit radio, keyboard prompts, a vampire-hand cursor and CC-BY cozy icons and sounds. Styles differ; pick one and credit CC-BY authors.",
+    "assetIds": [
+      "kenney-ui-pack",
+      "kenney-ui-pack-rpg-expansion",
+      "kenney-game-icons",
+      "kenney-input-prompts",
+      "kenney-interface-sounds",
+      "kenney-music-jingles",
+      "kenney-game-icons-expansion",
+      "kenney-cursor-pack",
+      "kenney-medals",
+      "oga-golden-ui",
+      "oga-free-keyboard-and-controllers-prompts-pack",
+      "oga-cozy-space-icons-ui-28-pixel-icons-panels-buttons-and-bars",
+      "oga-cozy-ui-sound-effects-mini-bundle-40-sounds-wavogg",
+      "oga-cute-penguin-4k-pixel-loading-bar-retro-ui-progress-bar",
+      "oga-useful-buttons-must-have-icons-pack",
+      "oga-2bit-radio"
+    ],
+    "cover": "kenney-ui-pack",
+    "color": "lime",
+    "updatedAt": "2026-11-17T03:05:30.000Z"
+  },
+  {
+    "id": "a-few-heroes",
+    "name": "A few heroes",
+    "description": "CC0 toon and modular figures with pixel sheets, a CC0 bear warrior, dwarf miner, rogues and Puck/Sara class sheets, plus CC-BY teen hero and Roman elk sprites and nqxo's RPG character base. Credit CC-BY authors and import sheets yourself.",
+    "assetIds": [
+      "kenney-toon-characters",
+      "kenney-modular-characters",
+      "oga-dwarf-miner-run",
+      "oga-fumiko-complete-charset",
+      "oga-animated-rogue",
+      "oga-bear-warrior",
+      "oga-puck-overland",
+      "oga-puck-wizard",
+      "oga-puck-thief",
+      "oga-sara-overland",
+      "oga-sara-wizard",
+      "oga-tiny-16-expanded-character-sprites",
+      "oga-character-base-rpg-2d",
+      "oga-idle-characters",
+      "oga-pocket-hero-teen-pixel-art",
+      "oga-roman-elk-spritesheet"
+    ],
+    "cover": "kenney-toon-characters",
+    "color": "lime",
+    "updatedAt": "2026-11-17T03:05:30.000Z"
+  },
+  {
+    "id": "under-open-skies",
+    "name": "Under open skies",
+    "description": "Kenney's CC0 3D skyboxes, free 2D skies and a tiling rain-and-snow sampler, plus CC-BY day-and-night backdrops, a sunset scene, aurora photography and a 4K moon with 30 lighting angles for skies above your scenes.",
+    "assetIds": [
+      "kenney-skyboxes",
+      "kenney-skyboxes-space",
+      "oga-free-2d-skies",
+      "oga-weather-sky-free-sampler-tiling-rain-snow-clouds-moon",
+      "oga-sky-and-hills",
+      "oga-egypt-day-and-night-background",
+      "oga-tree-at-sunset",
+      "oga-northern-lights-long-exposure-photography",
+      "oga-4k-moon-with-30-lighting-angles",
+      "oga-skycitystarsbig"
+    ],
+    "cover": "oga-free-2d-skies",
+    "color": "peach",
+    "updatedAt": "2026-11-17T03:05:30.000Z"
   }
 ]

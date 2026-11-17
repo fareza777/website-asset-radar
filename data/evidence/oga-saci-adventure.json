@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-saci-adventure",
+  "sourceUrl": "https://opengameart.org/content/saci-adventure",
+  "checkedAt": "2026-11-17T02:57:33.798Z",
+  "httpStatus": 200,
+  "pageSha256": "d9f096ca71d0b3b60c17986537c4fc5e68d02a29d5abb48b3fdcf4261e718471",
+  "title": "Saci Adventure",
+  "authors": [
+    "nemezes"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "No attribution required. Saci Adventure by nemezes. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/saci-adventure Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/saciAdventure.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/saciAdventure.png",
+  "downloadSha256": "2dd9dd516bbbf979aaf9f96b7df665ccd0d89bfb3b428dc6cca5b92ad8e3f79b",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "saciAdventure.png",
+  "previewSha256": "2dd9dd516bbbf979aaf9f96b7df665ccd0d89bfb3b428dc6cca5b92ad8e3f79b",
+  "sourceTags": [
+    "Platformer",
+    "Character",
+    "fight"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

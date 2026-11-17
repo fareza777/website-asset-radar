@@ -1,15 +1,15 @@
 {
   "id": "fab-underground-tunnel",
   "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-  "checkedAt": "2026-11-15T02:10:58Z",
+  "checkedAt": "2026-11-17T02:13:05Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 1821428.91,
+    "originalPrice": 1825472.34,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "The listing's own Personal priceTier reports price 1821428.91 IDR with discountPercentage 100 and discountedPrice 0 for the campaign window 2026-11-03T15:00:00Z to 2026-11-17T14:59:00Z, and the Professional tier is discounted to 0 in the same window. The structured Product Offer repeats the same IDR amount as its price, so the two views agree. Prices are tier amounts before tax and drift with the IDR conversion of the USD list price."
+    "note": "The listing's own Personal priceTier reports price 1825472.34 IDR with discountPercentage 100 and discountedPrice 0 for the campaign window 2026-11-03T15:00:00Z to 2026-11-17T14:59:00Z, and the Professional tier (3651127.26 IDR) is discounted to 0 in the same window. The structured Product Offer repeats the same IDR amount as its price, so the two views agree. Prices are tier amounts before tax and drift with the IDR conversion of the USD list price. The listing displays an average rating of 5.0 over 28 total ratings."
   },
   "license": {
     "name": "Fab Standard",
@@ -21,6 +21,6 @@
   "expiryEvidenceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
   "expiryNote": "The listing's own priceTier states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset, and its discounted price and currency match the observed tier data.",
   "rating": 5,
-  "reviewCount": 27,
-  "productNote": "MacKenzie Shirk is credited as the listing seller. Formats shown in the listing's own included-format data: Unreal Engine. Asset files, archive contents and engine behaviour were not downloaded or tested."
+  "reviewCount": 28,
+  "productNote": "MacKenzie Shirk is credited as the listing seller. Formats shown in the listing's own included-format data: Unreal Engine. The listing displays 5.0 over 28 total ratings. Asset files, archive contents and engine behaviour were not downloaded or tested."
 }

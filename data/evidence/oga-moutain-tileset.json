@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-moutain-tileset",
+  "sourceUrl": "https://opengameart.org/content/moutain-tileset",
+  "checkedAt": "2026-11-17T03:00:55.137Z",
+  "httpStatus": 200,
+  "pageSha256": "d93f77553950d156b473878b939bb39778d1e01b2070bfbc1d6472ffe30f15c0",
+  "title": "Moutain tileset",
+  "authors": [
+    "devnewton"
+  ],
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Dave Newton Moutain tileset by devnewton. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/moutain-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/moutain.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/moutain.zip",
+  "downloadSha256": "463038c6502acbcfa40b66a887f5fdc4612526f746558b035a5dc8105834e784",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 2,
+  "licenseFiles": [],
+  "previewFile": "moutain/sky.png",
+  "previewSha256": "7c80c759a05d3fdf65763beab1ca6a580c526936f3582fc7cb27e487f693a186",
+  "sourceTags": [
+    "tileset",
+    "tiled"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

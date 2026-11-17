@@ -1,15 +1,15 @@
 {
   "id": "fab-scifi-beast06-bull",
   "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
-  "checkedAt": "2026-11-15T02:10:59Z",
+  "checkedAt": "2026-11-17T02:13:07Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
-    "originalPrice": 819542.82,
+    "originalPrice": 821362.14,
     "salePrice": 0,
     "currency": "IDR",
     "licenseTier": "Personal",
-    "note": "The listing's own Personal priceTier reports price 819542.82 IDR with discountPercentage 100 and discountedPrice 0 for the campaign window 2026-11-03T15:00:00Z to 2026-11-17T14:59:00Z, and the Professional tier is discounted to 0 in the same window. The structured Product Offer repeats the same IDR amount as its price, so the two views agree. Prices are tier amounts before tax and drift with the IDR conversion of the USD list price."
+    "note": "The listing's own Personal priceTier reports price 821362.14 IDR with discountPercentage 100 and discountedPrice 0 for the campaign window 2026-11-03T15:00:00Z to 2026-11-17T14:59:00Z, and the Professional tier (2190603.33 IDR) is discounted to 0 in the same window. The structured Product Offer repeats the same IDR amount as its price, so the two views agree. Prices are tier amounts before tax and drift with the IDR conversion of the USD list price. The listing displays 4.96 over 26 total ratings."
   },
   "license": {
     "name": "Fab Standard",
@@ -20,7 +20,7 @@
   "expiresAt": "2026-11-17T14:59:00Z",
   "expiryEvidenceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
   "expiryNote": "The listing's own priceTier states discountEndDate 2026-11-17T14:59:00Z with an explicit UTC offset, and its discounted price and currency match the observed tier data.",
-  "rating": 5,
-  "reviewCount": 23,
-  "productNote": "Shumniy is credited as the listing seller. Formats shown in the listing's own included-format data: Unreal Engine, Unity. Asset files, archive contents and engine behaviour were not downloaded or tested."
+  "rating": 4.96,
+  "reviewCount": 26,
+  "productNote": "Shumniy is credited as the listing seller. The listing's included-format data names Unreal Engine only on this check; the Unity entry recorded on 2026-11-15 no longer appears. The listing displays 4.96 over 26 total ratings. Asset files, archive contents and engine behaviour were not downloaded or tested."
 }

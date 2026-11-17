@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://polyhaven.com/a/ribbed_block_wall",
+  "checkedAt": "2026-11-17T02:36:13.116Z",
+  "httpStatus": 200,
+  "apiUrl": "https://api.polyhaven.com/info/ribbed_block_wall",
+  "apiSha256": "7e2fcafe07cd2962ce53b96c8d0736bf1fd7bdb27b909177e2d58e815e3a1e13",
+  "licenseEvidenceUrl": "https://polyhaven.com/license",
+  "licensePageSha256": "d6eb4c64b847ee38970cc6ae43923ef39449bd320d69ef647550a2d1c8398db7",
+  "assetFile": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ribbed_block_wall/ribbed_block_wall_diff_1k.jpg",
+  "assetFileMd5": "f929b173ebea4e0b5e9ead2076fb6b2b",
+  "assetFileSha256": "ae64aed3325da61f830d9299b5d2d9fa55762514a6325054e31e9b54c7d6a743",
+  "previewMethod": "actual diffuse texture crop",
+  "apiMetadata": {
+    "type": 1,
+    "name": "Ribbed Block Wall",
+    "categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "plaster-concrete"
+    ],
+    "category": "Brick & Block/Concrete Block & Paver/Concrete Block (CMU)",
+    "attributes": {
+      "surface_use": "wall",
+      "origin": "man_made",
+      "setting": "either",
+      "condition": [
+        "dirty",
+        "weathered"
+      ]
+    },
+    "tags": [
+      "wall",
+      "weathered",
+      "rough",
+      "concrete",
+      "uneven",
+      "exterior",
+      "discolored",
+      "cement",
+      "ribbed",
+      "blocks",
+      "mortar"
+    ],
+    "description": "Free 8K texture of a weathered tan block wall with horizontal ribbing, uneven mortar joints, rough edges, and subtle stains.",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "category_id": "fe4b5f94-cdb5-5a48-bacc-4ce2f962d3e3",
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "dimensions": [
+      1901.311993598938,
+      1901.3179540634155
+    ],
+    "img_version": "cbd1ebbf",
+    "files_hash": "c331c5c229de9302133310db0eb69c1f736dee24",
+    "date_published": 1794787200,
+    "staging": null,
+    "download_count": 64,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ribbed_block_wall.png?width=256&height=256&format=webp&v=cbd1ebbf"
+  }
+}

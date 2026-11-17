@@ -12,13 +12,13 @@
     "dimension": "3D",
     "assetType": "Environments",
     "type": "limited_free",
-    "originalPrice": 1821428.91,
+    "originalPrice": 1825472.34,
     "salePrice": 0,
     "discountPercent": 100,
     "currency": "IDR",
     "expiresAt": "2026-11-17T14:59:00Z",
     "rating": 5,
-    "reviewCount": 27,
+    "reviewCount": 28,
     "radarScore": 63,
     "dealScore": 84,
     "source": "Fab",
@@ -27,7 +27,7 @@
     "license": "Fab Standard",
     "licenseUrl": "https://www.fab.com/eula",
     "commercialUse": true,
-    "lastChecked": "2026-11-15T02:10:58Z",
+    "lastChecked": "2026-11-17T02:13:05Z",
     "addedAt": "2026-11-07",
     "formats": [
       "Unreal Engine"
@@ -54,14 +54,14 @@
       "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
     },
     "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
-    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,821,428.91 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 3,643,039.98 discounted to 0 in the same window. The listing displays an average rating of 5.0 over 27 total ratings. IDR amounts track the USD list price and move between checks.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,825,472.34 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 3,651,127.26 discounted to 0 in the same window. The listing displays an average rating of 5.0 over 28 total ratings. IDR amounts track the USD list price and move between checks.",
     "licenseTier": "Personal",
     "curation": {
       "quality": 4,
       "value": 5,
       "completeness": 3,
       "reputation": 3.5,
-      "rationale": "A coherent photoreal tunnel network with a documented modular layout, optional connection sockets, a video demonstration and Unreal-only publisher-listed formats; the listing now displays 5.0 over 27 ratings, so the small-sample moderation matters less than before. Contents are publisher-listed only — the archive was not downloaded or audited, which caps completeness. An individual creator, not a monitored featured publisher, limits reputation evidence."
+      "rationale": "A coherent photoreal tunnel network with a documented modular layout, optional connection sockets, a video demonstration and Unreal-only publisher-listed formats; the listing now displays 5.0 over 28 ratings, so the small-sample moderation matters less than before. Contents are publisher-listed only — the archive was not downloaded or audited, which caps completeness. An individual creator, not a monitored featured publisher, limits reputation evidence."
     }
   },
   {
@@ -77,13 +77,13 @@
     "dimension": "3D",
     "assetType": "Characters",
     "type": "limited_free",
-    "originalPrice": 819542.82,
+    "originalPrice": 821362.14,
     "salePrice": 0,
     "discountPercent": 100,
     "currency": "IDR",
     "expiresAt": "2026-11-17T14:59:00Z",
-    "rating": 5,
-    "reviewCount": 23,
+    "rating": 4.96,
+    "reviewCount": 26,
     "radarScore": 67,
     "dealScore": 76,
     "source": "Fab",
@@ -92,17 +92,15 @@
     "license": "Fab Standard",
     "licenseUrl": "https://www.fab.com/eula",
     "commercialUse": true,
-    "lastChecked": "2026-11-15T02:10:59Z",
+    "lastChecked": "2026-11-17T02:13:07Z",
     "addedAt": "2026-11-07",
     "formats": [
-      "Unreal Engine",
-      "Unity"
+      "Unreal Engine"
     ],
     "engines": [
-      "Unreal",
-      "Unity"
+      "Unreal"
     ],
-    "engineNote": "Fab's included-format list names both Unreal Engine and Unity for this product; the Unreal side is documented against an Epic skeleton. Animation retargeting, material setup and the Unity package layout were not opened or tested in either engine.",
+    "engineNote": "Fab's included-format list names Unreal Engine only on this check; the Unity entry recorded on 2026-11-15 no longer appears, and the Unreal side is documented against an Epic skeleton. Animation retargeting, material setup and project layout were not opened or tested in any engine.",
     "tags": [
       "character",
       "animated",
@@ -121,14 +119,14 @@
       "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
     },
     "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
-    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 819,542.82 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 2,185,751.12 discounted to 0. The page also records a lowestPriorPrice of IDR 409,680.33 for this tier from an earlier campaign, which is not presented here as the list price. The listing displays 5.0 over 23 total ratings. IDR amounts track the USD list price and move between checks.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 821,362.14 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 2,190,603.33 discounted to 0. The listing displays 4.96 over 26 total ratings. IDR amounts track the USD list price and move between checks.",
     "licenseTier": "Personal",
     "curation": {
       "quality": 4,
       "value": 4,
       "completeness": 4,
       "reputation": 3,
-      "rationale": "The listing documents a specific scope — one animated creature with 29 named animation groups, Epic skeleton UE4 rigging, extra eye/jaw bones and three skins per item — which supports a strong contents grade, and the page now displays 5.0 over 23 ratings with the small-sample moderation still applied. Scope is a single character rather than a full kit, so value is strong rather than exceptional. An individual creator with no separate publisher profile limits reputation."
+      "rationale": "The listing documents a specific scope — one animated creature with 29 named animation groups, Epic skeleton UE4 rigging, extra eye/jaw bones and three skins per item — which supports a strong contents grade, and the page now displays 4.96 over 26 ratings with the small-sample moderation still applied. Scope is a single character rather than a full kit, so value is strong rather than exceptional. An individual creator with no separate publisher profile limits reputation."
     }
   },
   {
@@ -143,14 +141,14 @@
     "dimension": "3D",
     "assetType": "Tools & Plugins",
     "type": "limited_free",
-    "originalPrice": 1183865.03,
+    "originalPrice": 1186493.12,
     "salePrice": 0,
     "discountPercent": 100,
     "currency": "IDR",
     "expiresAt": "2026-11-17T14:59:00Z",
-    "rating": 4.5,
+    "rating": 4.53,
     "reviewCount": 17,
-    "radarScore": 57,
+    "radarScore": 58,
     "dealScore": 73,
     "source": "Fab",
     "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
@@ -158,7 +156,7 @@
     "license": "Fab Standard",
     "licenseUrl": "https://www.fab.com/eula",
     "commercialUse": true,
-    "lastChecked": "2026-11-15T02:11:01Z",
+    "lastChecked": "2026-11-17T02:13:08Z",
     "addedAt": "2026-11-07",
     "formats": [
       "Unreal Engine"
@@ -185,7 +183,7 @@
       "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
     },
     "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
-    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,183,865.03 with discountPercentage 100 and discountedPrice 0; the Professional tier shows the same IDR 1,183,865.03 discounted to 0. A lowestPriorPrice of IDR 591,841.43 from an earlier campaign is recorded on the same page and is not presented as the list price. The published rating breakdown is 4.53 over 17 total ratings (fifteen 5-star, two 1-star). IDR amounts track the USD list price and move between checks.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,186,493.12 with discountPercentage 100 and discountedPrice 0; the Professional tier shows the same IDR 1,186,493.12 discounted to 0. The published rating breakdown is 4.53 over 17 total ratings (fifteen 5-star, two 1-star). IDR amounts track the USD list price and move between checks.",
     "licenseTier": "Personal",
     "curation": {
       "quality": 3.5,
@@ -224,7 +222,7 @@
     "license": "Creator license",
     "licenseUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
     "commercialUse": true,
-    "lastChecked": "2026-11-15T02:10:09Z",
+    "lastChecked": "2026-11-17T02:12:59Z",
     "addedAt": "2026-11-10",
     "formats": [
       "ZIP"
@@ -291,7 +289,7 @@
     "license": "Creator commercial license",
     "licenseUrl": "https://smallscaleint.itch.io/zombie-city-hd-isometric-tileset",
     "commercialUse": true,
-    "lastChecked": "2026-11-15T02:10:11Z",
+    "lastChecked": "2026-11-17T02:13:01Z",
     "addedAt": "2026-11-11",
     "formats": [
       "RAR"
@@ -358,7 +356,7 @@
     "license": "Creator custom license",
     "licenseUrl": "https://pizzadoggy.itch.io/psx-mega-pack-2",
     "commercialUse": true,
-    "lastChecked": "2026-11-14T02:13:22Z",
+    "lastChecked": "2026-11-17T02:13:03Z",
     "addedAt": "2026-11-14",
     "formats": [
       "FBX",
@@ -431,7 +429,7 @@
     "license": "Creator commercial license",
     "licenseUrl": "https://smallscaleint.itch.io/character-creator-2d-fantasy",
     "commercialUse": true,
-    "lastChecked": "2026-11-14T02:13:24Z",
+    "lastChecked": "2026-11-17T02:13:04Z",
     "addedAt": "2026-11-14",
     "formats": [
       "UNITYPACKAGE",
@@ -471,6 +469,65 @@
       "completeness": 4,
       "reputation": 3,
       "rationale": "Quality 4: rated 4.9 over 9 ratings, moderated toward the neutral prior; the page documents part counts and a tutorial, but the 435 MB package was not opened. Completeness 4: contents are itemised (3 body types, 25+ heads, 19+ chests, 35+ weapons, 5+ mounts, 8-direction animation) with no file audit. Value 5: half the $39.99 list price for the packaged tool and stand-alone build. Reputation 3: an individual creator with a second promotion here but only 9 ratings."
+    }
+  },
+  {
+    "id": "gandalfhardcore-buffs-ability-icons",
+    "title": "100 Pixel Art Buffs and Ability Icons Pack",
+    "author": "GandalfHardcore",
+    "authors": [
+      "GandalfHardcore"
+    ],
+    "summary": "One hundred pixel-art buff, debuff and ability icons delivered as a colour spritesheet plus an editable Aseprite file, with a small demo ZIP for reference.",
+    "categories": [
+      "RPG",
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "Icons",
+    "type": "deal",
+    "originalPrice": 4.99,
+    "salePrice": 3.24,
+    "discountPercent": 35,
+    "currency": "USD",
+    "expiresAt": "2026-11-23T09:00:00Z",
+    "rating": 5,
+    "reviewCount": 16,
+    "radarScore": 69,
+    "dealScore": 70,
+    "source": "itch.io",
+    "sourceUrl": "https://gandalfhardcore.itch.io/buffs-and-ability-icons-pixel-art-pack",
+    "canonicalSourceUrl": "https://gandalfhardcore.itch.io/buffs-and-ability-icons-pixel-art-pack",
+    "license": "Creator commercial license",
+    "licenseUrl": "https://gandalfhardcore.itch.io/buffs-and-ability-icons-pixel-art-pack",
+    "commercialUse": true,
+    "lastChecked": "2026-11-17T02:12:56Z",
+    "addedAt": "2026-11-17",
+    "formats": [
+      "ZIP",
+      "Aseprite"
+    ],
+    "engines": [],
+    "engineNote": "The ZIP ships an all-colour spritesheet and an Aseprite file, plus a small demo ZIP; no engine package is listed and creator tags do not establish engine support. Extract and slice the sheets manually; the archive was not downloaded.",
+    "tags": [
+      "icons",
+      "buffs",
+      "debuffs",
+      "abilities",
+      "pixel art",
+      "aseprite"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The page's LICENSE section permits commercial and non-commercial video games and projects, modification as needed, and display on designated websites. Reselling, repackaging or redistributing the assets, AI training, NFT/crypto uses, and incorporation into game-development tools or printed materials are prohibited. Not CC0.",
+    "priceNote": "USD purchase panel showed $4.99 crossed out to $3.24; the exact product's structured Offer reports price 3.24 USD with an explicit priceValidUntil, so both views agree. The panel reads \"at or above the minimum price\", so this is a paid reduction, not a free claim. The 146 kB archive was not downloaded.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 4,
+      "reputation": 3.5,
+      "rationale": "A precisely scoped utility pack: 100 buff, debuff and ability icons with a spritesheet, an editable Aseprite source file and a demo ZIP, rated 5.0 over 16 ratings and moderated toward the neutral prior. Value is strong-to-exceptional because $3.24 includes the editable source rather than flat sheets. Reputation 3.5: the same creator's packs have passed verification here before, though this archive was not downloaded."
     }
   }
 ]
