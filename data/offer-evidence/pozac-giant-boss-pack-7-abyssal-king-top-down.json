@@ -1,0 +1,26 @@
+{
+ "id": "pozac-giant-boss-pack-7-abyssal-king-top-down",
+ "sourceUrl": "https://pozac.itch.io/giant-boss-pack-7-abyssal-king-top-down",
+ "checkedAt": "2026-11-18T02:09:18Z",
+ "method": "permitted-fetch",
+ "httpStatus": 200,
+ "price": {
+  "originalPrice": 4.99,
+  "salePrice": 2.49,
+  "currency": "USD",
+  "licenseTier": null,
+  "note": "USD purchase panel showed $4.99 crossed out to $2.49 at \"On Sale! 50% Off\" and the exact product's structured Offer reports price 2.49 USD with an explicit priceValidUntil 2026-11-23T00:00:00Z, so both views agree. The panel reads \"or more\" with the page stating you must purchase at or above the minimum price, so this is a paid reduction, not a free claim. The 139 MB archive was not downloaded."
+ },
+ "license": {
+  "name": "Creator custom license",
+  "url": "https://pozac.itch.io/giant-boss-pack-7-abyssal-king-top-down",
+  "commercialUse": true,
+  "note": "The page's License section permits use in personal and commercial projects and modification, but prohibits reselling, redistribution and inclusion in other asset packs or marketplaces. Credit is appreciated but not required. Not CC0."
+ },
+ "expiresAt": "2026-11-23T00:00:00Z",
+ "expiryEvidenceUrl": "https://pozac.itch.io/giant-boss-pack-7-abyssal-king-top-down",
+ "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-23T00:00:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
+ "rating": 5,
+ "reviewCount": 7,
+ "productNote": "Displayed as Rated 5.0 over 7 ratings; the structured AggregateRating agrees. One download is listed: Giant Boss Pack 7 – Abyssal King Top-Down.zip 139 MB. The page enumerates 28 named animations with per-frame counts, dedicated front and back FX sheets, 49 individual FX files, five color palettes, modular PNG body parts, three Aseprite files and GIF previews, and states the art is hand-drawn rather than AI-generated. The archive was not downloaded or inspected."
+}

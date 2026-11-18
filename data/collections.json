@@ -2,7 +2,7 @@
   {
     "id": "cozy-little-worlds",
     "name": "Cozy little worlds",
-    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY farm and village packs, Daniel Cook CC-BY PlanetCute ramp, roof, and shadow tiles, a town loop, and CC0 cupcakes. Credit CC-BY packs and pick one art direction.",
+    "description": "2D towns and farms, 3D neighborhood props, pets, and jingles, plus CC-BY farm and village packs, Daniel Cook CC-BY PlanetCute ramp and roof tiles, a town loop, CC0 cupcakes and a CC0 reindeer. Credit CC-BY packs and pick one art direction.",
     "assetIds": [
       "kenney-tiny-town",
       "kenney-tiny-farm",
@@ -19,11 +19,11 @@
       "oga-cupcakes-7-cupcakes",
       "oga-planetcute-ramp-westpng",
       "oga-planetcute-roof-southpng",
-      "oga-planetcute-shadow-south-westpng"
+      "oga-cute-reindeer-character"
     ],
     "cover": "kenney-tiny-town",
     "color": "peach",
-    "updatedAt": "2026-11-02T02:11:00.000Z"
+    "updatedAt": "2026-11-18T03:22:03Z"
   },
   {
     "id": "into-the-dungeon",
@@ -80,7 +80,7 @@
   {
     "id": "a-town-of-your-own",
     "name": "A town of your own",
-    "description": "3D town, street and interior props and characters from Kenney CC0, plus CC-BY 2D village scenery, isometric buildings, a bakery, a main-menu background and a CC0 isometric village tileset. Credit lucius39 and khaledpng.",
+    "description": "3D town, street and interior props and characters from Kenney CC0, plus CC-BY 2D village scenery, isometric buildings, a bakery, a CC0 office building and a CC0 isometric village tileset. Credit lucius39 and khaledpng.",
     "assetIds": [
       "kenney-fantasy-town-kit",
       "kenney-mini-market",
@@ -95,13 +95,13 @@
       "oga-village-scenery",
       "oga-a-set-of-isometric-buildings",
       "oga-bakery-isometric",
-      "oga-citybuilder-main-menu-background",
       "oga-houses-collection",
-      "oga-isometric-village-builder"
+      "oga-isometric-village-builder",
+      "oga-office-building"
     ],
     "cover": "kenney-fantasy-town-kit",
     "color": "peach",
-    "updatedAt": "2026-11-04T02:51:15.000Z"
+    "updatedAt": "2026-11-18T03:22:03Z"
   },
   {
     "id": "the-night-shift",
@@ -262,7 +262,7 @@
   {
     "id": "the-outside-world",
     "name": "The outside world",
-    "description": "Forest and survival models from Kenney with CC0 grass, soil, rock and bark materials, CC0 pitted dry ground and 32x32 pixel nature textures, plus CC-BY-4.0 cute pixel animals. Credit pixelartmaker; grids and materials are manual.",
+    "description": "Forest and survival models from Kenney with CC0 grass, soil, rock and bark materials, 32x32 pixel nature textures, CC-BY-4.0 mountain tiles and cute pixel animals. Credit pixelartmaker and devnewton; grids and materials are manual.",
     "assetIds": [
       "kenney-nature-kit",
       "kenney-mini-forest",
@@ -279,11 +279,11 @@
       "ambientcg-ground008",
       "oga-16-cool-pixelated-nature-textures-32x32",
       "oga-cute-pixel-animals",
-      "oga-pitted-dry-ground"
+      "oga-moutain-tileset"
     ],
     "cover": "kenney-mini-forest",
     "color": "mint",
-    "updatedAt": "2026-11-04T02:51:15.000Z"
+    "updatedAt": "2026-11-18T03:22:03Z"
   },
   {
     "id": "material-essentials",

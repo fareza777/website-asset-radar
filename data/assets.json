@@ -210867,6 +210867,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-17T03:01:21.702Z",
     "id": "oga-office-building",
     "title": "Office Building",
     "author": "Grahhhhh",
@@ -210874,16 +210886,16 @@
       "Grahhhhh"
     ],
     "summary": "Office Building: environments by Grahhhhh. PNG content verified from a free CC0 download. Import and set up in your project.",
-    "assetType": "Environments",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
+    "assetType": "Environments",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/office-building",
     "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "attribution": "No copyright, no need to credit, but if you do it's: GRAHHHHHHHH or GRAHHH, or any variation. Or not. Office Building by Grahhhhh. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/office-building Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "verificationUrl": "https://opengameart.org/content/office-building",
     "verifiedAt": "2026-11-17",
     "addedAt": "2026-11-17",
@@ -210908,7 +210920,345 @@
       "license": "CC0",
       "sha256": "761d3dda8691bf278f78a517c45e445c58c5f4129e261804ffbcb2d7e4e0eacd",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
-    },
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:29:26.579Z",
+    "id": "oga-cave-free-top-down-tileset",
+    "title": "Cave Free Top-Down Tileset",
+    "author": "LudicArts",
+    "authors": [
+      "LudicArts"
+    ],
+    "summary": "Cave Free Top-Down Tileset: tilesets by LudicArts. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/cave-free-top-down-tileset",
+    "license": "CC-BY-4.0",
+    "attribution": "Cave Free Top-Down Tileset is licensed under a Creative Commons Attribution 4.0 Internacional License. Attribution to https://www.ludicarts.com/ Cave Free Top-Down Tileset by LudicArts. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/cave-free-top-down-tileset Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/cave-free-top-down-tileset",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "8aab84a25e4fbe2fe150a1da1078ecc8aafcc163418604e2f8dd85798cda9de6",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "cave",
+      "Top-down",
+      "tileset",
+      "game asset",
+      "2d",
+      "RPG",
+      "adventure",
+      "Dungeon crawler",
+      "rocks"
+    ],
+    "preview": "/previews/oga-cave-free-top-down-tileset.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/cave_free_top-down_tileset.zip",
+      "file": "Cave Free Top-Down Tileset/Large (256x256)/tileset.png",
+      "license": "CC-BY-4.0",
+      "sha256": "d4d1fceaf4f6af41aea1bd17fab98ee1ec1fd59409eab70ef7310a00f4068f49",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:29:57.958Z",
+    "id": "oga-ui-volume-green-pixel-atr",
+    "title": "UI volume green pixel atr",
+    "author": "cutepixel_art",
+    "authors": [
+      "cutepixel_art"
+    ],
+    "summary": "UI volume green pixel atr: ui kits by cutepixel_art. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "assetType": "UI Kits",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/ui-volume-green-pixel-atr",
+    "license": "CC-BY-3.0",
+    "attribution": "UI volume green pixel atr by cutepixel_art. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/ui-volume-green-pixel-atr Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/ui-volume-green-pixel-atr",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "382664316849cb92cf6a0f91d0748b25dd1730ac4ab76310f83b296e1255dae8",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "Pixel Art",
+      "ui",
+      "green"
+    ],
+    "preview": "/previews/oga-ui-volume-green-pixel-atr.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/archive_6.zip",
+      "file": "frame0005.png",
+      "license": "CC-BY-3.0",
+      "sha256": "b68dcc654eb0f496dddf780b732e9cf78e31ca7238a962a9a46193d5fcca7c3c",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:48:19.204Z",
+    "id": "oga-planetcute-selectorpng",
+    "title": "PlanetCute: Selector.png",
+    "author": "Daniel Cook, bart",
+    "authors": [
+      "Daniel Cook",
+      "bart"
+    ],
+    "summary": "PlanetCute: Selector.png: vfx by Daniel Cook, bart. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "VFX",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/planetcute-selectorpng",
+    "license": "CC-BY-3.0",
+    "attribution": "PlanetCute: Selector.png by Daniel Cook, bart. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/planetcute-selectorpng Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/planetcute-selectorpng",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "0f90b41970b85958f7b2eccf17a567cf4f884a77b09bd74bc03c48953073befa",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "RPG",
+      "Strategy",
+      "Effects",
+      "Sprite",
+      "Vector Art"
+    ],
+    "preview": "/previews/oga-planetcute-selectorpng.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/selector.png",
+      "file": "selector.png",
+      "license": "CC-BY-3.0",
+      "sha256": "e888dca0b9f3fdc44a42d500fe407c464c6afba3bc27aa6f79451ba19b318ae8",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:48:39.632Z",
+    "id": "oga-viking-1",
+    "title": "viking",
+    "author": "arispen",
+    "authors": [
+      "arispen"
+    ],
+    "summary": "viking: characters by arispen. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/viking-1",
+    "license": "CC-BY-3.0",
+    "attribution": "inspired by Sigbird's work (https://opengameart.org/users/sigbird) viking by arispen. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/viking-1 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/viking-1",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "59e51cbf60fa22b5f8be86bdbc3757cc831fdd41c47787d40696ae7413ff8886",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "viking",
+      "axe",
+      "Sprite",
+      "Character",
+      "cartoon",
+      "cartoon character"
+    ],
+    "preview": "/previews/oga-viking-1.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/viking11_1.png",
+      "file": "viking11_1.png",
+      "license": "CC-BY-3.0",
+      "sha256": "7f7ddb13b8470f31f818ad7d75bc322c0c8ce69031164638e62bb678ecaa8680",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:48:58.788Z",
+    "id": "oga-planetcute-shadow-northpng",
+    "title": "PlanetCute: Shadow North.png",
+    "author": "Daniel Cook, bart",
+    "authors": [
+      "Daniel Cook",
+      "bart"
+    ],
+    "summary": "PlanetCute: Shadow North.png: tilesets by Daniel Cook, bart. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/planetcute-shadow-northpng",
+    "license": "CC-BY-3.0",
+    "attribution": "PlanetCute: Shadow North.png by Daniel Cook, bart. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/planetcute-shadow-northpng Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/planetcute-shadow-northpng",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "2c1428d6e778c0ca792b1faa88446d3d5a490e01a4936a94df74f7dea4433d59",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "RPG",
+      "Strategy",
+      "Map Tileset",
+      "Vector Art"
+    ],
+    "preview": "/previews/oga-planetcute-shadow-northpng.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/shadow%20north.png",
+      "file": "shadow north.png",
+      "license": "CC-BY-3.0",
+      "sha256": "527cd7c7f08f5e874e0aff15a951ebde928f8766d84204f52dbe687f16e73e96",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:49:39.269Z",
+    "id": "oga-dark-castle-background2d",
+    "title": "Dark castle background2d",
+    "author": "cubbic",
+    "authors": [
+      "cubbic"
+    ],
+    "summary": "Dark castle background2d: environments by cubbic. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Environments",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/dark-castle-background2d",
+    "license": "CC-BY-3.0",
+    "attribution": "If you want you can credit Cubbic and TgpArcher Dark castle background2d by cubbic. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/dark-castle-background2d Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/dark-castle-background2d",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "f8f2f84bfb68f6c093b224884200ba527e0b0236603c67e41af68969ca7b909d",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "background"
+    ],
+    "preview": "/previews/oga-dark-castle-background2d.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/Castel.png",
+      "file": "Castel.png",
+      "license": "CC-BY-3.0",
+      "sha256": "08e84108dd3a159a011fce4c3cd3deed7ee67d2ed26efb125851922cc6fa9555",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -210920,6 +211270,270 @@
     "radarScore": 53,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-17T03:01:21.702Z"
+    "lastChecked": "2026-11-18T02:49:59.614Z",
+    "id": "oga-derpy-dude-player-character-npc",
+    "title": "Derpy Dude (Player Character, NPC)",
+    "author": "Blaze Fyruss",
+    "authors": [
+      "Blaze Fyruss"
+    ],
+    "summary": "Derpy Dude (Player Character, NPC): characters by Blaze Fyruss. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/derpy-dude-player-character-npc",
+    "license": "CC0",
+    "attribution": "Derpy Dude (Player Character, NPC) by Blaze Fyruss. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/derpy-dude-player-character-npc Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/derpy-dude-player-character-npc",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "e61d8ff5a68befcfb7762f8b186035345dd7173f42854b8c1e885d304ba00715",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "cartoon",
+      "Character",
+      "crazy"
+    ],
+    "preview": "/previews/oga-derpy-dude-player-character-npc.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/derpydudeparts.png",
+      "file": "derpydudeparts.png",
+      "license": "CC0",
+      "sha256": "228cc28c595952d5f97e3af2376a3aabf962b1d2eaa40d4657adf8437d56ce94",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:50:47.111Z",
+    "id": "oga-rooted-tree-leafless",
+    "title": "Rooted tree (Leafless)",
+    "author": "Angry Amish",
+    "authors": [
+      "Angry Amish"
+    ],
+    "summary": "Rooted tree (Leafless): environments by Angry Amish. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Environments",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/rooted-tree-leafless",
+    "license": "CC0",
+    "attribution": "Rooted tree (Leafless) by Angry Amish. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/rooted-tree-leafless Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/rooted-tree-leafless",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "6b7337c76009dbd5d3162c43a1c37fc1a75379273f574b489f3f991027aa6b5d",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "tree",
+      "pixel"
+    ],
+    "preview": "/previews/oga-rooted-tree-leafless.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/rooted%20tree%20%28leafless%29.png",
+      "file": "rooted tree (leafless).png",
+      "license": "CC0",
+      "sha256": "fdfab8c1d90c41b63c7c277d3adcd00839edce88f317573484ff845fcb7c2195",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:51:10.523Z",
+    "id": "oga-characters-blank",
+    "title": "Characters (Blank)",
+    "author": "Fato_Shadow_Music",
+    "authors": [
+      "Fato_Shadow_Music"
+    ],
+    "summary": "Characters (Blank): characters by Fato_Shadow_Music. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/characters-blank",
+    "license": "CC0",
+    "attribution": "Give credits to - Fato Shadow Characters (Blank) by Fato_Shadow_Music. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/characters-blank Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/characters-blank",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "57d42789f8bf673647e73397f5eb19a5a1cc40a58d65d2f4179c07dcd5d77cb7",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "RPG",
+      "badge",
+      "flag",
+      "kingdom",
+      "emblem",
+      "war",
+      "Crown",
+      "Battle",
+      "Icon",
+      "Blank",
+      "Character",
+      "characters",
+      "Enemy",
+      "enemies",
+      "armor"
+    ],
+    "preview": "/previews/oga-characters-blank.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/demon_3.png",
+      "file": "demon_3.png",
+      "license": "CC0",
+      "sha256": "6ccada4a85d6619cc706df0487e1a2753cccef36099e0c111150785b524d3923",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:51:59.998Z",
+    "id": "oga-explosion-6",
+    "title": "explosion",
+    "author": "Iyorky",
+    "authors": [
+      "Iyorky"
+    ],
+    "summary": "explosion: vfx by Iyorky. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "VFX",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/explosion-6",
+    "license": "CC-BY-4.0",
+    "attribution": "explosion by Iyorky. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/explosion-6 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/explosion-6",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "776517731d887ad8988fac35f77481f514b2258f12b092f5a2c5324e84580393",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "explosion",
+      "Sprite"
+    ],
+    "preview": "/previews/oga-explosion-6.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/New%20Piskel_19.png",
+      "file": "New Piskel_19.png",
+      "license": "CC-BY-4.0",
+      "sha256": "c96dbe40c595b83cb92a7d7793aaddcff0bf6557e229117bfe9fff80e23a68e4",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-plough-symbol",
+    "title": "Plough Symbol",
+    "author": "freeze111",
+    "authors": [
+      "freeze111"
+    ],
+    "summary": "Plough Symbol: environments by freeze111. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "assetType": "Environments",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/plough-symbol",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Plough Symbol by freeze111. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/plough-symbol Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/plough-symbol",
+    "verifiedAt": "2026-11-18",
+    "addedAt": "2026-11-18",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "539cf6b7ef8bf0d040b12adf3947616bcb15ef7e931a2c0e54acd9b8295c7333",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "farming"
+    ],
+    "preview": "/previews/oga-plough-symbol.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/plough_symbol_0.png",
+      "file": "plough_symbol_0.png",
+      "license": "CC-BY-4.0",
+      "sha256": "8b3576f61c3817905f3f3cabd4e520bea07d33c285cbd93b98d61017e2f4e58b",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:52:30.590Z"
   }
 ]

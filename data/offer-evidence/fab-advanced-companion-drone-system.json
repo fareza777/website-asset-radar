@@ -1,0 +1,26 @@
+{
+ "id": "fab-advanced-companion-drone-system",
+ "sourceUrl": "https://www.fab.com/listings/205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+ "checkedAt": "2026-11-18T02:15:55Z",
+ "method": "permitted-fetch",
+ "httpStatus": 200,
+ "price": {
+  "originalPrice": 1203142.3,
+  "salePrice": 0,
+  "currency": "IDR",
+  "licenseTier": "Personal",
+  "note": "The listing's own Personal priceTier reports price 1203142.30 IDR with discountPercentage 100 and discountedPrice 0 for the campaign window 2026-11-17T15:00:00Z to 2026-12-01T14:59:00Z, and the Professional tier (2278841.58 IDR) is discounted to 0 in the same window. The structured Product Offer repeats the same IDR amount as its price, so the two views agree. Prices are tier amounts before tax and drift with the IDR conversion of the USD list price. The listing displays 5.0 over 7 total ratings."
+ },
+ "license": {
+  "name": "Fab Standard",
+  "url": "https://www.fab.com/eula",
+  "commercialUse": true,
+  "note": "Fab Standard License summary re-read on this run: you may use the assets commercially or privately, modify them into your Projects, commercially distribute Projects with the assets incorporated, and share them with collaborators; you may not resell or redistribute the asset standalone. Both pricing tiers (Personal and Professional) grant the same scope of rights and no publisher credit is required. Fab Standard is not CC0."
+ },
+ "expiresAt": "2026-12-01T14:59:00Z",
+ "expiryEvidenceUrl": "https://www.fab.com/listings/205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+ "expiryNote": "The listing's own priceTier states discountEndDate 2026-12-01T14:59:00Z with an explicit UTC offset, and its discounted price and currency match the observed tier data.",
+ "rating": 5,
+ "reviewCount": 7,
+ "productNote": "Kozak Assets is credited as the listing seller in the structured Product data. The listing's included-format data names Unreal Engine only. The page links a playable demo, online documentation and an implementation guide, and describes a modular UE5 blueprint framework for flying companions with replication support. Asset files were not downloaded and integration behaviour was not tested."
+}

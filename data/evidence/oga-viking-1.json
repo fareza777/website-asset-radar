@@ -1,0 +1,39 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-viking-1",
+  "sourceUrl": "https://opengameart.org/content/viking-1",
+  "checkedAt": "2026-11-18T02:48:39.632Z",
+  "httpStatus": 200,
+  "pageSha256": "59e51cbf60fa22b5f8be86bdbc3757cc831fdd41c47787d40696ae7413ff8886",
+  "title": "viking",
+  "authors": [
+    "arispen"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "inspired by Sigbird's work (https://opengameart.org/users/sigbird) viking by arispen. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/viking-1 Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/viking11_1.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/viking11_1.png",
+  "downloadSha256": "7f7ddb13b8470f31f818ad7d75bc322c0c8ce69031164638e62bb678ecaa8680",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "viking11_1.png",
+  "previewSha256": "7f7ddb13b8470f31f818ad7d75bc322c0c8ce69031164638e62bb678ecaa8680",
+  "sourceTags": [
+    "viking",
+    "axe",
+    "Sprite",
+    "Character",
+    "cartoon",
+    "cartoon character"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

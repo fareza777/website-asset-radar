@@ -1,0 +1,26 @@
+{
+ "id": "kneesoup-iconic-characters",
+ "sourceUrl": "https://kneesoup.itch.io/iconic-characters",
+ "checkedAt": "2026-11-18T02:09:16Z",
+ "method": "permitted-fetch",
+ "httpStatus": 200,
+ "price": {
+  "originalPrice": 10,
+  "salePrice": 6.7,
+  "currency": "EUR",
+  "licenseTier": null,
+  "note": "EUR purchase panel showed 10.00€ crossed out to 6.70€ at \"On Sale! 33% Off\" and the exact product's structured Offer reports price 6.7 EUR with an explicit priceValidUntil 2026-11-18T23:49:00Z, so both views agree. The panel reads \"or more\" with the page stating you must purchase at or above the minimum price, so this is a paid reduction, not a free claim. The 31 MB archive was not downloaded."
+ },
+ "license": {
+  "name": "Creator custom license",
+  "url": "https://kneesoup.itch.io/iconic-characters",
+  "commercialUse": true,
+  "note": "The page's License section permits use in commercial and non-commercial games and modification, calling the assets royalty-free. Redistribution or resale even when modified is prohibited, AI training is forbidden, and NFT/crypto projects are excluded. Attribution is appreciated but not required. Not CC0."
+ },
+ "expiresAt": "2026-11-18T23:49:00Z",
+ "expiryEvidenceUrl": "https://kneesoup.itch.io/iconic-characters",
+ "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-18T23:49:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
+ "rating": 4.7,
+ "reviewCount": 9,
+ "productNote": "Displayed as Rated 4.7 over 9 ratings; the structured AggregateRating agrees. One download is listed: KneeSoup's Iconic Characters.zip 31 MB. The page describes rigged low-poly characters with tested animations, 128px-256px textures, FBX, OBJ, GLB and BLEND formats, and states the pack is in active development with a planned price increase. The archive was not downloaded or inspected."
+}

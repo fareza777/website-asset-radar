@@ -4698,5 +4698,211 @@
     },
     "reason": "verification_required",
     "archivedAt": "2026-11-07T03:05:19.830Z"
+  },
+  {
+    "offer": {
+      "id": "fab-underground-tunnel",
+      "title": "Underground Tunnel",
+      "author": "MacKenzie Shirk",
+      "summary": "Photogrammetry tunnel network with a central junction that opens to the surface. Most tunnel pieces are modular with optional connection sockets; the junction itself is not. Authored with baked lighting.",
+      "categories": [
+        "3D",
+        "RPG",
+        "Survival"
+      ],
+      "dimension": "3D",
+      "assetType": "Environments",
+      "type": "limited_free",
+      "originalPrice": 1825472.34,
+      "salePrice": 0,
+      "discountPercent": 100,
+      "currency": "IDR",
+      "expiresAt": "2026-11-17T14:59:00Z",
+      "rating": 5,
+      "reviewCount": 28,
+      "radarScore": 63,
+      "dealScore": 84,
+      "source": "Fab",
+      "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+      "canonicalSourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+      "license": "Fab Standard",
+      "licenseUrl": "https://www.fab.com/eula",
+      "commercialUse": true,
+      "lastChecked": "2026-11-17T02:13:05Z",
+      "addedAt": "2026-11-07",
+      "formats": [
+        "Unreal Engine"
+      ],
+      "engines": [
+        "Unreal"
+      ],
+      "engineNote": "Fab lists Unreal Engine as the only included format for this product, so it is recorded as an Unreal package rather than an interchange-format import. The scene uses baked lighting written for UE4; the page states UE5 users must disable Lumen. No project was opened or performance-tested.",
+      "tags": [
+        "tunnel",
+        "photogrammetry",
+        "industrial",
+        "modular",
+        "horror"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "publisherPreview": {
+        "url": "https://media.fab.com/image_previews/gallery_images/85114f63-719a-4842-967d-530f9536b010/39eecac3-ebc0-4708-9803-d1aa2be42cf0.png",
+        "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
+        "alt": "Publisher gallery image of a photogrammetry underground tunnel junction with surface access.",
+        "credit": "MacKenzie Shirk",
+        "checkedAt": "2026-11-13T02:20:54Z",
+        "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
+      },
+      "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
+      "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,825,472.34 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 3,651,127.26 discounted to 0 in the same window. The listing displays an average rating of 5.0 over 28 total ratings. IDR amounts track the USD list price and move between checks.",
+      "licenseTier": "Personal",
+      "curation": {
+        "quality": 4,
+        "value": 5,
+        "completeness": 3,
+        "reputation": 3.5,
+        "rationale": "A coherent photoreal tunnel network with a documented modular layout, optional connection sockets, a video demonstration and Unreal-only publisher-listed formats; the listing now displays 5.0 over 28 ratings, so the small-sample moderation matters less than before. Contents are publisher-listed only — the archive was not downloaded or audited, which caps completeness. An individual creator, not a monitored featured publisher, limits reputation evidence."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-11-18T02:05:28.650Z"
+  },
+  {
+    "offer": {
+      "id": "fab-scifi-beast06-bull",
+      "title": "SciFi Beast06 Bull",
+      "author": "Shumniy",
+      "summary": "Low-poly animated beast character with 29 animations, three skins per item and an Epic-compatible skeleton, published for Unreal Engine and Unity. Sound and effects are not included.",
+      "categories": [
+        "3D",
+        "RPG",
+        "Platformer"
+      ],
+      "dimension": "3D",
+      "assetType": "Characters",
+      "type": "limited_free",
+      "originalPrice": 821362.14,
+      "salePrice": 0,
+      "discountPercent": 100,
+      "currency": "IDR",
+      "expiresAt": "2026-11-17T14:59:00Z",
+      "rating": 4.96,
+      "reviewCount": 26,
+      "radarScore": 67,
+      "dealScore": 76,
+      "source": "Fab",
+      "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+      "canonicalSourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+      "license": "Fab Standard",
+      "licenseUrl": "https://www.fab.com/eula",
+      "commercialUse": true,
+      "lastChecked": "2026-11-17T02:13:07Z",
+      "addedAt": "2026-11-07",
+      "formats": [
+        "Unreal Engine"
+      ],
+      "engines": [
+        "Unreal"
+      ],
+      "engineNote": "Fab's included-format list names Unreal Engine only on this check; the Unity entry recorded on 2026-11-15 no longer appears, and the Unreal side is documented against an Epic skeleton. Animation retargeting, material setup and project layout were not opened or tested in any engine.",
+      "tags": [
+        "character",
+        "animated",
+        "low-poly",
+        "monster",
+        "pbr"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "publisherPreview": {
+        "url": "https://media.fab.com/image_previews/gallery_images/07996b90-a133-4a5f-a034-7baf4dbf8597/2627b26b-19f4-4a9d-a329-7e7b205ab0ea.jpg",
+        "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
+        "alt": "Publisher gallery image of the low-poly SciFi Beast06 Bull character.",
+        "credit": "Shumniy",
+        "checkedAt": "2026-11-13T02:20:56Z",
+        "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
+      },
+      "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
+      "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 821,362.14 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 2,190,603.33 discounted to 0. The listing displays 4.96 over 26 total ratings. IDR amounts track the USD list price and move between checks.",
+      "licenseTier": "Personal",
+      "curation": {
+        "quality": 4,
+        "value": 4,
+        "completeness": 4,
+        "reputation": 3,
+        "rationale": "The listing documents a specific scope — one animated creature with 29 named animation groups, Epic skeleton UE4 rigging, extra eye/jaw bones and three skins per item — which supports a strong contents grade, and the page now displays 4.96 over 26 ratings with the small-sample moderation still applied. Scope is a single character rather than a full kit, so value is strong rather than exceptional. An individual creator with no separate publisher profile limits reputation."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-11-18T02:05:28.650Z"
+  },
+  {
+    "offer": {
+      "id": "fab-3d-platformer-game-bundle",
+      "title": "3D Platformer Game Bundle",
+      "author": "Raul Jaramillo",
+      "summary": "Blueprint-based platformer movement systems for Unreal Engine covering rail grinding, ziplines, a homing attack and dash pads, with a changelog noting an update to UE 5.6.",
+      "categories": [
+        "Platformer",
+        "3D"
+      ],
+      "dimension": "3D",
+      "assetType": "Tools & Plugins",
+      "type": "limited_free",
+      "originalPrice": 1186493.12,
+      "salePrice": 0,
+      "discountPercent": 100,
+      "currency": "IDR",
+      "expiresAt": "2026-11-17T14:59:00Z",
+      "rating": 4.53,
+      "reviewCount": 17,
+      "radarScore": 58,
+      "dealScore": 73,
+      "source": "Fab",
+      "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
+      "canonicalSourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
+      "license": "Fab Standard",
+      "licenseUrl": "https://www.fab.com/eula",
+      "commercialUse": true,
+      "lastChecked": "2026-11-17T02:13:08Z",
+      "addedAt": "2026-11-07",
+      "formats": [
+        "Unreal Engine"
+      ],
+      "engines": [
+        "Unreal"
+      ],
+      "engineNote": "Fab lists Unreal Engine as the only included format, so this is an Unreal Blueprint collection rather than an interchange-format import. Input mapping, project settings and migration to engine versions other than the documented UE 5.6 were not tested.",
+      "tags": [
+        "platformer",
+        "blueprint",
+        "movement",
+        "gameplay",
+        "zipline"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "publisherPreview": {
+        "url": "https://media.fab.com/image_previews/gallery_images/d25a202e-5cbd-433a-b1c6-387eb1311363/e9608a2d-4255-451c-bb81-b99736aef3b3.png",
+        "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
+        "alt": "Publisher gallery image of the 3D platformer bundle showing rail grinding and dash-pad mechanics.",
+        "credit": "Raul Jaramillo",
+        "checkedAt": "2026-11-13T02:20:57Z",
+        "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
+      },
+      "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
+      "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,186,493.12 with discountPercentage 100 and discountedPrice 0; the Professional tier shows the same IDR 1,186,493.12 discounted to 0. The published rating breakdown is 4.53 over 17 total ratings (fifteen 5-star, two 1-star). IDR amounts track the USD list price and move between checks.",
+      "licenseTier": "Personal",
+      "curation": {
+        "quality": 3.5,
+        "value": 4,
+        "completeness": 3,
+        "reputation": 3,
+        "rationale": "Three named mechanics bundled with a changelog that records an update on 10/24/2026 give a documented, usable scope, but the marketplace average is 4.53 over 17 ratings — with two one-star ratings visible in the published breakdown — so the moderated rating contribution is below the other two products here. Contents are publisher-listed only and the archives were not opened, so completeness stays adequate. An individual creator without a monitored publisher profile limits reputation."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-11-18T02:05:28.650Z"
   }
 ]

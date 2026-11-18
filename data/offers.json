@@ -1,199 +1,5 @@
 [
   {
-    "id": "fab-underground-tunnel",
-    "title": "Underground Tunnel",
-    "author": "MacKenzie Shirk",
-    "summary": "Photogrammetry tunnel network with a central junction that opens to the surface. Most tunnel pieces are modular with optional connection sockets; the junction itself is not. Authored with baked lighting.",
-    "categories": [
-      "3D",
-      "RPG",
-      "Survival"
-    ],
-    "dimension": "3D",
-    "assetType": "Environments",
-    "type": "limited_free",
-    "originalPrice": 1825472.34,
-    "salePrice": 0,
-    "discountPercent": 100,
-    "currency": "IDR",
-    "expiresAt": "2026-11-17T14:59:00Z",
-    "rating": 5,
-    "reviewCount": 28,
-    "radarScore": 63,
-    "dealScore": 84,
-    "source": "Fab",
-    "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-    "canonicalSourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-    "license": "Fab Standard",
-    "licenseUrl": "https://www.fab.com/eula",
-    "commercialUse": true,
-    "lastChecked": "2026-11-17T02:13:05Z",
-    "addedAt": "2026-11-07",
-    "formats": [
-      "Unreal Engine"
-    ],
-    "engines": [
-      "Unreal"
-    ],
-    "engineNote": "Fab lists Unreal Engine as the only included format for this product, so it is recorded as an Unreal package rather than an interchange-format import. The scene uses baked lighting written for UE4; the page states UE5 users must disable Lumen. No project was opened or performance-tested.",
-    "tags": [
-      "tunnel",
-      "photogrammetry",
-      "industrial",
-      "modular",
-      "horror"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://media.fab.com/image_previews/gallery_images/85114f63-719a-4842-967d-530f9536b010/39eecac3-ebc0-4708-9803-d1aa2be42cf0.png",
-      "sourceUrl": "https://www.fab.com/listings/6c9e3f18-0b5e-4240-9aea-eecb515175c1",
-      "alt": "Publisher gallery image of a photogrammetry underground tunnel junction with surface access.",
-      "credit": "MacKenzie Shirk",
-      "checkedAt": "2026-11-13T02:20:54Z",
-      "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
-    },
-    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
-    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,825,472.34 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 3,651,127.26 discounted to 0 in the same window. The listing displays an average rating of 5.0 over 28 total ratings. IDR amounts track the USD list price and move between checks.",
-    "licenseTier": "Personal",
-    "curation": {
-      "quality": 4,
-      "value": 5,
-      "completeness": 3,
-      "reputation": 3.5,
-      "rationale": "A coherent photoreal tunnel network with a documented modular layout, optional connection sockets, a video demonstration and Unreal-only publisher-listed formats; the listing now displays 5.0 over 28 ratings, so the small-sample moderation matters less than before. Contents are publisher-listed only — the archive was not downloaded or audited, which caps completeness. An individual creator, not a monitored featured publisher, limits reputation evidence."
-    }
-  },
-  {
-    "id": "fab-scifi-beast06-bull",
-    "title": "SciFi Beast06 Bull",
-    "author": "Shumniy",
-    "summary": "Low-poly animated beast character with 29 animations, three skins per item and an Epic-compatible skeleton, published for Unreal Engine and Unity. Sound and effects are not included.",
-    "categories": [
-      "3D",
-      "RPG",
-      "Platformer"
-    ],
-    "dimension": "3D",
-    "assetType": "Characters",
-    "type": "limited_free",
-    "originalPrice": 821362.14,
-    "salePrice": 0,
-    "discountPercent": 100,
-    "currency": "IDR",
-    "expiresAt": "2026-11-17T14:59:00Z",
-    "rating": 4.96,
-    "reviewCount": 26,
-    "radarScore": 67,
-    "dealScore": 76,
-    "source": "Fab",
-    "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
-    "canonicalSourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
-    "license": "Fab Standard",
-    "licenseUrl": "https://www.fab.com/eula",
-    "commercialUse": true,
-    "lastChecked": "2026-11-17T02:13:07Z",
-    "addedAt": "2026-11-07",
-    "formats": [
-      "Unreal Engine"
-    ],
-    "engines": [
-      "Unreal"
-    ],
-    "engineNote": "Fab's included-format list names Unreal Engine only on this check; the Unity entry recorded on 2026-11-15 no longer appears, and the Unreal side is documented against an Epic skeleton. Animation retargeting, material setup and project layout were not opened or tested in any engine.",
-    "tags": [
-      "character",
-      "animated",
-      "low-poly",
-      "monster",
-      "pbr"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://media.fab.com/image_previews/gallery_images/07996b90-a133-4a5f-a034-7baf4dbf8597/2627b26b-19f4-4a9d-a329-7e7b205ab0ea.jpg",
-      "sourceUrl": "https://www.fab.com/listings/126120a3-996e-4dc3-94f1-6550f0adac03",
-      "alt": "Publisher gallery image of the low-poly SciFi Beast06 Bull character.",
-      "credit": "Shumniy",
-      "checkedAt": "2026-11-13T02:20:56Z",
-      "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
-    },
-    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
-    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 821,362.14 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 2,190,603.33 discounted to 0. The listing displays 4.96 over 26 total ratings. IDR amounts track the USD list price and move between checks.",
-    "licenseTier": "Personal",
-    "curation": {
-      "quality": 4,
-      "value": 4,
-      "completeness": 4,
-      "reputation": 3,
-      "rationale": "The listing documents a specific scope — one animated creature with 29 named animation groups, Epic skeleton UE4 rigging, extra eye/jaw bones and three skins per item — which supports a strong contents grade, and the page now displays 4.96 over 26 ratings with the small-sample moderation still applied. Scope is a single character rather than a full kit, so value is strong rather than exceptional. An individual creator with no separate publisher profile limits reputation."
-    }
-  },
-  {
-    "id": "fab-3d-platformer-game-bundle",
-    "title": "3D Platformer Game Bundle",
-    "author": "Raul Jaramillo",
-    "summary": "Blueprint-based platformer movement systems for Unreal Engine covering rail grinding, ziplines, a homing attack and dash pads, with a changelog noting an update to UE 5.6.",
-    "categories": [
-      "Platformer",
-      "3D"
-    ],
-    "dimension": "3D",
-    "assetType": "Tools & Plugins",
-    "type": "limited_free",
-    "originalPrice": 1186493.12,
-    "salePrice": 0,
-    "discountPercent": 100,
-    "currency": "IDR",
-    "expiresAt": "2026-11-17T14:59:00Z",
-    "rating": 4.53,
-    "reviewCount": 17,
-    "radarScore": 58,
-    "dealScore": 73,
-    "source": "Fab",
-    "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-    "canonicalSourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-    "license": "Fab Standard",
-    "licenseUrl": "https://www.fab.com/eula",
-    "commercialUse": true,
-    "lastChecked": "2026-11-17T02:13:08Z",
-    "addedAt": "2026-11-07",
-    "formats": [
-      "Unreal Engine"
-    ],
-    "engines": [
-      "Unreal"
-    ],
-    "engineNote": "Fab lists Unreal Engine as the only included format, so this is an Unreal Blueprint collection rather than an interchange-format import. Input mapping, project settings and migration to engine versions other than the documented UE 5.6 were not tested.",
-    "tags": [
-      "platformer",
-      "blueprint",
-      "movement",
-      "gameplay",
-      "zipline"
-    ],
-    "preview": null,
-    "thumbnailPermission": null,
-    "publisherPreview": {
-      "url": "https://media.fab.com/image_previews/gallery_images/d25a202e-5cbd-433a-b1c6-387eb1311363/e9608a2d-4255-451c-bb81-b99736aef3b3.png",
-      "sourceUrl": "https://www.fab.com/listings/1898b906-d481-4a05-8515-f2b4d3b28378",
-      "alt": "Publisher gallery image of the 3D platformer bundle showing rail grinding and dash-pad mechanics.",
-      "credit": "Raul Jaramillo",
-      "checkedAt": "2026-11-13T02:20:57Z",
-      "note": "Observed as this product's own public gallery image on Fab. Linked from Fab's media CDN; no artwork or paid archive files were copied into the repository. Linking the preview does not refresh price or license verification."
-    },
-    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier you acquire at checkout governs eligibility.",
-    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,186,493.12 with discountPercentage 100 and discountedPrice 0; the Professional tier shows the same IDR 1,186,493.12 discounted to 0. The published rating breakdown is 4.53 over 17 total ratings (fifteen 5-star, two 1-star). IDR amounts track the USD list price and move between checks.",
-    "licenseTier": "Personal",
-    "curation": {
-      "quality": 3.5,
-      "value": 4,
-      "completeness": 3,
-      "reputation": 3,
-      "rationale": "Three named mechanics bundled with a changelog that records an update on 10/24/2026 give a documented, usable scope, but the marketplace average is 4.53 over 17 ratings — with two one-star ratings visible in the published breakdown — so the moderated rating contribution is below the other two products here. Contents are publisher-listed only and the archives were not opened, so completeness stays adequate. An individual creator without a monitored publisher profile limits reputation."
-    }
-  },
-  {
     "id": "winlu-fantasy-tileset-dungeon",
     "title": "Winlu Fantasy Tileset - Dungeon",
     "author": "WinLu",
@@ -528,6 +334,278 @@
       "completeness": 4,
       "reputation": 3.5,
       "rationale": "A precisely scoped utility pack: 100 buff, debuff and ability icons with a spritesheet, an editable Aseprite source file and a demo ZIP, rated 5.0 over 16 ratings and moderated toward the neutral prior. Value is strong-to-exceptional because $3.24 includes the editable source rather than flat sheets. Reputation 3.5: the same creator's packs have passed verification here before, though this archive was not downloaded."
+    }
+  },
+  {
+    "id": "fab-absorption-fx",
+    "title": "Absorption FX",
+    "author": "SHOGUN GAMES",
+    "authors": [
+      "SHOGUN GAMES"
+    ],
+    "summary": "Ten customizable absorption Niagara effects for Unreal Engine and UEFN with user parameters for every aspect of the look, plus added sound effects.",
+    "categories": [
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "VFX",
+    "type": "limited_free",
+    "originalPrice": 729105.32,
+    "salePrice": 0,
+    "discountPercent": 100,
+    "currency": "IDR",
+    "expiresAt": "2026-12-01T14:59:00Z",
+    "rating": 4.75,
+    "reviewCount": 8,
+    "radarScore": 67,
+    "dealScore": 76,
+    "source": "Fab",
+    "sourceUrl": "https://www.fab.com/listings/81550176-a90e-4e07-8817-c8d1a1d3884b",
+    "canonicalSourceUrl": "https://www.fab.com/listings/81550176-a90e-4e07-8817-c8d1a1d3884b",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:15:53Z",
+    "addedAt": "2026-11-18",
+    "formats": [
+      "Unreal Engine",
+      "UEFN Source"
+    ],
+    "engines": [
+      "Unreal"
+    ],
+    "engineNote": "Fab's included-format list names Unreal Engine (uasset/uproject/uplugin) and UEFN Source on this check. Niagara systems use engine-native tools, but no archive was downloaded and no engine project, material setup or performance was tested.",
+    "tags": [
+      "niagara",
+      "vfx",
+      "absorption",
+      "energy",
+      "particles",
+      "sound",
+      "uefn",
+      "unreal"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://media.fab.com/image_previews/gallery_images/2a4fcf01-49c2-4c7b-8af7-bbf1847db087/68f5ecb0-cfea-498a-8516-90a5155e7f5a.png",
+      "sourceUrl": "https://www.fab.com/listings/81550176-a90e-4e07-8817-c8d1a1d3884b",
+      "alt": "Publisher gallery image from the Absorption FX listing showing glowing blue energy absorption effects around a sci-fi scene.",
+      "credit": "SHOGUN GAMES",
+      "checkedAt": "2026-11-18T02:15:53Z",
+      "note": "Image URL observed in this exact listing's structured Product data during a permitted fetch. Linked, not copied; this image check does not refresh price or license verification."
+    },
+    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier acquired at checkout governs eligibility.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 729,105.32 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 1,458,392.98 discounted to 0. The listing displays 4.75 over 8 total ratings. IDR amounts track the USD list price and move between checks.",
+    "licenseTier": "Personal",
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 4,
+      "reputation": 3.5,
+      "rationale": "The listing documents a precise scope — ten Niagara absorption effects with user parameters and added SFX, now supporting UEFN — and displays 4.75 over 8 ratings with the small-sample moderation applied. A single effect category limits scope, so completeness is strong rather than exceptional. SHOGUN GAMES is an active Unreal seller with video and support channels but no prior verification here."
+    }
+  },
+  {
+    "id": "fab-advanced-companion-drone-system",
+    "title": "Advanced Companion Drone System | AI & Multiplayer",
+    "author": "Kozak Assets",
+    "authors": [
+      "Kozak Assets"
+    ],
+    "summary": "A modular Unreal Engine 5 blueprint framework for intelligent flying companions: replicated drone AI, customizable behaviors, multiplayer support and online documentation.",
+    "categories": [
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Tools & Plugins",
+    "type": "limited_free",
+    "originalPrice": 1203142.3,
+    "salePrice": 0,
+    "discountPercent": 100,
+    "currency": "IDR",
+    "expiresAt": "2026-12-01T14:59:00Z",
+    "rating": 5,
+    "reviewCount": 7,
+    "radarScore": 66,
+    "dealScore": 76,
+    "source": "Fab",
+    "sourceUrl": "https://www.fab.com/listings/205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+    "canonicalSourceUrl": "https://www.fab.com/listings/205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+    "license": "Fab Standard",
+    "licenseUrl": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:15:55Z",
+    "addedAt": "2026-11-18",
+    "formats": [
+      "Unreal Engine"
+    ],
+    "engines": [
+      "Unreal"
+    ],
+    "engineNote": "Fab's included-format list names Unreal Engine only on this check. The listing targets Unreal Engine 5 blueprints; no archive was downloaded and no project integration, replication behaviour or performance was tested.",
+    "tags": [
+      "drone",
+      "ai",
+      "multiplayer",
+      "replicated",
+      "blueprint",
+      "companion",
+      "framework",
+      "unreal"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://media.fab.com/image_previews/gallery_images/5ae0359f-a83e-4ea9-9172-fc43bbb90187/0fd110b6-433e-4679-a633-d60baf03e910.png",
+      "sourceUrl": "https://www.fab.com/listings/205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+      "alt": "Publisher gallery image from the Advanced Companion Drone System listing showing flying drone models with interface panels.",
+      "credit": "Kozak Assets",
+      "checkedAt": "2026-11-18T02:15:55Z",
+      "note": "Image URL observed in this exact listing's structured Product data during a permitted fetch. Linked, not copied; this image check does not refresh price or license verification."
+    },
+    "licenseNote": "Fab Standard License: commercial and private use, modification and commercial distribution of projects that incorporate the asset are permitted. Standalone resale or redistribution is not, and no publisher credit is required. The tier acquired at checkout governs eligibility.",
+    "priceNote": "Personal tier, IDR, prices shown before tax. The live Personal priceTier displays IDR 1,203,142.30 with discountPercentage 100 and discountedPrice 0; the Professional tier is IDR 2,278,841.58 discounted to 0. The listing displays 5.0 over 7 total ratings. IDR amounts track the USD list price and move between checks.",
+    "licenseTier": "Personal",
+    "curation": {
+      "quality": 4,
+      "value": 4,
+      "completeness": 4,
+      "reputation": 3,
+      "rationale": "A gameplay framework rather than art: the listing documents modular drone AI architecture, replication support, a playable demo and online documentation, and displays 5.0 over 7 ratings moderated toward the neutral prior. Contents are publisher-listed; the paid archive was not audited. Kozak Assets has documentation and demo channels but no prior verification on this site."
+    }
+  },
+  {
+    "id": "kneesoup-iconic-characters",
+    "title": "Iconic Characters",
+    "author": "KneeSoup",
+    "authors": [
+      "KneeSoup"
+    ],
+    "summary": "Rigged low-poly characters for modern-classics action and tactical shooter projects, with tested animations, FBX, OBJ, GLB and BLEND files, in active development.",
+    "categories": [
+      "3D"
+    ],
+    "dimension": "3D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 10,
+    "salePrice": 6.7,
+    "discountPercent": 33,
+    "currency": "EUR",
+    "expiresAt": "2026-11-18T23:49:00Z",
+    "rating": 4.7,
+    "reviewCount": 9,
+    "radarScore": 68,
+    "dealScore": 70,
+    "source": "itch.io",
+    "sourceUrl": "https://kneesoup.itch.io/iconic-characters",
+    "canonicalSourceUrl": "https://kneesoup.itch.io/iconic-characters",
+    "license": "Creator custom license",
+    "licenseUrl": "https://kneesoup.itch.io/iconic-characters",
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:09:16Z",
+    "addedAt": "2026-11-18",
+    "formats": [
+      "ZIP",
+      "FBX",
+      "OBJ",
+      "GLB",
+      "BLEND"
+    ],
+    "engines": [],
+    "engineNote": "The page lists FBX, OBJ, GLB and BLEND source formats with rigged meshes and tested animations; importer setup is manual and engine compatibility beyond the documented formats is not claimed. The 31 MB archive was not downloaded.",
+    "tags": [
+      "characters",
+      "low-poly",
+      "rigged",
+      "animated",
+      "shooter",
+      "modern",
+      "fbx",
+      "glb"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "publisherPreview": {
+      "url": "https://img.itch.zone/aW1hZ2UvNTM0ODgzNy8zMjI1OTQ4OS5qcGc=/original/B4NQ%2Fb.jpg",
+      "sourceUrl": "https://kneesoup.itch.io/iconic-characters",
+      "alt": "Publisher gallery image from KneeSoup's Iconic Characters page showing rendered low-poly character models.",
+      "credit": "KneeSoup",
+      "checkedAt": "2026-11-18T02:09:16Z",
+      "note": "Observed as the first image in this exact product's public itch.io gallery during the same permitted fetch. Linked, not copied; this image check does not refresh price or license verification."
+    },
+    "licenseNote": "The page's License section permits use in commercial and non-commercial games and modification, calling the assets royalty-free. Redistribution or resale even when modified is prohibited, AI training is forbidden, and NFT/crypto projects are excluded. Attribution is appreciated but not required. Not CC0.",
+    "priceNote": "EUR purchase panel showed 10.00€ crossed out to 6.70€ at \"On Sale! 33% Off\", and the exact product's structured Offer reports price 6.7 EUR with an explicit priceValidUntil, so both views agree. The panel reads \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim. The 31 MB archive was not downloaded.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 4,
+      "reputation": 3.5,
+      "rationale": "The page documents rigged low-poly characters with tested animations, interchange formats for every major engine, and an explicit development plan that raises the price as content grows; 4.7 over 9 ratings is moderated toward the neutral prior. Value sits between strong and exceptional because the discount applies to an expanding pack before its announced price increase. No prior verification history exists for this creator."
+    }
+  },
+  {
+    "id": "pozac-giant-boss-pack-7-abyssal-king-top-down",
+    "title": "Giant Boss Pack 7 – Abyssal King  Top-Down",
+    "author": "Pozac",
+    "authors": [
+      "Pozac"
+    ],
+    "summary": "A hand-drawn top-down pixel-art Demon King boss with 28 named animations, front and back FX sheets, 49 effect files, five palettes and modular PNG body parts.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "type": "deal",
+    "originalPrice": 4.99,
+    "salePrice": 2.49,
+    "discountPercent": 50,
+    "currency": "USD",
+    "expiresAt": "2026-11-23T00:00:00Z",
+    "rating": 5,
+    "reviewCount": 7,
+    "radarScore": 68,
+    "dealScore": 73,
+    "source": "itch.io",
+    "sourceUrl": "https://pozac.itch.io/giant-boss-pack-7-abyssal-king-top-down",
+    "canonicalSourceUrl": "https://pozac.itch.io/giant-boss-pack-7-abyssal-king-top-down",
+    "license": "Creator custom license",
+    "licenseUrl": "https://pozac.itch.io/giant-boss-pack-7-abyssal-king-top-down",
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:09:18Z",
+    "addedAt": "2026-11-18",
+    "formats": [
+      "ZIP",
+      "PNG",
+      "Aseprite",
+      "GIF"
+    ],
+    "engines": [],
+    "engineNote": "The page lists PNG sprite sheets with and without effects, three Aseprite files, GIF previews and separated body parts; engine use means slicing sheets manually, and the creator's compatibility list does not establish tested engine integration. The 139 MB archive was not downloaded.",
+    "tags": [
+      "boss",
+      "pixel art",
+      "top-down",
+      "monsters",
+      "animations",
+      "aseprite",
+      "rpg",
+      "effects"
+    ],
+    "preview": null,
+    "thumbnailPermission": null,
+    "licenseNote": "The page's License section permits use in personal and commercial projects and modification, but prohibits reselling, redistribution and inclusion in other asset packs or marketplaces. Credit is appreciated but not required. Not CC0.",
+    "priceNote": "USD purchase panel showed $4.99 crossed out to $2.49 at \"On Sale! 50% Off\", and the exact product's structured Offer reports price 2.49 USD with an explicit priceValidUntil, so both views agree. The panel reads \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim. The 139 MB archive was not downloaded.",
+    "licenseTier": null,
+    "curation": {
+      "quality": 4,
+      "value": 4.5,
+      "completeness": 4,
+      "reputation": 3.5,
+      "rationale": "The listing enumerates a specific, large scope: 28 named animations with per-frame counts, dedicated front/back effect layers, 49 FX files, five palettes and modular body parts, rated 5.0 over 7 ratings with small-sample moderation. Value sits between strong and exceptional for a complete boss kit at $2.49. This is the creator's first verified pack here."
     }
   }
 ]
