@@ -211485,6 +211485,18 @@
     }
   },
   {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-18T02:52:30.590Z",
     "id": "oga-plough-symbol",
     "title": "Plough Symbol",
     "author": "freeze111",
@@ -211492,16 +211504,16 @@
       "freeze111"
     ],
     "summary": "Plough Symbol: environments by freeze111. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
-    "assetType": "Environments",
     "categories": [
       "RPG"
     ],
     "dimension": "2D",
+    "assetType": "Environments",
     "source": "OpenGameArt",
     "sourceUrl": "https://opengameart.org/content/plough-symbol",
     "license": "CC-BY-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "Plough Symbol by freeze111. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/plough-symbol Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "verificationUrl": "https://opengameart.org/content/plough-symbol",
     "verifiedAt": "2026-11-18",
     "addedAt": "2026-11-18",
@@ -211522,7 +211534,73 @@
       "license": "CC-BY-4.0",
       "sha256": "8b3576f61c3817905f3f3cabd4e520bea07d33c285cbd93b98d61017e2f4e58b",
       "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
-    },
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:25:22.971Z",
+    "id": "oga-16x16-retro-sci-fi-pixel-art-sampler-pack-cc0",
+    "title": "16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)",
+    "author": "levshop",
+    "authors": [
+      "levshop"
+    ],
+    "summary": "16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0): tilesets by levshop. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0",
+    "license": "CC0",
+    "attribution": "16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0) by levshop. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "e657e45e4a669e50f8e14656b619f2adef1d750c61ababeb6ee3cb7e5d62bdf9",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "pixel-art",
+      "16x16",
+      "retro",
+      "Sci-Fi",
+      "cyberpunk",
+      "hero",
+      "tileset",
+      "props",
+      "cc0",
+      "gamedev",
+      "godot",
+      "unity",
+      "spritesheet"
+    ],
+    "preview": "/previews/oga-16x16-retro-sci-fi-pixel-art-sampler-pack-cc0.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/tileset_spritesheet.png",
+      "file": "tileset_spritesheet.png",
+      "license": "CC0",
+      "sha256": "f4f001c5ea8119aae5adb3d07a5d382ce1746aed24dffa74c464ce4e35373a46",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
     "type": "free",
     "originalPrice": null,
     "salePrice": 0,
@@ -211534,6 +211612,536 @@
     "radarScore": 50,
     "dealScore": null,
     "commercialUse": true,
-    "lastChecked": "2026-11-18T02:52:30.590Z"
+    "lastChecked": "2026-11-19T02:25:42.771Z",
+    "id": "oga-9-fantasy-pixel-potions-4-animated",
+    "title": ": 9 Fantasy Pixel Potions + 4 Animated",
+    "author": "Veric Silix",
+    "authors": [
+      "Veric Silix"
+    ],
+    "summary": ": 9 Fantasy Pixel Potions + 4 Animated: icons by Veric Silix. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "UI",
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Icons",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/9-fantasy-pixel-potions-4-animated",
+    "license": "CC-BY-3.0",
+    "attribution": "9 Fantasy Pixel potion + 4 Animated\" by Veric Silix, licensed CC-BY 3.0. Credit Veric Silix and link back to https://veric-silix.itch.io/9-fantasy-pixel-potion-4-animated : 9 Fantasy Pixel Potions + 4 Animated by Veric Silix. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/9-fantasy-pixel-potions-4-animated Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/9-fantasy-pixel-potions-4-animated",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "9023b79ff88e4589d6638aaac144f4762c3d31067b1d92b0708d46f6c19d1039",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "Pixel Art",
+      "potion",
+      "Fantasy",
+      "RPG",
+      "sprites",
+      "animated"
+    ],
+    "preview": "/previews/oga-9-fantasy-pixel-potions-4-animated.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/potions_zip.zip",
+      "file": "yellow potion 64 x 64 .png",
+      "license": "CC-BY-3.0",
+      "sha256": "13ce1216de98c4a2521d26afeffbdec25339eca3e442e4161bca17118d8008dc",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:44:40.988Z",
+    "id": "oga-monster-7",
+    "title": "Monster",
+    "author": "usama73041",
+    "authors": [
+      "usama73041"
+    ],
+    "summary": "Monster: characters by usama73041. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/monster-7",
+    "license": "CC-BY-4.0",
+    "attribution": "Monster by usama73041. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/monster-7 Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/monster-7",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "64276098a9fdef663a2b5ea5e8a123f45c9bb20e172f19d7eb78536c51760c8a",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "monster",
+      "scary monster"
+    ],
+    "preview": "/previews/oga-monster-7.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/Monster_1.png",
+      "file": "Monster_1.png",
+      "license": "CC-BY-4.0",
+      "sha256": "69eb2e8606521836b761bec1e1b54ca3b1e77e4d229710a0c28f2454b8309466",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:45:10.740Z",
+    "id": "oga-alienman-on-alienvasion",
+    "title": "Alienman on Alienvasion",
+    "author": "deletedgreat",
+    "authors": [
+      "deletedgreat"
+    ],
+    "summary": "Alienman on Alienvasion: tilesets by deletedgreat. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/alienman-on-alienvasion",
+    "license": "CC-BY-3.0",
+    "attribution": "Alienman on Alienvasion by deletedgreat. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/alienman-on-alienvasion Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/alienman-on-alienvasion",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "7c6a2db02c5f6d920c6ec091a6946df339bad905c26480f5874ff351dabd3654",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "alien",
+      "man",
+      "platformers",
+      "topdown"
+    ],
+    "preview": "/previews/oga-alienman-on-alienvasion.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/spr_alienPlayer_unpackWalk_strip3_0.png",
+      "file": "spr_alienPlayer_unpackWalk_strip3_0.png",
+      "license": "CC-BY-3.0",
+      "sha256": "53bd1c4c0e636b7df9315589c0cff0981fb52066772a48470b7ed89e01766cc4",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:45:42.987Z",
+    "id": "oga-tukanhans-2d-map-generator-assets",
+    "title": "TukanHan`s 2D Map Generator Assets",
+    "author": "TukanHan",
+    "authors": [
+      "TukanHan"
+    ],
+    "summary": "TukanHan`s 2D Map Generator Assets: tilesets by TukanHan. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/tukanhans-2d-map-generator-assets",
+    "license": "CC0",
+    "attribution": "TukanHan`s 2D Map Generator Assets by TukanHan. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/tukanhans-2d-map-generator-assets Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/tukanhans-2d-map-generator-assets",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "729080625e0de179ecf5671ca7a9b057205b59c4b038451dff604ad2ef8ad03d",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "building",
+      "tree",
+      "plant",
+      "object",
+      "tile"
+    ],
+    "preview": "/previews/oga-tukanhans-2d-map-generator-assets.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/TukanHan%60s%202D%20Map%20Generator%20Assets.zip",
+      "file": "TukanHan`s 2D Map Generator Assets/Ground Tiles/Grass.png",
+      "license": "CC0",
+      "sha256": "1e01f55d64c63493fbf72a8deea60f6c3642239286f005bd8cf30a08288f8d4d",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:46:32.190Z",
+    "id": "oga-cactus",
+    "title": "Cactus",
+    "author": "pechvogel",
+    "authors": [
+      "pechvogel"
+    ],
+    "summary": "Cactus: tilesets by pechvogel. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/cactus",
+    "license": "CC-BY-3.0",
+    "attribution": "Free Cactus by pechvogel. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/cactus Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/cactus",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "561a356cf47dbaa78e107208b6af255adce3812668e28458f7f65b9a63029232",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "cactus",
+      "tileset"
+    ],
+    "preview": "/previews/oga-cactus.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/cactus.zip",
+      "file": "caktus face.png",
+      "license": "CC-BY-3.0",
+      "sha256": "0edc4ce8b4beacedcc83f510515e48b7f6af30bc0a26a090f9e58f374259c6ef",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:46:53.491Z",
+    "id": "oga-kinda-baby-chacter-i-think-lol",
+    "title": "Kinda Baby Chacter (i think lol)",
+    "author": "Blaze Fyruss",
+    "authors": [
+      "Blaze Fyruss"
+    ],
+    "summary": "Kinda Baby Chacter (i think lol): characters by Blaze Fyruss. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Characters",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/kinda-baby-chacter-i-think-lol",
+    "license": "CC0",
+    "attribution": "Kinda Baby Chacter (i think lol) by Blaze Fyruss. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/kinda-baby-chacter-i-think-lol Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/kinda-baby-chacter-i-think-lol",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "8a748a30ef4f1cc99b75d903522bb6d78292d64558abdb175eef717a71c0750c",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "baby",
+      "Character"
+    ],
+    "preview": "/previews/oga-kinda-baby-chacter-i-think-lol.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/Baby%20Parts.png",
+      "file": "Baby Parts.png",
+      "license": "CC0",
+      "sha256": "6db4975b0e24b2455c9da722af71f154f41cb6b4a828e8da4e4dca7cc1f8587c",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:47:30.950Z",
+    "id": "oga-2d-outdoor-32x32-tileset",
+    "title": "2D Outdoor 32x32 Tileset",
+    "author": "aeren108",
+    "authors": [
+      "aeren108"
+    ],
+    "summary": "2D Outdoor 32x32 Tileset: tilesets by aeren108. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/2d-outdoor-32x32-tileset",
+    "license": "CC0",
+    "attribution": "2D Outdoor 32x32 Tileset by aeren108. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/2d-outdoor-32x32-tileset Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verificationUrl": "https://opengameart.org/content/2d-outdoor-32x32-tileset",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "cb4ac527caffb7d0d7346ccaa185c1e52c64639fc647e6d98e20e425612f8a97",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "tileset",
+      "32x32"
+    ],
+    "preview": "/previews/oga-2d-outdoor-32x32-tileset.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/tileset32x32_0.png",
+      "file": "tileset32x32_0.png",
+      "license": "CC0",
+      "sha256": "b31638dca4d584703a1724256523bab82460261b4b19f0467012be5274de753b",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:48:10.680Z",
+    "id": "oga-earth-with-grass",
+    "title": "Earth with grass",
+    "author": "Helivy",
+    "authors": [
+      "Helivy"
+    ],
+    "summary": "Earth with grass: tilesets by Helivy. PNG content verified from a free CC-BY-4.0 download. Import and set up in your project.",
+    "categories": [
+      "RPG"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/earth-with-grass",
+    "license": "CC-BY-4.0",
+    "attribution": "Please don't forget to credit me. Earth with grass by Helivy. CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). https://opengameart.org/content/earth-with-grass Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verificationUrl": "https://opengameart.org/content/earth-with-grass",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "931b484d9297954b8fdc287590867999413860033bbbadef9870e6b8624cce3e",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "block",
+      "earth",
+      "Green Grass",
+      "Map Tileset"
+    ],
+    "preview": "/previews/oga-earth-with-grass.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/TM%20Terra.png",
+      "file": "TM Terra.png",
+      "license": "CC-BY-4.0",
+      "sha256": "54b09d9ddabfaf9bf4598068732347eea09e2dd52c9202b0ca272ec85108891c",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 50,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:48:40.929Z",
+    "id": "oga-weird-spider",
+    "title": "Weird spider",
+    "author": "megupets",
+    "authors": [
+      "megupets"
+    ],
+    "summary": "Weird spider: tilesets by megupets. PNG content verified from a free CC-BY-3.0 download. Import and set up in your project.",
+    "categories": [
+      "Platformer"
+    ],
+    "dimension": "2D",
+    "assetType": "Tilesets",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/weird-spider",
+    "license": "CC-BY-3.0",
+    "attribution": "art by megupets Weird spider by megupets. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/weird-spider Preview resized and converted to WebP.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "verificationUrl": "https://opengameart.org/content/weird-spider",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "63b8e28ac3a2b83288b5b9ad5b11c8c702e31a058d60da15bbb50ed88986f774",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "spider",
+      "Platformer"
+    ],
+    "preview": "/previews/oga-weird-spider.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/spider%20weird%20transparent_0.png",
+      "file": "spider weird transparent_0.png",
+      "license": "CC-BY-3.0",
+      "sha256": "c5e27fab13bd920fb5f83dbd9762ce303f5ada619cb7d7d65522538b1a8caf87",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    }
+  },
+  {
+    "id": "oga-checkbox-ui-1990s",
+    "title": "Checkbox UI (1990s)",
+    "author": "pyranostudios",
+    "authors": [
+      "pyranostudios"
+    ],
+    "summary": "Checkbox UI (1990s): ui kits by pyranostudios. PNG content verified from a free CC0 download. Import and set up in your project.",
+    "assetType": "UI Kits",
+    "categories": [
+      "UI"
+    ],
+    "dimension": "2D",
+    "source": "OpenGameArt",
+    "sourceUrl": "https://opengameart.org/content/checkbox-ui-1990s",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Checkbox UI (1990s) by pyranostudios. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/checkbox-ui-1990s Preview resized and converted to WebP.",
+    "verificationUrl": "https://opengameart.org/content/checkbox-ui-1990s",
+    "verifiedAt": "2026-11-19",
+    "addedAt": "2026-11-19",
+    "evidence": "The submission's own author, license and asset-download fields were checked. Content formats and the licensed preview input were inspected in one actual download. Other files and in-engine behavior have not been tested.",
+    "evidenceSha256": "5a03064776bd1f0bad96751230b67e3857242277c37b74101b9ef8c7a03a151a",
+    "formats": [
+      "PNG"
+    ],
+    "engines": [],
+    "engineNote": "Formats were inspected in an actual licensed asset download. Importable describes standard content files only. No native engine package, complete project, render pipeline or engine performance is verified; manual setup is required.",
+    "tags": [
+      "1990s",
+      "90s",
+      "ui",
+      "retro"
+    ],
+    "preview": "/previews/oga-checkbox-ui-1990s.webp",
+    "previewProvenance": {
+      "url": "https://opengameart.org/sites/default/files/checkmk.png",
+      "file": "checkmk.png",
+      "license": "CC0",
+      "sha256": "7a5d0ba79fc7ab28ff8da4d7151ab7cb65f899748fb4420ea84482583550cb32",
+      "note": "A representative licensed content image from the submission's downloadable asset file, resized and converted to WebP. This is not the website gallery image or a complete pack overview."
+    },
+    "type": "free",
+    "originalPrice": null,
+    "salePrice": 0,
+    "discountPercent": null,
+    "currency": null,
+    "expiresAt": null,
+    "rating": null,
+    "reviewCount": null,
+    "radarScore": 53,
+    "dealScore": null,
+    "commercialUse": true,
+    "lastChecked": "2026-11-19T02:49:00.670Z"
   }
 ]

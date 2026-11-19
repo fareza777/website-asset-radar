@@ -1,7 +1,7 @@
 {
   "id": "winlu-fantasy-tileset-dungeon",
   "sourceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
-  "checkedAt": "2026-11-17T02:12:59Z",
+  "checkedAt": "2026-11-19T02:15:30Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
@@ -9,18 +9,18 @@
     "salePrice": 17.5,
     "currency": "USD",
     "licenseTier": null,
-    "note": "The purchase panel reads \"Buy Now $25.00 $17.50 USD or more\" and the exact product's structured Offer reports price 17.5 USD with priceValidUntil, so both views agree. \"or more\" means the stated minimum must be paid; this is a paid reduction, not a free claim."
+    "note": "The purchase panel reads \"Buy Now On Sale! 30% Off $25.00 $17.50 USD or more\" and the exact product's structured Offer reports price 17.50 USD with priceValidUntil 2026-11-30T18:10:00Z, so both views agree. \"or more\" means the stated minimum must be paid; this is a paid reduction, not a free claim."
   },
   "license": {
     "name": "Creator license",
     "url": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
     "commercialUse": true,
-    "note": "The exact product page states the asset pack can be used in commercial projects and may be edited and modified; credit is not necessary but appreciated. Redistribution or resale of the asset is not allowed. Commercial project use is permitted; standalone redistribution is not. Not CC0."
+    "note": "The exact product page states under License: \"This asset pack can be used in commercial projects. You can edit and modify it. Credit is not necessary, but highly appreciated. You are not allowed to redistribute or resell the asset.\" Commercial project use is permitted; standalone redistribution or resale is not. Not CC0."
   },
   "expiresAt": "2026-11-30T18:10:00Z",
   "expiryEvidenceUrl": "https://winlu.itch.io/winlu-fantasy-tileset-dungeon",
   "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-30T18:10:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
   "rating": 4.8,
   "reviewCount": 16,
-  "productNote": "Displayed as Rated 4.8 over 16 ratings; the structured AggregateRating agrees. Three downloads are listed: Winlu Fantasy Dungeon.zip 5.7 MB, Non_RPGMaker_textures.zip 16 MB and Winlu Master Sample_maps.zip 44 kB. The page documents 48x48 tiles covering caves, sewers, tombs and lava halls with traps, hidden doors and animated portals. The archives were not downloaded or inspected."
+  "productNote": "Displayed as Rated 4.8 over 16 ratings; the structured AggregateRating agrees (4.8, 16). The page lists 48x48 tiles and three downloads: Winlu Fantasy Dungeon.zip 5.7 MB, Non_RPGMaker_textures.zip 16 MB and Winlu Master Sample_maps.zip 44 kB. The panel also offers this pack together with 11 more in a bundle for $150.00. The archives were not downloaded or inspected."
 }

@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-cactus",
+  "sourceUrl": "https://opengameart.org/content/cactus",
+  "checkedAt": "2026-11-19T02:46:32.190Z",
+  "httpStatus": 200,
+  "pageSha256": "561a356cf47dbaa78e107208b6af255adce3812668e28458f7f65b9a63029232",
+  "title": "Cactus",
+  "authors": [
+    "pechvogel"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Free Cactus by pechvogel. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/cactus Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/cactus.zip"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/cactus.zip",
+  "downloadSha256": "f309bf5898eddbc966a0b630fe0aa9b0801f59e3eb9a7911fc982d8335d979bd",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 2,
+  "licenseFiles": [],
+  "previewFile": "caktus face.png",
+  "previewSha256": "0edc4ce8b4beacedcc83f510515e48b7f6af30bc0a26a090f9e58f374259c6ef",
+  "sourceTags": [
+    "cactus",
+    "tileset"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

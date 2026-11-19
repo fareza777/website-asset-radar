@@ -4904,5 +4904,80 @@
     },
     "reason": "expired",
     "archivedAt": "2026-11-18T02:05:28.650Z"
+  },
+  {
+    "offer": {
+      "id": "kneesoup-iconic-characters",
+      "title": "Iconic Characters",
+      "author": "KneeSoup",
+      "authors": [
+        "KneeSoup"
+      ],
+      "summary": "Rigged low-poly characters for modern-classics action and tactical shooter projects, with tested animations, FBX, OBJ, GLB and BLEND files, in active development.",
+      "categories": [
+        "3D"
+      ],
+      "dimension": "3D",
+      "assetType": "Characters",
+      "type": "deal",
+      "originalPrice": 10,
+      "salePrice": 6.7,
+      "discountPercent": 33,
+      "currency": "EUR",
+      "expiresAt": "2026-11-18T23:49:00Z",
+      "rating": 4.7,
+      "reviewCount": 9,
+      "radarScore": 68,
+      "dealScore": 70,
+      "source": "itch.io",
+      "sourceUrl": "https://kneesoup.itch.io/iconic-characters",
+      "canonicalSourceUrl": "https://kneesoup.itch.io/iconic-characters",
+      "license": "Creator custom license",
+      "licenseUrl": "https://kneesoup.itch.io/iconic-characters",
+      "commercialUse": true,
+      "lastChecked": "2026-11-18T02:09:16Z",
+      "addedAt": "2026-11-18",
+      "formats": [
+        "ZIP",
+        "FBX",
+        "OBJ",
+        "GLB",
+        "BLEND"
+      ],
+      "engines": [],
+      "engineNote": "The page lists FBX, OBJ, GLB and BLEND source formats with rigged meshes and tested animations; importer setup is manual and engine compatibility beyond the documented formats is not claimed. The 31 MB archive was not downloaded.",
+      "tags": [
+        "characters",
+        "low-poly",
+        "rigged",
+        "animated",
+        "shooter",
+        "modern",
+        "fbx",
+        "glb"
+      ],
+      "preview": null,
+      "thumbnailPermission": null,
+      "publisherPreview": {
+        "url": "https://img.itch.zone/aW1hZ2UvNTM0ODgzNy8zMjI1OTQ4OS5qcGc=/original/B4NQ%2Fb.jpg",
+        "sourceUrl": "https://kneesoup.itch.io/iconic-characters",
+        "alt": "Publisher gallery image from KneeSoup's Iconic Characters page showing rendered low-poly character models.",
+        "credit": "KneeSoup",
+        "checkedAt": "2026-11-18T02:09:16Z",
+        "note": "Observed as the first image in this exact product's public itch.io gallery during the same permitted fetch. Linked, not copied; this image check does not refresh price or license verification."
+      },
+      "licenseNote": "The page's License section permits use in commercial and non-commercial games and modification, calling the assets royalty-free. Redistribution or resale even when modified is prohibited, AI training is forbidden, and NFT/crypto projects are excluded. Attribution is appreciated but not required. Not CC0.",
+      "priceNote": "EUR purchase panel showed 10.00€ crossed out to 6.70€ at \"On Sale! 33% Off\", and the exact product's structured Offer reports price 6.7 EUR with an explicit priceValidUntil, so both views agree. The panel reads \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim. The 31 MB archive was not downloaded.",
+      "licenseTier": null,
+      "curation": {
+        "quality": 4,
+        "value": 4.5,
+        "completeness": 4,
+        "reputation": 3.5,
+        "rationale": "The page documents rigged low-poly characters with tested animations, interchange formats for every major engine, and an explicit development plan that raises the price as content grows; 4.7 over 9 ratings is moderated toward the neutral prior. Value sits between strong and exceptional because the discount applies to an expanding pack before its announced price increase. No prior verification history exists for this creator."
+      }
+    },
+    "reason": "expired",
+    "archivedAt": "2026-11-19T02:02:21.927Z"
   }
 ]

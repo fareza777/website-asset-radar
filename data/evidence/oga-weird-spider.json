@@ -1,0 +1,36 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-weird-spider",
+  "sourceUrl": "https://opengameart.org/content/weird-spider",
+  "checkedAt": "2026-11-19T02:48:40.929Z",
+  "httpStatus": 200,
+  "pageSha256": "63b8e28ac3a2b83288b5b9ad5b11c8c702e31a058d60da15bbb50ed88986f774",
+  "title": "Weird spider",
+  "authors": [
+    "megupets"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "art by megupets Weird spider by megupets. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/weird-spider Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/spider%20weird%20transparent_0.png",
+    "https://opengameart.org/sites/default/files/spider%2001%20walk%202%20frames.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/spider%20weird%20transparent_0.png",
+  "downloadSha256": "c5e27fab13bd920fb5f83dbd9762ce303f5ada619cb7d7d65522538b1a8caf87",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "spider weird transparent_0.png",
+  "previewSha256": "c5e27fab13bd920fb5f83dbd9762ce303f5ada619cb7d7d65522538b1a8caf87",
+  "sourceTags": [
+    "spider",
+    "Platformer"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

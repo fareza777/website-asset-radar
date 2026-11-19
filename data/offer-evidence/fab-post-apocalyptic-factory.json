@@ -1,0 +1,26 @@
+{
+  "id": "fab-post-apocalyptic-factory",
+  "sourceUrl": "https://www.fab.com/listings/c0226253-11f0-425d-8b2c-df9c42c73f49",
+  "checkedAt": "2026-11-19T02:16:00Z",
+  "method": "permitted-fetch",
+  "httpStatus": 200,
+  "price": {
+    "originalPrice": 547405.26,
+    "salePrice": 0,
+    "currency": "IDR",
+    "licenseTier": "Personal",
+    "note": "The listing's Personal priceTier states currencyCode IDR, price 547405.26, discountType PERCENTAGE, discountPercentage 100, discountedPrice 0 and lowestPriorPrice 547405.26; the Professional tier states IDR 912463.79 discounted to 0. The structured Product Offer on the same page reports price 547405.26 in IDR at the undiscounted tier amount, so the campaign reduction comes from the product's own priceTier data."
+  },
+  "license": {
+    "name": "Fab Standard",
+    "url": "https://www.fab.com/eula",
+    "commercialUse": true,
+    "note": "The listing's license entries are grouped as standard Fab tiers (Personal and Professional, both isCc false and isCc0 false) under the Fab Standard EULA, which permits commercial and private use, modification and commercial distribution of projects that embed the asset but not standalone redistribution. Tier acquired at checkout governs eligibility."
+  },
+  "expiresAt": "2026-12-01T14:59:00Z",
+  "expiryEvidenceUrl": "https://www.fab.com/listings/c0226253-11f0-425d-8b2c-df9c42c73f49",
+  "expiryNote": "The exact listing's priceTier states discountEndDate 2026-12-01T14:59:00Z with an explicit UTC offset alongside discountStartDate 2026-11-17T15:00:00Z, and its discounted price and currency match the observed tier, so this absolute campaign end is authoritative.",
+  "rating": 3.89,
+  "reviewCount": 9,
+  "productNote": "The listing's structured ratings block shows averageRating 3.89 with total 9 (five 5-star, two 4-star, two 1-star). productType and listingType are 3d-model, publishedAt 2026-11-15T13:58:19Z and firstPublishedAt 2026-06-22T08:01:11Z. The description documents 130 unique meshes, 4 Packed Level Actors, 4 Level Instances, 8 Blueprints, 7 Master Materials, 89 Material Instances and 233 Textures, plus a delivery truck, forklift variations, pallet jack and wheelbarrow and a master-material parameter that toggles moss and bottom dirt. The archive was not downloaded."
+}

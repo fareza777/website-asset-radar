@@ -1,0 +1,35 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-2d-outdoor-32x32-tileset",
+  "sourceUrl": "https://opengameart.org/content/2d-outdoor-32x32-tileset",
+  "checkedAt": "2026-11-19T02:47:30.950Z",
+  "httpStatus": 200,
+  "pageSha256": "cb4ac527caffb7d0d7346ccaa185c1e52c64639fc647e6d98e20e425612f8a97",
+  "title": "2D Outdoor 32x32 Tileset",
+  "authors": [
+    "aeren108"
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "2D Outdoor 32x32 Tileset by aeren108. CC0 (https://creativecommons.org/publicdomain/zero/1.0/). https://opengameart.org/content/2d-outdoor-32x32-tileset Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/tileset32x32_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/tileset32x32_0.png",
+  "downloadSha256": "b31638dca4d584703a1724256523bab82460261b4b19f0467012be5274de753b",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "tileset32x32_0.png",
+  "previewSha256": "b31638dca4d584703a1724256523bab82460261b4b19f0467012be5274de753b",
+  "sourceTags": [
+    "tileset",
+    "32x32"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

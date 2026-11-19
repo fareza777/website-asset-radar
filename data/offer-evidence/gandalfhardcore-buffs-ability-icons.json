@@ -1,7 +1,7 @@
 {
   "id": "gandalfhardcore-buffs-ability-icons",
   "sourceUrl": "https://gandalfhardcore.itch.io/buffs-and-ability-icons-pixel-art-pack",
-  "checkedAt": "2026-11-17T02:12:56Z",
+  "checkedAt": "2026-11-19T02:13:05Z",
   "method": "permitted-fetch",
   "httpStatus": 200,
   "price": {
@@ -9,18 +9,18 @@
     "salePrice": 3.24,
     "currency": "USD",
     "licenseTier": null,
-    "note": "USD purchase panel showed $4.99 crossed out to $3.24 and the exact product's structured Offer reports price 3.24 USD, so both views agree. The panel reads \"at or above the minimum price\" with \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim."
+    "note": "The purchase panel reads \"Buy Now On Sale! 35% Off $4.99 $3.24 USD or more\" and the exact product's structured Offer reports price 3.24 USD with priceValidUntil 2026-11-23T09:00:00Z. The panel adds \"or more\", so the stated minimum must be paid; this is a paid reduction, not a free claim."
   },
   "license": {
     "name": "Creator commercial license",
     "url": "https://gandalfhardcore.itch.io/buffs-and-ability-icons-pixel-art-pack",
     "commercialUse": true,
-    "note": "The page's LICENSE section permits commercial and non-commercial video games and projects, modification as needed, and display on designated websites. Reselling, repackaging or redistributing the assets, AI training, NFT/crypto uses, and incorporation into game-development tools or printed materials are prohibited. Not CC0."
+    "note": "The page LICENSE section allows use in commercial and non-commercial video games and projects, modification and display on designated websites, and prohibits reselling, repackaging or redistributing, AI training or NFT use, and incorporation into game-development tools or printed materials. Commercial project use is explicit; not CC0."
   },
   "expiresAt": "2026-11-23T09:00:00Z",
   "expiryEvidenceUrl": "https://gandalfhardcore.itch.io/buffs-and-ability-icons-pixel-art-pack",
   "expiryNote": "The exact product's structured Offer states priceValidUntil 2026-11-23T09:00:00Z with an explicit UTC offset, and its sale price and currency match the current purchase panel.",
   "rating": 5,
   "reviewCount": 16,
-  "productNote": "Displayed as Rated 5.0 over 16 ratings; the structured AggregateRating agrees. Two downloads are listed: GandalfHardcore Icons.zip 146 kB and GandalfHardcore Icons Demo.zip 2.9 kB. The page describes 100 buff, debuff and ability icons and states the ZIP includes a spritesheet for all colours and an Aseprite file. The archive was not downloaded or inspected."
+  "productNote": "Displayed as Rated 5.0 over 16 ratings; the structured AggregateRating agrees. The paid download is GandalfHardcore Icons.zip (146 kB) and a 2.9 kB demo zip is offered free. The page documents 100 icons covering buffs, debuffs and abilities, and states the zip includes a spritesheet for all colors plus an Aseprite file. 16x16 pixel art tags are listed. The archive was not downloaded."
 }

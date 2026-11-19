@@ -1,0 +1,37 @@
+{
+  "adapter": "opengameart-v1",
+  "id": "oga-alienman-on-alienvasion",
+  "sourceUrl": "https://opengameart.org/content/alienman-on-alienvasion",
+  "checkedAt": "2026-11-19T02:45:10.740Z",
+  "httpStatus": 200,
+  "pageSha256": "7c6a2db02c5f6d920c6ec091a6946df339bad905c26480f5874ff351dabd3654",
+  "title": "Alienman on Alienvasion",
+  "authors": [
+    "deletedgreat"
+  ],
+  "license": "CC-BY-3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Alienman on Alienvasion by deletedgreat. CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/alienman-on-alienvasion Preview resized and converted to WebP.",
+  "downloadUrls": [
+    "https://opengameart.org/sites/default/files/spr_alienPlayer_unpackWalk_strip3_0.png"
+  ],
+  "downloadUrl": "https://opengameart.org/sites/default/files/spr_alienPlayer_unpackWalk_strip3_0.png",
+  "downloadSha256": "53bd1c4c0e636b7df9315589c0cff0981fb52066772a48470b7ed89e01766cc4",
+  "formats": [
+    "PNG"
+  ],
+  "inspectedFiles": 1,
+  "licenseFiles": [],
+  "previewFile": "spr_alienPlayer_unpackWalk_strip3_0.png",
+  "previewSha256": "53bd1c4c0e636b7df9315589c0cff0981fb52066772a48470b7ed89e01766cc4",
+  "sourceTags": [
+    "alien",
+    "man",
+    "platformers",
+    "topdown"
+  ],
+  "artTypes": [
+    "2D Art"
+  ],
+  "formatEvidence": "Actual contents of the recorded asset download; other downloads were not inspected."
+}

@@ -514,7 +514,7 @@
   {
     "id": "game-day",
     "name": "Game Day",
-    "description": "Top-down sports tiles and characters, 3D minigolf and racing kits, pixel ski slopes, plus CC-BY animated basketball players and parallax courts. Kenney sets are CC0; credit the Pixel Baller authors.",
+    "description": "Top-down sports tiles and characters, 3D minigolf, racing, skate and domino sets, pixel ski slopes, plus CC-BY animated basketball players and parallax courts. Kenney sets are CC0; credit the Pixel Baller authors.",
     "assetIds": [
       "kenney-sports-pack",
       "kenney-racing-pack",
@@ -529,16 +529,18 @@
       "kenney-board-game-info",
       "kenney-rolling-ball-assets",
       "polyhaven-baseball-playground",
-      "oga-playing-cards"
+      "oga-playing-cards",
+      "kenney-domino-pack",
+      "kenney-mini-skate"
     ],
     "cover": "kenney-sports-pack",
     "color": "mint",
-    "updatedAt": "2026-11-14T02:43:06Z"
+    "updatedAt": "2026-11-19T03:08:18Z"
   },
   {
     "id": "the-sound-check",
     "name": "The sound check",
-    "description": "Impacts, interface blips, ambience and short loops from Kenney CC0 packs and OpenGameArt submissions. Each page lists its own license, so check attribution before shipping.",
+    "description": "Impacts, interface blips, ambience, creature vocals and short loops from Kenney CC0 packs and OpenGameArt submissions. Each page lists its own license, so check attribution before shipping.",
     "assetIds": [
       "kenney-impact-sounds",
       "kenney-interface-sounds",
@@ -554,11 +556,12 @@
       "oga-insect-sounds",
       "oga-slime-hero",
       "oga-the-goblins-of-pixeltown-looping",
-      "oga-main-street-pixelville-looping"
+      "oga-main-street-pixelville-looping",
+      "oga-monster-scream"
     ],
     "cover": "kenney-impact-sounds",
     "color": "lime",
-    "updatedAt": "2026-11-14T02:43:06Z"
+    "updatedAt": "2026-11-19T03:08:18Z"
   },
   {
     "id": "the-finishing-touches",
@@ -615,7 +618,7 @@
   {
     "id": "under-open-skies",
     "name": "Under open skies",
-    "description": "Kenney's CC0 3D skyboxes, free 2D skies and a tiling rain-and-snow sampler, plus CC-BY day-and-night backdrops, a sunset scene, aurora photography and a 4K moon with 30 lighting angles for skies above your scenes.",
+    "description": "Kenney CC0 skyboxes and layered background scenery, free 2D skies, a tiling rain-and-snow sampler, CC0 dusk and blurred-parallax backdrops, aurora photography and a 4K moon with 30 lighting angles.",
     "assetIds": [
       "kenney-skyboxes",
       "kenney-skyboxes-space",
@@ -626,10 +629,33 @@
       "oga-tree-at-sunset",
       "oga-northern-lights-long-exposure-photography",
       "oga-4k-moon-with-30-lighting-angles",
-      "oga-skycitystarsbig"
+      "oga-skycitystarsbig",
+      "kenney-background-elements",
+      "kenney-background-elements-remastered",
+      "oga-mountain-at-dusk-background",
+      "oga-tileable-backgrounds-blurred-variants",
+      "oga-cartoon-field-game-background"
     ],
     "cover": "oga-free-2d-skies",
     "color": "peach",
-    "updatedAt": "2026-11-17T03:05:30.000Z"
+    "updatedAt": "2026-11-19T03:08:18Z"
+  },
+  {
+    "id": "free-samplers",
+    "name": "Free samplers",
+    "description": "Free sampler slices of larger pixel-art releases: 16x16 retro sci-fi tiles, dungeon traps, spooky woods, trees, halloween props, animated weapons, HD monsters and tiling weather and sky sets. Trials, not whole packs.",
+    "assetIds": [
+      "oga-16x16-retro-sci-fi-pixel-art-sampler-pack-cc0",
+      "oga-halloween-props-fx-free-sampler-pumpkin-gravestone-ghost-bat",
+      "oga-ancient-arms-free-sampler-pixel-art-weapons-with-animated-enchantments",
+      "oga-monsters-hd-free-sampler-animated-skeleton-imp",
+      "oga-dark-woods-free-sampler-spooky-pixel-art-trees-glowing-mushrooms",
+      "oga-trees-foliage-free-sampler-swaying-pixel-art-oak-pine-bush",
+      "oga-traps-props-free-sampler-pixel-art-dungeon-chest-spikes-torch",
+      "oga-weather-sky-free-sampler-tiling-rain-snow-clouds-moon"
+    ],
+    "cover": "oga-16x16-retro-sci-fi-pixel-art-sampler-pack-cc0",
+    "color": "lime",
+    "updatedAt": "2026-11-19T03:08:18Z"
   }
 ]
